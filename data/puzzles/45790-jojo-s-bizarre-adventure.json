@@ -1,0 +1,983 @@
+{
+  "id": "45790-jojo-s-bizarre-adventure",
+  "rank": 177,
+  "answer": "JoJo's Bizarre Adventure",
+  "sourceUrl": "https://seriesgraph.com/show/45790-jojo's-bizarre-adventure",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/45790",
+    "seasonRatings": "https://seriesgraph.com/api/shows/45790/season-ratings"
+  },
+  "years": {
+    "first": 2012,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "It's a Wonderful World",
+    "season": 5,
+    "episode": 38,
+    "rating": 9.7,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Dio the Invader",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Kako kara no tegami",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Dio to no seishun",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Hamon shissô ôbâdoraibu",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Ankoku no kishi-tachi",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Atashi no yûki",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Uketsugu mono",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Kessen JoJo & Dio",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Saigo no hamon",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Nyû Yôku no JoJo",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Gêmu no tatsujin",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Hashira no otoko",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "JoJo vs. kyûkyoku seibutsu",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Taiko kara kita kyûkyoku senshi",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Hîrô no shikaku",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Hamon kyôshi Risa Risa",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Fukaku wana wo hare!",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Shutorohaimu tai no gyakushû",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Shi no gake e tsuppashire",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Shîzâ kodoku no seishun",
+        "rating": 9.4
+      },
+      {
+        "episode": 21,
+        "name": "Hyaku tai ni no kakehiki",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Shin no kakutôsha",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Kaze ni kaeru senshi",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "JoJo wo musubu kizuna",
+        "rating": 8.2
+      },
+      {
+        "episode": 25,
+        "name": "Chô-seibutsu no tanjô!!",
+        "rating": 8.7
+      },
+      {
+        "episode": 26,
+        "name": "Kami to natta otoko",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Akuryô ni toritsukareta otoko",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Sabaku no wa dare da!?",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Dio no jubaku",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Tawâ obu Gurê",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Shirubâ chariottsu",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Dâku burû mûn",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Sutorengusu",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Debiru",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Ierô Tenparansu",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Enperâ to Hangudoman sono 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Enperâ to Hangudoman sono 2",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Enpuresu",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Howîru obu fôchun",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Jasutisu sono 1",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Jasutisu sono 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Rabâzu sono 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Rabâzu sono 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "San",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Desu Sâtîn sono 1",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Desu Sâtîn sono 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Jajjimento sono 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Jajjimento sono 2",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Hai Puriesutesu sono 1",
+        "rating": 7.2
+      },
+      {
+        "episode": 24,
+        "name": "Hai Puriesutesu sono 2",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "Iggy the Fool and Geb's N'Doul, Part 1",
+        "rating": 7.6
+      },
+      {
+        "episode": 26,
+        "name": "Iggy the Fool and Geb's N'Doul, Part 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 27,
+        "name": "Kunumu-shin' no Oingo to 'Toto-shin' no Boingo",
+        "rating": 8.1
+      },
+      {
+        "episode": 28,
+        "name": "Anubisu-shin' Sono 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 29,
+        "name": "Anubisu-shin' Sono 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 30,
+        "name": "Basuteto-joshin' no Maraia Sono 1",
+        "rating": 7.5
+      },
+      {
+        "episode": 31,
+        "name": "Bastet's Mariah, Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 32,
+        "name": "Set's Alessi, Part 1",
+        "rating": 7
+      },
+      {
+        "episode": 33,
+        "name": "Set's Alessi, Part 2",
+        "rating": 7.3
+      },
+      {
+        "episode": 34,
+        "name": "D'Arby the Gambler, Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 35,
+        "name": "D'Arby the Gambler, Part 2",
+        "rating": 9.4
+      },
+      {
+        "episode": 36,
+        "name": "Hol Horse and Boingo, Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 37,
+        "name": "Hol Horse and Boingo, Part 2",
+        "rating": 7.4
+      },
+      {
+        "episode": 38,
+        "name": "The Guardian of Hell, Pet Shop, Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 39,
+        "name": "The Guardian of Hell, Pet Shop, Part 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 40,
+        "name": "D'Arby the Player, Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 41,
+        "name": "D'Arby the Player, Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 42,
+        "name": "The Miasma of the Void, Vanilla Ice, Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 43,
+        "name": "The Miasma of the Void, Vanilla Ice, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 44,
+        "name": "The Miasma of the Void, Vanilla Ice, Part 3",
+        "rating": 9.2
+      },
+      {
+        "episode": 45,
+        "name": "Dio's World, Part 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 46,
+        "name": "Dio's World, Part 2",
+        "rating": 9.6
+      },
+      {
+        "episode": 47,
+        "name": "Dio's World, Part 3",
+        "rating": 9.6
+      },
+      {
+        "episode": 48,
+        "name": "Long Journey, Farewell My Friends",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jotaro Kujo! Meets Josuke Higashikata",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Josuke Higashikata! Meets Angelo",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Nijimura Brothers' Part 1",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Nijimura Brothers' Part 2",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Nijimura Brothers' Part 3",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Koichi Hirose (Echoes)",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Toshikazu Hazamada",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Yukako Yamagishi Falls in Love, Part 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Yukako Yamagishi Falls in Love, Part 2",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Let's Go Eat Some Italian Food",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Red Hot Chili Pepper, Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Red Hot Chili Pepper, Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "We Picked Up Something Crazy!",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Let's Go to the Manga Artist's House, Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Let's Go to the Manga Artist's House, Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Let's Go Hunting!",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Rohan Kishibe's Adventure",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "Shigechi's Harvest, Part 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Shigechi's Harvest, Part 2",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Yukako Yamagishi Dreams of Cinderella",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Yoshikage Kira Just Wants to Live Quietly, Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Yoshikage Kira Just Wants to Live Quietly, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 23,
+        "name": "Sheer Heart Attack, Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 24,
+        "name": "Sheer Heart Attack, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 25,
+        "name": "Atom Heart Father",
+        "rating": 7.7
+      },
+      {
+        "episode": 26,
+        "name": "Janken Boy is Coming!",
+        "rating": 6.3
+      },
+      {
+        "episode": 27,
+        "name": "I am an Alien",
+        "rating": 7.5
+      },
+      {
+        "episode": 28,
+        "name": "Highway Star, Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "Highway Star, Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 30,
+        "name": "The Cat Likes Yoshikage Kira",
+        "rating": 7.8
+      },
+      {
+        "episode": 31,
+        "name": "July 15th (Thurs), Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 32,
+        "name": "July 15th (Thurs), Part 2",
+        "rating": 7.8
+      },
+      {
+        "episode": 33,
+        "name": "July 15th (Thurs), Part 3",
+        "rating": 8
+      },
+      {
+        "episode": 34,
+        "name": "July 15th (Thurs), Part 4",
+        "rating": 8.8
+      },
+      {
+        "episode": 35,
+        "name": "Another One Bites the Dust, Part 1",
+        "rating": 9.4
+      },
+      {
+        "episode": 36,
+        "name": "Another One Bites the Dust, Part 2",
+        "rating": 9.6
+      },
+      {
+        "episode": 37,
+        "name": "Crazy Diamond Is Unbreakable, Part 1",
+        "rating": 9.3
+      },
+      {
+        "episode": 38,
+        "name": "Crazy Diamond Is Unbreakable, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 39,
+        "name": "Goodbye, Morioh - The Heart of Gold",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gold Experience",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Bucciarati Is Coming",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Meet the Gangster Behind the Wall",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Joining the Gang",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Find Polpo's Treasure",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Moody Blues' Attack",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Sex Pistols Appears, Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Sex Pistols Appears, Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The First Orders from the Boss",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Hitman Team",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Narancia's Aerosmith",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "The Second Mission From the Boss",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Man in the Mirror and Purple Haze",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Express Train to Florence",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "The Grateful Dead, Part 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "The Grateful Dead, Part 2",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "Baby Face",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Head to Venice!",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "White Ice",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "The Final Mission From The Boss",
+        "rating": 9.5
+      },
+      {
+        "episode": 21,
+        "name": "The Mystery of King Crimson",
+        "rating": 9.6
+      },
+      {
+        "episode": 22,
+        "name": "The \"G\" in Guts",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Clash and Talking Heads",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Notorious B.I.G",
+        "rating": 8.2
+      },
+      {
+        "episode": 25,
+        "name": "Spice Girl",
+        "rating": 8.7
+      },
+      {
+        "episode": 26,
+        "name": "A Little Story From The Past ~My Name is Doppio~",
+        "rating": 9.1
+      },
+      {
+        "episode": 27,
+        "name": "King Crimson vs. Metallica",
+        "rating": 9.5
+      },
+      {
+        "episode": 28,
+        "name": "Beneath a Sky on the Verge of Falling",
+        "rating": 9.7
+      },
+      {
+        "episode": 29,
+        "name": "Get to the Roman Colosseum!",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Green Day and Oasis, Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 31,
+        "name": "Green Day and Oasis, Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 32,
+        "name": "Green Day and Oasis, Part 3",
+        "rating": 8.7
+      },
+      {
+        "episode": 33,
+        "name": "His Name is Diavolo",
+        "rating": 9.4
+      },
+      {
+        "episode": 34,
+        "name": "The Requiem Quietly Plays, Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 35,
+        "name": "The Requiem Quietly Plays, Part 2",
+        "rating": 9.3
+      },
+      {
+        "episode": 36,
+        "name": "Diavolo Surfaces",
+        "rating": 9.2
+      },
+      {
+        "episode": 37,
+        "name": "King of Kings",
+        "rating": 9.6
+      },
+      {
+        "episode": 38,
+        "name": "Gold Experience Requiem",
+        "rating": 9
+      },
+      {
+        "episode": 39,
+        "name": "Sleeping Slaves",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stone Ocean",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Prisoner FE40536: Jolyne Cujoh",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Visitor, Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Visitor, Part 2",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Prisoner of Love",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Ermes's Stickers",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "There's Six of Us!",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "F.F.",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Debt Collector Mary Lynn Manson",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Operation Savage Guardian (Head to the Courtyard!), Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Operation Savage Guardian (Head to the Courtyard!), Part 2",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Torrential Downpour Warning",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Smack of Love and Revenge: Part 1",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Smack of Love and Revenge: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Ultra Security House Unit",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Secret of Guard Westwood",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Enter the Drake's Dream",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "Enter the F.F.",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Birth of the \"Green\"",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "F.F. - The Witness",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Awaken",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Time for Heaven! New Moon! New Priest!",
+        "rating": 9.3
+      },
+      {
+        "episode": 23,
+        "name": "Lock of the Jail!",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Jailbreak...",
+        "rating": 8.2
+      },
+      {
+        "episode": 25,
+        "name": "Bohemian Ecstatic: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 26,
+        "name": "Bohemian Ecstatic: Part 2",
+        "rating": 7.8
+      },
+      {
+        "episode": 27,
+        "name": "Sky Guy",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "Heaven is at Hand: Three Days Until the New Moon",
+        "rating": 8
+      },
+      {
+        "episode": 29,
+        "name": "Netherworld",
+        "rating": 8.6
+      },
+      {
+        "episode": 30,
+        "name": "Heavy Forecast: Part 1",
+        "rating": 8.2
+      },
+      {
+        "episode": 31,
+        "name": "Heavy Forecast: Part 2",
+        "rating": 9.6
+      },
+      {
+        "episode": 32,
+        "name": "Heavy Forecast: Part 3",
+        "rating": 9.4
+      },
+      {
+        "episode": 33,
+        "name": "Gravity of the New Moon",
+        "rating": 8.7
+      },
+      {
+        "episode": 34,
+        "name": "See Moon: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 35,
+        "name": "See Moon: Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 36,
+        "name": "Maiden Heaven: Part 1",
+        "rating": 9.5
+      },
+      {
+        "episode": 37,
+        "name": "Maiden Heaven: Part 2",
+        "rating": 9.7
+      },
+      {
+        "episode": 38,
+        "name": "It's a Wonderful World",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

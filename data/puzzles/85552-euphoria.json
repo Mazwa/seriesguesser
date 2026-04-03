@@ -1,0 +1,151 @@
+{
+  "id": "85552-euphoria",
+  "rank": 178,
+  "answer": "Euphoria",
+  "sourceUrl": "https://seriesgraph.com/show/85552-euphoria",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/85552",
+    "seasonRatings": "https://seriesgraph.com/api/shows/85552/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Stand Still Like the Hummingbird",
+    "season": 2,
+    "episode": 5,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Stuntin' Like My Daddy",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Made You Look",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Shook Ones Pt II",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "'03 Bonnie and Clyde",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Next Episode",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Trials and Tribulations of Trying to Pee While Depressed",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "And Salt the Earth Behind You",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Trouble Don't Last Always",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Fuck Anyone Who's Not a Sea Blob",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trying to Get to Heaven Before They Close the Door",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Out of Touch",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Ruminations: Big and Little Bullys",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "You Who Cannot See, Think of Those Who Can",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Stand Still Like the Hummingbird",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "A Thousand Little Trees of Blood",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Theater and Its Double",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #3.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #3.8"
+      }
+    ]
+  ]
+}

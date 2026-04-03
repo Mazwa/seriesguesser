@@ -1,0 +1,951 @@
+{
+  "id": "4556-scrubs",
+  "rank": 111,
+  "answer": "Scrubs",
+  "sourceUrl": "https://seriesgraph.com/show/4556-scrubs",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4556",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4556/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2010
+  },
+  "highestRatedEpisode": {
+    "name": "My Screwup",
+    "season": 3,
+    "episode": 14,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "My First Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "My Mentor",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "My Best Friend's Mistake",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "My Old Lady",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "My Two Dads",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "My Bad",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "My Super Ego",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "My Fifteen Minutes",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "My Day Off",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "My Nickname",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "My Own Personal Jesus",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "My Blind Date",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "My Balancing Act",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "My Drug Buddy",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "My Bed Banter & Beyond",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "My Heavy Meddle",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "My Student",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "My Tuscaloosa Heart",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "My Old Man",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "My Way or the Highway",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "My Sacrificial Clam",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "My Occurrence",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "My Hero",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "My Last Day",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Overkill",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "My Nightingale",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "My Case Study",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "My Big Mouth",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "My New Coat",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "My Big Brother",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "My First Step",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "My Fruit Cups",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "My Lucky Day",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "My Monster",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "My Sex Buddy",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "My New Old Friend",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "My Philosophy",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "My Brother, My Keeper",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "His Story",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "My Karma",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "My Own Private Practice Guy",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "My T.C.W.",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "My Kingdom",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "My Interpretation",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "My Drama Queen",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "My Dream Job",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Own American Girl",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "My Journey",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "My White Whale",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "My Lucky Night",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "My Brother, Where Art Thou?",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "My Advice to You",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "My Fifteen Seconds",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "My Friend the Doctor",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "My Dirty Secret",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "My Rule of Thumb",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "My Clean Break",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "My Catalyst",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "My Porcelain God",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "My Screwup",
+        "rating": 9.7
+      },
+      {
+        "episode": 15,
+        "name": "My Tormented Mentor",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "My Butterfly",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "My Moment of Un-Truth",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "His Story II",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "My Choosiest Choice of All",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "My Fault",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "My Self-Examination",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "My Best Friend's Wedding",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Old Friend's New Friend",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "My Office",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "My New Game",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "My First Kill",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Her Story",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "My Cake",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "My Common Enemy",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "My Last Chance",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "My Malpractical Decision",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "My Female Trouble",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "My Unicorn",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "My Best Moment",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "My Ocardial Infarction",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "My Lucky Charm",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "My Hypocritical Oath",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "My Quarantine",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "My Life in Four Cameras",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "My Roommates",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "My Best Laid Plans",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "My Boss's Free Haircut",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "My Lips Are Sealed",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "My Big Move",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "My Faith in Humanity",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "My Drive By",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "My Changing Ways",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Intern's Eyes",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "My Rite of Passage",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "My Day at the Races",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "My Jiggly Ball",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "My New God",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "My Missed Perception",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "My Way Home",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "My Big Bird",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "My Half-Acre",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Her Story II",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "My Buddy's Booty",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "My Cabbage",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "My Five Stages",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "My Own Personal Hell",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "My Extra Mile",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "My Bright Idea",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "My Chopped Liver",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "My New Suit",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "His Story III",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "My Lunch",
+        "rating": 9.6
+      },
+      {
+        "episode": 21,
+        "name": "My Fallen Idol",
+        "rating": 9.2
+      },
+      {
+        "episode": 22,
+        "name": "My Déjà Vu, My Déjà Vu",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "My Urologist",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "My Transition",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Mirror Image",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "My Best Friend's Baby's Baby and My Baby's Baby",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "My Coffee",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "My House",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "My Friend with Money",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "My Musical",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "His Story IV",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "My Road to Nowhere",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "My Perspective",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "My Therapeutic Month",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "My Night to Remember",
+        "rating": 5.3
+      },
+      {
+        "episode": 12,
+        "name": "My Fishbowl",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "My Scrubs",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "My No Good Reason",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "My Long Goodbye",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "My Words of Wisdom",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Their Story",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "My Turf War",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "My Cold Shower",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "My Conventional Wisdom",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "My Rabbit",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "My Point of No Return",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Own Worst Enemy",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "My Hard Labor",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "My Inconvenient Truth",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "My Identity Crisis",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "My Growing Pains",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "My Number One Doctor",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "My Bad Too",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "My Manhood",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "My Dumb Luck",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "My Waste of Time",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "My Princess",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Jerks",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "My Last Words",
+        "rating": 9.3
+      },
+      {
+        "episode": 3,
+        "name": "My Saving Grace",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "My Happy Place",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "My ABC's",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "My Cookie Pants",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "My New Role",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "My Lawyer's in Love",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "My Absence",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "My Comedy Show",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "My Nah Nah Nah",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Their Story II",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "My Full Moon",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "My Soul on Fire: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "My Soul on Fire: Part 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "My Cuz",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "My Chief Concern",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "My Finale: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "My Finale: Part 2",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Our First Day of School",
+        "rating": 6.4
+      },
+      {
+        "episode": 2,
+        "name": "Our Drunk Friend",
+        "rating": 6.4
+      },
+      {
+        "episode": 3,
+        "name": "Our Role Models",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Our Histories",
+        "rating": 6.5
+      },
+      {
+        "episode": 5,
+        "name": "Our Mysteries",
+        "rating": 6.2
+      },
+      {
+        "episode": 6,
+        "name": "Our New Girl-Bro",
+        "rating": 6.1
+      },
+      {
+        "episode": 7,
+        "name": "Our White Coats",
+        "rating": 6.2
+      },
+      {
+        "episode": 8,
+        "name": "Our Couples",
+        "rating": 5.9
+      },
+      {
+        "episode": 9,
+        "name": "Our Stuff Gets Real",
+        "rating": 6.5
+      },
+      {
+        "episode": 10,
+        "name": "Our True Lies",
+        "rating": 6.2
+      },
+      {
+        "episode": 11,
+        "name": "Our Dear Leaders",
+        "rating": 5.8
+      },
+      {
+        "episode": 12,
+        "name": "Our Driving Issues",
+        "rating": 6
+      },
+      {
+        "episode": 13,
+        "name": "Our Thanks",
+        "rating": 6.1
+      }
+    ]
+  ]
+}

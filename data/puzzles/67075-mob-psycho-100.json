@@ -1,0 +1,214 @@
+{
+  "id": "67075-mob-psycho-100",
+  "rank": 172,
+  "answer": "Mob Psycho 100",
+  "sourceUrl": "https://seriesgraph.com/show/67075-mob-psycho-100",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67075",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67075/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Divine Tree 3 ~Dimple Is~",
+    "season": 3,
+    "episode": 6,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Doubts About Youth ~The Telepathy Club Appears~",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "An Invite to a Meeting ~Simply Put, I Just Want to Be Popular~",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Idiots Only Event ~Kin~",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Ochimusha ~Psychic Powers and Me~",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Discord ~To Become One~",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Exaltation ~I've Obtained Loss~",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Older Brother Bows ~Destructive Intent~",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "\"Claw\" ~7th Division~",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Heinous Aura ~Mastermind~",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Master ~Leader~",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Mob and Reigen ~A Giant Tsuchinoko Appears~",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ripped Apart ~Someone Is Watching~",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Urban Legends ~Encountering Rumors~",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "One Danger After Another ~Degeneration~",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Inside ~Evil Spirit~",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Discord ~Choices~",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Poor, Lonely, Whitey",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Cornered ~True Identity~",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Even Then ~Continue Forward~",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Show Me What You've Got ~Band Together~",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Collision ~Power Type~",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Guidance ~Psychic Sensor~",
+        "rating": 9.4
+      },
+      {
+        "episode": 12,
+        "name": "The Battle for Social Rehabilitation ~Friendship~",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Boss Fight ~The Final Light~",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Future ~Career Paths~",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Yokai Hunter Amakusa Haruaki Appears! ~The Threat of a Hundred Demons!!~",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Getting Carried Away ~100%~",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Divine Tree 1 ~The Founder Appears~",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Divine Tree 2 ~Peace~",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Divine Tree 3 ~Dimple Is~",
+        "rating": 9.6
+      },
+      {
+        "episode": 7,
+        "name": "Transmission 1 ~Winter Break~",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Transmission 2 ~Encountering the Unknown~",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Mob 1 ~Moving~",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Mob 2 ~Rival~",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Mob 3 ~Trauma~",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Confession ~The Future~",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

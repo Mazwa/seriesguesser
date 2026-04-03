@@ -1,0 +1,360 @@
+{
+  "id": "77169-cobra-kai",
+  "rank": 97,
+  "answer": "Cobra Kai",
+  "sourceUrl": "https://seriesgraph.com/show/77169-cobra-kai",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/77169",
+    "seasonRatings": "https://seriesgraph.com/api/shows/77169/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Ex-Degenerate",
+    "season": 6,
+    "episode": 15,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Ace Degenerate",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Strike First",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Esqueleto",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Cobra Kai Never Dies",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Counterbalance",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Quiver",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "All Valley",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Molting",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Different but Same",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Mercy",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mercy Part II",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Back in Black",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Fire and Ice",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Moment of Truth",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "All In",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Take a Right",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Lull",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Glory of Love",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Pulpo",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "No Mercy",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Aftermath",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Nature vs. Nurture",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Now You're Gonna Pay",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Right Path",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Miyagi-Do",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "King Cobra",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Obstáculos",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Good, The Bad, and the Badass",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Feel the Night",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "December 19",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Let's Begin",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "First Learn Stand",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Then Learn Fly",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Bicephaly",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Match Point",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Kicks Get Chicks",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Minefields",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Party Time",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Fall",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Rise",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Long, Long Way from Home",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Molé",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Playing with Fire",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Downward Spiral",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Extreme Measures",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Ouroboros",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Bad Eggs",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Taikai",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Survivors",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Head of the Snake",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Peacetime in the Valley",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "The Prize",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Sleeper",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Underdogs",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Best of the Best",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Benvinguts a Barcelona",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Dog in the Fight",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Snakes on a Plane",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Blood In Blood Out",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Eunjangdo",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Into the Fire",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Rattled",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Skeletons",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Strike Last",
+        "rating": 9.4
+      },
+      {
+        "episode": 15,
+        "name": "Ex-Degenerate",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

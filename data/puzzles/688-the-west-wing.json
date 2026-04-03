@@ -1,0 +1,812 @@
+{
+  "id": "688-the-west-wing",
+  "rank": 64,
+  "answer": "The West Wing",
+  "sourceUrl": "https://seriesgraph.com/show/688-the-west-wing",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/688",
+    "seasonRatings": "https://seriesgraph.com/api/shows/688/season-ratings"
+  },
+  "years": {
+    "first": 1999,
+    "last": 2006
+  },
+  "highestRatedEpisode": {
+    "name": "Two Cathedrals",
+    "season": 2,
+    "episode": 22,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Post Hoc, Ergo Propter Hoc",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "A Proportional Response",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Five Votes Down",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Crackpots and These Women",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Mr. Willis of Ohio",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The State Dinner",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Enemies",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Short List",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "In Excelsis Deo",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Lord John Marbury",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "He Shall, from Time to Time...",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Take Out the Trash Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Take This Sabbath Day",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Celestial Navigation",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "20 Hours in L.A.",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The White House Pro-Am",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Six Meetings Before Lunch",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Let Bartlet Be Bartlet",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "Mandatory Minimums",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Lies, Damn Lies and Statistics",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "What Kind of Day Has It Been",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In the Shadow of Two Gunmen: Part I",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "In the Shadow of Two Gunmen: Part II",
+        "rating": 9.3
+      },
+      {
+        "episode": 3,
+        "name": "The Midterms",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "In This White House",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "And It's Surely to Their Credit",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Lame Duck Congress",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Portland Trip",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Shibboleth",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Galileo",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Noël",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "The Leadership Breakfast",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "The Drop In",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Bartlet's Third State of the Union",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The War at Home",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Ellie",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Somebody's Going to Emergency, Somebody's Going to Jail",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "The Stackhouse Filibuster",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "17 People",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Bad Moon Rising",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "The Fall's Gonna Kill You",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "18th and Potomac",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Two Cathedrals",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Isaac and Ishmael",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Manchester: Part I",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Manchester: Part II",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Ways and Means",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "On the Day Before",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "War Crimes",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Gone Quiet",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Indians in the Lobby",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Women of Qumar",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Bartlet for America",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "H. Con-172",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "100,000 Airplanes",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Two Bartlets",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Night Five",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Hartsfield's Landing",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Dead Irish Writers",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "The U.S. Poet Laureate",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Stirred",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Enemies Foreign and Domestic",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "The Black Vera Wang",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "We Killed Yamamoto",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Posse Comitatus",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "20 Hours in America: Part I",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "20 Hours in America: Part II",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "College Kids",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Red Mass",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Debate Camp",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Game On",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Election Night",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Process Stories",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Swiss Diplomacy",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Arctic Radar",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Holy Night",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Guns Not Butter",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "The Long Goodbye",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Inauguration: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Inauguration: Part 2 - Over There",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "The California 47th",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Red Haven's on Fire",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Privateers",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Angel Maintenance",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Evidence of Things Not Seen",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Life on Mars",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Commencement",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Twenty Five",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "7A WF 83429",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Dogs of War",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Jefferson Lives",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Han",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Constituency of One",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Disaster Relief",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Separation of Powers",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Shutdown",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Abu el Banat",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "The Stormy Present",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "The Benign Prerogative",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Slow News Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "The Warfare of Genghis Khan",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "An Khe",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Full Disclosure",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Eppur Si Muove",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Supremes",
+        "rating": 9.2
+      },
+      {
+        "episode": 18,
+        "name": "Access",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Talking Points",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "No Exit",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Gaza",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Memorial Day",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "N.S.F. Thurmont",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Birnam Wood",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Third-Day Story",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Liftoff",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Hubbert Peak",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Dover Test",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "A Change Is Gonna Come",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "In the Room",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Impact Winter",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Faith-Based Initiative",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Opposition Research",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "365 Days",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "King Corn",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "The Wake Up Call",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Freedonia",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Drought Conditions",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "A Good Day",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "La Palabra",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Ninety Miles Away",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "In God We Trust",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Things Fall Apart",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "2162 Votes",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ticket",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Mommy Problem",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Message of the Week",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Mr. Frost",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Here Today",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Al Smith Dinner",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Debate",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Undecideds",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Wedding",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Running Mates",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Internal Displacement",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Duck and Cover",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Cold",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Two Weeks Out",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Welcome to Wherever You Are",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Election Day: Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Election Day: Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "Requiem",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Transition",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "The Last Hurrah",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Institutional Memory",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Tomorrow",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

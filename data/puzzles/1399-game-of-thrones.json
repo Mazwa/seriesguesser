@@ -1,0 +1,404 @@
+{
+  "id": "1399-game-of-thrones",
+  "rank": 3,
+  "answer": "Game of Thrones",
+  "sourceUrl": "https://seriesgraph.com/show/1399-game-of-thrones",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1399",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1399/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Battle of the Bastards",
+    "season": 6,
+    "episode": 9,
+    "rating": 9.9,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Winter Is Coming",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Kingsroad",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Lord Snow",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Cripples, Bastards, and Broken Things",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "The Wolf and the Lion",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "A Golden Crown",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "You Win or You Die",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "The Pointy End",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Baelor",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "Fire and Blood",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The North Remembers",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Night Lands",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "What Is Dead May Never Die",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Garden of Bones",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "The Ghost of Harrenhal",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Old Gods and the New",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "A Man Without Honor",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "The Prince of Winterfell",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Blackwater",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "Valar Morghulis",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Valar Dohaeris",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Dark Wings, Dark Words",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Walk of Punishment",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "And Now His Watch Is Ended",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Kissed by Fire",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Climb",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Bear and the Maiden Fair",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Second Sons",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Rains of Castamere",
+        "rating": 9.9
+      },
+      {
+        "episode": 10,
+        "name": "Mhysa",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Two Swords",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "The Lion and the Rose",
+        "rating": 9.7
+      },
+      {
+        "episode": 3,
+        "name": "Breaker of Chains",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Oathkeeper",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "First of His Name",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Laws of Gods and Men",
+        "rating": 9.7
+      },
+      {
+        "episode": 7,
+        "name": "Mockingbird",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "The Mountain and the Viper",
+        "rating": 9.7
+      },
+      {
+        "episode": 9,
+        "name": "The Watchers on the Wall",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "The Children",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Wars to Come",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The House of Black and White",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "High Sparrow",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Sons of the Harpy",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Kill the Boy",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Unbowed, Unbent, Unbroken",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Gift",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Hardhome",
+        "rating": 9.8
+      },
+      {
+        "episode": 9,
+        "name": "The Dance of Dragons",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Mother's Mercy",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Red Woman",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Home",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Oathbreaker",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Book of the Stranger",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "The Door",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "Blood of My Blood",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Broken Man",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "No One",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Battle of the Bastards",
+        "rating": 9.9
+      },
+      {
+        "episode": 10,
+        "name": "The Winds of Winter",
+        "rating": 9.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dragonstone",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Stormborn",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "The Queen's Justice",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "The Spoils of War",
+        "rating": 9.7
+      },
+      {
+        "episode": 5,
+        "name": "Eastwatch",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Beyond the Wall",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Dragon and the Wolf",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Winterfell",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "A Knight of the Seven Kingdoms",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Long Night",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "The Last of the Starks",
+        "rating": 5.5
+      },
+      {
+        "episode": 5,
+        "name": "The Bells",
+        "rating": 5.9
+      },
+      {
+        "episode": 6,
+        "name": "The Iron Throne",
+        "rating": 4
+      }
+    ]
+  ]
+}

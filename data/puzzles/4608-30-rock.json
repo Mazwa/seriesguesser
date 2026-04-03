@@ -1,0 +1,727 @@
+{
+  "id": "4608-30-rock",
+  "rank": 187,
+  "answer": "30 Rock",
+  "sourceUrl": "https://seriesgraph.com/show/4608-30-rock",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4608",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4608/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2013
+  },
+  "highestRatedEpisode": {
+    "name": "Last Lunch",
+    "season": 7,
+    "episode": 13,
+    "rating": 9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "The Aftermath",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Blind Date",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Jack the Writer",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Jack-Tor",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Jack Meets Dennis",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Tracy Does Conan",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Break-Up",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "The Baby Show",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Rural Juror",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "The Head and the Hair",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Black Tie",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Up All Night",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "The C Word",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Hard Ball",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "The Source Awards",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "The Fighting Irish",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Fireworks",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Corporate Crush",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Cleveland",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Hiatus",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "SeinfeldVision",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Jack Gets in the Game",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Collection",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Rosemary's Baby",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Greenzo",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Somebody to Love",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Cougars",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Secrets and Lies",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Ludachristmas",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Episode 210",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "MILF Island",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Subway Hero",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Succession",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Sandwich Day",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Cooter",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Do-Over",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Believe in the Stars",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The One with the Cast of 'Night Court'",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Gavin Volure",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Reunion",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Christmas Special",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Señor Macho Solo",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Flu Shot",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Retreat to Move Forward",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Generalissimo",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "St. Valentine's Day",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Larry King",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Goodbye, My Friend",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "The Funcooker",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "The Bubble",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Apollo, Apollo",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Cutbacks",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Jackie Jormp-Jomp",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "The Ones",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "The Natural Order",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Mamma Mia",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Kidney Now!",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Season 4",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Into the Crevasse",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Stone Mountain",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Audition Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Problem Solvers",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Sun Tea",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Dealbreakers Talk Show #0001",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Secret Santa",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Klaus and Greta",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Black Light Attack!",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Winter Madness",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Verna",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Anna Howard Shaw Day",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Future Husband",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Don Geiss, America and Hope",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Floyd",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Lee Marvin vs. Derek Jeter",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Khonani",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Argus",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The Moms",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Emmanuelle Goes to Dinosaur Land",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "I Do Do",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Fabian Strategy",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "When It Rains, It Pours",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Let's Stay Together",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Live Show",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Reaganing",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Gentleman's Intermission",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Brooklyn Without Limits",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "College",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Chain Reaction of Mental Anguish",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Christmas Attack Zone",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Mrs. Donaghy",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Operation Righteous Cowboy Lightning",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "¡Qué Sorpresa!",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Double-Edged Sword",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "It's Never Too Late for Now",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "TGS Hates Women",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Queen of Jordan",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Plan B",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "I Heart Connecticut",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "100: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "100: Part 2",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Everything Sunny All the Time Always",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Respawn",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dance Like Nobody's Watching",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Idiots Are People Two!",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Idiots Are People Three!",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Ballad of Kenneth Parcell",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Today You Are a Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Hey, Baby, What's Wrong?: Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Hey, Baby, What's Wrong?: Part 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Tuxedo Begins",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Leap Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Alexis Goodlooking and the Case of the Missing Whisky",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Standards and Practices",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "St. Patrick's Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Grandmentor",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Kidnapped by Danger",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "The Shower Principle",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Nothing Left to Lose",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Meet the Woggels!",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Murphy Brown Lied to Us",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Live from Studio 6H",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Queen of Jordan 2: The Mystery of the Phantom Pooper",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "The Return of Avery Jessup",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "What Will Happen to the Gang Next Year?",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Beginning of the End",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Governor Dunston",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Stride of Pride",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Unwindulax",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "There's No I in America",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Aunt Phatso vs. Jack Donaghy",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Mazel Tov, Dummies!",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "My Whole Life Is Thunder",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Game Over",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Florida",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "A Goon's Deed in a Weary World",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Hogcock!",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Last Lunch",
+        "rating": 9
+      }
+    ]
+  ]
+}

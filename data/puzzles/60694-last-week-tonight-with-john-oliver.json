@@ -1,0 +1,1838 @@
+{
+  "id": "60694-last-week-tonight-with-john-oliver",
+  "rank": 92,
+  "answer": "Last Week Tonight with John Oliver",
+  "sourceUrl": "https://seriesgraph.com/show/60694-last-week-tonight-with-john-oliver",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60694",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60694/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "SLAPP Suits",
+    "season": 6,
+    "episode": 29,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "POM Wonderful v. Coca-Cola",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Capital Punishment",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Climate Change Denial",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Right to Be Forgotten",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Net Neutrality",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "FIFA and the World Cup",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Immigration Reform",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Dr. Oz",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Burwell v. Hobby Lobby",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Income Inequality and Wealth Inequality",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Incarceration in the United States",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Nuclear Weapons and the United States",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Native Advertising",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Payday Loans",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Shooting of Michael Brown and Police Militarization",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Student Debt",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Scottish Independence Referendum",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "United States Embargo Against Cuba, Miss America 2015",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Drones",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Civil Forfeiture",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Military Translators",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Sugar",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "State Legislatures and ALEC",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "The Lottery",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Marketing to Doctors",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Tobacco",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Judicial Elections",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Infrastructure",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "U.S. Territories",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The NCAA",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Municipal Violations",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Government Surveillance",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "IRS",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Patents",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Fashion",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Standardised Testing",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Paid Family Leave",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Chickens",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "FIFA",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Bail",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Torture",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "The Internet",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Transgender Rights",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Stadiums",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Food Waste",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Mandatory Minimums",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "District of Columbia",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Sex Ed",
+        "rating": 8.8
+      },
+      {
+        "episode": 25,
+        "name": "Church",
+        "rating": 9.2
+      },
+      {
+        "episode": 26,
+        "name": "LGBT Anti-Discrimination",
+        "rating": 8.2
+      },
+      {
+        "episode": 27,
+        "name": "Public Defenders",
+        "rating": 8.3
+      },
+      {
+        "episode": 28,
+        "name": "Migrants and Refugees",
+        "rating": 8.2
+      },
+      {
+        "episode": 29,
+        "name": "Mental Health",
+        "rating": 8
+      },
+      {
+        "episode": 30,
+        "name": "North Dakota",
+        "rating": 7.8
+      },
+      {
+        "episode": 31,
+        "name": "Canada",
+        "rating": 8.1
+      },
+      {
+        "episode": 32,
+        "name": "Medicaid Gap",
+        "rating": 7.8
+      },
+      {
+        "episode": 33,
+        "name": "Prisoner Re-Entry",
+        "rating": 8.1
+      },
+      {
+        "episode": 34,
+        "name": "Daily Fantasy Sports",
+        "rating": 8.1
+      },
+      {
+        "episode": 35,
+        "name": "Pennies",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Voting",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Abortion Laws",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Donald Trump",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Special Districts",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Encryption",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Wall",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Political Fundraising",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Credit Reports",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Lead",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Puerto Rico",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Scientific Studies",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "911",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Primaries and Caucuses",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Debt Buyers",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Money",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "United Kingdom",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Doping",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Republican National Convention",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "DNC vs. RNC",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Journalism",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Auto Lending",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Charter Schools",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Scandals",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Police Accountability",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Guantánamo",
+        "rating": 8.2
+      },
+      {
+        "episode": 26,
+        "name": "Third Parties",
+        "rating": 7.9
+      },
+      {
+        "episode": 27,
+        "name": "Drugs",
+        "rating": 8
+      },
+      {
+        "episode": 28,
+        "name": "School Segregation",
+        "rating": 8
+      },
+      {
+        "episode": 29,
+        "name": "Multilevel Marketing",
+        "rating": 8.4
+      },
+      {
+        "episode": 30,
+        "name": "President-Elect Trump",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trump vs Truth",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Putin",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Obamacare Replacement",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Dalai Lama",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "American Health Care Act",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Federal Budget",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Cannabis in the United States",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Gerrymandering",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "French Elections",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Ivanka & Jared",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Net Neutrality 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Dialysis",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Stupid Watergate",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Paris Agreement",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Brexit II",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Coal",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Vaccines",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Sinclair Broadcast Group",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Alex Jones",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Border Patrol",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "North Korea",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Nuclear Waste",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Presidential Pardons",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Corporate Consolidation",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Forensic Science",
+        "rating": 7.9
+      },
+      {
+        "episode": 26,
+        "name": "Confederacy",
+        "rating": 8.4
+      },
+      {
+        "episode": 27,
+        "name": "Equifax Security Breach",
+        "rating": 7.7
+      },
+      {
+        "episode": 28,
+        "name": "National Flood Insurance Program",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "Economic Development Incentives",
+        "rating": 7.8
+      },
+      {
+        "episode": 30,
+        "name": "Presidency of Donald Trump",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trump vs. The World",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Italian Election",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "NRA TV",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Cryptocurrencies",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Mike Pence",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Immigration Courts",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Crisis Pregnancy Centers",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Corporate Taxes",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Iran Deal",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Rudy Giuliani",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Venezuela",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Rehab",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Guardianship",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Stupid Watergate II",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Xi Jinping",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Mexican Elections",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Gene Editing",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Workplace Sexual Harassment",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Prosecutors",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Astroturfing",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Trade",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Felony Disenfranchisement",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Facebook",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Kavanaugh",
+        "rating": 8.3
+      },
+      {
+        "episode": 25,
+        "name": "Brazilian Elections",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "Saudi Arabia",
+        "rating": 8
+      },
+      {
+        "episode": 27,
+        "name": "State Attorneys General",
+        "rating": 7.6
+      },
+      {
+        "episode": 28,
+        "name": "Family Separation",
+        "rating": 8.3
+      },
+      {
+        "episode": 29,
+        "name": "Drain the Swamp",
+        "rating": 7.9
+      },
+      {
+        "episode": 30,
+        "name": "Authoritarianism",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Brexit",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Psychics",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Automation",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Robocalls",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Public Shaming",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "WWE",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Mobile Homes",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Opioids II",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Mueller Report/Chiitan",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Lethal Injection",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Green New Deal",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Death Investigations",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Medical Devices",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Equal Rights Amendment",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Impeachment",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Everest",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Warehouses",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Boris Johnson",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Prison Labor",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Burdihamedov/Guinness World Records",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Bias in Medicine",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Filibuster",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Legal Immigration",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Compounding Pharmacies",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "China's One Child Policy",
+        "rating": 7.9
+      },
+      {
+        "episode": 26,
+        "name": "National Weather Service",
+        "rating": 7.9
+      },
+      {
+        "episode": 27,
+        "name": "Trump & Syria",
+        "rating": 8.2
+      },
+      {
+        "episode": 28,
+        "name": "Voting Machines",
+        "rating": 8.1
+      },
+      {
+        "episode": 29,
+        "name": "SLAPP Suits",
+        "rating": 9.5
+      },
+      {
+        "episode": 30,
+        "name": "Census",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Medicare for All",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Modi",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Coronavirus",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Sheriffs",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Coronavirus II",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Coronavirus III",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "One America News Network",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Coronavirus IV",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Coronavirus V",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Coronavirus VI: Testing",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "United States Postal Service",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Coronavirus VII: Sports",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Voting by Mail",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Police",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Facial Recognition",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Coronavirus VIII: Prisons & Jails",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Coronavirus IX: Evictions",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Conspiracy Theories",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Uighurs",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "U.S. History",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Juries",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Border Wall",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "RNC 2020 & Kenosha",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "The Supreme Court",
+        "rating": 8
+      },
+      {
+        "episode": 25,
+        "name": "Election 2020",
+        "rating": 7.8
+      },
+      {
+        "episode": 26,
+        "name": "W.H.O.",
+        "rating": 8
+      },
+      {
+        "episode": 27,
+        "name": "Asylum",
+        "rating": 7.7
+      },
+      {
+        "episode": 28,
+        "name": "Trump & the Coronavirus and William Barr",
+        "rating": 8.2
+      },
+      {
+        "episode": 29,
+        "name": "Election Results 2020",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Trump & Election Results",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Next Pandemic",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Meatpacking",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Raids",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Unemployment",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Tucker Carlson",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Plastics",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The National Debt",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Long-Term Care",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Bankruptcy",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Vaccine",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Hair",
+        "rating": 6.6
+      },
+      {
+        "episode": 12,
+        "name": "Stand Your Ground",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Sponsored Content",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Asian Americans",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Prison Heat",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "PACE",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Health Care Sharing Ministries",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Housing Discrimination",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Emergency Medical Services",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Sacklers",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Ransomware",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Afghanistan",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Lukashenko",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Voting Rights",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "PFAS",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "Misinformation",
+        "rating": 7.9
+      },
+      {
+        "episode": 27,
+        "name": "Taiwan",
+        "rating": 7.9
+      },
+      {
+        "episode": 28,
+        "name": "Homelessness",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "The Power Grid",
+        "rating": 7.8
+      },
+      {
+        "episode": 30,
+        "name": "Union Busting",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Critical Race Theory",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Sex Work",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Wrongful Convictions",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Tickets",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Harm Reduction",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Trucks",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Data Brokers",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Police Interrogations",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Environmental Racism",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Philippines",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Electric Utilities",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Subway",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "School Police",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Tech Monopolies",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Rent",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Water",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Inflation",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Mental Health Care",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Monkeypox",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Afghanistan",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Carbon Offsets",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Law & Order",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "Bolsonaro",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Museums",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "Crime Reporting",
+        "rating": 7.6
+      },
+      {
+        "episode": 26,
+        "name": "Transgender Rights II",
+        "rating": 7.3
+      },
+      {
+        "episode": 27,
+        "name": "Bail Reform",
+        "rating": 7.7
+      },
+      {
+        "episode": 28,
+        "name": "Election Subversion",
+        "rating": 8.1
+      },
+      {
+        "episode": 29,
+        "name": "The Monarchy",
+        "rating": 7.9
+      },
+      {
+        "episode": 30,
+        "name": "Qatar World Cup",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Psychedelic Assisted Therapy",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Artificial Intelligence",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Ron DeSantis",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "TANF",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Timeshares",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Solitary Confinement",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "HOAs",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Farmworkers",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Cryptocurrencies II",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Biden and the Border",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Prison Health Care",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Homeschooling",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Food Safety",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "McKinsey",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Chocolate",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Abortion Rights",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Israel-Hamas War",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Dollar Stores",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Organ & Body Donations",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Freight Trains",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Elon Musk",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Supreme Court",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Pig Butchering",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Boeing",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Medical Boards",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Student Loans",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Food Delivery Apps",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Executions",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Medicaid",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "UFOs",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Public Libraries",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Opioid Settlements",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Corn",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "India Elections",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Deep-Sea Mining",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Trump's Second Term",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "UK Elections",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Migrant Crime",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The West Bank",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "RFK Jr.",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Hawaii",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Hospice Care",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "School Lunch Programs",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Disability Benefits",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Federal Courts",
+        "rating": 7.7
+      },
+      {
+        "episode": 25,
+        "name": "Traffic Stops",
+        "rating": 7.4
+      },
+      {
+        "episode": 26,
+        "name": "Election Subversion 2024",
+        "rating": 7.8
+      },
+      {
+        "episode": 27,
+        "name": "Mass Deportations",
+        "rating": 8.1
+      },
+      {
+        "episode": 28,
+        "name": "Trump's Businesses",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "2024 Election Results",
+        "rating": 7.5
+      },
+      {
+        "episode": 30,
+        "name": "TikTok",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trump 2.0",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Facebook",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Tipping",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "ICE Detention Facilities",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Sports Betting",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Tasers",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Trans Athletes",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Trump & Tariffs",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Health Agency Cuts",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Deportations",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Alliance Defending Freedom",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Trump & the Press",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Air Traffic Control",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Med Spas",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Child Incarceration",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "AI Content",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Trump's Big Beautiful Bill",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Gang Databases",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Deferred Prosecution Agreements",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Immigration Enforcement",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Make America Healthy Again",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Higher Education",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Jimmy Kimmel Suspension",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Benjamin Netanyahu",
+        "rating": 8
+      },
+      {
+        "episode": 25,
+        "name": "Presidential Libraries",
+        "rating": 7.5
+      },
+      {
+        "episode": 26,
+        "name": "Paramount Skydance Merger",
+        "rating": 7.6
+      },
+      {
+        "episode": 27,
+        "name": "Medicare Advantage",
+        "rating": 7.4
+      },
+      {
+        "episode": 28,
+        "name": "Police Chases",
+        "rating": 7.5
+      },
+      {
+        "episode": 29,
+        "name": "Felony Murder",
+        "rating": 7.7
+      },
+      {
+        "episode": 30,
+        "name": "Public Media",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "ICE",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Twitter",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Police Body Cameras",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Iran, USAID & Soap Operas",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "JD Vance",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Police Stings",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Hungary",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Episode #13.8"
+      }
+    ]
+  ]
+}

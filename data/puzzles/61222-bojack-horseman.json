@@ -1,0 +1,415 @@
+{
+  "id": "61222-bojack-horseman",
+  "rank": 28,
+  "answer": "BoJack Horseman",
+  "sourceUrl": "https://seriesgraph.com/show/61222-bojack-horseman",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61222",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61222/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "The View from Halfway Down",
+    "season": 6,
+    "episode": 15,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "BoJack Horseman: The BoJack Horseman Story, Chapter One",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "BoJack Hates the Troops",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Prickly Muffin",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Zoës and Zeldas",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Live Fast, Diane Nguyen",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Our A-Story Is a 'D' Story",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Say Anything",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Telescope",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Horse Majeure",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "One Trick Pony",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Downer Ending",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Later",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Brand New Couch",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Yesterdayland",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Still Broken",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "After the Party",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Chickens",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Higher Love",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Hank After Dark",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Let's Find Out",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Shot",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Yes And",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Escape from L.A.",
+        "rating": 9.4
+      },
+      {
+        "episode": 12,
+        "name": "Out to Sea",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Start Spreading the News",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The BoJack Horseman Show",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "BoJack Kills",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Fish Out of Water",
+        "rating": 9.6
+      },
+      {
+        "episode": 5,
+        "name": "Love And/Or Marriage",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Brrap Brrap Pew Pew",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Stop the Presses",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Old Acquaintance",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Best Thing That Ever Happened",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "It's You",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "That's Too Much, Man!",
+        "rating": 9.7
+      },
+      {
+        "episode": 12,
+        "name": "That Went Well",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "See Mr. Peanutbutter Run",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Old Sugarman Place",
+        "rating": 9.4
+      },
+      {
+        "episode": 3,
+        "name": "Hooray! Todd Episode!",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Commence Fracking",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Thoughts and Prayers",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Stupid Piece of Sh*t",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Underground",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Judge",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Ruthie",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "lovin that cali lifestyle!!",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Time's Arrow",
+        "rating": 9.8
+      },
+      {
+        "episode": 12,
+        "name": "What Time Is It Right Now",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Light Bulb Scene",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Dog Days Are Over",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Planned Obsolescence",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "BoJack the Feminist",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Amelia Earhart Story",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Free Churro",
+        "rating": 9.8
+      },
+      {
+        "episode": 7,
+        "name": "INT. SUB",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Mr. Peanutbutter's Boos",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Ancient History",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Head in the Clouds",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "The Showstopper",
+        "rating": 9.6
+      },
+      {
+        "episode": 12,
+        "name": "The Stopped Show",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Horse Walks into a Rehab",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "The New Client",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Feel-Good Story",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Surprise!",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "A Little Uneven, Is All",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Kidney Stays in the Picture",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Face of Depression",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "A Quick One, While He's Away",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Intermediate Scene Study w/ BoJack Horseman",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Good Damage",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Sunk Cost and All That",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Xerox of a Xerox",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "The Horny Unicorn",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Angela",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "The View from Halfway Down",
+        "rating": 9.9
+      },
+      {
+        "episode": 16,
+        "name": "Nice While It Lasted",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

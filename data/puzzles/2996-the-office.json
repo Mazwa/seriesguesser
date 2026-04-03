@@ -1,0 +1,99 @@
+{
+  "id": "2996-the-office",
+  "rank": 194,
+  "answer": "The Office",
+  "sourceUrl": "https://seriesgraph.com/show/2996-the-office",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2996",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2996/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2002
+  },
+  "highestRatedEpisode": {
+    "name": "Christmas Special: Part 2",
+    "season": 3,
+    "episode": 2,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Downsize",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Work Experience",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Quiz",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Training",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "New Girl",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Judgement",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Merger",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Appraisals",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Motivation",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Charity",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Interview",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Christmas Special: Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Christmas Special: Part 2",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

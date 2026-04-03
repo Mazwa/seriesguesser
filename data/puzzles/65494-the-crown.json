@@ -1,0 +1,335 @@
+{
+  "id": "65494-the-crown",
+  "rank": 60,
+  "answer": "The Crown",
+  "sourceUrl": "https://seriesgraph.com/show/65494-the-crown",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/65494",
+    "seasonRatings": "https://seriesgraph.com/api/shows/65494/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Aberfan",
+    "season": 3,
+    "episode": 3,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Wolferton Splash",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Hyde Park Corner",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Windsor",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Act of God",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Smoke and Mirrors",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Gelignite",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Scientia Potentia Est",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Pride & Joy",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Assassins",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Gloriana",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Misadventure",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "A Company of Men",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Lisbon",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Beryl",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Marionettes",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Vergangenheit",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Matrimonium",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Dear Mrs. Kennedy",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Paterfamilias",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Mystery Man",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Olding",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Margaretology",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Aberfan",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Bubbikins",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Coup",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Tywysog Cymru",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Moondust",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Dangling Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Imbroglio",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Cri de Coeur",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gold Stick",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Balmoral Test",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Fairytale",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Favourites",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Fagan",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Terra Nullius",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Hereditary Principle",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "48:1",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Avalanche",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "War",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Queen Victoria Syndrome",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "The System",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Mou Mou",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Annus Horribilis",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Way Ahead",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Ipatiev House",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "No Woman's Land",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Gunpowder",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Couple 31",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Decommissioned",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Persona Non Grata",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Two Photographs",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Dis-Moi Oui",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Aftermath",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Willsmania",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Ruritania",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Alma Mater",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Ritz",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Hope Street",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Sleep, Dearie Sleep",
+        "rating": 9
+      }
+    ]
+  ]
+}

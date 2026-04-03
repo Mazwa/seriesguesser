@@ -1,0 +1,103 @@
+{
+  "id": "66292-big-little-lies",
+  "rank": 164,
+  "answer": "Big Little Lies",
+  "sourceUrl": "https://seriesgraph.com/show/66292-big-little-lies",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/66292",
+    "seasonRatings": "https://seriesgraph.com/api/shows/66292/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "You Get What You Need",
+    "season": 1,
+    "episode": 7,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Somebody's Dead",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Serious Mothering",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Living the Dream",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Push Comes to Shove",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Once Bitten",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Burning Love",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "You Get What You Need",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "What Have They Done?",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Tell-Tale Hearts",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The End of the World",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "She Knows",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Kill Me",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Bad Mother",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "I Want to Know",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      }
+    ]
+  ]
+}

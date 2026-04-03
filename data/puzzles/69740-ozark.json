@@ -1,0 +1,251 @@
+{
+  "id": "69740-ozark",
+  "rank": 93,
+  "answer": "Ozark",
+  "sourceUrl": "https://seriesgraph.com/show/69740-ozark",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/69740",
+    "seasonRatings": "https://seriesgraph.com/api/shows/69740/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "All In",
+    "season": 3,
+    "episode": 10,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Sugarwood",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Blue Cat",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "My Dripping Sleep",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Tonight We Improvise",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Ruling Days",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Book of Ruth",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Nest Box",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Kaleidoscope",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Coffee, Black",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Toll",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reparations",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Precious Blood of Jesus",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Once a Langmore...",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Stag",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Game Day",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Outer Darkness",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "One Way Out",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Big Sleep",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Badger",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Gold Coast",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wartime",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Civil Union",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Kevin Cronin Was Here",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Boss Fight",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "It Came from Michoacán",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Su Casa Es Mi Casa",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "In Case of Emergency",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "BFF",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Fire Pink",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "All In",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Beginning of the End",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Let the Great World Spin",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "City on the Make",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Ace Deuce",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Ellie",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Sangre Sobre Todo",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Sanctified",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "The Cousin of Death",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Pick a God and Pray",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "You're the Boss",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Pound of Flesh and Still Kickin'",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Trouble the Water",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Mud",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "A Hard Way to Go",
+        "rating": 7.2
+      }
+    ]
+  ]
+}

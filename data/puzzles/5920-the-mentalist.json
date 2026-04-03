@@ -1,0 +1,792 @@
+{
+  "id": "5920-the-mentalist",
+  "rank": 169,
+  "answer": "The Mentalist",
+  "sourceUrl": "https://seriesgraph.com/show/5920-the-mentalist",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/5920",
+    "seasonRatings": "https://seriesgraph.com/api/shows/5920/season-ratings"
+  },
+  "years": {
+    "first": 2008,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "Strawberries and Cream: Part 2",
+    "season": 3,
+    "episode": 24,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Red Hair and Silver Tape",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Red Tide",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Ladies in Red",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Redwood",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Red-Handed",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Seeing Red",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Thin Red Line",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Flame Red",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Red Brick and Ivy",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Red John's Friends",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Red Rum",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Paint It Red",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Crimson Casanova",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Scarlett Fever",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Bloodshot",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Carnelian, Inc.",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Russet Potatoes",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "A Dozen Red Roses",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "Red Sauce",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Miss Red",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Blood Brothers",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Red John's Footsteps",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Redemption",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Scarlet Letter",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Red Badge",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Red Menace",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Red Scare",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Black Gold and Red Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Red Bulls",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "His Red Right Hand",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "A Price Above Rubies",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Throwing Fire",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Rose-Colored Glasses",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Bleeding Heart",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Redline",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Blood in, Blood Out",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Red Herring",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Code Red",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Red Box",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Aingavite Baa",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Blood Money",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Red All Over",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "18-5-4",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Red Letter",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Red Sky in the Morning",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Red Sky at Night",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Cackle-Bladder Blood",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Blood on His Hands",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Red Carpet Treatment",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Red Ponies",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Pink Chanel Suit",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Red Hot",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Ball of Fire",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Red Moon",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Jolly Red Elf",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Bloodsport",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Bloodhounds",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Red Alert",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Blood for Blood",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Red Gold",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Red Queen",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Bloodstream",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Red Mile",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Every Rose Has Its Thorn",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Redacted",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Like a Redheaded Stepchild",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Rhapsody in Red",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Strawberries and Cream: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 24,
+        "name": "Strawberries and Cream: Part 2",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Scarlet Ribbons",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Little Red Book",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Pretty Red Balloon",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Ring Around the Rosie",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Blood and Sand",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Where in the World Is Carmine O'Brien?",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Blinking Red Light",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Pink Tops",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Redshirt",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Fugue in Red",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Always Bet on Red",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "My Bloody Valentine",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Red Is the New Black",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "At First Blush",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "War of the Roses",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "His Thoughts Were Red Thoughts",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Cheap Burgundy",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Ruddy Cheeks",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Pink Champagne on Ice",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Something Rotten in Redmund",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Ruby Slippers",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "So Long, and Thanks for All the Red Snapper",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "Red Rover, Red Rover",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "The Crimson Hat",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Crimson Ticket",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Devil's Cherry",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Not One Red Cent",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Blood Feud",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Red Dawn",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Cherry Picked",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "If It Bleeds, It Leads",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Red Sails in the Sunset",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Black Cherry",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Panama Red",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Days of Wine and Roses",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Little Red Corvette",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The Red Barn",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Red in Tooth and Claw",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Red Lacquer Nail Polish",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "There Will Be Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Red, White and Blue",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Behind the Red Curtain",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Red Letter Day",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "Red Velvet Cupcakes",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Red and Itchy",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Red John's Rules",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Desert Rose",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Black-Winged Redbird",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Wedding in Red",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Red Listed",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Red Tattoo",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Fire and Brimstone",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "The Great Red Dragon",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Red John",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "My Blue Heaven",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Green Thumb",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "White Lines",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Golden Hammer",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Black Helicopters",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Grey Water",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "White as the Driven Snow",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Violets",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Silver Wings of Time",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Forest Green",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Brown Eyed Girls",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Il Tavolo Bianco",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Black Hearts",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Blue Bird",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nothing But Blue Skies",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Greybar Hotel",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Orange Blossom Ice Cream",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Black Market",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Silver Briefcase",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Green Light",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Little Yellow House",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Whites of His Eyes",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Copper Bullet",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Nothing Gold Can Stay",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Byzantium",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Brown Shag Carpet",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "White Orchids",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "63180-tvf-pitchers",
+  "rank": 127,
+  "answer": "TVF Pitchers",
+  "sourceUrl": "https://seriesgraph.com/show/63180-tvf-pitchers",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/63180",
+    "seasonRatings": "https://seriesgraph.com/api/shows/63180/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Where Magic Happens",
+    "season": 1,
+    "episode": 5,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Tu Beer Hai",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "And Then There Were Four",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "The Jury Room",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Bulb Jalega Boss",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Where Magic Happens",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Valley",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Pivot",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Sprint",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The North Star Metric",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Term Sheet",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

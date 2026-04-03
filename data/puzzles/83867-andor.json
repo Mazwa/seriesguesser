@@ -1,0 +1,147 @@
+{
+  "id": "83867-andor",
+  "rank": 74,
+  "answer": "Andor",
+  "sourceUrl": "https://seriesgraph.com/show/83867-andor",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/83867",
+    "seasonRatings": "https://seriesgraph.com/api/shows/83867/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Who Are You?",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Kassa",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "That Would Be Me",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Reckoning",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Aldhani",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Axe Forgets",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Eye",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Announcement",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Narkina 5",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Nobody's Listening!",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "One Way Out",
+        "rating": 9.5
+      },
+      {
+        "episode": 11,
+        "name": "Daughter of Ferrix",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Rix Road",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "One Year Later",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Sagrona Teema",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Harvest",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Ever Been to Ghorman?",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "I Have Friends Everywhere",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "What a Festive Evening",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Messenger",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Who Are You?",
+        "rating": 9.7
+      },
+      {
+        "episode": 9,
+        "name": "Welcome to the Rebellion",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "Make It Stop",
+        "rating": 9.5
+      },
+      {
+        "episode": 11,
+        "name": "Who Else Knows?",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "Jedha, Kyber, Erso",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

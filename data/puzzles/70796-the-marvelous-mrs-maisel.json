@@ -1,0 +1,248 @@
+{
+  "id": "70796-the-marvelous-mrs-maisel",
+  "rank": 89,
+  "answer": "The Marvelous Mrs. Maisel",
+  "sourceUrl": "https://seriesgraph.com/show/70796-the-marvelous-mrs.-maisel",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/70796",
+    "seasonRatings": "https://seriesgraph.com/api/shows/70796/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Four Minutes",
+    "season": 5,
+    "episode": 9,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Ya Shivu v Bolshom Dome Na Kholme",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Because You Left",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Disappointment of the Dionne Quintuplets",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Doink",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Mrs. X at the Gaslight",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Put That on Your Plate!",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Thank You and Good Night",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Simone",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Mid-way to Mid-town",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Punishment Room",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "We're Going to the Catskills!",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Midnight at the Concord",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Let's Face the Music and Dance",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Look, She Made a Hat",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Someday...",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Vote for Kennedy, Vote for Kennedy",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "All Alone",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Strike Up the Band",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "It's the Sixties, Man!",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Panty Pose",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Hands!",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "It's Comedy or Cabbage",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Kind of Bleau",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Marvelous Radio",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "A Jewish Girl Walks Into the Apollo...",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rumble on the Wonder Wheel",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Billy Jones and the Orgy Lamps",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Everything Is Bellmore",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Interesting People on Christopher Street",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "How to Chew Quietly and Influence People",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Maisel vs. Lennon: The Cut Contest",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Ethan... Esther... Chaim",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "How Do You Get to Carnegie Hall?",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Go Forward",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "It's a Man, Man, Man, Man World",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Typos and Torsos",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Susan",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "The Pirate Queen",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Testi-Roastial",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "A House Full of Extremely Lame Horses",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Princess and the Plea",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Four Minutes",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

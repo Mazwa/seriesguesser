@@ -1,0 +1,702 @@
+{
+  "id": "4194-star-wars-the-clone-wars",
+  "rank": 167,
+  "answer": "Star Wars: The Clone Wars",
+  "sourceUrl": "https://seriesgraph.com/show/4194-star-wars:-the-clone-wars",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4194",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4194/season-ratings"
+  },
+  "years": {
+    "first": 2008,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Victory and Death",
+    "season": 7,
+    "episode": 12,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Ambush",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Rising Malevolence",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Shadow of Malevolence",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Destroy Malevolence",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Rookies",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Downfall of a Droid",
+        "rating": 6.5
+      },
+      {
+        "episode": 7,
+        "name": "Duel of the Droids",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Bombad Jedi",
+        "rating": 6
+      },
+      {
+        "episode": 9,
+        "name": "Cloak of Darkness",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Lair of Grievous",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Dooku Captured",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "The Gungan General",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Jedi Crash",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Defenders of Peace",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Trespass",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Hidden Enemy",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Blue Shadow Virus",
+        "rating": 6.6
+      },
+      {
+        "episode": 18,
+        "name": "Mystery of a Thousand Moons",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "Storm Over Ryloth",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Innocents of Ryloth",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Liberty on Ryloth",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Hostage Crisis",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Holocron Heist",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Cargo of Doom",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Children of the Force",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Senate Spy",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Landing at Point Rain",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Weapons Factory",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Legacy of Terror",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Brain Invaders",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Grievous Intrigue",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Deserter",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Lightsaber Lost",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "The Mandalore Plot",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Voyage of Temptation",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Duchess of Mandalore",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Senate Murders",
+        "rating": 6.7
+      },
+      {
+        "episode": 16,
+        "name": "Cat and Mouse",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Bounty Hunters",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "The Zillo Beast",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "The Zillo Beast Strikes Back",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Death Trap",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "R2 Come Home",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Lethal Trackdown",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Clone Cadets",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "ARC Troopers",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Supply Lines",
+        "rating": 6.9
+      },
+      {
+        "episode": 4,
+        "name": "Sphere of Influence",
+        "rating": 6.9
+      },
+      {
+        "episode": 5,
+        "name": "Corruption",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "The Academy",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "Assassin",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Evil Plans",
+        "rating": 6.2
+      },
+      {
+        "episode": 9,
+        "name": "Hunt for Ziro",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "Heroes on Both Sides",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Pursuit of Peace",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Nightsisters",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Monster",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Witches of the Mist",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Overlords",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Altar of Mortis",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Ghosts of Mortis",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "The Citadel",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Counter Attack",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Citadel Rescue",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Padawan Lost",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Wookiee Hunt",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Water War",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "Gungan Attack",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Prisoners",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Shadow Warrior",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Mercy Mission",
+        "rating": 6.1
+      },
+      {
+        "episode": 6,
+        "name": "Nomad Droids",
+        "rating": 6.2
+      },
+      {
+        "episode": 7,
+        "name": "Darkness on Umbara",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "The General",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Plan of Dissent",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Carnage of Krell",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "Kidnapped",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Slaves of the Republic",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Escape from Kadavo",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "A Friend in Need",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Deception",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Friends and Enemies",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "The Box",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Crisis on Naboo",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Massacre",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Bounty",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Brothers",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Revenge",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Revival",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "A War on Two Fronts",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Front Runners",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "The Soft War",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Tipping Points",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Gathering",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "A Test of Strength",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Bound for Rescue",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "A Necessary Bond",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Secret Weapons",
+        "rating": 6.3
+      },
+      {
+        "episode": 11,
+        "name": "A Sunny Day in the Void",
+        "rating": 6.1
+      },
+      {
+        "episode": 12,
+        "name": "Missing in Action",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "Point of No Return",
+        "rating": 7
+      },
+      {
+        "episode": 14,
+        "name": "Eminence",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Shades of Reason",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "The Lawless",
+        "rating": 9.7
+      },
+      {
+        "episode": 17,
+        "name": "Sabotage",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "The Jedi Who Knew Too Much",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "To Catch a Jedi",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "The Wrong Jedi",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Unknown",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Conspiracy",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Fugitive",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Orders",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "An Old Friend",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "The Rise of Clovis",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Crisis at the Heart",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "The Disappeared: Part 1",
+        "rating": 6.4
+      },
+      {
+        "episode": 9,
+        "name": "The Disappeared: Part 2",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "The Lost One",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Voices",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Destiny",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Sacrifice",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Bad Batch",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "A Distant Echo",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "On the Wings of Keeradaks",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Unfinished Business",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Gone with a Trace",
+        "rating": 6.4
+      },
+      {
+        "episode": 6,
+        "name": "Deal No Deal",
+        "rating": 6.1
+      },
+      {
+        "episode": 7,
+        "name": "Dangerous Debt",
+        "rating": 6
+      },
+      {
+        "episode": 8,
+        "name": "Together Again",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Old Friends Not Forgotten",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "The Phantom Apprentice",
+        "rating": 9.8
+      },
+      {
+        "episode": 11,
+        "name": "Shattered",
+        "rating": 9.8
+      },
+      {
+        "episode": 12,
+        "name": "Victory and Death",
+        "rating": 9.9
+      }
+    ]
+  ]
+}

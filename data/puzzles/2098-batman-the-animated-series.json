@@ -1,0 +1,456 @@
+{
+  "id": "2098-batman-the-animated-series",
+  "rank": 67,
+  "answer": "Batman: The Animated Series",
+  "sourceUrl": "https://seriesgraph.com/show/2098-batman:-the-animated-series",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2098",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2098/season-ratings"
+  },
+  "years": {
+    "first": 1992,
+    "last": 1995
+  },
+  "highestRatedEpisode": {
+    "name": "Almost Got 'im",
+    "season": 1,
+    "episode": 35,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Cat and the Claw: Part I",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "On Leather Wings",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Heart of Ice",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Feat of Clay: Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Feat of Clay: Part II",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "It's Never Too Late",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Joker's Favor",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "The Cat and the Claw: Part II",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Pretty Poison",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Nothing to Fear",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Be a Clown",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Appointment in Crime Alley",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "P.O.V.",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Clock King",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "The Last Laugh",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Eternal Youth",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "Two-Face: Part I",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "Two-Face: Part II",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Fear of Victory",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "I've Got Batman in My Basement",
+        "rating": 6.5
+      },
+      {
+        "episode": 21,
+        "name": "Vendetta",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Prophecy of Doom",
+        "rating": 6.7
+      },
+      {
+        "episode": 23,
+        "name": "The Forgotten",
+        "rating": 7.2
+      },
+      {
+        "episode": 24,
+        "name": "Mad as a Hatter",
+        "rating": 8
+      },
+      {
+        "episode": 25,
+        "name": "The Cape and Cowl Conspiracy",
+        "rating": 7.5
+      },
+      {
+        "episode": 26,
+        "name": "Perchance to Dream",
+        "rating": 9
+      },
+      {
+        "episode": 27,
+        "name": "The Underdwellers",
+        "rating": 6.7
+      },
+      {
+        "episode": 28,
+        "name": "Night of the Ninja",
+        "rating": 7.5
+      },
+      {
+        "episode": 29,
+        "name": "The Strange Secret of Bruce Wayne",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Tyger Tyger",
+        "rating": 7
+      },
+      {
+        "episode": 31,
+        "name": "Dreams in Darkness",
+        "rating": 8.3
+      },
+      {
+        "episode": 32,
+        "name": "Beware the Gray Ghost",
+        "rating": 8.9
+      },
+      {
+        "episode": 33,
+        "name": "Cat Scratch Fever",
+        "rating": 7.2
+      },
+      {
+        "episode": 34,
+        "name": "I Am the Night",
+        "rating": 8.6
+      },
+      {
+        "episode": 35,
+        "name": "Almost Got 'im",
+        "rating": 9.2
+      },
+      {
+        "episode": 36,
+        "name": "Moon of the Wolf",
+        "rating": 6.7
+      },
+      {
+        "episode": 37,
+        "name": "Terror in the Sky",
+        "rating": 7.3
+      },
+      {
+        "episode": 38,
+        "name": "Christmas with the Joker",
+        "rating": 7.9
+      },
+      {
+        "episode": 39,
+        "name": "Heart of Steel: Part I",
+        "rating": 7.8
+      },
+      {
+        "episode": 40,
+        "name": "Heart of Steel: Part II",
+        "rating": 7.9
+      },
+      {
+        "episode": 41,
+        "name": "If You're So Smart, Why Aren't You Rich?",
+        "rating": 8.3
+      },
+      {
+        "episode": 42,
+        "name": "Joker's Wild",
+        "rating": 8.2
+      },
+      {
+        "episode": 43,
+        "name": "His Silicon Soul",
+        "rating": 8.2
+      },
+      {
+        "episode": 44,
+        "name": "Off Balance",
+        "rating": 7.6
+      },
+      {
+        "episode": 45,
+        "name": "What Is Reality?",
+        "rating": 7.7
+      },
+      {
+        "episode": 46,
+        "name": "The Laughing Fish",
+        "rating": 8.5
+      },
+      {
+        "episode": 47,
+        "name": "Harley and Ivy",
+        "rating": 8.6
+      },
+      {
+        "episode": 48,
+        "name": "The Mechanic",
+        "rating": 7.5
+      },
+      {
+        "episode": 49,
+        "name": "The Man Who Killed Batman",
+        "rating": 8.8
+      },
+      {
+        "episode": 50,
+        "name": "Zatanna",
+        "rating": 7.8
+      },
+      {
+        "episode": 51,
+        "name": "Robin's Reckoning: Part I",
+        "rating": 8.7
+      },
+      {
+        "episode": 52,
+        "name": "Birds of a Feather",
+        "rating": 7.7
+      },
+      {
+        "episode": 53,
+        "name": "Robin's Reckoning: Part II",
+        "rating": 8.6
+      },
+      {
+        "episode": 54,
+        "name": "Blind as a Bat",
+        "rating": 7.3
+      },
+      {
+        "episode": 55,
+        "name": "Day of the Samurai",
+        "rating": 7.8
+      },
+      {
+        "episode": 56,
+        "name": "See No Evil",
+        "rating": 7.7
+      },
+      {
+        "episode": 57,
+        "name": "The Demon's Quest: Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 58,
+        "name": "The Demon's Quest: Part II",
+        "rating": 8.3
+      },
+      {
+        "episode": 59,
+        "name": "Read My Lips",
+        "rating": 8.4
+      },
+      {
+        "episode": 60,
+        "name": "Fire from Olympus",
+        "rating": 7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Shadow of the Bat: Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Shadow of the Bat: Part II",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Mudslide",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Worry Men",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Paging the Crime Doctor",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "House & Garden",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Sideshow",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Avatar",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Trial",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Harlequinade",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bane",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Second Chance",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Riddler's Reform",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Baby-Doll",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Time Out of Joint",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Harley's Holiday",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Make 'Em Laugh",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Batgirl Returns",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Lock-Up",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Deep Freeze",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Terrible Trio",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "Showdown",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Catwalk",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "A Bullet for Bullock",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Lion and the Unicorn",
+        "rating": 7.2
+      }
+    ]
+  ]
+}

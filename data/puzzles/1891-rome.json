@@ -1,0 +1,137 @@
+{
+  "id": "1891-rome",
+  "rank": 78,
+  "answer": "Rome",
+  "sourceUrl": "https://seriesgraph.com/show/1891-rome",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1891",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1891/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2007
+  },
+  "highestRatedEpisode": {
+    "name": "Kalends of February",
+    "season": 1,
+    "episode": 12,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Stolen Eagle",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "How Titus Pullo Brought Down the Republic",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "An Owl in a Thornbush",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Stealing from Saturn",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Ram Has Touched the Wall",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Egeria",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Pharsalus",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Caesarion",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Utica",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Triumph",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Spoils",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Kalends of February",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Passover",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Son of Hades",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "These Being the Words of Marcus Tullius Cicero",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Testudo et Lepus (The Tortoise and the Hare)",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Heroes of the Republic",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Philippi",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Death Mask",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "A Necessary Fiction",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "De Patre Vostro (About Your Father)",
+        "rating": 9
+      }
+    ]
+  ]
+}

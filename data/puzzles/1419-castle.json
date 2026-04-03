@@ -1,0 +1,904 @@
+{
+  "id": "1419-castle",
+  "rank": 182,
+  "answer": "Castle",
+  "sourceUrl": "https://seriesgraph.com/show/1419-castle",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1419",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1419/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "Always",
+    "season": 4,
+    "episode": 23,
+    "rating": 9.3,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Flowers for Your Grave",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Nanny McDead",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Hedge Fund Homeboys",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Hell Hath No Fury",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "A Chill Goes Through Her Veins",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Always Buy Retail",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Home Is Where the Heart Stops",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Ghosts",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Little Girl Lost",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "A Death in the Family",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Deep in Death",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Double Down",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Inventing the Girl",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Fool Me Once...",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "When the Bough Breaks",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Vampire Weekend",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Famous Last Words",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Kill the Messenger",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Love Me Dead",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "One Man's Treasure",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Fifth Bullet",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "A Rose for Everafter",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Sucker Punch",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "The Third Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Suicide Squeeze",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Mistress Always Spanks Twice",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Tick, Tick, Tick...",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Boom!",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Wrapped Up in Death",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "The Late Shaft",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Den of Thieves",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Food to Die For",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Overkill",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "A Deadly Game",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Deadly Affair",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "He's Dead, She's Dead",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Under the Gun",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Punked",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Anatomy of a Murder",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "3XK",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Almost Famous",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Murder Most Fowl",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Close Encounters of the Murderous Kind",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Last Call",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Nikki Heat",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Poof, You're Dead",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Knockdown",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Lucky Stiff",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "The Final Nail",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Setup",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Countdown",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "One Life to Lose",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Law & Murder",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Slice of Death",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "The Dead Pool",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "To Love and Die in L.A.",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Pretty Dead",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "Knockout",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rise",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Heroes and Villains",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Head Case",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Kick the Ballistics",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Eye of the Beholder",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Demons",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Cops & Robbers",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Heartbreak Hotel",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Kill Shot",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Cuffed",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Til Death Do Us Part",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Dial M for Mayor",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "An Embarrassment of Bitches",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Blue Butterfly",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Pandora",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Linchpin",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Once Upon a Crime",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "A Dance with Death",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "47 Seconds",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "The Limey",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Headhunters",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Undead Again",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Always",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "After the Storm",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Cloudy with a Chance of Murder",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Secret's Safe with Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Murder He Wrote",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Probable Cause",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "The Final Frontier",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Swan Song",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "After Hours",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Secret Santa",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Significant Others",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Under the Influence",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Death Gone Crazy",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Recoil",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Reality Star Struck",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Target",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "Hunt",
+        "rating": 9.3
+      },
+      {
+        "episode": 17,
+        "name": "Scared to Death",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "The Wild Rover",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "The Lives of Others",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "The Fast and the Furriest",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "The Squab and the Quail",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Still",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "The Human Factor",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Watershed",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Valkyrie",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Dreamworld",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Need to Know",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Number One Fan",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Time Will Tell",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Get a Clue",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Like Father, Like Daughter",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "A Murder Is Forever",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Disciple",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Good, the Bad & the Baby",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Under Fire",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Deep Cover",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Limelight",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Dressed to Kill",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Smells Like Teen Spirit",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Room 147",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "In the Belly of the Beast",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "The Way of the Ninja",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Greater Good",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "That '70s Show",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Law & Boarder",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "Veritas",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "For Better or Worse",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Driven",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Montreal",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Clear & Present Danger",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Child's Play",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Meme Is Murder",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Time of Our Lives",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Once Upon a Time in the West",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Kill Switch",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Last Action Hero",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Bad Santa",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Castle, P.I.",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Private Eye Caramba!",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "I, Witness",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Resurrection",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "Reckoning",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "The Wrong Stuff",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Hong Kong Hustle",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "At Close Range",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Habeas Corpse",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Sleeper",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "In Plane Sight",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Dead from New York",
+        "rating": 7.3
+      },
+      {
+        "episode": 23,
+        "name": "Hollander's Woods",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "XY",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "XX",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "PhDead",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "What Lies Beneath",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Nose",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Cool Boys",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Last Seduction",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Mr. & Mrs. Castle",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Tone Death",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Witness for the Prosecution",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Dead Red",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Blame Game",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "And Justice for All",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "G.D.S.",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Fidelis Ad Mortem",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Heartbreaker",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Death Wish",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Backstabber",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Dead Again",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Much Ado About Murder",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "Hell to Pay",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Crossfire",
+        "rating": 6.9
+      }
+    ]
+  ]
+}

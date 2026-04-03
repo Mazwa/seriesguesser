@@ -1,0 +1,485 @@
+{
+  "id": "61056-how-to-get-away-with-murder",
+  "rank": 161,
+  "answer": "How to Get Away with Murder",
+  "sourceUrl": "https://seriesgraph.com/show/61056-how-to-get-away-with-murder",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61056",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61056/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Stay",
+    "season": 6,
+    "episode": 15,
+    "rating": 9.5,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "It's All Her Fault",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Smile, or Go to Jail",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Let's Get to Scooping",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "We're Not Friends",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Freakin' Whack-a-Mole",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "He Deserved to Die",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "He Has a Wife",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Kill Me, Kill Me, Kill Me",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Hello Raskolnikov",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Best Christmas Ever",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "She's a Murderer",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Mama's Here Now",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "The Night Lila Died",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "It's All My Fault",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "It's Time to Move On",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "She's Dying",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "It's Called the Octopus",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Skanks Get Shanked",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Meet Bonnie",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Two Birds, One Millstone",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "I Want You to Die",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Hi, I'm Philip",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "What Did We Do?",
+        "rating": 9.5
+      },
+      {
+        "episode": 10,
+        "name": "What Happened to You, Annalise?",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "She Hates Us",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "It's a Trap",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Something Bad Happened",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "There's My Baby",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Anna Mae",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "We're Good People Now",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "There Are Worse Things Than Murder",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Always Bet Black",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Don't Tell Annalise",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "It's About Frank",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Is Someone Really Dead?",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Call It Mother's Intuition",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "No More Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Who's Dead?",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "We're Bad People",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Not Everything's About Annalise",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Go Cry Somewhere Else",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "It's War",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "He Made a Terrible Mistake",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Wes",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I'm Going Away",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "I'm Not Her",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "It's for the Greater Good",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Was She Ever Good at Her Job?",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "I Love Her",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Stay Strong, Mama",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Nobody Roots for Goliath",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Live. Live. Live.",
+        "rating": 9.5
+      },
+      {
+        "episode": 9,
+        "name": "He's Dead",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Everything We Did Was for Nothing",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "He's a Bad Father",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Ask Him About Stella",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Lahey v. Commonwealth of Pennsylvania",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "The Day Before He Died",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Nobody Else Is Dying",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Your Funeral",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Whose Blood Is That?",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Baby Was Never Dead",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "It's Her Kid",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "It Was the Worst Day of My Life",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "We Can Find Him",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "I Got Played",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "I Want to Love You Until the Day I Die",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "He Betrayed Us Both",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Don't Go Dark on Me",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Be the Martyr",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "We Know Everything",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Where Are Your Parents?",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Make Me the Enemy",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Please Say No One Else Is Dead",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Say Goodbye",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Vivian's Here",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Do You Think I'm a Bad Man?",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "I Hate the World",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "We're All Gonna Die",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Family Sucks",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "I'm the Murderer",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "I Want to Be Free",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Are You the Mole?",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "We're Not Getting Away with It",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "The Reckoning",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Let's Hurt Him",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "What If Sam Wasn't the Bad Guy This Whole Time?",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Annalise Keating Is Dead",
+        "rating": 9.1
+      },
+      {
+        "episode": 15,
+        "name": "Stay",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

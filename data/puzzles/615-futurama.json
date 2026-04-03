@@ -1,0 +1,941 @@
+{
+  "id": "615-futurama",
+  "rank": 150,
+  "answer": "Futurama",
+  "sourceUrl": "https://seriesgraph.com/show/615-futurama",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/615",
+    "seasonRatings": "https://seriesgraph.com/api/shows/615/season-ratings"
+  },
+  "years": {
+    "first": 1999,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Jurassic Bark",
+    "season": 5,
+    "episode": 2,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Space Pilot 3000",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Series Has Landed",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "I, Roommate",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Love's Labours Lost in Space",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Fear of a Bot Planet",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "A Fishful of Dollars",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "My Three Suns",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "A Big Piece of Garbage",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Hell Is Other Robots",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Flight to Remember",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Mars University",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "When Aliens Attack",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Fry and the Slurm Factory",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "I Second That Emotion",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Brannigan, Begin Again",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "A Head in the Polls",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Xmas Story",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Why Must I Be a Crustacean in Love?",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Put Your Head on My Shoulders",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "The Lesser of Two Evils",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Raging Bender",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "A Bicyclops Built for Two",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "How Hermes Requisitioned His Groove Back",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "A Clone of My Own",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Deep South",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Bender Gets Made",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "The Problem with Popplers",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Mother's Day",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Anthology of Interest I",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Honking",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "War Is the H-Word",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Cryonic Woman",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Parasites Lost",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Amazon Women in the Mood",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Bendless Love",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "The Day the Earth Stood Stupid",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "That's Lobstertainment!",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "The Birdbot of Ice-Catraz",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "The Luck of the Fryrish",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "The Cyber House Rules",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Insane in the Mainframe",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Bendin' in the Wind",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Time Keeps on Slipping",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "I Dated a Robot",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Roswell That Ends Well",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "A Tale of Two Santas",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Anthology of Interest II",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Love and Rocket",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Leela's Homeworld",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Where the Buggalo Roam",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "A Pharaoh to Remember",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Godfellas",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Future Stock",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "A Leela of Her Own",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "The 30% Iron Chef",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Where No Fan Has Gone Before",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Crimes of the Hot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Jurassic Bark",
+        "rating": 9.5
+      },
+      {
+        "episode": 3,
+        "name": "The Route of All Evil",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "A Taste of Freedom",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Kif Gets Knocked Up a Notch",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Less Than Hero",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Teenage Mutant Leela's Hurdles",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Why of Fry",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Sting",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Farnsworth Parabox",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Three Hundred Big Boys",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Spanish Fry",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Bend Her",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Obsoletely Fabulous",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Bender Should Not Be Allowed on TV",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Devil's Hands Are Idle Playthings",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bender's Big Score: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Bender's Big Score: Part 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Bender's Big Score: Part 3",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Bender's Big Score: Part 4",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Beast with a Billion Backs: Part 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Beast with a Billion Backs: Part 2",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "The Beast with a Billion Backs: Part 3",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "The Beast with a Billion Backs: Part 4",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Bender's Game: Part 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Bender's Game: Part 2",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Bender's Game: Part 3",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Bender's Game: Part 4",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Into the Wild Green Yonder: Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Into the Wild Green Yonder: Part 2",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Into the Wild Green Yonder: Part 3",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "Into the Wild Green Yonder: Part 4",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rebirth",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "In-A-Gadda-Da-Leela",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Attack of the Killer App",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Proposition Infinity",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Duh-Vinci Code",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Lethal Inspection",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Late Philip J. Fry",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "That Darn Katz!",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "A Clockwork Origin",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Prisoner of Benda",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Lrrreconcilable Ndndifferences",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "The Mutants Are Revolting",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Futurama Holiday Spectacular",
+        "rating": 6.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Neutopia",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Benderama",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Ghost in the Machines",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Law and Oracle",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Silence of the Clamps",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Yo Leela Leela",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "All the Presidents' Heads",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Möbius Dick",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Fry Am the Egg Man",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "The Tip of the Zoidberg",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Cold Warriors",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Overclockwise",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Reincarnation",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Bots and the Bees",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "A Farewell to Arms",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Decision 3012",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "The Thief of Baghead",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Zapp Dingbat",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "The Butterjunk Effect",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "The Six Million Dollar Mon",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Fun on a Bun",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Free Will Hunting",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Near-Death Wish",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Viva Mars Vegas",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "31st Century Fox",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Naturama",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "2-D Blacktop",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Fry and Leela's Big Fling",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "T.: The Terrestrial",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Forty Percent Leadbelly",
+        "rating": 6.6
+      },
+      {
+        "episode": 5,
+        "name": "The Inhuman Torch",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Saturday Morning Fun Pit",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "Calculon 2.0",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Assie Come Home",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Leela and the Genestalk",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Game of Tones",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Murder on the Planet Express",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Stench and Stenchibility",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Meanwhile",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Impossible Stream",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Children of a Lesser Bog",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "How the West Was 1010001",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "Parasites Regained",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Related to Items You've Viewed",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "I Know What You Did Next Xmas",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Rage Against the Vaccine",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "Zapp Gets Canceled",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "The Prince and the Product",
+        "rating": 4.3
+      },
+      {
+        "episode": 10,
+        "name": "All the Way Down",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The One Amigo",
+        "rating": 6.3
+      },
+      {
+        "episode": 2,
+        "name": "Quids Game",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "The Temp",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Beauty and the Bug",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "One Is Silicon and the Other Gold",
+        "rating": 6.6
+      },
+      {
+        "episode": 6,
+        "name": "Attack of the Clothes",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "Planet Espresso",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "Cuteness Overlord",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "The Futurama Mystery Liberry",
+        "rating": 6.1
+      },
+      {
+        "episode": 10,
+        "name": "Otherwise",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Destroy Tall Monsters",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "The World is Hot Enough",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Fifty Shades of Green",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "The Numberland Gap",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Scared Screenless",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "Wicked Human",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Murderoni",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "Crab Splatter",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "The Trouble with Truffles",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "The White Hole",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #14.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #14.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #14.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #14.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #14.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #14.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #14.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #14.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #14.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #14.10"
+      }
+    ]
+  ]
+}

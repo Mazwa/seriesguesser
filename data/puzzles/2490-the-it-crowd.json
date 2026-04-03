@@ -1,0 +1,151 @@
+{
+  "id": "2490-the-it-crowd",
+  "rank": 159,
+  "answer": "The IT Crowd",
+  "sourceUrl": "https://seriesgraph.com/show/2490-the-it-crowd",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2490",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2490/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2010
+  },
+  "highestRatedEpisode": {
+    "name": "The Work Outing",
+    "season": 2,
+    "episode": 1,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Yesterday's Jam",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Calamity Jen",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Fifty-Fifty",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Red Door",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Haunting of Bill Crouse",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Aunt Irma Visits",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Work Outing",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "Return of the Golden Child",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Moss and the German",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Dinner Party",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Smoke and Mirrors",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Men Without Women",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "From Hell",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Are We Not Men?",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Tramps Like Us",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Speech",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Friendface",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Calendar Geeks",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jen the Fredo",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Final Countdown",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Something Happened",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Italian for Beginners",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Bad Boys",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Reynholm vs Reynholm",
+        "rating": 7.6
+      }
+    ]
+  ]
+}

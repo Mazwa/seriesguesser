@@ -1,0 +1,283 @@
+{
+  "id": "56296-orphan-black",
+  "rank": 160,
+  "answer": "Orphan Black",
+  "sourceUrl": "https://seriesgraph.com/show/56296-orphan-black",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/56296",
+    "seasonRatings": "https://seriesgraph.com/api/shows/56296/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "The Scandal of Altruism",
+    "season": 4,
+    "episode": 6,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Natural Selection",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Instinct",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Variation Under Nature",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Effects of External Conditions",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Conditions of Existence",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Variations Under Domestication",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Parts Developed in an Unusual Manner",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Entangled Bank",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Unconscious Selection",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Endless Forms Most Beautiful",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nature Under Constraint and Vexed",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Governed by Sound Reason and True Religion",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Mingling Its Own Nature with It",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Governed as It Were by Chance",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Ipsa Scientia Potestas Est",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "To Hound Nature in Her Wanderings",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Knowledge of Causes, and Secret Motion of Things",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Variable and Full of Perturbation",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Things Which Have Never Yet Been Done",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "By Means Which Have Never Yet Been Tried",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Weight of This Combination",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Transitory Sacrifices of Crisis",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Formalized, Complex, and Costly",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Newer Elements of Our Defense",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Scarred by Many Past Frustrations",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Certain Agony of the Battlefield",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Community of Dreadful Fear and Hate",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Ruthless in Purpose, and Insidious in Method",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Insolvent Phantom of Tomorrow",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "History Yet to Be Written",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Collapse of Nature",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Transgressive Border Crossing",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Stigmata of Progress",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "From Instinct to Rational Control",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Human Raw Material",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Scandal of Altruism",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "The Antisocialism of Sex",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Redesign of Natural Objects",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Mitigation of Competition",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "From Dancing Mice to Psychopaths",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Few Who Dare",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Clutch of Greed",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Beneath Her Heart",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Let the Children and Childbearers Toil",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Ease for Idle Millionaires",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Manacled Slim Wrists",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Gag or Throttle",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Guillotines Decide",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "One Fettered Slave",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "To Right the Wrongs of Many",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

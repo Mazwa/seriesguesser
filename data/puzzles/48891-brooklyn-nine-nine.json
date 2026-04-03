@@ -1,0 +1,804 @@
+{
+  "id": "48891-brooklyn-nine-nine",
+  "rank": 96,
+  "answer": "Brooklyn Nine-Nine",
+  "sourceUrl": "https://seriesgraph.com/show/48891-brooklyn-nine-nine",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/48891",
+    "seasonRatings": "https://seriesgraph.com/api/shows/48891/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "The Box",
+    "season": 5,
+    "episode": 14,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Tagger",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Slump",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "M.E. Time",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "The Vulture",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Halloween",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "48 Hours",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Old School",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Sal's Pizza",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Thanksgiving",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Christmas",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Pontiac Bandit",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Bet",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "The Ebony Falcon",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Operation: Broken Feather",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Party",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Full Boyle",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Apartment",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Tactical Village",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Fancy Brudgom",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Unsolvable",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Charges and Specs",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Undercover",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Chocolate Milk",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Jimmy Jab Games",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Halloween II",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Mole",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Jake and Sophia",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Lockdown",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "USPIS",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "The Road Trip",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Pontiac Bandit Returns",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Stakeout",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Beach House",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Payback",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Defense Rests",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Windbreaker City",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "The Wednesday Incident",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Boyle-Linetti Wedding",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Captain Peralta",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Sabotage",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "AC/DC",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Det. Dave Majors",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "The Chopper",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Johnny and Dora",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Captain",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Funeral",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Boyle's Hunch",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Oolong Slayer",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Halloween III",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Into the Woods",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Mattress",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Ava",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Swedes",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Yippie Kayak",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Hostage Situation",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "9 Days",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "The Cruise",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Karen Peralta",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The 9-8",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "House Mouses",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Adrian Pimento",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Cheddar",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Terry Kitties",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Paranoia",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Maximum Security",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Bureau",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Greg and Larry",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Coral Palms, Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Coral Palms, Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Coral Palms, Part 3",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Night Shift",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Halloween IV",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Monster in the Closet",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Mr. Santiago",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Skyfire Cycle",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Overmining",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Captain Latvia",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "The Fugitive, Part 1",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Fugitive, Part 2",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Audit",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Serve & Protect",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "The Last Ride",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Moo Moo",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Cop-Con",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Chasing Amy",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Your Honor",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Slaughterhouse",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "The Bank Job",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Crime & Punishment",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Big House Pt. 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Big House Pt. 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Kicks",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "HalloVeen",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "Bad Beat",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Venue",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Two Turkeys",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Return to Skyfire",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "99",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Game Night",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Favor",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Safe House",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "The Negotiation",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Box",
+        "rating": 9.5
+      },
+      {
+        "episode": 15,
+        "name": "The Puzzle Master",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "NutriBoom",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "DFW",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Gray Star Mutual",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Bachelor/ette Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Show Me Going",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "White Whale",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Jake & Amy",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Honeymoon",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Hitchcock & Scully",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "The Tattler",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Four Movements",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "A Tale of Two Bandits",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Crime Scene",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Honeypot",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "He Said, She Said",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "The Golden Child",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Gintars",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Therapist",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Casecation",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Bimbo",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Ticking Clocks",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Return of the King",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "Cinco de Mayo",
+        "rating": 9
+      },
+      {
+        "episode": 17,
+        "name": "Sicko",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Suicide Squad",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Manhunter",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Captain Kim",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Pimemento",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Jimmy Jab Games II",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Debbie",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Trying",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Ding Dong",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Takeback",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Dillman",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Admiral Peralta",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Valloweaster",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Ransom",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Lights Out",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Good Ones",
+        "rating": 4.9
+      },
+      {
+        "episode": 2,
+        "name": "The Lake House",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Blue Flu",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "Balancing",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "PB&J",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Set Up",
+        "rating": 6.7
+      },
+      {
+        "episode": 7,
+        "name": "Game of Boyles",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Renewal",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Last Day Pt 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Last Day Pt 2",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

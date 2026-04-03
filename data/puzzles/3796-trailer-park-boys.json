@@ -1,0 +1,619 @@
+{
+  "id": "3796-trailer-park-boys",
+  "rank": 195,
+  "answer": "Trailer Park Boys",
+  "sourceUrl": "https://seriesgraph.com/show/3796-trailer-park-boys",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/3796",
+    "seasonRatings": "https://seriesgraph.com/api/shows/3796/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "Closer to the Heart",
+    "season": 3,
+    "episode": 5,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Take Your Little Gun and Get Out of My Trailer Park",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Fuck Community College. Let's Get Drunk and Eat Chicken Fingers",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Mr. Lahey's Got My Porno Tape!",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Mrs. Peterson's Dog Gets Fucked Up",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "I'm Not Gay, I love Lucy. Wait a Second, Maybe I am Gay",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Who the Hell Invited These Idiots to My Wedding?",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "What in the Fuck Happened to Our Trailer Park?",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Jim Lahey Is a Drunk Bastard",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "I've Met Cats and Dogs Smarter Than Trevor and Cory",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "A Dope Trailer Is No Place for a Kitty",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Bible Pimp",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Never Trust a Man with No Shirt On",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Bare Pimp Project",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Kiss of Freedom",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Temporary Relief Assistant Trailer Park Supervisor",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "If I Can't Smoke and Swear. I'm Fucked",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Who's the Microphone Assassin?",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Closer to the Heart",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Where in the Fuck Is Randy's Barbeque?",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Delusions of Officer Jim Lahey",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "A Shit Leopard Can't Change Its Spots",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Never Cry Shitwolf",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "A Man's Gotta Eat",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Rub n Tiz'zug",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Green Bastard",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Conky",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "If You Love Something, Set It Free",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Propane, Propane",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Workin' Man",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Dear Santa Claus: Go Fuck Yourself",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Give Peace a Chance",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Shit Puppets",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Fuckin' Way She Goes",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "You Got to Blame the Thing Up Here",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Mr. Lahey Is a Fuckin' Drunk, and He Always Will Be",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Don't Cross the Shitline",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Winds of Shit",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Dressed All Over & Zesty Mordant",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "I Am the Liquor",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Shit Blizzard",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Way of the Road",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Cheeseburger Picnic",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "High Definition Piss Jugs",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Where in the Fuck Is Oscar Goldman?",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Halloween 1977",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Gimme My Fuckin Money or Randy's Dead",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Fuckin' Miss Cory and Trevor",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "I Banged Lucy and Knocked Her Up... No Big Deal",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Three Good Men Are Dead",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Friends of the Road",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Mustard Tiger",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "We Can't Call People Without Wings Angels So We Call Them Friends",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Jump the Cheeseburger",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Let the Liquor do the Thinking",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Going Off the Rails on a Swayze Train",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "A Shit River Runs Through It",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Money Can Suck My Cock",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Fuckin' V-Team",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Dirty Dancer",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Orangie's Pretty Fuckin' Tough",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Whore-A-Geddon",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Friends with the Benedicts",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Community Service and a Boner Made with Love",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Super-Duper-Industrial-Bubbles-Honey-Oil-Inator",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Righties Loosies, Lefties Tighties",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Crawling Through the Shitpipe",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Why in the Fuck Is My Trailer Pink?",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "A Stable Fucking Environment",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Anointed in Liquor",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "George Green: Industrial Cock Inhaler",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "The Motel Can't Live at the Motel",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Sweet Liquory Load",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Piss",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "A Dancer for Money",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Sam-Squamptches and Heli-Cocksuckers",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Liquor Snurf",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Freedom 45?",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "You Want the Lot Fees, Suck Them Out of the Tip of My Cock",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "A Three Tiered Shit Dyke",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Shit Covered Cave Teeth",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "If You Don't Believe It, It's Not Real",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "All the Fuckin Dope You Can Smoke",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Up in Smoke We Go",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "The Super Bling Cowboy",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Thugged Out Gangsta Shit",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Looks Like the Liquor Wins",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Jack Your Cock Furry Whore Slut",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Walker Zombley",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "My Fucking Balls, My Cock, My Hole or My Tits?",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Darth Lahey",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Flight of the Bumblecock",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "How Do You Keep Your Bag So Soft?",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "I Look Like A FUCKING DICK!!",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "A Liquor Captain Never Abandons a Sinking Shit Ship",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Oh My Fuck Boys, We Killed Lahey & Randy",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The All You Can Eat Shit Buffet",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chlamydia",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Godspeed My Muscular Friend",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Cunt Word",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "All The Shit I Need",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Happy Birthday Bubbles",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Flow Me The Money",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Big Cock",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Will You For To Be Fucking Married To Me?",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Angel Shit Sent Down From Jesus God",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Fuckin' Fucked Out Of Our Fuckin' Minds",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #13.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #13.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #13.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #13.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #13.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #13.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #13.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #13.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #13.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #13.10"
+      }
+    ]
+  ]
+}

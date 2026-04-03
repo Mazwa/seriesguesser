@@ -1,0 +1,410 @@
+{
+  "id": "46533-the-americans",
+  "rank": 143,
+  "answer": "The Americans",
+  "sourceUrl": "https://seriesgraph.com/show/46533-the-americans",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46533",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46533/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "START",
+    "season": 6,
+    "episode": 10,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Clock",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Gregory",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "In Control",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Comint",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Trust Me",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Duty and Honor",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Mutually Assured Destruction",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Safe House",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Only You",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Covert War",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "The Oath",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The Colonel",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Comrades",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Cardinal",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Walk-In",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "A Little Night Music",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Deal",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Behind the Red Door",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "ARPANET",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "New Car",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Martial Eagle",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Yousaf",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Stealth",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Operation Chronicle",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Echo",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "EST Men",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Baggage",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Open House",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Dimebag",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Salang Pass",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Born Again",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Walter Taffet",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Divestment",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Do Mail Robots Dream of Electric Sheep?",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Stingers",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "One Day in the Life of Anton Baklanov",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "I Am Abassin Zadran",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "March 8, 1983",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Glanders",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Pastor Tim",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Experimental Prototype City of Tomorrow",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Chloramphenicol",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Clark's Place",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Rat",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Travel Agents",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "The Magic of David Copperfield V: The Statue of Liberty Disappears",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Day After",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Munchkins",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Dinner for Seven",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "A Roy Rogers in Franconia",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Persona Non Grata",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Amber Waves",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Pests",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Midges",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "What's the Matter with Kansas?",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Lotus 1-2-3",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Crossbreed",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Committee on Human Rights",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Immersion",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "IHOP",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Darkroom",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Dyatkovo",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The World Council of Churches",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Soviet Division",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dead Hand",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Tchaikovsky",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Urban Transport Planning",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Mr. and Mrs. Teacup",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Great Patriotic War",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Rififi",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Harvest",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "The Summit",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Jennings, Elizabeth",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "START",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

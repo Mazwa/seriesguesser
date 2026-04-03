@@ -1,0 +1,236 @@
+{
+  "id": "250307-the-pitt",
+  "rank": 73,
+  "answer": "The Pitt",
+  "sourceUrl": "https://seriesgraph.com/show/250307-the-pitt",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/250307",
+    "seasonRatings": "https://seriesgraph.com/api/shows/250307/season-ratings"
+  },
+  "years": {
+    "first": 2025,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "6:00 P.M.",
+    "season": 1,
+    "episode": 12,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "7:00 A.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "8:00 A.M.",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "9:00 A.M.",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "10:00 A.M.",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "11:00 A.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "12:00 P.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "1:00 P.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "2:00 P.M.",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "3:00 P.M.",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "4:00 P.M.",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "5:00 P.M.",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "6:00 P.M.",
+        "rating": 9.6
+      },
+      {
+        "episode": 13,
+        "name": "7:00 P.M.",
+        "rating": 9.6
+      },
+      {
+        "episode": 14,
+        "name": "8:00 P.M.",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "9:00 P.M.",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "7:00 A.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "8:00 A.M.",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "9:00 A.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "10:00 A.M.",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "11:00 A.M.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "12:00 P.M.",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "1:00 P.M.",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "2:00 P.M.",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "3:00 P.M.",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "4:00 P.M.",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "5:00 P.M.",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "6:00 P.M.",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "7:00 P.M."
+      },
+      {
+        "episode": 14,
+        "name": "8:00 P.M."
+      },
+      {
+        "episode": 15,
+        "name": "9:00 P.M."
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #3.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #3.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #3.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #3.10"
+      },
+      {
+        "episode": 11,
+        "name": "Episode #3.11"
+      },
+      {
+        "episode": 12,
+        "name": "Episode #3.12"
+      },
+      {
+        "episode": 13,
+        "name": "Episode #3.13"
+      },
+      {
+        "episode": 14,
+        "name": "Episode #3.14"
+      },
+      {
+        "episode": 15,
+        "name": "Episode #3.15"
+      }
+    ]
+  ]
+}

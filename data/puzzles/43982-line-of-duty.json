@@ -1,0 +1,241 @@
+{
+  "id": "43982-line-of-duty",
+  "rank": 144,
+  "answer": "Line of Duty",
+  "sourceUrl": "https://seriesgraph.com/show/43982-line-of-duty",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/43982",
+    "seasonRatings": "https://seriesgraph.com/api/shows/43982/season-ratings"
+  },
+  "years": {
+    "first": 2012,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Breach",
+    "season": 3,
+    "episode": 6,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "A Disastrous Affair",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Assault",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "In the Trap",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Terror",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Probation",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ambush",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Carly",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Behind Bars",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Blood Money",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Last Words",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Caddy",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Monsters",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Process",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Snake Pit",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Negative Pressure",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The List",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Breach",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In the Shadow of the Truth",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Who Sows the Wind",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "In the Trap",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Moral Superiority",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Lying Nest",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Royal Hunting Ground",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Operation Pear Tree",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Head of Medusa",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Code Zero",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Betrayal",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "On Your Own",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Intrigue",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #6.1",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Episode #6.2",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Episode #6.3",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Episode #6.4",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Episode #6.5",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Episode #6.6",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Episode #6.7",
+        "rating": 6.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #7.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #7.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #7.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #7.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #7.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #7.6"
+      }
+    ]
+  ]
+}

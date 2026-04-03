@@ -1,0 +1,269 @@
+{
+  "id": "1920-twin-peaks",
+  "rank": 75,
+  "answer": "Twin Peaks",
+  "sourceUrl": "https://seriesgraph.com/show/1920-twin-peaks",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1920",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1920/season-ratings"
+  },
+  "years": {
+    "first": 1990,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Part 16",
+    "season": 3,
+    "episode": 16,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Northwest Passage",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Traces to Nowhere",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Zen, or the Skill to Catch a Killer",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Rest in Pain",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The One-Armed Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Cooper's Dreams",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Realization Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Last Evening",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "May the Giant Be with You",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Coma",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Man Behind the Glass",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Laura's Secret Diary",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Orchid's Curse",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Demons",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Lonely Souls",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "Drive with a Dead Girl",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Arbitrary Law",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Dispute Between Brothers",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Masked Ball",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "The Black Widow",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Checkmate",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Double Play",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Slaves and Masters",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "The Condemned Woman",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Wounds and Scars",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "On the Wings of Love",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Variations on Relations",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Path to the Black Lodge",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Miss Twin Peaks",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Beyond Life and Death",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Part 3",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Part 4",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Part 5",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Part 6",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Part 7",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Part 8",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Part 9",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Part 10",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Part 11",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Part 12",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Part 13",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Part 14",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Part 15",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Part 16",
+        "rating": 9.5
+      },
+      {
+        "episode": 17,
+        "name": "Part 17",
+        "rating": 9.4
+      },
+      {
+        "episode": 18,
+        "name": "Part 18",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

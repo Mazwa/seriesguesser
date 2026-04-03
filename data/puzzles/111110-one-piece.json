@@ -1,0 +1,113 @@
+{
+  "id": "111110-one-piece",
+  "rank": 238,
+  "answer": "One Piece",
+  "sourceUrl": "https://seriesgraph.com/show/111110-one-piece",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/111110",
+    "seasonRatings": "https://seriesgraph.com/api/shows/111110/season-ratings"
+  },
+  "years": {
+    "first": 2023,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Reindeer Shames",
+    "season": 2,
+    "episode": 7,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Romance Dawn",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Man in the Straw Hat",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Tell No Tales",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Pirates Are Coming",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Eat at Baratie!",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Chef and the Chore Boy",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Girl with the Sawfish Tattoo",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Worst in the East",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Beginning and the End",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Good Whale Hunting",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Whisky Business",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Big Trouble in Little Garden",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Wax On, Wax Off",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Nami Deerest",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Reindeer Shames",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "Deer and Loathing in Drum Kingdom",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      }
+    ]
+  ]
+}

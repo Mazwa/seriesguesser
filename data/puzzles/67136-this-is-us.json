@@ -1,0 +1,565 @@
+{
+  "id": "67136-this-is-us",
+  "rank": 36,
+  "answer": "This Is Us",
+  "sourceUrl": "https://seriesgraph.com/show/67136-this-is-us",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67136",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67136/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Super Bowl Sunday",
+    "season": 2,
+    "episode": 14,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "The Big Three",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Kyle",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Pool",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Game Plan",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Career Days",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Best Washing Machine in the Whole World",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Pilgrim Rick",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "The Trip",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Last Christmas",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "The Right Thing to Do",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Big Day",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Three Sentences",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "I Call Marriage",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Jack Pearson's Son",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Memphis",
+        "rating": 9.5
+      },
+      {
+        "episode": 17,
+        "name": "What Now?",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Moonshadow",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Father's Advice",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "A Manny-Splendored Thing",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Déjà Vu",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Still There",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Brothers",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The 20's",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Most Disappointed Man",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Number One",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "Number Two",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Number Three",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "The Fifth Wheel",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Clooney",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "That'll Be the Day",
+        "rating": 9.3
+      },
+      {
+        "episode": 14,
+        "name": "Super Bowl Sunday",
+        "rating": 9.7
+      },
+      {
+        "episode": 15,
+        "name": "The Car",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "Vegas, Baby",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "This Big, Amazing, Beautiful Life",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Wedding",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nine Bucks",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "A Philadelphia Story",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Katie Girls",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Vietnam",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Toby",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Kamsahamnida",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Sometimes",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Six Thanksgivings",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Beginning Is the End Is the Beginning",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Last Seven Weeks",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Songbird Road: Part One",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Songbird Road: Part Two",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Our Little Island Girl",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "The Graduates",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "The Waiting Room",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Don't Take My Sunshine Away",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "R & B",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Her",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Strangers",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Pool: Part Two",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Unhinged",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Flip a Coin",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Storybook Love",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Club",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Dinner and the Date",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Sorry",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "So Long, Marianne",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Light and Shadows",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "A Hell of a Week: Part One",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "A Hell of a Week: Part Two",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "A Hell of a Week: Part Three",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "The Cabin",
+        "rating": 9.5
+      },
+      {
+        "episode": 15,
+        "name": "Clouds",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "New York, New York, New York",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "After the Fire",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Strangers: Part Two",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Forty: Part One",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Forty: Part Two",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Changes",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Honestly",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "A Long Road Home",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Birth Mother",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "There",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "In the Room",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Ride",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "I've Got This",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "One Small Step...",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Both Things Can Be True",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Brotherly Love",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Music and the Mirror",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Jerry 2.0",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Adirondacks",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Challenger",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "One Giant Leap",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Four Fathers",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Don't Let Me Keep You",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Heart and Soul",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Our Little Island Girl: Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Taboo",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Guitar Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Hill",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Every Version of You",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Saturday in the Park",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Katoby",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Day of the Wedding",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "The Night Before the Wedding",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Miguel",
+        "rating": 9.5
+      },
+      {
+        "episode": 16,
+        "name": "Family Meeting",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "The Train",
+        "rating": 9.7
+      },
+      {
+        "episode": 18,
+        "name": "Us",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

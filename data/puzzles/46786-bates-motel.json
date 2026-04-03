@@ -1,0 +1,283 @@
+{
+  "id": "46786-bates-motel",
+  "rank": 197,
+  "answer": "Bates Motel",
+  "sourceUrl": "https://seriesgraph.com/show/46786-bates-motel",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46786",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46786/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Forever",
+    "season": 4,
+    "episode": 9,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "First You Dream, Then You Die",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Nice Town You Picked, Norma...",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "What's Wrong with Norman",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Trust Me",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Ocean View",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Truth",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Man in Number 9",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "A Boy and His Dog",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Underwater",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Midnight",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gone But Not Forgotten",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Shadow of a Doubt",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Caleb",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Check-Out",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Escape Artist",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Plunge",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Presumed Innocent",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Meltdown",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Box",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Immutable Truth",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Death in the Family",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Arcanum Club",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Persuasion",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Unbreak-Able",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Deal",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Norma Louise",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Last Supper",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Pit",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Crazy",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Unconscious",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Danger to Himself and Others",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Goodnight, Mother",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Til Death Do You Part",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Lights of Winter",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Refraction",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Vault",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "There's No Place Like Home",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Unfaithful",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Forever",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Norman",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dark Paradise",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Convergence of the Twain",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Bad Blood",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Hidden",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Dreams Die First",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Marion",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Inseparable",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "The Body",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Visiting Hours",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Cord",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "id": "72-only-fools-and-horses",
+  "rank": 107,
+  "answer": "Only Fools and Horses",
+  "sourceUrl": "https://seriesgraph.com/show/72-only-fools-and-horses",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/72",
+    "seasonRatings": "https://seriesgraph.com/api/shows/72/season-ratings"
+  },
+  "years": {
+    "first": 1981,
+    "last": 1991
+  },
+  "highestRatedEpisode": {
+    "name": "The Jolly Boys' Outing",
+    "season": 6,
+    "episode": 7,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Big Brother",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Go West Young Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Cash and Curry",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Second Time Around",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "A Slow Bus to Chingford",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The Russians Are Coming",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Christmas Crackers",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Long Legs of the Law",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Ashes to Ashes",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "A Losing Streak",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "No Greater Love...",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Yellow Peril",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "It Never Rains....",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "A Touch of Glass",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Diamonds Are for Heather",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homesick",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Healthy Competition",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Friday the 14th",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Yesterday Never Comes",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "May the Force Be with You",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Wanted",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Who's a Pretty Boy?",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Thicker Than Water",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Happy Returns",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Strained Relations",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Hole in One",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "It's Only Rock and Roll",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Sleeping Dogs Lie",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Watching the Girls Go By",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "As One Door Closes",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "To Hull and Back",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "From Prussia with Love",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Miracle of Peckham",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Longest Night",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Tea for Three",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Video Nasty",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Who Wants to Be a Millionaire?",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "A Royal Flush",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "The Frog's Legacy",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Dates",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Yuppy Love",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Danger UXD",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Chain Gang",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "The Unlucky Winner Is...",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Sickness & Wealth",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Little Problems",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "The Jolly Boys' Outing",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Sky's the Limit",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Chance of a Lunchtime",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Stage Fright",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "The Class of '62",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "He Ain't Heavy, He's My Uncle",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Three Men, a Woman, and a Baby",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Miami Twice: The American Dream",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Miami Twice",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Mother Nature's Son",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Fatal Extraction",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Heroes and Villains",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "Modern Men",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Time on Our Hands",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "If They Could See Us Now.....!",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Strangers on the Shore...!",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Sleepless in Peckham...!",
+        "rating": 7.8
+      }
+    ]
+  ]
+}

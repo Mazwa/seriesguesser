@@ -1,0 +1,1433 @@
+{
+  "id": "15260-adventure-time",
+  "rank": 125,
+  "answer": "Adventure Time",
+  "sourceUrl": "https://seriesgraph.com/show/15260-adventure-time",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/15260",
+    "seasonRatings": "https://seriesgraph.com/api/shows/15260/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "Come Along With Me",
+    "season": 10,
+    "episode": 13,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Slumber Party Panic",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Trouble in Lumpy Space",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Prisoners of Love",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Tree Trunks",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Enchiridion!",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Jiggler",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "Ricardio the Heart Guy",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Business Time",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "My Two Favorite People",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Memories of Boom Boom Mountain",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Wizard",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Evicted!",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "City of Thieves",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "The Witch's Garden",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "What Is Life?",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Ocean of Fear",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "When Wedding Bells Thaw",
+        "rating": 6.9
+      },
+      {
+        "episode": 18,
+        "name": "Dungeon",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Duke",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Freak City",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "Donny",
+        "rating": 7
+      },
+      {
+        "episode": 22,
+        "name": "Henchman",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Rainy Day Daydream",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "What Have You Done?",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "His Hero",
+        "rating": 7.5
+      },
+      {
+        "episode": 26,
+        "name": "Gut Grinder",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "It Came from the Nightosphere",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Eyes",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Loyalty to the King",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Blood Under the Skin",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Storytelling",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Slow Love",
+        "rating": 6.4
+      },
+      {
+        "episode": 7,
+        "name": "Power Animal",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Crystals Have Power",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "The Other Tarts",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "To Cut a Woman's Hair",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Chamber of Frozen Blades",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Her Parents",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "The Pods",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "The Silent King",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "The Real You",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Guardians of Sunshine",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Death in Bloom",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Susan Strong",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Mystery Train",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Go with Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Belly of the Beast",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "The Limit",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Video Makers",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Mortal Folly",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "Mortal Recoil",
+        "rating": 8.8
+      },
+      {
+        "episode": 26,
+        "name": "Heat Signature",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Conquest of Cuteness",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Morituri Te Salutamus",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Memory of a Memory",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Hitman",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Too Young",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Monster",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "Still",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Wizard Battle",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Fionna and Cake",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "What Was Missing",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Apple Thief",
+        "rating": 6.6
+      },
+      {
+        "episode": 12,
+        "name": "The Creeps",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "From Bad to Worse",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Beautopia",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "No One Can Hear You",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Jake vs. Me-Mow",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Thank You",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "The New Frontier",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Holly Jolly Secrets",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Marceline's Closet",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Paper Pete",
+        "rating": 6.9
+      },
+      {
+        "episode": 23,
+        "name": "Another Way",
+        "rating": 7.3
+      },
+      {
+        "episode": 24,
+        "name": "Ghost Princess",
+        "rating": 7.4
+      },
+      {
+        "episode": 25,
+        "name": "Dad's Dungeon",
+        "rating": 8.3
+      },
+      {
+        "episode": 26,
+        "name": "Incendium",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hot to the Touch",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Five Short Graybles",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Web Weirdos",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Dream of Love",
+        "rating": 5.8
+      },
+      {
+        "episode": 5,
+        "name": "Return to the Nightosphere",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Daddy's Little Monster",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "In Your Footsteps",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Hug Wolf",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Princess Monster Wife",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Goliad",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Beyond This Earthly Realm",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Gotcha!",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Princess Cookie",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Card Wars",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Sons of Mars",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Burning Low",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "BMO Noire",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "King Worm",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Lady & Peebles",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "You Made Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Who Would Win",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "Ignition Point",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "The Hard Easy",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "Reign of Gunters",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "I Remember You",
+        "rating": 9.7
+      },
+      {
+        "episode": 26,
+        "name": "The Lich",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Finn the Human",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Jake the Dog",
+        "rating": 9.4
+      },
+      {
+        "episode": 3,
+        "name": "Five More Short Graybles",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Up a Tree",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "All the Little People",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Jake the Dad",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Davey",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Mystery Dungeon",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "All Your Fault",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Little Dude",
+        "rating": 7.1
+      },
+      {
+        "episode": 11,
+        "name": "Bad Little Boy",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Vault of Bones",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "The Great Bird Man",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Simon & Marcy",
+        "rating": 9.7
+      },
+      {
+        "episode": 15,
+        "name": "A Glitch Is a Glitch",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Puhoy",
+        "rating": 9.1
+      },
+      {
+        "episode": 17,
+        "name": "BMO Lost",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Princess Potluck",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "James Baxter the Horse",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "Shh!",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Suitor",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "The Party's Over, Isla de Señorita",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "One Last Job",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Another Five More Short Graybles",
+        "rating": 7.4
+      },
+      {
+        "episode": 25,
+        "name": "Candy Streets",
+        "rating": 7.3
+      },
+      {
+        "episode": 26,
+        "name": "Wizards Only, Fools",
+        "rating": 7.7
+      },
+      {
+        "episode": 27,
+        "name": "Jakesuit",
+        "rating": 7.7
+      },
+      {
+        "episode": 28,
+        "name": "Be More",
+        "rating": 8.7
+      },
+      {
+        "episode": 29,
+        "name": "Sky Witch",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Frost & Fire",
+        "rating": 7.9
+      },
+      {
+        "episode": 31,
+        "name": "Too Old",
+        "rating": 7.7
+      },
+      {
+        "episode": 32,
+        "name": "Earth & Water",
+        "rating": 7.8
+      },
+      {
+        "episode": 33,
+        "name": "Time Sandwich",
+        "rating": 8.4
+      },
+      {
+        "episode": 34,
+        "name": "The Vault",
+        "rating": 8.8
+      },
+      {
+        "episode": 35,
+        "name": "Love Games",
+        "rating": 6.6
+      },
+      {
+        "episode": 36,
+        "name": "Dungeon Train",
+        "rating": 8.1
+      },
+      {
+        "episode": 37,
+        "name": "Box Prince",
+        "rating": 6.9
+      },
+      {
+        "episode": 38,
+        "name": "Red Starved",
+        "rating": 7.5
+      },
+      {
+        "episode": 39,
+        "name": "We Fixed a Truck",
+        "rating": 7.6
+      },
+      {
+        "episode": 40,
+        "name": "Play Date",
+        "rating": 7.4
+      },
+      {
+        "episode": 41,
+        "name": "The Pit",
+        "rating": 7.8
+      },
+      {
+        "episode": 42,
+        "name": "James",
+        "rating": 7.7
+      },
+      {
+        "episode": 43,
+        "name": "Root Beer Guy",
+        "rating": 8.3
+      },
+      {
+        "episode": 44,
+        "name": "Apple Wedding",
+        "rating": 7.1
+      },
+      {
+        "episode": 45,
+        "name": "Blade of Grass",
+        "rating": 8.6
+      },
+      {
+        "episode": 46,
+        "name": "Rattleballs",
+        "rating": 8.3
+      },
+      {
+        "episode": 47,
+        "name": "The Red Throne",
+        "rating": 7.5
+      },
+      {
+        "episode": 48,
+        "name": "Betty",
+        "rating": 9.1
+      },
+      {
+        "episode": 49,
+        "name": "Bad Timing",
+        "rating": 7.3
+      },
+      {
+        "episode": 50,
+        "name": "Lemonhope Part One",
+        "rating": 8
+      },
+      {
+        "episode": 51,
+        "name": "Lemonhope Part Two",
+        "rating": 8.7
+      },
+      {
+        "episode": 52,
+        "name": "Billy's Bucket List",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wake Up",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Escape from the Citadel",
+        "rating": 9.5
+      },
+      {
+        "episode": 3,
+        "name": "James II",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "The Tower",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Sad Face",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "Breezy",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Food Chain",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Furniture & Meat",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "The Prince Who Wanted Everything",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "Something Big",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Little Brother",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Ocarina",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Thanks for the Crabapples, Giuseppe!",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Princess Day",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "Nemesis",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Joshua & Margaret Investigations",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Ghost Fly",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Everything's Jake",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Is That You?",
+        "rating": 9.2
+      },
+      {
+        "episode": 20,
+        "name": "Jake the Brick",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "Dentist",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "The Cooler",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "The Pajama War",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Evergreen",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "Astral Plane",
+        "rating": 8.9
+      },
+      {
+        "episode": 26,
+        "name": "Gold Stars",
+        "rating": 8
+      },
+      {
+        "episode": 27,
+        "name": "The Visitor",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "The Mountain",
+        "rating": 7.6
+      },
+      {
+        "episode": 29,
+        "name": "Dark Purple",
+        "rating": 7.4
+      },
+      {
+        "episode": 30,
+        "name": "The Diary",
+        "rating": 7.7
+      },
+      {
+        "episode": 31,
+        "name": "Walnuts & Rain",
+        "rating": 7.8
+      },
+      {
+        "episode": 32,
+        "name": "Friends Forever",
+        "rating": 7
+      },
+      {
+        "episode": 33,
+        "name": "Jermaine",
+        "rating": 8
+      },
+      {
+        "episode": 34,
+        "name": "Chips & Ice Cream",
+        "rating": 6.5
+      },
+      {
+        "episode": 35,
+        "name": "Graybles 1000+",
+        "rating": 8.2
+      },
+      {
+        "episode": 36,
+        "name": "Hoots",
+        "rating": 8.1
+      },
+      {
+        "episode": 37,
+        "name": "Water Park Prank",
+        "rating": 4.7
+      },
+      {
+        "episode": 38,
+        "name": "You Forgot Your Floaties",
+        "rating": 8.4
+      },
+      {
+        "episode": 39,
+        "name": "Be Sweet",
+        "rating": 7
+      },
+      {
+        "episode": 40,
+        "name": "Orgalorg",
+        "rating": 8.7
+      },
+      {
+        "episode": 41,
+        "name": "On the Lam",
+        "rating": 7.2
+      },
+      {
+        "episode": 42,
+        "name": "Hot Diggity Doom",
+        "rating": 8.2
+      },
+      {
+        "episode": 43,
+        "name": "The Comet",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bonnie & Neddy",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Varmints",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Cherry Cream Soda",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Mama Said",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Football",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Stakes Part 1: Marceline the Vampire Queen",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Stakes Part 2: Everything Stays",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "Stakes Part 3: Vamps About",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Stakes Part 4: The Empress Eyes",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Stakes Part 5: May I Come In?",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Stakes Part 6: Take Her Back",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Stakes Part 7: Checkmate",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Stakes Part 8: The Dark Cloud",
+        "rating": 9.2
+      },
+      {
+        "episode": 14,
+        "name": "The More You Moe",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "The Moe You Know",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Summer Showers",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Angel Face",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "President Porpoise Is Missing!",
+        "rating": 6.6
+      },
+      {
+        "episode": 19,
+        "name": "Blank Eyed Girl",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Bad Jubies",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "A King's Ransom",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Scamps",
+        "rating": 6.9
+      },
+      {
+        "episode": 23,
+        "name": "Crossover",
+        "rating": 9.2
+      },
+      {
+        "episode": 24,
+        "name": "The Hall of Egress",
+        "rating": 9.5
+      },
+      {
+        "episode": 25,
+        "name": "Flute Spell",
+        "rating": 8.5
+      },
+      {
+        "episode": 26,
+        "name": "The Thin Yellow Line",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Broke His Crown",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Don't Look",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Beyond the Grotto",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Lady Rainicorn of the Crystal Dimension",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "I Am a Sword",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Bun Bun",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Normal Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Elemental",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Five Short Tables",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "The Music Hole",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Daddy-Daughter Card Wars",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Preboot",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Reboot",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Two Swords",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Do No Harm",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Wheels",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "High Strangeness",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "Horse and Ball",
+        "rating": 7.2
+      },
+      {
+        "episode": 19,
+        "name": "Jelly Beans Have Power",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Islands Part 1: The Invitation",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Islands Part 2: Whipple the Happy Dragon",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Islands Part 3: Mysterious Island",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Islands Part 4: Imaginary Resources",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Islands Part 5: Hide and Seek",
+        "rating": 9.2
+      },
+      {
+        "episode": 25,
+        "name": "Islands Part 6: Min and Marty",
+        "rating": 9.6
+      },
+      {
+        "episode": 26,
+        "name": "Islands Part 7: Helpers",
+        "rating": 9.3
+      },
+      {
+        "episode": 27,
+        "name": "Islands Part 8: The Light Cloud",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Orb",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Elements Part 1: Skyhooks",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Elements Part 2: Bespoken For",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Elements Part 3: Winter Light",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Elements Part 4: Cloudy",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Elements Part 5: Slime Central",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Elements Part 6: Happy Warrior",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Elements Part 7: Hero Heart",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Elements Part 8: Skyhooks II",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Abstract",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Ketchup",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Fionna and Cake and Fionna",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Whispers",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Three Buckets",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Wild Hunt",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Always BMO Closing",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Son of Rap Bear",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Bonnibel Bubblegum",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Seventeen",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Ring of Fire",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Marcy & Hunson",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The First Investigation",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Blenanas",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Jake the Starchild",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Temple of Mars",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Gumbaldia",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Come Along With Me",
+        "rating": 9.8
+      }
+    ]
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": "60573-silicon-valley",
+  "rank": 121,
+  "answer": "Silicon Valley",
+  "sourceUrl": "https://seriesgraph.com/show/60573-silicon-valley",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60573",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60573/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Optimal Tip-To-Tip Efficiency",
+    "season": 1,
+    "episode": 8,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Minimum Viable Product",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Cap Table",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Articles of Incorporation",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Fiduciary Duties",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Signaling Risk",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Third Party Insourcing",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Proof of Concept",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Optimal Tip-To-Tip Efficiency",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sand Hill Shuffle",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Runaway Devaluation",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Bad Money",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Lady",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Server Space",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Homicide",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Adult Content",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "White Hat/Black Hat",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Binding Arbitration",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Two Days of the Condor",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Founder Friendly",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Two in the Box",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Meinertzhagen's Haversack",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Maleant Data Systems Solutions",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Empty Chair",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Bachmanity Insanity",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "To Build a Better Beta",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Bachman's Earnings Over-Ride",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Daily Active Users",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Uptick",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Success Failure",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Terms of Service",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Intellectual Property",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Teambuilding Exercise",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Blood Boy",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Customer Service",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Patent Troll",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Keenan Vortex",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Hooli-Con",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Server Error",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Grow Fast or Die Slow",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Reorientation",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Chief Operating Officer",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Tech Evangelist",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Facial Recognition",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Artificial Emotional Intelligence",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Initial Coin Offering",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Fifty-One Percent",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Artificial Lack of Intelligence",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Blood Money",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Hooli Smokes!",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Maximizing Alphaness",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Tethics",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "RussFest",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Exit Event",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

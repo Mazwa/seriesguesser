@@ -1,0 +1,457 @@
+{
+  "id": "1215-californication",
+  "rank": 188,
+  "answer": "Californication",
+  "sourceUrl": "https://seriesgraph.com/show/1215-californication",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1215",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1215/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "The Apartment",
+    "season": 3,
+    "episode": 8,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Hell-A Woman",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Whore of Babylon",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Fear and Loathing at the Fundraiser",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "LOL",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Absinthe Makes the Heart Grow Fonder",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Girls, Interrupted",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "California Son",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Filthy Lucre",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Devil's Threesome",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Turn the Page",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Last Waltz",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Slip of the Tongue",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Great Ashby",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "No Way to Treat a Lady",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Raw & the Cooked",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Vaginatown",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Coke Dick & First Kick",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "In a Lonely Place",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Going Down and Out in Beverly Hills",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "La Ronde",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "In Utero",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Blues from Laurel Canyon",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "La Petite Mort",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wish You Were Here",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Land of Rape and Honey",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Verities & Balderdash",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Zoso",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Slow Happy Boys",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Glass Houses",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "So Here's the Thing...",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Apartment",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Mr. Bad Example",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Dogtown",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Comings and Goings",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Mia Culpa",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exile on Main St.",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Suicide Solution",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Home Sweet Home",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Monkey Business",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Freeze-Frame",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Lawyers, Guns and Money",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Recused",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Lights, Camera, A**hole",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Another Perfect Day",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Trial",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Last Supper",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "...And Justice for All",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "JFK - - > LAX",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Way of the Fist",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Boys & Girls",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Waiting for the Miracle",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Ride-Along",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Love Song",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Here I Go Again",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Raw",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "At the Movies",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Perverts & Whores",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Party",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Hell Ain't a Bad Place to Be",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Unforgiven",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Quitters",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Dead Rock Stars",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Hell Bent for Leather",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Rock and a Hard Place",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "In the Clouds",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Dope Show",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Everybody's a F**king Critic",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Mad Dogs & Englishmen",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Blind Faith",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Abby",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "I'll Lay My Monsters Down",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Levon",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Julia",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Like Father Like Son",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Dicks",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Getting the Poison Out",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Kickoff",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Smile",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "30 Minutes or Less",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Faith, Hope, Love",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "Dinner with Friends",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Daughter",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Grace",
+        "rating": 8.4
+      }
+    ]
+  ]
+}

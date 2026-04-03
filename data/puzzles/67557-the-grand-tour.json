@@ -1,0 +1,271 @@
+{
+  "id": "67557-the-grand-tour",
+  "rank": 117,
+  "answer": "The Grand Tour",
+  "sourceUrl": "https://seriesgraph.com/show/67557-the-grand-tour",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67557",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67557/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "The Mongolia Special-Survival of the Fattest",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Holy Trinity",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Operation Desert Stumble",
+        "rating": 6.9
+      },
+      {
+        "episode": 3,
+        "name": "Opera, Arts and Donuts",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Enviro-mental",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Moroccan Roll",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Happy Finnish Christmas",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Beach (Buggy) Boys - Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Beach (Buggy) Boys - Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Berks to the Future",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Dumb Fight at the O.K. Coral",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Italian Lessons",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "[censored] to [censored]",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Past v Future",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Past, Present or Future",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Fall Guys",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Bah humbug-atti",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Unscripted",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Up, Down and Round the Farm",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Jaaaaaaaags",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "It's a gas, gas, gas",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Blasts from the Past",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Breaking, Badly",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Oh, Canada",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Feed the World",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Motown Funk",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Colombia Special Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Colombia Special Part 2",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Pick Up, Put Downs",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "An Itchy Urus",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Chinese Food for Thought",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Well Aged Scotch",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "International Buffoons Vacation",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Aston, Astronauts and Angelina's Children",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Youth Vote",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Sea to Unsalty Sea",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Legends and Luggage",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Mongolia Special-Survival of the Fattest",
+        "rating": 9.6
+      },
+      {
+        "episode": 14,
+        "name": "Funeral for a Ford",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Grand Tour Presents: Seamen",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Grand Tour Presents: A Massive Hunt",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Grand Tour Presents: Lochdown",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Grand Tour Presents: Carnage A Trois",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Grand Tour: A Scandi Flick",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Grand Tour: Eurocrash",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Grand Tour: Sand Job",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Grand Tour: One for the Road",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #7.1"
+      }
+    ]
+  ]
+}

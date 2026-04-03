@@ -1,0 +1,802 @@
+{
+  "id": "4586-gilmore-girls",
+  "rank": 180,
+  "answer": "Gilmore Girls",
+  "sourceUrl": "https://seriesgraph.com/show/4586-gilmore-girls",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4586",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4586/season-ratings"
+  },
+  "years": {
+    "first": 2000,
+    "last": 2007
+  },
+  "highestRatedEpisode": {
+    "name": "Raincoats and Recipes",
+    "season": 4,
+    "episode": 22,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Lorelais' First Day at Chilton",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Kill Me Now",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Deer Hunters",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Cinnamon's Wake",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Rory's Birthday Parties",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Kiss and Tell",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Love and War and Snow",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Rory's Dance",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Forgiveness and Stuff",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Paris Is Burning",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Double Date",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Concert Interruptus",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "That Damn Donna Reed",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Christopher Returns",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Star-Crossed Lovers and Other Strangers",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "The Breakup: Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The Third Lorelai",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Emily in Wonderland",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "P.S. I Lo...",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Love, Daisies and Troubadours",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sadie, Sadie",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Hammers and Veils",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Red Light on the Wedding Night",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Road Trip to Harvard",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Nick & Nora/Sid & Nancy",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Presenting Lorelai Gilmore",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Like Mother, Like Daughter",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Ins and Outs of Inns",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Run Away, Little Boy",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Bracebridge Dinner",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Secrets and Loans",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Richard in Stars Hollow",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "A-Tisket, A-Tasket",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "It Should've Been Lorelai",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Lost and Found",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "There's the Rub",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Dead Uncles and Vegetables",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Back in the Saddle Again",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Teach Me Tonight",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Help Wanted",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Lorelai's Graduation Day",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "I Can't Get Started",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Those Lazy-Hazy-Crazy Days",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Haunted Leg",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Application Anxiety",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "One's Got Class and the Other One Dyes",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Eight O'Clock at the Oasis",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Take the Deviled Eggs...",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "They Shoot Gilmores, Don't They?",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Let the Games Begin",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Deep-Fried Korean Thanksgiving",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "That'll Do, Pig",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "I Solemnly Swear",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Lorelai Out of Water",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Dear Emily and Richard",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Swan Song",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Face-Off",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "The Big One",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "A Tale of Poes and Fire",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Happy Birthday, Baby",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Keg! Max!",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Say Goodnight, Gracie",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Here Comes the Son",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Those Are Strings, Pinocchio",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ballrooms and Biscotti",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Lorelais' First Day at Yale",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Hobbit, the Sofa, and Digger Stiles",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Chicken or Beef?",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Fundamental Things Apply",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "An Affair to Remember",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Festival of Living Art",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Die, Jerk",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Ted Koppel's Big Night Out",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Nanny and the Professor",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "In the Clamor and the Clangor",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "A Family Matter",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Nag Hammadi Is Where They Found the Gnostic Gospel",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Incredible Sinking Lorelais",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Scene in a Mall",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Reigning Lorelai",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Girls in Bikinis, Boys Doin' the Twist",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Tick, Tick, Tick, Boom!",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Afterboom",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Luke Can See Her Face",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Last Week Fights, This Week Tights",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Raincoats and Recipes",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Say Goodbye to Daisy Miller",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "A Messenger, Nothing More",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Written in the Stars",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Tippecanoe and Taylor, Too",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "We Got Us a Pippi Virgin",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Norman Mailer, I'm Pregnant!",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "You Jump, I Jump, Jack",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Party's Over",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Emily Says Hello",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "But Not as Cute as Pushkin",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Women of Questionable Morals",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Come Home",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Wedding Bell Blues",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Say Something",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Jews and Chinese Food",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "So... Good Talk",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Pulp Friction",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "To Live and Let Diorama",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "But I'm a Gilmore!",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "How Many Kropogs to Cape Cod?",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Blame Booze and Melville",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "A House Is Not a Home",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New and Improved Lorelai",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Fight Face",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The UnGraduate",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Always a Godmother, Never a God",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "We've Got Magic to Do",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Welcome to the Dollhouse",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Twenty-One Is the Loneliest Number",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Let Me Hear Your Balalaikas Ringing Out",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Prodigal Daughter Returns",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "He's Slippin' 'Em Bread... Dig?",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Perfect Dress",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Just Like Gwen and Gavin",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Friday Night's Alright for Fighting",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "You've Been Gilmored",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "A Vineyard Valentine",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Bridesmaids Revisited",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "I'm OK, You're OK",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "The Real Paul Anka",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "I Get a Sidekick Out of You",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Super Cool Party People",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Driving Miss Gilmore",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Partings",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Long Morrow",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "That's What You Get, Folks, for Makin' Whoopee",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Lorelai's First Cotillion",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "'S Wonderful, 'S Marvelous",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Great Stink",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Go, Bulldogs!",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "French Twist",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "Introducing Lorelai Planetarium",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Knit, People, Knit!",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Merry Fisticuffs",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Santa's Secret Stuff",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "To Whom It May Concern",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "I'd Rather Be in Philadelphia",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Farewell, My Pet",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "I'm a Kayak, Hear Me Roar",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Will You Be My Lorelai Gilmore?",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Gilmore Girls Only",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Hay Bale Maze",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "It's Just Like Riding a Bike",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Lorelai? Lorelai?",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Unto the Breach",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Bon Voyage",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

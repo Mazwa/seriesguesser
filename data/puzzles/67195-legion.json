@@ -1,0 +1,164 @@
+{
+  "id": "67195-legion",
+  "rank": 244,
+  "answer": "Legion",
+  "sourceUrl": "https://seriesgraph.com/show/67195-legion",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67195",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67195/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Chapter 7",
+    "season": 1,
+    "episode": 7,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 3",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 4",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 5",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 6",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 7",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 8",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 9",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 10",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 11",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 12",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 13",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 14",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 15",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 16",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 17",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 18",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 19",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 20",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 21",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 22",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 23",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 24",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 25",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 26",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 27",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

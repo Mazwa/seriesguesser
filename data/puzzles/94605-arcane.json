@@ -1,0 +1,117 @@
+{
+  "id": "94605-arcane",
+  "rank": 8,
+  "answer": "Arcane",
+  "sourceUrl": "https://seriesgraph.com/show/94605-arcane",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/94605",
+    "seasonRatings": "https://seriesgraph.com/api/shows/94605/season-ratings"
+  },
+  "years": {
+    "first": 2021,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "The Base Violence Necessary for Change",
+    "season": 1,
+    "episode": 3,
+    "rating": 9.7,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to the Playground",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Some Mysteries Are Better Left Unsolved",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Base Violence Necessary for Change",
+        "rating": 9.7
+      },
+      {
+        "episode": 4,
+        "name": "Happy Progress Day!",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Everybody Wants to Be My Enemy",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "When These Walls Come Tumbling Down",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "The Boy Savior",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Oil and Water",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "The Monster You Created",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Heavy Is the Crown",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Watch It All Burn",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Finally Got the Name Right",
+        "rating": 9.4
+      },
+      {
+        "episode": 4,
+        "name": "Paint the Town Blue",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Blisters and Bedrock",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "The Message Hidden Within the Pattern",
+        "rating": 9.7
+      },
+      {
+        "episode": 7,
+        "name": "Pretend Like It's the First Time",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Killing Is a Cycle",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Dirt Under Your Nails",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "id": "63174-lucifer",
+  "rank": 139,
+  "answer": "Lucifer",
+  "sourceUrl": "https://seriesgraph.com/show/63174-lucifer",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/63174",
+    "seasonRatings": "https://seriesgraph.com/api/shows/63174/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "A Devil of My Word",
+    "season": 3,
+    "episode": 24,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Lucifer, Stay. Good Devil.",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Would-Be Prince of Darkness",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Manly Whatnots",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Sweet Kicks",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Favorite Son",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Wingman",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Et Tu, Doctor?",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "A Priest Walks Into a Bar",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Pops",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "St. Lucifer",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "#TeamLucifer",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Take Me Back to Hell",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything's Coming Up Lucifer",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Liar, Liar, Slutty Dress on Fire",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Sin-Eater",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Lady Parts",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Weaponizer",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Monster",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "My Little Monkey",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Trip to Stabby Town",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Homewrecker",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Quid Pro Ho",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Stewardess Interruptus",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Love Handles",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "A Good Day to Die",
+        "rating": 9.3
+      },
+      {
+        "episode": 14,
+        "name": "Candy Morningstar",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Deceptive Little Parasite",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "God Johnson",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Sympathy for the Goddess",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "The Good, the Bad, and the Crispy",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "They're Back, Aren't They?",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The One with the Baby Carrot",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Mr. and Mrs. Mazikeen Smith",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "What Would Lucifer Do?",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Welcome Back, Charlotte Richards",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Vegas With Some Radish",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Off the Record",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Chloe Does Lucifer",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Sinnerman",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Sin Bin",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "City of Angels?",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "All About Her",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Til Death Do Us Part",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "My Brother's Keeper",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "High School Poppycock",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Infernal Guinea Pig",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Let Pinhead Sing!",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The Last Heartbreak",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Orange Is the New Maze",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Angel of San Bernardino",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Anything Pierce Can Do I Can Do Better",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "All Hands on Decker",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "Quintessential Deckerstar",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "A Devil of My Word",
+        "rating": 9.7
+      },
+      {
+        "episode": 25,
+        "name": "Boo Normal",
+        "rating": 7.4
+      },
+      {
+        "episode": 26,
+        "name": "Once Upon a Time",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything's Okay",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Somebody's Been Reading Dante's Inferno",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "O, Ye of Little Faith, Father",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "All About Eve",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Expire Erect",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Orgy Pants to Work",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Devil Is as Devil Does",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Super Bad Boyfriend",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Save Lucifer",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Who's da New King of Hell?",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Really Sad Devil Guy",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Lucifer! Lucifer! Lucifer!",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "¡Diablo!",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "It Never Ends Well for the Chicken",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Detective Amenadiel",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "BlueBallz",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Our Mojo",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Spoiler Alert",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Family Dinner",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Bloody Celestial Karaoke Jam",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Resting Devil Face",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Daniel Espinoza: Naked and Afraid",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "A Little Harmless Stalking",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Nothing Lasts Forever",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Is This Really How It's Going To End?!",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "A Chance at a Happy Ending",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nothing Ever Changes Around Here",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Buckets of Baggage",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Yabba Dabba Do Me",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Pin the Tail on the Daddy",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Murder of Lucifer Morningstar",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "A Lot Dirtier Than That",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "My Best Fiend's Wedding",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Save the Devil, Save the World",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Goodbye, Lucifer",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Partners 'Til the End",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

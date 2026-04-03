@@ -1,0 +1,174 @@
+{
+  "id": "64513-american-crime-story",
+  "rank": 211,
+  "answer": "American Crime Story",
+  "sourceUrl": "https://seriesgraph.com/show/64513-american-crime-story",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/64513",
+    "seasonRatings": "https://seriesgraph.com/api/shows/64513/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "The Verdict",
+    "season": 1,
+    "episode": 10,
+    "rating": 9.1,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "From the Ashes of Tragedy",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Run of His Life",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Dream Team",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "100% Not Guilty",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Race Card",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Marcia, Marcia, Marcia",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Conspiracy Theories",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "A Jury in Jail",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Manna from Heaven",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "The Verdict",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Man Who Would Be Vogue",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Manhunt",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "A Random Killing",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "House by the Lake",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Don't Ask, Don't Tell",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Descent",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Ascent",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Creator/Destroyer",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Alone",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exiles",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The President Kissed Me",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Not to Be Believed",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Telephone Hour",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Do You Hear What I Hear?",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Man Handled",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Assassination of Monica Lewinsky",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Stand by Your Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Grand Jury",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Wilderness",
+        "rating": 7.7
+      }
+    ]
+  ]
+}

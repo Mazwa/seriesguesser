@@ -1,0 +1,155 @@
+{
+  "id": "1063-samurai-champloo",
+  "rank": 250,
+  "answer": "Samurai Champloo",
+  "sourceUrl": "https://seriesgraph.com/show/1063-samurai-champloo",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1063",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1063/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2005
+  },
+  "highestRatedEpisode": {
+    "name": "Seishi ruten sono san",
+    "season": 1,
+    "episode": 26,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Shippû dotô",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Hyakkiyakô",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Ishindenshin sono ichi",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Ishindenshin sono ni",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Bajitôfû",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Akage ijin",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Shimensoka",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Yuigadokuson",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Chimimôryô",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Idoku seidoku",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Daraku tenshi",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Onkochishin",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Anya kôro sono ichi",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Anya kôro sono ni",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Tettô tetsubi",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Suiseimushi hito yume",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Suiseimushi futa yume",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Bunburyôdô",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Ingaôhô",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Hikakôgai sono ichi",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Hikakôgai sono ni",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "Dohatsu shôten",
+        "rating": 6.7
+      },
+      {
+        "episode": 23,
+        "name": "Ichikyû jikkon",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Seishi ruten sono ichi",
+        "rating": 8.6
+      },
+      {
+        "episode": 25,
+        "name": "Seishi ruten sono ni",
+        "rating": 9.1
+      },
+      {
+        "episode": 26,
+        "name": "Seishi ruten sono san",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "id": "1400-seinfeld",
+  "rank": 14,
+  "answer": "Seinfeld",
+  "sourceUrl": "https://seriesgraph.com/show/1400-seinfeld",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1400",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1400/season-ratings"
+  },
+  "years": {
+    "first": 1989,
+    "last": 1998
+  },
+  "highestRatedEpisode": {
+    "name": "The Contest",
+    "season": 4,
+    "episode": 11,
+    "rating": 9.5,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Good News, Bad News",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "The Stakeout",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Robbery",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Male Unbonding",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Stock Tip",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ex-Girlfriend",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Pony Remark",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Jacket",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Phone Message",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Apartment",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "The Statue",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Revenge",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Heart Attack",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Deal",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Baby Shower",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Chinese Restaurant",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Busboy",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Note",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Truth",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Pen",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Dog",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "The Library",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Parking Garage",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Cafe",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Tape",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Nose Job",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Stranded",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Alternate Side",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Red Dot",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Subway",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "The Pez Dispenser",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "The Suicide",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Fix Up",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "The Boyfriend",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "The Limo",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "The Good Samaritan",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "The Letter",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "The Parking Space",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "The Keys",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Trip: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Trip: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Pitch",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Ticket",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Wallet",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Watch",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Bubble Boy",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Cheever Letters",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Opera",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Virgin",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Contest",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "The Airport",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "The Pick",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "The Movie",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "The Visa",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Shoes",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Outing",
+        "rating": 9.4
+      },
+      {
+        "episode": 18,
+        "name": "The Old Man",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "The Implant",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "The Junior Mint",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "The Smelly Car",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "The Handicap Spot",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "The Pilot",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Mango",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Puffy Shirt",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "The Glasses",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Sniffing Accountant",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Bris",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Lip Reader",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Non-Fat Yogurt",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Barber",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Masseuse",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "The Cigar Store Indian",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Conversion",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Stall",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "The Dinner Party",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Marine Biologist",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "The Pie",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "The Stand-In",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Wife",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The Raincoats",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "The Fire",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "The Hamptons",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "The Opposite",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Chaperone",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Big Salad",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Pledge Drive",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Chinese Woman",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Couch",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Gymnast",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Soup",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Mom and Pop Store",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Secretary",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Race",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "The Switch",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "The Label Maker",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "The Scofflaw",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "The Highlights of a Hundred",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "The Beard",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Kiss Hello",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Doorman",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "The Jimmy",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "The Doodle",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Fusilli Jerry",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "The Diplomat's Club",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "The Face Painter",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "The Understudy",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Engagement",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Postponement",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Maestro",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Wink",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Hot Tub",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Soup Nazi",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "The Secret Code",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Pool Guy",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Sponge",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Gum",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "The Rye",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Caddy",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "The Seven",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Cadillac",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "The Shower Head",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "The Doll",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Friars Club",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "The Wig Master",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Calzone",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "The Bottle Deposit",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "The Wait Out",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "The Invitations",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Foundation",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Soul Mate",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Bizarro Jerry",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "The Little Kicks",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Package",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Fatigues",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Checks",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Chicken Roaster",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Abstinence",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "The Andrea Doria",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Little Jerry",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Money",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "The Comeback",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "The Van Buren Boys",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "The Susie",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "The Pothole",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "The English Patient",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "The Nap",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "The Yada Yada",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "The Millennium",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Muffin Tops",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "The Summer of George",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Butter Shave",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Voice",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Serenity Now",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Blood",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Junk Mail",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Merv Griffin Show",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Slicer",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Betrayal",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Apology",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Strike",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "The Dealership",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Reverse Peephole",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The Cartoon",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Strongbox",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "The Wizard",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Burning",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "The Bookstore",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "The Frogger",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "The Maid",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "The Puerto Rican Day",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "The Chronicle",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "The Finale",
+        "rating": 7.8
+      }
+    ]
+  ]
+}

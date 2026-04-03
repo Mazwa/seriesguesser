@@ -1,0 +1,377 @@
+{
+  "id": "60585-bosch",
+  "rank": 126,
+  "answer": "Bosch",
+  "sourceUrl": "https://seriesgraph.com/show/60585-bosch",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60585",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60585/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Book of the Unclaimed Dead",
+    "season": 4,
+    "episode": 10,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: 'Tis the Season",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: Lost Light",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: Blue Religion",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: Fugazi",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: Mama's Boy",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: Donkey's Years",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: Lost Boys",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: High Low",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Chapter Nine: The Magic Castle",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Chapter Ten: Us and Them",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trunk Music",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Thing About Secrets",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Victim of the Night",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Who's Lucky Now?",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Gone",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Heart Attack",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Exit Time",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Follow the Money",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Queen of Martyrs",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Everybody Counts",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Smog Cutter",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Four Last Things",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "God Sees",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "El Compadre",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Blood Under the Bridge",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Birdland",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Right Play",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Aye Papi",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Clear Shot",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Sea King",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ask the Dust",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Dreams of Bunker Hill",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Devil in the House",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Past Lives",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "The Coping",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Wine of Youth",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Missed Connections",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Dark Sky",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Rojo Profundo",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Book of the Unclaimed Dead",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Two Kinds of Truth",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Pill Shills",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Last Scrip",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Raise the Dead",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Tunnel Vision",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Space Between the Stars",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Wisdom of the Desert",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Salvation Mountain",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Hold Back the Night",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Creep Signed His Kill",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Overlook",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Good People on Both Sides",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Three Widows",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Part of the Deal",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Money, Honey",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Ace Hotel",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Hard Feelings",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Copy Cat",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Dark Sacred Night",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Some Measure of Justice",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Brazen",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Dog You Feed",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Sabes Demasiado",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Triple Play",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Jury's Still Out",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Greater Good",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Workaround",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Por Sonia",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

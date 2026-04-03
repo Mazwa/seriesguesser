@@ -1,0 +1,497 @@
+{
+  "id": "1104-mad-men",
+  "rank": 29,
+  "answer": "Mad Men",
+  "sourceUrl": "https://seriesgraph.com/show/1104-mad-men",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1104",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1104/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "The Suitcase",
+    "season": 4,
+    "episode": 7,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Smoke Gets in Your Eyes",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Ladies Room",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Marriage of Figaro",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "New Amsterdam",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "5G",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Babylon",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Red in the Face",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Hobo Code",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Shoot",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Long Weekend",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Indian Summer",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Nixon vs. Kennedy",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Wheel",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "For Those Who Think Young",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Flight 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Benefactor",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Three Sundays",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The New Girl",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Maidenform",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Gold Violin",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "A Night to Remember",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Six Month Leave",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Inheritance",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "The Jet Set",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Mountain King",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Meditations in an Emergency",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Out of Town",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Love Among the Ruins",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "My Old Kentucky Home",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Arrangements",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Fog",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Guy Walks Into an Advertising Agency",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Seven Twenty Three",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Souvenir",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Wee Small Hours",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Color Blue",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Gypsy and the Hobo",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "The Grown-Ups",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Shut the Door. Have a Seat",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Public Relations",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Christmas Comes But Once a Year",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Good News",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Rejected",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Chrysanthemum and the Sword",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Waldorf Stories",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Suitcase",
+        "rating": 9.7
+      },
+      {
+        "episode": 8,
+        "name": "The Summer Man",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Beautiful Girls",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Hands and Knees",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Chinese Wall",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Blowing Smoke",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Tomorrowland",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Little Kiss, Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "A Little Kiss, Part 2",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Tea Leaves",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Mystery Date",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Signal 30",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Far Away Places",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "At the Codfish Ball",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Lady Lazarus",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Dark Shadows",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Christmas Waltz",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "The Other Woman",
+        "rating": 9.4
+      },
+      {
+        "episode": 12,
+        "name": "Commissions and Fees",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "The Phantom",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Doorway, Part 1",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Doorway, Part 2",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Collaborators",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "To Have and to Hold",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Flood",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "For Immediate Release",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Man with a Plan",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Crash",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Better Half",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "A Tale of Two Cities",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Favors",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Quality of Mercy",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "In Care Of",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Time Zones",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "A Day's Work",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Field Trip",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Monolith",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Runaways",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Strategy",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Waterloo",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Severance",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "New Business",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Forecast",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Time & Life",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Lost Horizon",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Milk and Honey Route",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Person to Person",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "id": "57243-doctor-who",
+  "rank": 151,
+  "answer": "Doctor Who",
+  "sourceUrl": "https://seriesgraph.com/show/57243-doctor-who",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/57243",
+    "seasonRatings": "https://seriesgraph.com/api/shows/57243/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Blink",
+    "season": 3,
+    "episode": 10,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Rose",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The End of the World",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Unquiet Dead",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Aliens of London",
+        "rating": 6.9
+      },
+      {
+        "episode": 5,
+        "name": "World War Three",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "Dalek",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Long Game",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "Father's Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Empty Child",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "The Doctor Dances",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Boom Town",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Bad Wolf",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "The Parting of the Ways",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Earth",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Tooth and Claw",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "School Reunion",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Girl in the Fireplace",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Rise of the Cybermen",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "The Age of Steel",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Idiot's Lantern",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "The Impossible Planet",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Satan Pit",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Love & Monsters",
+        "rating": 6.1
+      },
+      {
+        "episode": 11,
+        "name": "Fear Her",
+        "rating": 5.8
+      },
+      {
+        "episode": 12,
+        "name": "Army of Ghosts",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Doomsday",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smith and Jones",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Shakespeare Code",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Gridlock",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Daleks in Manhattan",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Evolution of the Daleks",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "The Lazarus Experiment",
+        "rating": 6.5
+      },
+      {
+        "episode": 7,
+        "name": "42",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Human Nature",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Family of Blood",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Blink",
+        "rating": 9.8
+      },
+      {
+        "episode": 11,
+        "name": "Utopia",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Sound of Drums",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Last of the Time Lords",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Partners in Crime",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Fires of Pompeii",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Planet of the Ood",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Sontaran Stratagem",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Poison Sky",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "The Doctor's Daughter",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Unicorn and the Wasp",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Silence in the Library",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Forest of the Dead",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Midnight",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Turn Left",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "The Stolen Earth",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Journey's End",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Eleventh Hour",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Beast Below",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Victory of the Daleks",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "The Time of Angels",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Flesh and Stone",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Vampires of Venice",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "Amy's Choice",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Hungry Earth",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Cold Blood",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Vincent and the Doctor",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "The Lodger",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Pandorica Opens",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Big Bang",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Impossible Astronaut",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Day of the Moon",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "The Curse of the Black Spot",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "The Doctor's Wife",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Rebel Flesh",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "The Almost People",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "A Good Man Goes to War",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Let's Kill Hitler",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Night Terrors",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "The Girl Who Waited",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The God Complex",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Closing Time",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Wedding of River Song",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Asylum of the Daleks",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Dinosaurs on a Spaceship",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "A Town Called Mercy",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "The Power of Three",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Angels Take Manhattan",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Snowmen",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Bells of Saint John",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Rings of Akhaten",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Cold War",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Hide",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Journey to the Centre of the TARDIS",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "The Crimson Horror",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Nightmare in Silver",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "The Name of the Doctor",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Deep Breath",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Into the Dalek",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Robot of Sherwood",
+        "rating": 6.9
+      },
+      {
+        "episode": 4,
+        "name": "Listen",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Time Heist",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Caretaker",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Kill the Moon",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "Mummy on the Orient Express",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Flatline",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "In the Forest of the Night",
+        "rating": 6
+      },
+      {
+        "episode": 11,
+        "name": "Dark Water",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Death in Heaven",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Magician's Apprentice",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Witch's Familiar",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Under the Lake",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Before the Flood",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Girl Who Died",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The Woman Who Lived",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "The Zygon Invasion",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Zygon Inversion",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Sleep No More",
+        "rating": 5.8
+      },
+      {
+        "episode": 10,
+        "name": "Face the Raven",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Heaven Sent",
+        "rating": 9.6
+      },
+      {
+        "episode": 12,
+        "name": "Hell Bent",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Pilot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Smile",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Thin Ice",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Knock Knock",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Oxygen",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Extremis",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Pyramid at the End of the World",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Lie of the Land",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Empress of Mars",
+        "rating": 6.9
+      },
+      {
+        "episode": 10,
+        "name": "The Eaters of Light",
+        "rating": 6.8
+      },
+      {
+        "episode": 11,
+        "name": "World Enough and Time",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "The Doctor Falls",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Woman Who Fell to Earth",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "The Ghost Monument",
+        "rating": 6.1
+      },
+      {
+        "episode": 3,
+        "name": "Rosa",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Arachnids in the UK",
+        "rating": 5.1
+      },
+      {
+        "episode": 5,
+        "name": "The Tsuranga Conundrum",
+        "rating": 5.1
+      },
+      {
+        "episode": 6,
+        "name": "Demons of the Punjab",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Kerblam!",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "The Witchfinders",
+        "rating": 5.8
+      },
+      {
+        "episode": 9,
+        "name": "It Takes You Away",
+        "rating": 6.3
+      },
+      {
+        "episode": 10,
+        "name": "The Battle of Ranskoor Av Kolos",
+        "rating": 5.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Spyfall: Part One",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "Spyfall: Part Two",
+        "rating": 6.5
+      },
+      {
+        "episode": 3,
+        "name": "Orphan 55",
+        "rating": 4.1
+      },
+      {
+        "episode": 4,
+        "name": "Nikola Tesla's Night of Terror",
+        "rating": 6.5
+      },
+      {
+        "episode": 5,
+        "name": "Fugitive of the Judoon",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Praxeus",
+        "rating": 5.2
+      },
+      {
+        "episode": 7,
+        "name": "Can You Hear Me?",
+        "rating": 5.7
+      },
+      {
+        "episode": 8,
+        "name": "The Haunting of Villa Diodati",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Ascension of the Cybermen",
+        "rating": 6.5
+      },
+      {
+        "episode": 10,
+        "name": "The Timeless Children",
+        "rating": 5.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Flux: Chapter One - The Halloween Apocalypse",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "Flux: Chapter Two - War of the Sontarans",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Flux: Chapter Three - Once, Upon Time",
+        "rating": 5.9
+      },
+      {
+        "episode": 4,
+        "name": "Flux: Chapter Four - Village of the Angels",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Flux: Chapter Five - Survivors of the Flux",
+        "rating": 6.1
+      },
+      {
+        "episode": 6,
+        "name": "Flux: Chapter Six - The Vanquishers",
+        "rating": 5.3
+      }
+    ]
+  ]
+}

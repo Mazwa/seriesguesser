@@ -1,0 +1,343 @@
+{
+  "id": "2723-samurai-jack",
+  "rank": 156,
+  "answer": "Samurai Jack",
+  "sourceUrl": "https://seriesgraph.com/show/2723-samurai-jack",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2723",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2723/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Episode XCIII",
+    "season": 5,
+    "episode": 2,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode I - The Beginning",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Episode II - The Samurai Called Jack",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Episode III - The First Fight",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Episode IV - Jack, the Woolies and the Chritchellites",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Episode V - Jack in Space",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Episode VI - Jack and the Warrior Woman",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Episode VII - Jack and the Three Blind Archers",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Episode VIII - Jack vs. Mad Jack",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Episode IX - Jack Under the Sea",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Episode X - Jack and the Lava Monster",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Episode XI - Jack and the Scotsman",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Episode XII - Jack and the Gangsters",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Episode XIII - Aku's Fairy Tales",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode XIV - Jack Learns to Jump Good",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Episode XV - Jack Tales",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Episode XVI - Jack and the Smackback",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Episode XVII - Jack and the Scotsman II",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Episode XVIII - Jack and the Ultra-Robots",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode XIX - Jack Remembers the Past",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Episode XX - Jack and the Monks",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Episode XXI - Jack and the Dragon",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Episode XXII - Jack vs. the Five Hunters",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Episode XXIII - Jack vs. Demongo, the Soul Collector",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Episode XXIV - Jack Is Naked",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Episode XXV - Jack and the Spartans",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Episode XXVI - Jack's Shoes",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode XXVII - Chicken Jack",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Episode XXVIII - Jack and the Rave",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Episode XXIX - Couple on a Train",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode XXX - Jack and the Zombies",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Episode XXXI - Jack and the Scarab",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Episode XXXII - Jack and the Traveling Creatures",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Episode XXXIII - Jack and the Annoying Creature",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Episode XXXIV - Jack and the Swamp Wizard",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Episode XXXV - Jack and the Haunted House",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Episode XXXVI - Jack, the Monks and the Ancient Master's Son",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Episode XXXVII - The Birth of Evil: Part I",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Episode XXXVIII - The Birth of Evil: Part II",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Episode XXXIX - Jack and the Labyrinth",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode XL - Jack vs. the Ninja",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Episode XLI - Robo-Samurai vs. Mondo-bot",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Episode XLII - Samurai vs. Samurai",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Episode XLIII - The Aku Infection",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Episode XLIV - The Princess and the Bounty Hunters",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Episode XLV - The Scotsman Saves Jack: Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Episode XLVI - The Scotsman Saves Jack: Part II",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Episode XLVII - Jack and the Flying Prince and Princess",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Episode XLVIII - Jack vs. Aku",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Episode XLIX - The Four Seasons of Death",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Episode L - Tale of X-49",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Episode LI - Young Jack in Africa",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Episode LII - Jack and the Baby",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode XCII",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "Episode XCIII",
+        "rating": 9.7
+      },
+      {
+        "episode": 3,
+        "name": "Episode XCIV",
+        "rating": 9.6
+      },
+      {
+        "episode": 4,
+        "name": "Episode XCV",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Episode XCVI",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Episode XCVII",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Episode XCVIII",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Episode XCIX",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Episode C",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Episode CI",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

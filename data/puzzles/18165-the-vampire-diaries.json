@@ -1,0 +1,894 @@
+{
+  "id": "18165-the-vampire-diaries",
+  "rank": 222,
+  "answer": "The Vampire Diaries",
+  "sourceUrl": "https://seriesgraph.com/show/18165-the-vampire-diaries",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/18165",
+    "seasonRatings": "https://seriesgraph.com/api/shows/18165/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "The Departed",
+    "season": 3,
+    "episode": 22,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Night of the Comet",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Friday Night Bites",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Family Ties",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "You're Undead to Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Lost Girls",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Haunted",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "162 Candles",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "History Repeating",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Turning Point",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Bloodlines",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Unpleasantville",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Children of the Damned",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Fool Me Once",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "A Few Good Men",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "There Goes the Neighborhood",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Let the Right One In",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Under Control",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Miss Mystic Falls",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Blood Brothers",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Isobel",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Founder's Day",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Return",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Brave New World",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Bad Moon Rising",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Memory Lane",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Kill or Be Killed",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Plan B",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Masquerade",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Rose",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Katerina",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Sacrifice",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "By the Light of the Moon",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Descent",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Daddy Issues",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Crying Wolf",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Dinner Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "The House Guest",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Know Thy Enemy",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "The Last Dance",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "Klaus",
+        "rating": 8.8
+      },
+      {
+        "episode": 20,
+        "name": "The Last Day",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "The Sun Also Rises",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "As I Lay Dying",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Birthday",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Hybrid",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The End of the Affair",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Disturbing Behavior",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Reckoning",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Smells Like Teen Spirit",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Ghost World",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Ordinary People",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Homecoming",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The New Deal",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Our Town",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Ties That Bind",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Bringing Out the Dead",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Dangerous Liaisons",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "All My Children",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "1912",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Break on Through",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "The Murder of One",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Heart of Darkness",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Do Not Go Gentle",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Before Sunset",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "The Departed",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Growing Pains",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Memorial",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "The Rager",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Five",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Killer",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "We All Go a Little Mad Sometimes",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "My Brother's Keeper",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "We'll Always Have Bourbon Street",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "O Come, All Ye Faithful",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "After School Special",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Catch Me If You Can",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "A View to a Kill",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Into the Wild",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Down the Rabbit Hole",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Stand by Me",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Bring It On",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Because the Night",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "American Gothic",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Pictures of You",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Originals",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "She's Come Undone",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "The Walking Dead",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Graduation",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Know What You Did Last Summer",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "True Lies",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Original Sin",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "For Whom the Bell Tolls",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Monster's Ball",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Handle with Care",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Death and the Maiden",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Dead Man on Campus",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "The Cell",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Fifty Shades of Grayson",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "500 Years of Solitude",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Devil Inside",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Total Eclipse of the Heart",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "No Exit",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Gone Girl",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "While You Were Sleeping",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Rescue Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Resident Evil",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Man on Fire",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "What Lies Beneath",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Promised Land",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Home",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I'll Remember",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Yellow Ledbetter",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Welcome to Paradise",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Black Hole Sun",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The World Has Turned and Left Me Here",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The More You Ignore Me, the Closer I Get",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Do You Remember the First Time?",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Fade Into You",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "I Alone",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Christmas Through Your Eyes",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Woke Up with a Monster",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Prayer for the Dying",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Day I Tried to Live",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Stay",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Let Her Go",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "The Downward Spiral",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "A Bird in a Gilded Cage",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "I Could Never Love Like That",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Because",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "I'd Leave My Happy Home for You",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "I'll Wed You in the Golden Summertime",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "I'm Thinking of You All the While",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day One of Twenty-Two Thousand, Give or Take",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Never Let Me Go",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Age of Innocence",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "I Carry Your Heart with Me",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Live Through This",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Best Served Cold",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Mommie Dearest",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Cold as Ice",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Hell Is Other People",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Things We Lost in the Fire",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Postcards from the Edge",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "This Woman's Work",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Moonlight on the Bayou",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "I Would for You",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Days of Future Past",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "I Went to the Woods",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "One Way or Another",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Somebody That I Used to Know",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Kill 'Em All",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Requiem for a Dream",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Gods and Monsters",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hello, Brother",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Today Will Be Different",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "You Decided That I Was Worth Saving",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "An Eternity of Misery",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Coming Home Was a Mistake",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Detoured on Some Random Backwoods Path to Hell",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Next Time I Hurt Somebody, It Could Be You",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "We Have History Together",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "The Simple Intimacy of the Near Touch",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Nostalgia's a Bitch",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "You Made a Choice to Be Good",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "What Are You?",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Lies Will Catch Up to You",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "It's Been a Hell of a Ride",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "We're Planning a June Wedding",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "I Was Feeling Epic",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

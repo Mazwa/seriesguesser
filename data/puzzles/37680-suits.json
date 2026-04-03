@@ -1,0 +1,711 @@
+{
+  "id": "37680-suits",
+  "rank": 50,
+  "answer": "Suits",
+  "sourceUrl": "https://seriesgraph.com/show/37680-suits",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/37680",
+    "seasonRatings": "https://seriesgraph.com/api/shows/37680/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Faith",
+    "season": 5,
+    "episode": 10,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Errors and Omissions",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Inside Track",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Dirty Little Secrets",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Bail Out",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Tricks of the Trade",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Play the Man",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Identity Crisis",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Undefeated",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "The Shelf Life",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Rules of the Game",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Dog Fight",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "She Knows",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Choice",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Meet the New Boss",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Discovery",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Break Point",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "All In",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Sucker Punch",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Rewind",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Asterisk",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "High Noon",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Blind-Sided",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Blood in the Water",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Zane vs. Zane",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "He's Back",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Normandy",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "War",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Arrangement",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "I Want You to Want Me",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Unfinished Business",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Conflict of Interest",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Shadow of a Doubt",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Other Time",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "She's Mine",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Endgame",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Bad Faith",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Stay",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Buried Secrets",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Yesterday's Gone",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Moot Point",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Heartburn",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Know When to Fold 'Em",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "No Way Out",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "One-Two-Three Go...",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Breakfast, Lunch and Dinner",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Two in the Knees",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Leveraged",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Pound of Flesh",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Litt the Hell Up",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "We're Done",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Exposure",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Gone",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "This Is Rome",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "Enough Is Enough",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Respect",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Fork in the Road",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Derailed",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Intent",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "Not Just a Pretty Face",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Denial",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Compensation",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "No Refills",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "No Puedo Hacerlo",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Toe to Toe",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Privilege",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Hitting Home",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Mea Culpa",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Uninvited Guests",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Faith",
+        "rating": 9.7
+      },
+      {
+        "episode": 11,
+        "name": "Blowback",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Live to Fight...",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "God's Green Earth",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Self Defense",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Tick Tock",
+        "rating": 9.5
+      },
+      {
+        "episode": 16,
+        "name": "25th Hour",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "To Trouble",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Accounts Payable",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Back on the Map",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Turn",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Trust",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Spain",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Shake the Trees",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Borrowed Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Hand That Feeds You",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "P.S.L.",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "She's Gone",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Painting",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Teeth, Nose, Teeth",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Admission of Guilt",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Quid Pro Quo",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Character and Fitness",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Skin in the Game",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Statue",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Mudmare",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Divide and Conquer",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Brooklyn Housing",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Home to Roost",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Full Disclosure",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "100",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Shame",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Donna",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Hard Truths",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Bad Man",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Inevitable",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Pulling the Goalie",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Tiny Violin",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Good-Bye",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Right-Hand Man",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Pecking Order",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Promises, Promises",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Revenue Per Square Foot",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Good Mudding",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Cats, Ballet, Harvey Specter",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Sour Grapes",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Coral Gables",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Motion to Delay",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Managing Partner",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Rocky 8",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Whale Hunt",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Greater Good",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Peas in a Pod",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Stalking Horse",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Harvey",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything's Changed",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Special Master",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Windmills",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Cairo",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "If the Shoe Fits",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Whatever It Takes",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Scenic Route",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Prisoner's Dilemma",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Thunder Away",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "One Last Con",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

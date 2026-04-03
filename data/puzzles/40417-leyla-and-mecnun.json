@@ -1,0 +1,757 @@
+{
+  "id": "40417-leyla-and-mecnun",
+  "rank": 39,
+  "answer": "Leyla and Mecnun",
+  "sourceUrl": "https://seriesgraph.com/show/40417-leyla-and-mecnun",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/40417",
+    "seasonRatings": "https://seriesgraph.com/api/shows/40417/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Giden Döner mi?",
+    "season": 3,
+    "episode": 42,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Dugun",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Hali Saha",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Fidye",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Sohret",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Banka",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Rüya",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Mantar",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Sihirbaz",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Dünyanin Sonu",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Canta",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Cesek",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Fake to the Future",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Evler",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Arda'nin Dügünü",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Clone Wars",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Bu Kiza Kadar",
+        "rating": 9.3
+      },
+      {
+        "episode": 18,
+        "name": "Arda Kalan",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Benjamin",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Hoscakal",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ramadan Is Coming",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Yozgat",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Mecnun",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Beyin",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Nurten'in Yegeni",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Evlenme",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Uzay",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Baz Istasyonu",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Illuzyon Nasil Ki Bir Goz Yanilmasiysa, Ask da Bir Gonul Yanilmasidir",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Kimi Vedalarda Hoscakal Denilmez!",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Hayat, Damarlarindan Tutup Zorla Icine Ceker Insani",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Sari Biyik",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Gercek Kesik",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Leyla'nin sesi",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Hayal Kirikliklari Muzesi",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Askin Formulu",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Marduk",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Sir",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Hosgeldin 2013",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Masal Cicegi",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Yavuz Nasil Kurtulur?",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Okul Yolunda",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Ismail Abi",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "Mecnun'luk Istidadi",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Talih Kusu",
+        "rating": 8.2
+      },
+      {
+        "episode": 26,
+        "name": "Made in Metonya",
+        "rating": 8.4
+      },
+      {
+        "episode": 27,
+        "name": "Ardadan",
+        "rating": 8.2
+      },
+      {
+        "episode": 28,
+        "name": "Tarihler Arasi Yolculuk",
+        "rating": 8.6
+      },
+      {
+        "episode": 29,
+        "name": "Maske",
+        "rating": 8.3
+      },
+      {
+        "episode": 30,
+        "name": "Who I am?",
+        "rating": 8.3
+      },
+      {
+        "episode": 31,
+        "name": "Metaforya",
+        "rating": 8.5
+      },
+      {
+        "episode": 32,
+        "name": "Paralel Evren",
+        "rating": 8.9
+      },
+      {
+        "episode": 33,
+        "name": "Baba Olmak",
+        "rating": 8.3
+      },
+      {
+        "episode": 34,
+        "name": "Drakulluk Edene Yaziklar Olsun",
+        "rating": 8.3
+      },
+      {
+        "episode": 35,
+        "name": "Hayalet Avcilari",
+        "rating": 8.4
+      },
+      {
+        "episode": 36,
+        "name": "Mecnun Harikalar Diyarinda",
+        "rating": 8.3
+      },
+      {
+        "episode": 37,
+        "name": "Bela",
+        "rating": 8.1
+      },
+      {
+        "episode": 38,
+        "name": "Ama Babacigim",
+        "rating": 8.5
+      },
+      {
+        "episode": 39,
+        "name": "Niyetci",
+        "rating": 8.1
+      },
+      {
+        "episode": 40,
+        "name": "Karabasan",
+        "rating": 8.4
+      },
+      {
+        "episode": 41,
+        "name": "Dagilis",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Donus",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Yeni Hayat",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Kabullenis",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Seviyorum Be Abi!",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Hukuk",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Vay Be",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Her Giden Biraz Degisir",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Is Adami",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Kelepce",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Vicdan",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Zaman",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Dilek Tasi",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Mecnun ve Is",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Rusya",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Arabesk",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Zengin Sinif",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Orhanlar",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Kirecburnu Cakallari",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Gecmis",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Market",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Ayrilik Korkusu",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Efsaneler",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Ölüm",
+        "rating": 9
+      },
+      {
+        "episode": 24,
+        "name": "Nigde",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Melül'ün Yolu",
+        "rating": 8.2
+      },
+      {
+        "episode": 26,
+        "name": "I. Metonya meydan muharebesi",
+        "rating": 8.4
+      },
+      {
+        "episode": 27,
+        "name": "Yavuz'un Vedasi",
+        "rating": 8.7
+      },
+      {
+        "episode": 28,
+        "name": "Dosto Asik Olursa",
+        "rating": 8.1
+      },
+      {
+        "episode": 29,
+        "name": "Yoklugunda",
+        "rating": 8.8
+      },
+      {
+        "episode": 30,
+        "name": "Makine",
+        "rating": 8.2
+      },
+      {
+        "episode": 31,
+        "name": "Gelecek",
+        "rating": 8
+      },
+      {
+        "episode": 32,
+        "name": "Anne",
+        "rating": 7.9
+      },
+      {
+        "episode": 33,
+        "name": "Sans",
+        "rating": 8
+      },
+      {
+        "episode": 34,
+        "name": "Fedakarlik",
+        "rating": 8
+      },
+      {
+        "episode": 35,
+        "name": "Seviyorsan Üzme, Sevmiyorsan Oynama",
+        "rating": 8.3
+      },
+      {
+        "episode": 36,
+        "name": "Kill Bilal",
+        "rating": 8.2
+      },
+      {
+        "episode": 37,
+        "name": "Tom Waits",
+        "rating": 8.2
+      },
+      {
+        "episode": 38,
+        "name": "Kahramanlik",
+        "rating": 8.1
+      },
+      {
+        "episode": 39,
+        "name": "Kireçburnu'nun 100. Kurtulus Yili",
+        "rating": 8.5
+      },
+      {
+        "episode": 40,
+        "name": "Para Kazanmak",
+        "rating": 8.3
+      },
+      {
+        "episode": 41,
+        "name": "Falci",
+        "rating": 8.7
+      },
+      {
+        "episode": 42,
+        "name": "Giden Döner mi?",
+        "rating": 9.5
+      },
+      {
+        "episode": 43,
+        "name": "Bir Hikayeyi Sonlandirmak, Bir Hikayeyi Baslatmaktan Daha Zordur",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Yeniden",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Unutulan Bir Daha Hatirlanmaz",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Tarihin Arka Kapisi",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Gonul Isleri",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Kotuluk Yolu",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Deliler",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Yalan Dolan",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Her Insan Bir Alemdir",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Enerji",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Yeni Baslangiclar?",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ama Evlisin",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "Hayat Agaci",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Ne Sen Leyla'sin Ne De Ben Mecnun",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Sir",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Arayan Bulur",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Ayrilik",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Gecmisin Hayaletleri",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Dunaydin",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "Süphe",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Geçmis Dedigin Karanlik Bir Labirent",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Yük",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "10 Yil",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Teknoloji",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Zehir",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Sizin Hiç Babaniz Öldü Mü?",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Yalansiz Dünya",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Agir Fatura",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Ikinci Sans",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Günes Patlamasi",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Son",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mecnun'lu Geçmis Zaman",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Anlatici",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Annenizle Nasil Tanistim?",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Ömür Törpüsü",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Bir Kireçburnu Masali",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "VHS",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Klon Savaslari",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "Bilinçalti",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Akil Okuma",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "Uzaktan Kumanda",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

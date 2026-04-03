@@ -1,0 +1,400 @@
+{
+  "id": "1425-house-of-cards",
+  "rank": 66,
+  "answer": "House of Cards",
+  "sourceUrl": "https://seriesgraph.com/show/1425-house-of-cards",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1425",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1425/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "Chapter 14",
+    "season": 2,
+    "episode": 1,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 3",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 4",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 5",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 6",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 7",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 8",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 9",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 10",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 11",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Chapter 12",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Chapter 13",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 14",
+        "rating": 9.5
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 15",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 16",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 17",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 18",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 19",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 20",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 21",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 22",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 23",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 24",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Chapter 25",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Chapter 26",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 27",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 28",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 29",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 30",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 31",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 32",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 33",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 34",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 35",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 36",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 37",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Chapter 38",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Chapter 39",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 40",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 41",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 42",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 43",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 44",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 45",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 46",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 47",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 48",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 49",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 50",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Chapter 51",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Chapter 52",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 53",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 54",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 55",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 56",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 57",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 58",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 59",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 60",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Chapter 61",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Chapter 62",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Chapter 63",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Chapter 64",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Chapter 65",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 66",
+        "rating": 4.4
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 67",
+        "rating": 4.4
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 68",
+        "rating": 4.4
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 69",
+        "rating": 4.5
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 70",
+        "rating": 4.7
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 71",
+        "rating": 4.4
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 72",
+        "rating": 4.1
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 73",
+        "rating": 2.6
+      }
+    ]
+  ]
+}

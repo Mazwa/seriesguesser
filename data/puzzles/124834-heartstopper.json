@@ -1,0 +1,149 @@
+{
+  "id": "124834-heartstopper",
+  "rank": 147,
+  "answer": "Heartstopper",
+  "sourceUrl": "https://seriesgraph.com/show/124834-heartstopper",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/124834",
+    "seasonRatings": "https://seriesgraph.com/api/shows/124834/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Boyfriend",
+    "season": 1,
+    "episode": 8,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Meet",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Crush",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Kiss",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "Secret",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Friend",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Girls",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Bully",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Boyfriend",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Out",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Family",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Promise",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Challenge",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Heat",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Truth / Dare",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Sorry",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Perfect",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Love",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Home",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Talk",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Journey",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Winter",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Body",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Together",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Apart",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

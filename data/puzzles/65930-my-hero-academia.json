@@ -1,0 +1,889 @@
+{
+  "id": "65930-my-hero-academia",
+  "rank": 162,
+  "answer": "My Hero Academia",
+  "sourceUrl": "https://seriesgraph.com/show/65930-my-hero-academia",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/65930",
+    "seasonRatings": "https://seriesgraph.com/api/shows/65930/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Izuku Midoriya: Rising",
+    "season": 8,
+    "episode": 8,
+    "rating": 9.8,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Izuku Midoriya: Origin",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "What It Takes to Be a Hero",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Roaring Muscles",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Start Line",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "What I Can Do for Now",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Rage, You Damn Nerd",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Deku vs. Kacchan",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Bakugo's Start Line",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Yeah, Just Do Your Best, Iida!",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Encounter with the Unknown",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Game Over",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "All Might",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Upon Each of Their Hearts",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "That's the Idea, Ochaco",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Roaring Sports Festival",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "In Their Own Quirky Ways",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Strategy, Strategy, Strategy",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Cavalry Battle Finale",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Boy Born with Everything",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Victory or Defeat",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Battle On, Challengers!",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Bakugo vs. Uraraka",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Shoto Todoroki: Origin",
+        "rating": 9.6
+      },
+      {
+        "episode": 11,
+        "name": "Fight On, Iida",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Todoroki vs. Bakugo",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Time to Pick Some Names",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Bizarre! Gran Torino Appears",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Midoriya and Shigaraki",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Hero Killer: Stain vs U.A. Students",
+        "rating": 9.1
+      },
+      {
+        "episode": 17,
+        "name": "Climax",
+        "rating": 9.2
+      },
+      {
+        "episode": 18,
+        "name": "The Aftermath of Hero Killer: Stain",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Everyone's Internships",
+        "rating": 6.6
+      },
+      {
+        "episode": 20,
+        "name": "Listen Up!! A Tale from the Past",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Gear Up for Final Exams",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "Yaoyorozu: Rising",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Stripping the Varnish",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "Katsuki Bakugo: Origin",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "Encounter",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Game Start",
+        "rating": 6.4
+      },
+      {
+        "episode": 2,
+        "name": "Wild, Wild Pussycats",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Kota",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "My Hero",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Drive It Home, Iron Fist!!!",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Roaring Upheaval",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "What a Twist!",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "From Iida to Midoriya",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "All For One",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Symbol of Peace",
+        "rating": 9.5
+      },
+      {
+        "episode": 11,
+        "name": "One For All",
+        "rating": 9.8
+      },
+      {
+        "episode": 12,
+        "name": "End of the Beginning, Beginning of the End",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Moving Into Dorms",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Create Those Ultimate Moves",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Test",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Shiketsu High Lurking",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Class 1-A",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "RUSH!",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Rescue Exercises",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Special Episode - Save the World with Love!",
+        "rating": 6.3
+      },
+      {
+        "episode": 21,
+        "name": "What's the Big Idea?",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "A Talk About Your Quirk",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Deku vs. Kacchan, Part 2",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "A Season for Encounters",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "Unrivaled",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Scoop on U.A. Class 1-A",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "Overhaul",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Boy Meets...",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Fighting Fate",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Let's Go, Gutsy Red Riot",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "An Unpleasant Talk",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Go!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Suneater of the Big Three",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Red Riot",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Temp Squad",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Lemillion",
+        "rating": 9.6
+      },
+      {
+        "episode": 12,
+        "name": "Unforeseen Hope",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Infinite 100%",
+        "rating": 9.7
+      },
+      {
+        "episode": 14,
+        "name": "Bright Future",
+        "rating": 9.1
+      },
+      {
+        "episode": 15,
+        "name": "Smoldering Flames",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Win Those Kids' Hearts",
+        "rating": 6.6
+      },
+      {
+        "episode": 17,
+        "name": "Relief for License Trainees",
+        "rating": 7
+      },
+      {
+        "episode": 18,
+        "name": "School Festival",
+        "rating": 6.7
+      },
+      {
+        "episode": 19,
+        "name": "Prepping for the School Festival Is the Funnest Part",
+        "rating": 6.8
+      },
+      {
+        "episode": 20,
+        "name": "Golden Tips Imperial",
+        "rating": 6.4
+      },
+      {
+        "episode": 21,
+        "name": "Deku vs. Gentle Criminal",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "School Festival Start!",
+        "rating": 8.3
+      },
+      {
+        "episode": 23,
+        "name": "Let It Flow! School Festival!",
+        "rating": 8.4
+      },
+      {
+        "episode": 24,
+        "name": "Japanese Hero Billboard Chart",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "His Start",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "All Hands on Deck! Class 1-A",
+        "rating": 6.5
+      },
+      {
+        "episode": 2,
+        "name": "Vestiges",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Clash! Class A vs. Class B!",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Make It Happen, Shinso!",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Operation New Improv Moves",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Foresight",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "Match 3",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Match 3 Conclusion",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Early Bird!",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "That Which Is Inherited",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Our Brawl",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "The New Power and All For One",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Have a Merry Christmas!",
+        "rating": 6.8
+      },
+      {
+        "episode": 14,
+        "name": "Off to Endeavor's Agency!",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "One Thing at a Time",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Long Time No See, Selkie",
+        "rating": 5.5
+      },
+      {
+        "episode": 17,
+        "name": "The Hellish Todoroki Family",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "The Unforgiven",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "More of a Hero Than Anyone",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "My Villain Academia",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Revival Party",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Sad Man's Parade",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Tenko Shimura: Origin",
+        "rating": 9.5
+      },
+      {
+        "episode": 24,
+        "name": "Tomura Shigaraki: Origin",
+        "rating": 9.1
+      },
+      {
+        "episode": 25,
+        "name": "The High, Deep Blue Sky",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Quiet Beginning",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Mirko, the No. 5 Hero",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "One's Justice",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Inheritance",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "The Thrill of Destruction",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Encounter, Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Disaster Walker",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "League of Villains vs. U.A. Students",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Katsuki Bakugo: Rising",
+        "rating": 9.5
+      },
+      {
+        "episode": 10,
+        "name": "The Ones Within Us",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Dabi's Dance",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Threads of Hope",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Final Performance",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Hellish Hell",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "Tartarus",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Hellish Todoroki Family, Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Wrong Way to Put Out a Fire",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Izuku Midoriya and Tomura Shigaraki",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Full Power!!",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Hired Gun",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "The Lovely Lady Nagant",
+        "rating": 9.2
+      },
+      {
+        "episode": 22,
+        "name": "Friend",
+        "rating": 8.7
+      },
+      {
+        "episode": 23,
+        "name": "Deku vs. Class A",
+        "rating": 9.5
+      },
+      {
+        "episode": 24,
+        "name": "A Young Woman's Declaration",
+        "rating": 8.7
+      },
+      {
+        "episode": 25,
+        "name": "No Man Is an Island",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In the Nick of Time! A Big-Time Maverick from the West!",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Specter",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Villain",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Story of How We All Became Heroes",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Let You Down",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Division",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Inflation",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Two Flashfires",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "Extras",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Wounded Hero, Burning Bright and True!!",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "Light Fades to Rain",
+        "rating": 9.7
+      },
+      {
+        "episode": 12,
+        "name": "Those Who Defend, Those Who Violate",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "A Chain of Events, Across the Ages",
+        "rating": 9.5
+      },
+      {
+        "episode": 14,
+        "name": "Together with Shoji",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Butterfly Effect",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "The Chain Thus Far",
+        "rating": 9
+      },
+      {
+        "episode": 17,
+        "name": "Hopes",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "It's a Small World",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "I Am Here",
+        "rating": 9.7
+      },
+      {
+        "episode": 20,
+        "name": "A Girl's Ego",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Battle Without a Quirk",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Toshinori Yagi: Rising/Origin",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "The End of an Era, and the Beginning",
+        "rating": 9.6
+      },
+      {
+        "episode": 3,
+        "name": "The Final Boss!!",
+        "rating": 9.8
+      },
+      {
+        "episode": 4,
+        "name": "Quirk: Explosion!!",
+        "rating": 9.7
+      },
+      {
+        "episode": 5,
+        "name": "History's Greatest Villain",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Wrench It Open, Izuku Midoriya!!",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "From Aizawa",
+        "rating": 9.6
+      },
+      {
+        "episode": 8,
+        "name": "Izuku Midoriya: Rising",
+        "rating": 9.8
+      },
+      {
+        "episode": 9,
+        "name": "Epilogue, The Hellish Todoroki Family: Final",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Girl Who Loves Smiles",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "My Hero Academia",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

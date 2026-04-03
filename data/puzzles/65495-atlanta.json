@@ -1,0 +1,236 @@
+{
+  "id": "65495-atlanta",
+  "rank": 130,
+  "answer": "Atlanta",
+  "sourceUrl": "https://seriesgraph.com/show/65495-atlanta",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/65495",
+    "seasonRatings": "https://seriesgraph.com/api/shows/65495/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Teddy Perkins",
+    "season": 2,
+    "episode": 6,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Big Bang",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Streets on Lock",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Go for Broke",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Streisand Effect",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Nobody Beats the Biebs",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Value",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "B.A.N.",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "The Club",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Juneteenth",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "The Jacket",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Alligator Man",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Sportin' Waves",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Money Bag Shawty",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Helen",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Barbershop",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Teddy Perkins",
+        "rating": 9.7
+      },
+      {
+        "episode": 7,
+        "name": "Champagne Papi",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Woods",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "North of the Border",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "FUBU",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Crabs in a Barrel",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Three Slaps",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Sinterklaas Is Coming to Town",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Old Man and the Tree",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Big Payback",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Cancer Attack",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "White Fashion",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Trini 2 De Bone",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "New Jazz",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Rich Wigga Poor Wigga",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Tarrare",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Most Atlanta",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Homeliest Little Horse",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Born 2 Die",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Light Skinned-ed",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Work Ethic!",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Crank Dat Killer",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Snipe Hunt",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Goof Who Sat by the Door",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Andrew Wyeth, Alfred's World",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "It Was All a Dream",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

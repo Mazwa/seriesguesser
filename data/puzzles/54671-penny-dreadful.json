@@ -1,0 +1,164 @@
+{
+  "id": "54671-penny-dreadful",
+  "rank": 210,
+  "answer": "Penny Dreadful",
+  "sourceUrl": "https://seriesgraph.com/show/54671-penny-dreadful",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/54671",
+    "seasonRatings": "https://seriesgraph.com/api/shows/54671/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "A Blade of Grass",
+    "season": 3,
+    "episode": 4,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Night Work",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Séance",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Resurrection",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Demimonde",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Closer Than Sisters",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "What Death Can Join Together",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Possession",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Grand Guignol",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fresh Hell",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Verbis Diablo",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Nightcomers",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Evil Spirits in Heavenly Places",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Above the Vaulted Sky",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Glorious Horrors",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Little Scorpion",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Memento Mori",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "And Hell Itself My Only Foe",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "And They Were Enemies",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Day Tennyson Died",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Predators Far and Near",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Good and Evil Braided Be",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "A Blade of Grass",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "This World Is Our Hell",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "No Beast So Fierce",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Ebb Tide",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Perpetual Night",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Blessed Dark",
+        "rating": 8.2
+      }
+    ]
+  ]
+}

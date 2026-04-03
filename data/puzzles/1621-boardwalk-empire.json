@@ -1,0 +1,313 @@
+{
+  "id": "1621-boardwalk-empire",
+  "rank": 57,
+  "answer": "Boardwalk Empire",
+  "sourceUrl": "https://seriesgraph.com/show/1621-boardwalk-empire",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1621",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1621/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Two Impostors",
+    "season": 3,
+    "episode": 11,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Boardwalk Empire",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Ivory Tower",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Broadway Limited",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Anastasia",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Nights in Ballygran",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Family Limitation",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Home",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Hold Me in Paradise",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Belle Femme",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Emerald City",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Paris Green",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "A Return to Normalcy",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "21",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Ourselves Alone",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "A Dangerous Maid",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "What Does the Bee Do?",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Gimcrack and Bunkum",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Age of Reason",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Peg of Old",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Two Boats and a Lifeguard",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Battle of the Century",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Georgia Peaches",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Under God's Power She Flourishes",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "To the Lost",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Resolution",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Spaghetti and Coffee",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Bone for Tuna",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Blue Bell Boy",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "You'd Be Surprised",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Ging Gang Goolie",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Sunday Best",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Pony",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Milkmaid's Lot",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "A Man, a Plan...",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Two Impostors",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Margate Sands",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New York Sour",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Resignation",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Acres of Diamonds",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "All In",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Erlkönig",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The North Star",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "William Wilson",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Old Ship of Zion",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Marriage and Hunting",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "White Horse Pike",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Havre de Grace",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Farewell Daddy Blues",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Golden Days for Boys and Girls",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Good Listener",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "What Jesus Said",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Cuanto",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "King of Norway",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Devil You Know",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Friendless Child",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Eldorado",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

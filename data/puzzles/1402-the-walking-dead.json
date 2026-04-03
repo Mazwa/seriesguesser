@@ -1,0 +1,930 @@
+{
+  "id": "1402-the-walking-dead",
+  "rank": 157,
+  "answer": "The Walking Dead",
+  "sourceUrl": "https://seriesgraph.com/show/1402-the-walking-dead",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1402",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1402/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "No Way Out",
+    "season": 6,
+    "episode": 9,
+    "rating": 9.6,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Days Gone Bye",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Guts",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Tell It to the Frogs",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Vatos",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Wildfire",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "TS-19",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "What Lies Ahead",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Bloodletting",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Save the Last One",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Cherokee Rose",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Chupacabra",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Secrets",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Pretty Much Dead Already",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Nebraska",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Triggerfinger",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "18 Miles Out",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Judge, Jury, Executioner",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Better Angels",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Beside the Dying Fire",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Seed",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Sick",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Walk with Me",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Killer Within",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "Say the Word",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Hounded",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "When the Dead Come Knocking",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Made to Suffer",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "The Suicide King",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Home",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "I Ain't a Judas",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Clear",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Arrow on the Doorpost",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Prey",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "This Sorrowful Life",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Welcome to the Tombs",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "30 Days Without an Accident",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Infected",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Isolation",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Indifference",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Internment",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Live Bait",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Dead Weight",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Too Far Gone",
+        "rating": 9.6
+      },
+      {
+        "episode": 9,
+        "name": "After",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Inmates",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Claimed",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Still",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Alone",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Grove",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Us",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "A",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "No Sanctuary",
+        "rating": 9.6
+      },
+      {
+        "episode": 2,
+        "name": "Strangers",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Four Walls and a Roof",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Slabtown",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Self Help",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Consumed",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Crossed",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Coda",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "What Happened and What's Going On",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Them",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Distance",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Remember",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Forget",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Spend",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Try",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Conquer",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "First Time Again",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "JSS",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Thank You",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Here's Not Here",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Now",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Always Accountable",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Heads Up",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Start to Finish",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "No Way Out",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "The Next World",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Knots Untie",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Not Tomorrow Yet",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Same Boat",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Twice as Far",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "East",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Last Day on Earth",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Day Will Come When You Won't Be",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "The Well",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "The Cell",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Service",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Go Getters",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Swear",
+        "rating": 5.7
+      },
+      {
+        "episode": 7,
+        "name": "Sing Me a Song",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Hearts Still Beating",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Rock in the Road",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "New Best Friends",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Hostiles and Calamities",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Say Yes",
+        "rating": 7
+      },
+      {
+        "episode": 13,
+        "name": "Bury Me Here",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Other Side",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "Something They Need",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The First Day of the Rest of Your Life",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mercy",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "The Damned",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Monsters",
+        "rating": 6.5
+      },
+      {
+        "episode": 4,
+        "name": "Some Guy",
+        "rating": 6.9
+      },
+      {
+        "episode": 5,
+        "name": "The Big Scary U",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The King, the Widow and Rick",
+        "rating": 6.2
+      },
+      {
+        "episode": 7,
+        "name": "Time for After",
+        "rating": 6.5
+      },
+      {
+        "episode": 8,
+        "name": "How It's Gotta Be",
+        "rating": 6.9
+      },
+      {
+        "episode": 9,
+        "name": "Honor",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "The Lost and the Plunderers",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Dead or Alive Or",
+        "rating": 6.9
+      },
+      {
+        "episode": 12,
+        "name": "The Key",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Do Not Send Us Astray",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Still Gotta Mean Something",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Worth",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Wrath",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A New Beginning",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "The Bridge",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Warning Signs",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Obliged",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "What Comes After",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Who Are You Now?",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Stradivarius",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Evolution",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Adaptation",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Omega",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Bounty",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Guardians",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Chokepoint",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Scars",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "The Calm Before",
+        "rating": 9.3
+      },
+      {
+        "episode": 16,
+        "name": "The Storm",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lines We Cross",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "We Are the End of the World",
+        "rating": 6.9
+      },
+      {
+        "episode": 3,
+        "name": "Ghosts",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Silence the Whisperers",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "What It Always Is",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Bonds",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Open Your Eyes",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The World Before",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Squeeze",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Stalker",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Morning Star",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Walk with Us",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "What We Become",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Look at the Flowers",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "The Tower",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "A Certain Doom",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Home Sweet Home",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "Find Me",
+        "rating": 6.2
+      },
+      {
+        "episode": 19,
+        "name": "One More",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Splinter",
+        "rating": 5.2
+      },
+      {
+        "episode": 21,
+        "name": "Diverged",
+        "rating": 4.1
+      },
+      {
+        "episode": 22,
+        "name": "Here's Negan",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Acheron: Part I",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Acheron: Part II",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Hunted",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Rendition",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Out of the Ashes",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "On the Inside",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Promises Broken",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "For Blood",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "No Other Way",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "New Haunts",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Rogue Element",
+        "rating": 6.6
+      },
+      {
+        "episode": 12,
+        "name": "The Lucky Ones",
+        "rating": 7
+      },
+      {
+        "episode": 13,
+        "name": "Warlords",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Rotten Core",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Trust",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Acts of God",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Lockdown",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "A New Deal",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Variant",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "What's Been Lost",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Outpost 22",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "Faith",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Family",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "Rest in Peace",
+        "rating": 8.4
+      }
+    ]
+  ]
+}

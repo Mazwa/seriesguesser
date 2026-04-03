@@ -1,0 +1,346 @@
+{
+  "id": "85937-demon-slayer-kimetsu-no-yaiba",
+  "rank": 61,
+  "answer": "Demon Slayer: Kimetsu no Yaiba",
+  "sourceUrl": "https://seriesgraph.com/show/85937-demon-slayer:-kimetsu-no-yaiba",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/85937",
+    "seasonRatings": "https://seriesgraph.com/api/shows/85937/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Never Give Up",
+    "season": 2,
+    "episode": 17,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Cruelty",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Trainer Sakonji Urokodaki",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Sabito and Makomo",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Final Selection",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "My Own Steel",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Swordsman Accompanying a Demon",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Muzan Kibutsuji",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Smell of Enchanting Blood",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Temari Demon and Arrow Demon",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Together Forever",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Tsuzumi Mansion",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Something More Important Than Life",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The House with the Wisteria Family Crest",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Mount Natagumo",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Letting Someone Else Go First",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "You Must Master a Single Thing",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "A Forged Bond",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Hinokami",
+        "rating": 9.7
+      },
+      {
+        "episode": 20,
+        "name": "Pretend Family",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Against Corps Rules",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Master of the Mansion",
+        "rating": 8.3
+      },
+      {
+        "episode": 23,
+        "name": "Hashira Meeting",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Rehabilitation Training",
+        "rating": 7.6
+      },
+      {
+        "episode": 25,
+        "name": "Tsuguko, Kanao Tsuyuri",
+        "rating": 7.7
+      },
+      {
+        "episode": 26,
+        "name": "New Mission",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Flame Hashira Kyojuro Rengoku",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Deep Sleep",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Should Have Been",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Insult",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Move Forward!",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Akaza",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "Set Your Heart Ablaze",
+        "rating": 9.7
+      },
+      {
+        "episode": 8,
+        "name": "Sound Hashira Tengen Uzui",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Infiltrating the Entertainment District",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "What Are You?",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Tonight",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Things Are Gonna Get Real Flashy!",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Layered Memories",
+        "rating": 9.5
+      },
+      {
+        "episode": 14,
+        "name": "Transformation",
+        "rating": 9.4
+      },
+      {
+        "episode": 15,
+        "name": "Gathering",
+        "rating": 9.4
+      },
+      {
+        "episode": 16,
+        "name": "Defeating an Upper Rank Demon",
+        "rating": 9.6
+      },
+      {
+        "episode": 17,
+        "name": "Never Give Up",
+        "rating": 9.8
+      },
+      {
+        "episode": 18,
+        "name": "No Matter How Many Lives",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Someone's Dream",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Yoriichi Type Zero",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "A Sword from Over 300 Years Ago",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Thank You, Tokito",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Bright Red Sword",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Aren't You Going to Become A Hashira?",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Awful Villain",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Mu in Muichiro",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Mist Hashira Muichiro Tokito",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Love Hashira Mitsuri Kanroji",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "A Connected Bond: Daybreak and First Light",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "To Defeat Muzan Kibutsuji",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Sorrows of the Water Hashira, Giyu Tomioka",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Fully Recovered Tanjiro Joins the Hashira Training!",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "To Bring a Smile to One's Face",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "I Even Ate Demons...",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Strongest of the Demon Slayer Corps",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Stone Hashira Gyomei Himejima",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "The Hashira Unite",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

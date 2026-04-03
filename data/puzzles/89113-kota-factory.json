@@ -1,0 +1,104 @@
+{
+  "id": "89113-kota-factory",
+  "rank": 106,
+  "answer": "Kota Factory",
+  "sourceUrl": "https://seriesgraph.com/show/89113-kota-factory",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/89113",
+    "seasonRatings": "https://seriesgraph.com/api/shows/89113/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Product Delivery",
+    "season": 3,
+    "episode": 5,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Inventory",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Assembly Line",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Optimization",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Shut Down",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Overhaul",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reasoning",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Control System",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Atmospheric Pressure",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Repair & Maintenance",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Packaging",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mission Statement",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Fault Mitigation",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Benchmarking",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Emergency Response",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Product Delivery",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": "2004-malcolm-in-the-middle",
+  "rank": 216,
+  "answer": "Malcolm in the Middle",
+  "sourceUrl": "https://seriesgraph.com/show/2004-malcolm-in-the-middle",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2004",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2004/season-ratings"
+  },
+  "years": {
+    "first": 2000,
+    "last": 2006
+  },
+  "highestRatedEpisode": {
+    "name": "Bowling",
+    "season": 2,
+    "episode": 20,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Red Dress",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Home Alone 4",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Shame",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Malcolm Babysits",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Sleepover",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Francis Escapes",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Krelboyne Picnic",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Lois vs. Evil",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Stock Car Races",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Funeral",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Cheerleader",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Rollerskates",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "The Bots and the Bees",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Smunday",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Water Park",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Traffic Jam",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Halloween Approximately",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Lois's Birthday",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Dinner Out",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Casino",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Convention",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Robbery",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Therapy",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "High School Play",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "The Bully",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Old Mrs. Old",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Krelboyne Girl",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "New Neighbors",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Hal Quits",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "The Grandparents",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Traffic Ticket",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Surgery",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Reese Cooks",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Tutoring Reese",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Bowling",
+        "rating": 9.3
+      },
+      {
+        "episode": 21,
+        "name": "Malcolm vs. Reese",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Mini-Bike",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Carnival",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Evacuation",
+        "rating": 8.4
+      },
+      {
+        "episode": 25,
+        "name": "Flashback",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Houseboat",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Emancipation",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Book Club",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Malcolm's Girlfriend",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Charity",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Health Scare",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Christmas",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Poker",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Reese's Job",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Lois' Makeover",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Company Picnic: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Company Picnic: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Reese Drives",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Cynthia's Back",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Hal's Birthday",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Hal Coaches",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Dewey's Dog",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Poker #2",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Clip Show",
+        "rating": 6.3
+      },
+      {
+        "episode": 20,
+        "name": "Jury Duty",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Cliques",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Monkey",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Zoo",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Humilithon",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Family Reunion",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Stupid Girl",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Forwards Backwards",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Forbidden Girlfriend",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Malcolm Holds His Tongue",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Boys at Ranch",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Grandma Sues",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "If Boys Were Girls",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Long Drive",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Kicked Out",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Stereo Store",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Hal's Friend",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Garage Sale",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Academic Octathalon",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Clip Show #2",
+        "rating": 6.3
+      },
+      {
+        "episode": 18,
+        "name": "Reese's Party",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Future Malcolm",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Baby: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Baby: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Day Care",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Vegas",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Watching the Baby",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Goodbye Kitty",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Thanksgiving",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Malcolm Films Reese",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Malcolm's Job",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Christmas Trees",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Block Party",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Dirty Magazine",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Hot Tub",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Ida's Boyfriend",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Softball",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Lois' Sister",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Malcolm Dates a Family",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Reese's Apartment",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Malcolm Visits College",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Polly in the Middle",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "Dewey's Special Class",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Experiment",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Victor's Other Family",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Reese Joins the Army: Part 1",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Reese Joins the Army: Part 2",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reese Comes Home",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Buseys Run Away",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Standee",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Pearl Harbor",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Kitty's Back",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Hal's Christmas Gift",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Hal Sleepwalks",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Lois Battles Jamie",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Malcolm's Car",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Billboard",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Dewey's Opera",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Living Will",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "Tiki Lounge",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Ida Loses a Leg",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Chad's Sleepover",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "No Motorcycles",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Butterflies",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Ida's Dance",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Motivational Speaker",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Stilts",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "Buseys Take a Hostage",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Mrs. Tri-County",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Burning Man",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Health Insurance",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Reese vs. Stevie",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Halloween",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Jessica Stays Over",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Secret Boyfriend",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Blackout",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Army Buddy",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Malcolm Defends Reese",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Malcolm's Money",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Bride of Ida",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "College Recruiters",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Mono",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Hal Grieves",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "A.A.",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Lois Strikes Back",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Hal's Dentist",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Bomb Shelter",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Stevie in the Hospital",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Cattle Court",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Morp",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Graduation",
+        "rating": 9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "83880-our-planet",
+  "rank": 128,
+  "answer": "Our Planet",
+  "sourceUrl": "https://seriesgraph.com/show/83880-our-planet",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/83880",
+    "seasonRatings": "https://seriesgraph.com/api/shows/83880/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Frozen Worlds",
+    "season": 1,
+    "episode": 2,
+    "rating": 9.1,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "One Planet",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Frozen Worlds",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Jungles",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "Coastal Seas",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "From Deserts to Grasslands",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The High Seas",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Fresh Water",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Forests",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "World on the Move",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Following the Sun",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Next Generation",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Freedom to Roam",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

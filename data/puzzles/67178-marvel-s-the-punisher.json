@@ -1,0 +1,157 @@
+{
+  "id": "67178-marvel-s-the-punisher",
+  "rank": 105,
+  "answer": "The Punisher",
+  "sourceUrl": "https://seriesgraph.com/show/67178-marvel's-the-punisher",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67178",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67178/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Home",
+    "season": 1,
+    "episode": 12,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "3 AM",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Two Dead Men",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Kandahar",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Resupply",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Gunner",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Judas Goat",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Crosshairs",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Cold Steel",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Front Toward Enemy",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Virtue of the Vicious",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Danger Close",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Home",
+        "rating": 9.5
+      },
+      {
+        "episode": 13,
+        "name": "Memento Mori",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Roadhouse Blues",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Fight or Flight",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Trouble the Water",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Scar Tissue",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "One-Eyed Jacks",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Nakazat",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "One Bad Day",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "My Brother's Keeper",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Flustercluck",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Dark Hearts of Men",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "The Abyss",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Collision Course",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "The Whirlwind",
+        "rating": 9
+      }
+    ]
+  ]
+}

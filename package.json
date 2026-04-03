@@ -1,0 +1,9 @@
+{
+  "name": "seriesguesser",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "prepare:data": "node scripts/generate-daily-data.js",
+    "start": "npm run prepare:data && node server.js"
+  }
+}

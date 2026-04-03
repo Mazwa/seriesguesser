@@ -1,0 +1,340 @@
+{
+  "id": "83631-what-we-do-in-the-shadows",
+  "rank": 154,
+  "answer": "What We Do in the Shadows",
+  "sourceUrl": "https://seriesgraph.com/show/83631-what-we-do-in-the-shadows",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/83631",
+    "seasonRatings": "https://seriesgraph.com/api/shows/83631/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "The Trial",
+    "season": 1,
+    "episode": 7,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "City Council",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Werewolf Feud",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Manhattan Night Club",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Animal Control",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Baron's Night Out",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Trial",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Citizenship",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Orgy",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Ancestry",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Resurrection",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Ghosts",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Brain Scramblies",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Curse",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Colin's Promotion",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "On the Run",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Return",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Collaboration",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Witches",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Nouveau Théâtre des Vampires",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Prisoner",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Cloak of Duplication",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Gail",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Casino",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Chamber of Judgement",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "The Escape",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Siren",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Wellness Center",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Farewell",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Portrait",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reunited",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Lamp",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Grand Opening",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "The Night Market",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Private School",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Wedding",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Pine Barrens",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Go Flip Yourself",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Freddie",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Sunrise, Sunset",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Mall",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "A Night Out with the Guys",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Pride Parade",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Campaign",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Local News",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Urgent Care",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Hybrid Creatures",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "The Roast",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "A Weekend at Morrigan Manor",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Exit Interview",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Return of Jerry",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Headhunting",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Sleep Hypnosis",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Railroad",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Nandor's Army",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Laszlo's Father",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "March Madness",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "P.I. Undercover: New York",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Come Out and Play",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Promotion",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "The Finale",
+        "rating": 8.2
+      }
+    ]
+  ]
+}

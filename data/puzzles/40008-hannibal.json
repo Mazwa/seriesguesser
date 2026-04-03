@@ -1,0 +1,224 @@
+{
+  "id": "40008-hannibal",
+  "rank": 51,
+  "answer": "Hannibal",
+  "sourceUrl": "https://seriesgraph.com/show/40008-hannibal",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/40008",
+    "seasonRatings": "https://seriesgraph.com/api/shows/40008/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "Mizumono",
+    "season": 2,
+    "episode": 13,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Apéritif",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Amuse-Bouche",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Potage",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Oeuf",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Coquilles",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Entrée",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Sorbet",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Fromage",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Trou Normand",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Buffet Froid",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Rôti",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Relevés",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Savoureux",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Kaiseki",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Sakizuke",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Hassun",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Takiawase",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Mukozuke",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Futamono",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Yakimono",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Su-zakana",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Shiizakana",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Naka-Choko",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Ko no Mono",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Tome-wan",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Mizumono",
+        "rating": 9.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Antipasto",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Primavera",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Secondo",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Aperitivo",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Contorno",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Dolce",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Digestivo",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "The Great Red Dragon",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "...And the Woman Clothed with the Sun",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "...And the Woman Clothed in Sun",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "...And the Beast from the Sea",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "The Number of the Beast Is 666",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "The Wrath of the Lamb",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

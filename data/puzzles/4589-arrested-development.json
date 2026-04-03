@@ -1,0 +1,453 @@
+{
+  "id": "4589-arrested-development",
+  "rank": 70,
+  "answer": "Arrested Development",
+  "sourceUrl": "https://seriesgraph.com/show/4589-arrested-development",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4589",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4589/season-ratings"
+  },
+  "years": {
+    "first": 2003,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Development Arrested",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Top Banana",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Bringing Up Buster",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Key Decisions",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Charity Drive",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Visiting Ours",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "In God We Trust",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "My Mother the Car",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Storming the Castle",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Pier Pressure",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Public Relations",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Marta Complex",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Beef Consomme",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Shock and Aww",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Staff Infection",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Altar Egos",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Justice Is Blind",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Missing Kitty",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Best Man for the Gob",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Whistler's Mother",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Not Without My Daughter",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Let 'Em Eat Cake",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The One Where Michael Leaves",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The One Where They Build a House",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "¡Amigos!",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Good Grief!",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Sad Sack",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Afternoon Delight",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Switch Hitter",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Queen for a Day",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Burning Love",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Ready, Aim, Marry Me!",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Out on a Limb",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Hand to God",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Motherboy XXX",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "The Immaculate Election",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Sword of Destiny",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Meat the Veals",
+        "rating": 9
+      },
+      {
+        "episode": 17,
+        "name": "Spring Breakout",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "The Righteous Brothers",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Cabin Show",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "For British Eyes Only",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Forget Me Now",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Notapusy",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Mr. F",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Ocean Walker",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Prison Break-In",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Making a Stand",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "S.O.B.s",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Fakin' It",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Family Ties",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Exit Strategy",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Development Arrested",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Flight of the Phoenix",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Borderline Personalities",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Indian Takers",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "The B. Team",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "A New Start",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Double Crossers",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "Colony Collapse",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Red Hairing",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Smashed",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Queen B.",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "A New Attitude",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Señoritis",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "It Gets Better",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Off the Hook",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Blockheads",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Family Leave",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "Self-Deportation",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Everyone Gets Atrophy",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "An Old Start",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Sinking Feelings",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Emotional Baggage",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Rom-Traum",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Premature Independence",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Unexpected Company",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "Taste Makers",
+        "rating": 6.8
+      },
+      {
+        "episode": 11,
+        "name": "Chain Migration",
+        "rating": 6.6
+      },
+      {
+        "episode": 12,
+        "name": "Check Mates",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "The Untethered Sole",
+        "rating": 6.7
+      },
+      {
+        "episode": 14,
+        "name": "Saving for Arraignment Day",
+        "rating": 6.5
+      },
+      {
+        "episode": 15,
+        "name": "Courting Disasters",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "The Fallout",
+        "rating": 7.6
+      }
+    ]
+  ]
+}

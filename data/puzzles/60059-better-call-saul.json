@@ -1,0 +1,350 @@
+{
+  "id": "60059-better-call-saul",
+  "rank": 7,
+  "answer": "Better Call Saul",
+  "sourceUrl": "https://seriesgraph.com/show/60059-better-call-saul",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60059",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60059/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Plan and Execution",
+    "season": 6,
+    "episode": 7,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Uno",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Mijo",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Nacho",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Hero",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Alpine Shepherd Boy",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Five-O",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "Bingo",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "RICO",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Pimento",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Marco",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Switch",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Cobbler",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Amarillo",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Gloves Off",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Rebecca",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Bali Ha'i",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Inflatable",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Fifi",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Nailed",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Klick",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mabel",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Witness",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Sunk Costs",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Sabrosito",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Chicanery",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "Off Brand",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Expenses",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Slip",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Fall",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Lantern",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smoke",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Breathe",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Something Beautiful",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Talk",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Quite a Ride",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Piñata",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Something Stupid",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Coushatta",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Wiedersehen",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Winner",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Magic Man",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "50% Off",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "The Guy for This",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Namaste",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Dedicado a Max",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Wexler v. Goodman",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "JMM",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Bagman",
+        "rating": 9.7
+      },
+      {
+        "episode": 9,
+        "name": "Bad Choice Road",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "Something Unforgivable",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wine and Roses",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Carrot and Stick",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Rock and Hard Place",
+        "rating": 9.7
+      },
+      {
+        "episode": 4,
+        "name": "Hit and Run",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Black and Blue",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Axe and Grind",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Plan and Execution",
+        "rating": 9.9
+      },
+      {
+        "episode": 8,
+        "name": "Point and Shoot",
+        "rating": 9.8
+      },
+      {
+        "episode": 9,
+        "name": "Fun and Games",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Nippy",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Breaking Bad",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Waterworks",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "Saul Gone",
+        "rating": 9.8
+      }
+    ]
+  ]
+}

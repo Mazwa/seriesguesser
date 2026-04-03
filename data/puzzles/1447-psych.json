@@ -1,0 +1,639 @@
+{
+  "id": "1447-psych",
+  "rank": 132,
+  "answer": "Psych",
+  "sourceUrl": "https://seriesgraph.com/show/1447-psych",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1447",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1447/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Last Night Gus",
+    "season": 6,
+    "episode": 2,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Spellingg Bee",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Speak Now or Forever Hold Your Piece",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Woman Seeking Dead Husband: Smokers Okay, No Pets",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "9 Lives",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Weekend Warriors",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Who Ya Gonna Call?",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Shawn vs. the Red Phantom",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Forget Me Not",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "From the Earth to Starbucks",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "He Loves Me, He Loves Me Not, He Loves Me, Oops He's Dead",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Cloudy... With a Chance of Murder",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Game, Set... Muuurder?",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Poker? I Barely Know Her",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Scary Sherry: Bianca's Toast",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "American Duos",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "65 Million Years Off",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Psy vs. Psy",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Zero to Murder in Sixty Seconds",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "And Down the Stretch Comes Murder",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Meat Is Murder, But Murder Is Also Murder",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "If You're So Smart, Then Why Are You Dead?",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Rob-a-Bye Baby",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Bounty Hunters!",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Gus's Dad May Have Killed an Old Guy",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "There's Something About Mira",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Old and the Restless",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Lights, Camera... Homicidio",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Dis-Lodged",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Black and Tan: A Crime of Fashion",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Shawn (and Gus) of the Dead",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ghosts",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Murder?... Anyone?... Anyone?... Bueller?",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Daredevils!",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Greatest Adventure in the History of Basic Cable",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Disco Didn't Die. It Was Murdered!",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "There Might Be Blood",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Talk Derby to Me",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Gus Walks Into a Bank",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Christmas Joy",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Six Feet Under the Sea",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Lassie Did a Bad, Bad Thing",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Earth, Wind and... Wait for It",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Any Given Friday Night at 10PM, 9PM Central",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Truer Lies",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Tuesday the 17th",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "An Evening with Mr. Yang",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Extradition: British Columbia",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "He Dead",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "High Noon-ish",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Devil Is in the Details... And the Upstairs Bedroom",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Shawn Gets the Yips",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Bollywood Homicide",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "High Top Fade Out",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Let's Get Hairy",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Shawn Takes a Shot in the Dark",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "You Can't Handle This Episode",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Thrill Seekers and Hell Raisers",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "A Very Juliet Episode",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Death Is in the Air",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Think Tank",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Head, the Tail, the Whole Damn Episode",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Mr. Yin Presents",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Romeo and Juliet and Juliet",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Feet Don't Kill Me Now",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Not Even Close... Encounters",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Chivalry Is Not Dead... But Someone Is",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Shawn and Gus in Drag (Racing)",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Viagra Falls",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Ferry Tale",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Shawn 2.0",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "One, Maybe Two, Ways Out",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Extradition II: The Actual Extradition Part",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "In Plain Fright",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Dual Spires",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "We'd Like to Thank the Academy",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "The Polarizing Express",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Dead Bear Walking",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Yang 3 in 2D",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Shawn Rescues Darth Vader",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Last Night Gus",
+        "rating": 9.6
+      },
+      {
+        "episode": 3,
+        "name": "This Episode Sucks",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Amazing Psych-Man & Tap Man, Issue No. 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Dead Man's Curveball",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Shawn Interrupted",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "In for a Penny...",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Tao of Gus",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Neil Simon's Lover's Retreat",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Indiana Shawn and the Temple of the Kinda Crappy, Rusty Old Dagger",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Heeeeere's Lassie",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Shawn and the Real Girl",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Let's Doo-Wop It Again",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Autopsy Turvy",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "True Grits",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Santabarbaratown",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Santabarbaratown 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Juliet Takes a Luvvah",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Lassie Jerky",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "No Country for Two Old Men",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "100 Clues",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Cirque du Soul",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Deez Nups",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Right Turn or Left for Dead",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Juliet Wears the Pantsuit",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Santa Barbarian Candidate",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Office Space",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Dead Air",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Nip and Suck It",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "No Trout About It",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Psych: The Musical",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lock, Stock, Some Smoking Barrels and Burton Guster's Goblet of Fire",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "S.E.I.Z.E. the Day",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Remake A.K.A. Cloudy... With a Chance of Improvement",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Someone's Got a Woody",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Cog Blocked",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "1967: A Psych Odyssey",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Shawn and Gus Truck Things Up",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "A Touch of Sweevil",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "A Nightmare on State Street",
+        "rating": 6.3
+      },
+      {
+        "episode": 10,
+        "name": "The Break-Up",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

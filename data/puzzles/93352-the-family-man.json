@@ -1,0 +1,159 @@
+{
+  "id": "93352-the-family-man",
+  "rank": 136,
+  "answer": "The Family Man",
+  "sourceUrl": "https://seriesgraph.com/show/93352-the-family-man",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/93352",
+    "seasonRatings": "https://seriesgraph.com/api/shows/93352/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Vendetta",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Family Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Sleepers",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Anti-National",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Patriots",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Pariah",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Dance Of Death",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Paradise",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Act Of War",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Fighting Dirty",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Bomb",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exile",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Weapon",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Angel of Death",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Eagle",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Homecoming",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Martyrs",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Collateral Damage",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Vendetta",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "The Final Act",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Peace Problem",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "It's Personal",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Wanted Man",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Don't Worry Be Happy",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Crossing the Line",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "With Friends Like You",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Endgame",
+        "rating": 6.5
+      }
+    ]
+  ]
+}

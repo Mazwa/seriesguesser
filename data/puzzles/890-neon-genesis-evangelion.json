@@ -1,0 +1,155 @@
+{
+  "id": "890-neon-genesis-evangelion",
+  "rank": 193,
+  "answer": "Neon Genesis Evangelion",
+  "sourceUrl": "https://seriesgraph.com/show/890-neon-genesis-evangelion",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/890",
+    "seasonRatings": "https://seriesgraph.com/api/shows/890/season-ratings"
+  },
+  "years": {
+    "first": 1995,
+    "last": 1996
+  },
+  "highestRatedEpisode": {
+    "name": "Introjection",
+    "season": 1,
+    "episode": 19,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Angel Attack",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Beast",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "A Transfer",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Hedgehog's Dilemma",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Rei I",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Rei II",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "A Human Work",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Asuka Strikes!",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Both of You, Dance Like You Want to Win!",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Magmadiver",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Day Tokyo-3 Stood Still",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "She Said, 'Don't Make Others Suffer for Your Personal Hatred'",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Lilliputian Hitcher",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Weaving a Story",
+        "rating": 7
+      },
+      {
+        "episode": 15,
+        "name": "Those Women Longed for the Touch of Others' Lips, and Thus Invited Their Kisses",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Splitting of the Breast",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "Fourth Children",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Ambivalence",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "Introjection",
+        "rating": 9.3
+      },
+      {
+        "episode": 20,
+        "name": "Weaving a Story 2: Oral Stage",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "He Was Aware That He Was Still a Child",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Don't Be",
+        "rating": 8.7
+      },
+      {
+        "episode": 23,
+        "name": "Rei III",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "The Beginning and the End, or 'Knockin' on Heaven's Door'",
+        "rating": 8.8
+      },
+      {
+        "episode": 25,
+        "name": "Do You Love Me?",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "Take care of yourself",
+        "rating": 8.3
+      }
+    ]
+  ]
+}

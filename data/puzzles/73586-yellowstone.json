@@ -1,0 +1,298 @@
+{
+  "id": "73586-yellowstone",
+  "rank": 77,
+  "answer": "Yellowstone",
+  "sourceUrl": "https://seriesgraph.com/show/73586-yellowstone",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/73586",
+    "seasonRatings": "https://seriesgraph.com/api/shows/73586/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Half the Money",
+    "season": 4,
+    "episode": 1,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Daybreak",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Kill the Messenger",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "No Good Horses",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Long Black Train",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Coming Home",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Remembering",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "A Monster Is Among Us",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Unravelling: Part 1",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Unravelling: Part 2",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Thundering",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "New Beginnings",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Reek of Desperation",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Only Devils Left",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Touching Your Enemy",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Blood the Boy",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Resurrection Day",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Behind Us Only Grey",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Enemies by Monday",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Sins of the Father",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "You're the Indian Now",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Freight Trains and Monsters",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "An Acceptable Surrender",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Going Back to Cali",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Cowboys and Dreamers",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "All for Nothing",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Beating",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "I Killed a Man Today",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Meaner Than Evil",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The World Is Purple",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Half the Money",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Phantom Pain",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "All I See Is You",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Winning or Learning",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Under a Blanket of Red",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "I Want to Be Him",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Keep the Wolves Close",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "No Kindness for the Coward",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "No Such Thing as Fair",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Grass on the Streets and Weeds on the Rooftops",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "One Hundred Years Is Nothing",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Sting of Wisdom",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Tall Drink of Water",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Horses in Heaven",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Watch 'Em Ride Away",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Cigarettes, Whiskey, a Meadow and You",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Dream Is Not Me",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "A Knife and No Coin",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Desire Is All You Need",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "The Apocalypse of Change",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Three Fifty-Three",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Counting Coup",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Give the World Away",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Life Is a Promise",
+        "rating": 7.7
+      }
+    ]
+  ]
+}

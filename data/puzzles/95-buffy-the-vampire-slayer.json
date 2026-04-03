@@ -1,0 +1,757 @@
+{
+  "id": "95-buffy-the-vampire-slayer",
+  "rank": 158,
+  "answer": "Buffy the Vampire Slayer",
+  "sourceUrl": "https://seriesgraph.com/show/95-buffy-the-vampire-slayer",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/95",
+    "seasonRatings": "https://seriesgraph.com/api/shows/95/season-ratings"
+  },
+  "years": {
+    "first": 1997,
+    "last": 2003
+  },
+  "highestRatedEpisode": {
+    "name": "Once More, with Feeling",
+    "season": 6,
+    "episode": 7,
+    "rating": 9.7,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to the Hellmouth",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Harvest",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Witch",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Teacher's Pet",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Never Kill a Boy on the First Date",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "The Pack",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Angel",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "I, Robot... You, Jane",
+        "rating": 6.5
+      },
+      {
+        "episode": 9,
+        "name": "The Puppet Show",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Nightmares",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Out of Mind, Out of Sight",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Prophecy Girl",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "When She Was Bad",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Some Assembly Required",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "School Hard",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Inca Mummy Girl",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Reptile Boy",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "Halloween",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Lie to Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Dark Age",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "What's My Line?: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "What's My Line?: Part 2",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Ted",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Bad Eggs",
+        "rating": 6.6
+      },
+      {
+        "episode": 13,
+        "name": "Surprise",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Innocence",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Phases",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Bewitched, Bothered and Bewildered",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Passion",
+        "rating": 9.3
+      },
+      {
+        "episode": 18,
+        "name": "Killed by Death",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "I Only Have Eyes for You",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Go Fish",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Becoming: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Becoming: Part 2",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Anne",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Dead Man's Party",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Faith, Hope & Trick",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Beauty and the Beasts",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Homecoming",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Band Candy",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Revelations",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Lovers Walk",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Wish",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Amends",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Gingerbread",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Helpless",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Zeppo",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Bad Girls",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Consequences",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Doppelgangland",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "Enemies",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Earshot",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "Choices",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Prom",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Graduation Day: Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Graduation Day: Part 2",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Freshman",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Living Conditions",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Harsh Light of Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Fear Itself",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Beer Bad",
+        "rating": 6.3
+      },
+      {
+        "episode": 6,
+        "name": "Wild at Heart",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Initiative",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Pangs",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Something Blue",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Hush",
+        "rating": 9.7
+      },
+      {
+        "episode": 11,
+        "name": "Doomed",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "A New Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The I in Team",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Goodbye Iowa",
+        "rating": 7
+      },
+      {
+        "episode": 15,
+        "name": "This Year's Girl",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Who Are You?",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "Superstar",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Where the Wild Things Are",
+        "rating": 6.3
+      },
+      {
+        "episode": 19,
+        "name": "New Moon Rising",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Yoko Factor",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Primeval",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Restless",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Buffy vs. Dracula",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Real Me",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "The Replacement",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Out of My Mind",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "No Place Like Home",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Family",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Fool for Love",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Shadow",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Listening to Fear",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "Into the Woods",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Triangle",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Checkpoint",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Blood Ties",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Crush",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "I Was Made to Love You",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "The Body",
+        "rating": 9.7
+      },
+      {
+        "episode": 17,
+        "name": "Forever",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Intervention",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Tough Love",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Spiral",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "The Weight of the World",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "The Gift",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bargaining: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Bargaining: Part 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "After Life",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Flooded",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Life Serial",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "All the Way",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Once More, with Feeling",
+        "rating": 9.7
+      },
+      {
+        "episode": 8,
+        "name": "Tabula Rasa",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Smashed",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Wrecked",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Gone",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Doublemeat Palace",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Dead Things",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Older and Far Away",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "As You Were",
+        "rating": 6.7
+      },
+      {
+        "episode": 16,
+        "name": "Hell's Bells",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Normal Again",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Entropy",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Seeing Red",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Villains",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Two to Go",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Grave",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lessons",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Beneath You",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Same Time, Same Place",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Help",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Selfless",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Him",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Conversations with Dead People",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Sleeper",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Never Leave Me",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Bring on the Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Showtime",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Potential",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "The Killer in Me",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "First Date",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Get It Done",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Storyteller",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Lies My Parents Told Me",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Dirty Girls",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Empty Places",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Touched",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "End of Days",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Chosen",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

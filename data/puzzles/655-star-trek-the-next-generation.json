@@ -1,0 +1,917 @@
+{
+  "id": "655-star-trek-the-next-generation",
+  "rank": 203,
+  "answer": "Star Trek: The Next Generation",
+  "sourceUrl": "https://seriesgraph.com/show/655-star-trek:-the-next-generation",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/655",
+    "seasonRatings": "https://seriesgraph.com/api/shows/655/season-ratings"
+  },
+  "years": {
+    "first": 1987,
+    "last": 1994
+  },
+  "highestRatedEpisode": {
+    "name": "The Inner Light",
+    "season": 5,
+    "episode": 25,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Encounter at Farpoint",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "The Naked Now",
+        "rating": 6.5
+      },
+      {
+        "episode": 3,
+        "name": "Code of Honor",
+        "rating": 5
+      },
+      {
+        "episode": 4,
+        "name": "The Last Outpost",
+        "rating": 6.3
+      },
+      {
+        "episode": 5,
+        "name": "Where No One Has Gone Before",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Lonely Among Us",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "Justice",
+        "rating": 6
+      },
+      {
+        "episode": 8,
+        "name": "The Battle",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Hide and Q",
+        "rating": 6.9
+      },
+      {
+        "episode": 10,
+        "name": "Haven",
+        "rating": 6.2
+      },
+      {
+        "episode": 11,
+        "name": "The Big Goodbye",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Datalore",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Angel One",
+        "rating": 5.7
+      },
+      {
+        "episode": 14,
+        "name": "11001001",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Too Short a Season",
+        "rating": 6.1
+      },
+      {
+        "episode": 16,
+        "name": "When the Bough Breaks",
+        "rating": 6.4
+      },
+      {
+        "episode": 17,
+        "name": "Home Soil",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "Coming of Age",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Heart of Glory",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "The Arsenal of Freedom",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "Symbiosis",
+        "rating": 6.9
+      },
+      {
+        "episode": 22,
+        "name": "Skin of Evil",
+        "rating": 6.8
+      },
+      {
+        "episode": 23,
+        "name": "We'll Always Have Paris",
+        "rating": 6.5
+      },
+      {
+        "episode": 24,
+        "name": "Conspiracy",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "The Neutral Zone",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Child",
+        "rating": 5.8
+      },
+      {
+        "episode": 2,
+        "name": "Where Silence Has Lease",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Elementary, Dear Data",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Outrageous Okona",
+        "rating": 6.2
+      },
+      {
+        "episode": 5,
+        "name": "Loud as a Whisper",
+        "rating": 6.5
+      },
+      {
+        "episode": 6,
+        "name": "The Schizoid Man",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "Unnatural Selection",
+        "rating": 6.5
+      },
+      {
+        "episode": 8,
+        "name": "A Matter of Honor",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Measure of a Man",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Dauphin",
+        "rating": 6.2
+      },
+      {
+        "episode": 11,
+        "name": "Contagion",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "The Royale",
+        "rating": 6.6
+      },
+      {
+        "episode": 13,
+        "name": "Time Squared",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Icarus Factor",
+        "rating": 6.2
+      },
+      {
+        "episode": 15,
+        "name": "Pen Pals",
+        "rating": 6.8
+      },
+      {
+        "episode": 16,
+        "name": "Q Who",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "Samaritan Snare",
+        "rating": 6.5
+      },
+      {
+        "episode": 18,
+        "name": "Up the Long Ladder",
+        "rating": 6.2
+      },
+      {
+        "episode": 19,
+        "name": "Manhunt",
+        "rating": 6.1
+      },
+      {
+        "episode": 20,
+        "name": "The Emissary",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Peak Performance",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Shades of Gray",
+        "rating": 3.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Evolution",
+        "rating": 6.5
+      },
+      {
+        "episode": 2,
+        "name": "The Ensigns of Command",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "The Survivors",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Who Watches the Watchers",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Bonding",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "Booby Trap",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "The Enemy",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Price",
+        "rating": 6.3
+      },
+      {
+        "episode": 9,
+        "name": "The Vengeance Factor",
+        "rating": 6.5
+      },
+      {
+        "episode": 10,
+        "name": "The Defector",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Hunted",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "The High Ground",
+        "rating": 6.8
+      },
+      {
+        "episode": 13,
+        "name": "Deja Q",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "A Matter of Perspective",
+        "rating": 6.7
+      },
+      {
+        "episode": 15,
+        "name": "Yesterday's Enterprise",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "The Offspring",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Sins of the Father",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Allegiance",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Captain's Holiday",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "Tin Man",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Hollow Pursuits",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "The Most Toys",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Sarek",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Ménage à Troi",
+        "rating": 6.5
+      },
+      {
+        "episode": 25,
+        "name": "Transfigurations",
+        "rating": 6.9
+      },
+      {
+        "episode": 26,
+        "name": "The Best of Both Worlds",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Best of Both Worlds Part II",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Family",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Brothers",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Suddenly Human",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Remember Me",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Legacy",
+        "rating": 6.7
+      },
+      {
+        "episode": 7,
+        "name": "Reunion",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Future Imperfect",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Final Mission",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "The Loss",
+        "rating": 6
+      },
+      {
+        "episode": 11,
+        "name": "Data's Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Wounded",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Devil's Due",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Clues",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "First Contact",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Galaxy's Child",
+        "rating": 7
+      },
+      {
+        "episode": 17,
+        "name": "Night Terrors",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "Identity Crisis",
+        "rating": 6.7
+      },
+      {
+        "episode": 19,
+        "name": "The Nth Degree",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Qpid",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "The Drumhead",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Half a Life",
+        "rating": 7.3
+      },
+      {
+        "episode": 23,
+        "name": "The Host",
+        "rating": 6.4
+      },
+      {
+        "episode": 24,
+        "name": "The Mind's Eye",
+        "rating": 7.7
+      },
+      {
+        "episode": 25,
+        "name": "In Theory",
+        "rating": 7.1
+      },
+      {
+        "episode": 26,
+        "name": "Redemption",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Redemption II",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Darmok",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Ensign Ro",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Silicon Avatar",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Disaster",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Game",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Unification I",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Unification II",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Matter of Time",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "New Ground",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Hero Worship",
+        "rating": 6.6
+      },
+      {
+        "episode": 12,
+        "name": "Violations",
+        "rating": 6.2
+      },
+      {
+        "episode": 13,
+        "name": "The Masterpiece Society",
+        "rating": 6.7
+      },
+      {
+        "episode": 14,
+        "name": "Conundrum",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Power Play",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Ethics",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "The Outcast",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "Cause and Effect",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "The First Duty",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Cost of Living",
+        "rating": 6.1
+      },
+      {
+        "episode": 21,
+        "name": "The Perfect Mate",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "Imaginary Friend",
+        "rating": 6
+      },
+      {
+        "episode": 23,
+        "name": "I Borg",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "The Next Phase",
+        "rating": 8.3
+      },
+      {
+        "episode": 25,
+        "name": "The Inner Light",
+        "rating": 9.4
+      },
+      {
+        "episode": 26,
+        "name": "Time's Arrow",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Time's Arrow, Part II",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Realm of Fear",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Man of the People",
+        "rating": 5.7
+      },
+      {
+        "episode": 4,
+        "name": "Relics",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Schisms",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "True Q",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Rascals",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "A Fistful of Datas",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "The Quality of Life",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Chain of Command, Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Chain of Command, Part II",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Ship in a Bottle",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Aquiel",
+        "rating": 6
+      },
+      {
+        "episode": 14,
+        "name": "Face of the Enemy",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Tapestry",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Birthright, Part I",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Birthright, Part II",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "Starship Mine",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Lessons",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "The Chase",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Frame of Mind",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Suspicions",
+        "rating": 7
+      },
+      {
+        "episode": 23,
+        "name": "Rightful Heir",
+        "rating": 7.1
+      },
+      {
+        "episode": 24,
+        "name": "Second Chances",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "Timescape",
+        "rating": 8.5
+      },
+      {
+        "episode": 26,
+        "name": "Descent",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Descent, Part II",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Liaisons",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Interface",
+        "rating": 6.2
+      },
+      {
+        "episode": 4,
+        "name": "Gambit, Part I",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Gambit, Part II",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Phantasms",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Dark Page",
+        "rating": 6.4
+      },
+      {
+        "episode": 8,
+        "name": "Attached",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Force of Nature",
+        "rating": 6.4
+      },
+      {
+        "episode": 10,
+        "name": "Inheritance",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Parallels",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Pegasus",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Homeward",
+        "rating": 7
+      },
+      {
+        "episode": 14,
+        "name": "Sub Rosa",
+        "rating": 4.8
+      },
+      {
+        "episode": 15,
+        "name": "Lower Decks",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Thine Own Self",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Masks",
+        "rating": 5.7
+      },
+      {
+        "episode": 18,
+        "name": "Eye of the Beholder",
+        "rating": 6.6
+      },
+      {
+        "episode": 19,
+        "name": "Genesis",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Journey's End",
+        "rating": 6.2
+      },
+      {
+        "episode": 21,
+        "name": "Firstborn",
+        "rating": 6.7
+      },
+      {
+        "episode": 22,
+        "name": "Bloodlines",
+        "rating": 6.5
+      },
+      {
+        "episode": 23,
+        "name": "Emergence",
+        "rating": 6.5
+      },
+      {
+        "episode": 24,
+        "name": "Preemptive Strike",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "All Good Things...",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

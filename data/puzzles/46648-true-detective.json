@@ -1,0 +1,187 @@
+{
+  "id": "46648-true-detective",
+  "rank": 46,
+  "answer": "True Detective",
+  "sourceUrl": "https://seriesgraph.com/show/46648-true-detective",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46648",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46648/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Who Goes There",
+    "season": 1,
+    "episode": 4,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Long Bright Dark",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Seeing Things",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "The Locked Room",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "Who Goes There",
+        "rating": 9.6
+      },
+      {
+        "episode": 5,
+        "name": "The Secret Fate of All Life",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "Haunted Houses",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "After You've Gone",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Form and Void",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Western Book of the Dead",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Night Finds You",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Maybe Tomorrow",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Down Will Come",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Other Lives",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Church in Ruins",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Black Maps and Motel Rooms",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Omega Station",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Great War and Modern Memory",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Kiss Tomorrow Goodbye",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Big Never",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Hour and the Day",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "If You Have Ghosts",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Hunters in the Dark",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Final Country",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Now Am Found",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Night Country: Part 1",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Night Country: Part 2",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Night Country: Part 3",
+        "rating": 6.3
+      },
+      {
+        "episode": 4,
+        "name": "Night Country: Part 4",
+        "rating": 6.2
+      },
+      {
+        "episode": 5,
+        "name": "Night Country: Part 5",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Night Country: Part 6",
+        "rating": 5.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

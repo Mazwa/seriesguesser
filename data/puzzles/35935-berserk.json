@@ -1,0 +1,150 @@
+{
+  "id": "35935-berserk",
+  "rank": 181,
+  "answer": "Berserk",
+  "sourceUrl": "https://seriesgraph.com/show/35935-berserk",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/35935",
+    "seasonRatings": "https://seriesgraph.com/api/shows/35935/season-ratings"
+  },
+  "years": {
+    "first": 1997,
+    "last": 1998
+  },
+  "highestRatedEpisode": {
+    "name": "Eien no koku",
+    "season": 1,
+    "episode": 25,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Kuroi kenshi",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Taka no dan",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Uijin",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Kami no te",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Kenpû",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Nosferatu Zodd",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Tsurugi no aruji",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Inbou",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Ansatsu",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Toutoi mono",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Kassen",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Futari",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Kesshi gyou",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Yume no kagaribi",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Kessen",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Shourisha",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Eikou no shunkan",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Honoo no bohyou",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Wakare",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "Hibana",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Kokuhaku",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Sennyuu",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "Zen'yasai",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "Shoku",
+        "rating": 9.2
+      },
+      {
+        "episode": 25,
+        "name": "Eien no koku",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

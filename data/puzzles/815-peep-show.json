@@ -1,0 +1,311 @@
+{
+  "id": "815-peep-show",
+  "rank": 166,
+  "answer": "Peep Show",
+  "sourceUrl": "https://seriesgraph.com/show/815-peep-show",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/815",
+    "seasonRatings": "https://seriesgraph.com/api/shows/815/season-ratings"
+  },
+  "years": {
+    "first": 2003,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "Wedding",
+    "season": 4,
+    "episode": 6,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Warring Factions",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Interview",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "On the Pull",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Mark Makes a Friend",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Dream Job",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Funeral",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dance Class",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Jeremy Makes It",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Local Zero",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "University Challenge",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Man Show",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Wedding",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mugging",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Sectioning",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Shrooming",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Sistering",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Jurying",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Quantocking",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sophie's Parents",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Conference",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Gym",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Handyman",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Holiday",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Wedding",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Burgling",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Spin War",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Jeremy's Broke",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Jeremy's Mummy",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Jeremy's Manager",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Mark's Women",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jeremy at JLB",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Test",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Jeremy in Love",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Affair",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Party",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Das Boot",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "St Hospitals",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Man Jam",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "A Beautiful Mind",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Nether Zone",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Seasonal Beatings",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "New Year's Eve",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jeremy Therapised",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Business Secrets of the Pharaohs",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Love Bunker",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Big Mad Andy",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Chairman Mark",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Quantocking II",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The William Morris Years",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Gregory's Beard",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Threeism",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Mole-Mapping",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Kid Farm",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Are We Going to Be Alright?",
+        "rating": 8.3
+      }
+    ]
+  ]
+}

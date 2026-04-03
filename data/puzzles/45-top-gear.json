@@ -1,0 +1,1298 @@
+{
+  "id": "45-top-gear",
+  "rank": 200,
+  "answer": "Top Gear",
+  "sourceUrl": "https://seriesgraph.com/show/45-top-gear",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/45",
+    "seasonRatings": "https://seriesgraph.com/api/shows/45/season-ratings"
+  },
+  "years": {
+    "first": 2002,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Vietnam Special",
+    "season": 12,
+    "episode": 8,
+    "rating": 9.4,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Legacy Begins",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Bus Jumps Over Motorbikes",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Grannies Doing Doughnuts",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Clarkson Drives the Aston Martin Vanquish",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Budget Bond Car",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Grannies Attempt Hand Brake Parking",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Britain's Fastest Faith Race",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Britain's Fastest White-Van Driver",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Can The Stig Be Beat?",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Britain's Fastest Faith Race 2",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nissan Sunny vs. Jet Engine",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Election Rally Car Showdown",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Which Country Has the Fastest Supercar?",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Lots of Jaguars and Boris Johnson",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Clarkson and the Porsche 911",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Mitsubishi Evo VIII vs. Subaru Impreza STI",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Crash Testing a Renault Megane",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Topless Showdown",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Clarkson Backseat Drives a Vauxhall",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Land Rover Reliability Challenge",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Celebrating 40 Years of the Porsche 911",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Can a Volvo Estate Jump Four Caravans?",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "How to Escape a Sinking Car",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Lamborghini 40th Anniversary Celebration",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Is the Toyota Hilux Really Indestructible?",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Is the Toyota Hilux Really indestructible? Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Best British Car of All Time",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Generation Battle - Mercedes SL vs. Mercedes SL",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Clarkson vs. the Chrysler Crossfire",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Race to Monte Carlo - Aston Martin DB9 vs. Public Transport",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Hammond Tests the Cadillac Escalade and Puts a Nun in a Monster Truck",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "£100 Car Challenge",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Bullseye! The Boys Play Car Darts",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Sport Coupes Shootout - 911 vs. 6 Series vs. XKR",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Can You Run a Car on Poo?",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Hammond and May Try Mini-Cabbing",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Clarkson Drives His Dream Car - the Ford GT",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Can You Parachute Into a Moving Car?",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Clarkson Gets Wet in the X3",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beach Battle - Jaguar vs. Chrysler vs. Vauxhall",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Mountainboarder vs. Rally Car",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Clarkson Climbs a Scottish Mountain",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "24 Hours in a Smart Car",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Hammond Invents People Carrier Racing",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Can You Buy a Decent Porsche for £1,500?",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Evo vs. Lamborghini",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Ferrari 612 Scaglietti vs. Jet Plane",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Clarkson Gets a Facelift in an Ariel Atom",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Car Soccer in Toyota Aygos",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "£1,500 Two-Door Coupe Challenge",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Clarkson Opens a Public Pool With a Rolls-Royce",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Boys' Mother's Review Cars",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Clarkson Compares the Boxster S and SLK 55 Under Sniper Fire",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Mercedes McLaren SLR vs. Boat",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Fiat Panda vs. Marathon Runner",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Testing Convertibles in Iceland",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Hammond and May Play Road Test Russian Roulette",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Can a Jeep Drive Across a Lake?",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Hammond Runs With the Bulls",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Isle of Man Shootout - V8 Vantage vs. M6 vs. Carrera S",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Hammond and May Race Life-Sized RC Cars",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Supercar Road Trip - Ford GT vs. Ferrari F430 vs. Pagani Zonda",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Mid-Engine Italian Supercars for Under £10,000",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Bugatti Veyron vs. Cessna 182 Airplane",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Mazda MX-5 vs. Greyhound",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Winter Olympics",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Episode #7.9"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Clarkson Drives the Koenigsegg CCX",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Hammond Races a Jet-Powered Kayak",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Amphibious Car Challenge",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Porsche Cayenne Turbo S vs. Parachute Team",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Playing Car-Soccer in Toyota Aygos - Round 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Top Gear Sets a World Record with an F1 Car",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Boys Build a Caterham",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Being Van Roadies for The Who",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Roadworks In 24 Hours",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Captain Slow Meets the Bugatti Veyron",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "U. S. Special",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Reliant Robin Space Shuttle Challenge",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Tractors",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Everyday Stretch Limo Challenge",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Top Gear of the Pops",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Polar Special",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Search for the Greatest Driving Road in the World",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Amphibious Car Challenge II",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Bugatti Veyron vs. Typhoon Jet Fighter",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Botswana Special",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "London Race",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "MotorHome Racing - Alfa Romeo 159 vs Tall Man Across The Humber Estuary",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "£1,200 British Leyland Cheap-Car Challenge",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Renault R25 Formula One Car - Automobile History Investigation - GPS Satellite Self-Controlled BMW 330i",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Britcar 24 Hour Endurance Race - Fiat 500 vs. BMX Riders Through Budapest Race",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "German Performance Saloon Cars - Top Gear Awards 2007",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Top Ground Gear Force",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Police Car Challenge",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Audi RS6 vs French Skiers Race",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Cheap Car Challenge: Alfa Romeos for £1,000",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Nissan GT-R vs Japanese Bullet Train Epic Race",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Classic Luxury Limousines - Daihatsu Terios Fox Hunting Challenge",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The British (Top Gear) vs. The Germans (D Motor) Showdown",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "£5,000 Lorry Challenge",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Muscle Car Challenge",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Tuning Challenge - Finnish Folk Racing - Corvette V-8 Engine Blender-Made Smoothie",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Economy Race From Basel To Blackpool Illuminations",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Portofino To Saint-Tropez Race - Powerboat Vs. Ferrari Daytona - Best Bus For British City Streets",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Did The Communists Make A Good Car? - Ford Fiesta With The Royal Marines",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "50 Years Of British Touring Car Racing",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Vietnam Special",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Race To The North - Ferrari FXX Lap Time - The Stig Revealed",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Perfect £2,500 Car For 17 Year Olds",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Cheap And Cheerful Car I - Cheap And Cheerful Car II - Gymkhana Rallying On The Airfield",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Porsche Panamera Vs. The Royal Mail Service Race - Playing British Bulldogs With Live Fire Against The British Army In A Mitsubishi Lancer Evolution VII",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Proof Of Three £1,500 Rear Wheel Drive Coupés Better Than Front Wheel Drive - Clarkson's Inspired Greenhouse Trailer Design To Save The World",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Pre-1982 £3,000 Classic Cars For A TSD Rally In Mallorca",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Producing Volkswagen Scirocco Adverts",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Romanian GT Road Trip To Find The Transfagarasan Highway",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Build An Electric Car Better Than A G-Wiz",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Fly An Airship Caravan With A Lamborghini Gallardo LP550-2 Valentino Balboni - Why Lancia Has Made The Greatest Number Of Great Cars",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Airport Vehicle Motorsport",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Make An Automotive Art Gallery To Prove Cars Are More Popular Than Traditional Art",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Bolivia Special",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "Low-Budget Worldwide Review Of The BMW X6 - James May And Margaret Calvert Reflect On The Evolution Of UK Road Signs - Top Gear Awards 2009",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Toyota Hilux Invincible Up An Icelandic Volcano - Farewell To The Former Reasonably Priced Car, The Chevrolet Lacetti",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Find A £5,000 Everyday Second-Hand Sports Saloon For Track Days",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Find The Greatest Four-Door Supercar By Driving Wedding Guests",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Building Motor Homes",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Volkswagen Touareg Vs Swedish Snowmobilers - Reach 258mph (415 km/h) In The Bugatti Veyron Super Sport",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Old British Roadsters For £5,000",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Best Of Top Gear: 2010 No.1",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Best Of Top Gear: 2010 No.2",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "East Coast Road Trip",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Yeti Road Test",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Top Gear Ashes - British Hosts Vs Top Gear Australia Hosts",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Albania Road Trip",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Second-Hand Four Seater Convertibles For £2,000",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Convert A Combine Harvester Into A Snow Plough",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Sunset to sunrise race in a Jaguar XJ 5.0 V8 Supersport across England - NASA's latest Space Exploration Vehicle",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Episode #16.7",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Episode #16.8",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jaguar E-Type 50th Birthday - Mini John Cooper Works WRC And Amy Williams Race",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "High Performance Hatchbacks In Lucca And Around The Monaco Grand Prix Track",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Second-Hand Bargains For The Price Of The Nissan Pixo - Examine Toughness Of The Range Rover Evoque In Las Vegas",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Making a Train Out of a Specially Modified Car and Caravans as Carriages",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Demolish A House With Second-Hand Military Equipment Vs Demolition Experts",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Extraordinary Rally Team Of Amputee Military Veterans - Electric Cars To The British Seaside",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Super Cars Across Italy",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Hammond Learns About NASCAR Racing In Texas - Clarkson And May Examine China's Car Industry In Beijing",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Creating The Climactic Car Chase For 'The Sweeney'",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Build And Test Off-Road Mobility Scooters In The Countryside",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Tribute To Swedish Car Maker Saab - Rally-Spec Skoda Vs Jet-Powered Flying Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Test Of Three Stripped Track Cars",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Motor Racing Cheaper Than Playing Golf? - May's Childhood Dream Car: The Ferrari 250 GT California.",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Taking The Bentley Continental GT Speed To A Welsh Rally Stage - Building A Car Smaller Than A Peel P50: Clarkson's P45",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Super Car Road Trip From Las Vegas, Nevada To Calexico, California",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Shelby Mustang GT500 Vs The Pan-European Rail Network Epic Race From Wembley To The San Siro Stadium In Milan",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Rugby Match With Kia Cee'ds At Twickenham",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Range Rover Vs An Autonomous Military Machine - Designing A Vehicle For The Elderly: Rover James",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Africa Special, Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Africa Special, Part 2",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Best of Top Gear 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Best of Top Gear 2",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "AC45 Racing Yacht Vs Toyota Auris - Introduction Of The New Reasonably Priced Car: Vauxhall Astra",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Search For The World's Best Taxi - Tribute To BBC Television Centre",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Spanish Road Trip In Budget Convertibles",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Building The Ford Transit Hovervan",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Best Crossovers For Caravanners",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Tribute To British Automobile Manufacturing",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jeremy, James And Richard Prove That The Hot Hatchbacks Of Their Youth Were Better Than The Modern Equivalents",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Alfa Romeo 4C Vs Gibbs Quadski - James Visits Camp Bastion In Afghanistan",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Trip Through Ukraine In Compact Hatchbacks",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Clarkson Attempts To Prove That Cars Are Better Than Motorbikes",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Making A Commercial For Reducing Cycle-Related Accidents",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Burma Special: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Burma Special: Part 2",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Race Across The Urban Landscape Of St Petersburg",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Australian Northern Territory Road Trip In GT Cars",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Homemade Ambulance Challenge",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Tribute To The Land Rover Defender",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "May And Clarkson Look At The Weird And Wonderful History Of Peugeot",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Hammond Is Dropped Into British Columbia, Canada To Test A Watch With A Built-In Emergency Beacon",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "May Competes In A World Rallycross Race Alongside Tanner Foust",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Classics & Cheap Thrills",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dodge Viper ACR vs. Corvette Z06: Chris Evans & Sabine Schmitz Battle at Top Gun Nevada",
+        "rating": 2.2
+      },
+      {
+        "episode": 2,
+        "name": "Episode #23.2",
+        "rating": 2.6
+      },
+      {
+        "episode": 3,
+        "name": "Episode #23.3",
+        "rating": 2.8
+      },
+      {
+        "episode": 4,
+        "name": "Episode #23.4",
+        "rating": 2.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #23.5",
+        "rating": 2.5
+      },
+      {
+        "episode": 6,
+        "name": "Episode #23.6",
+        "rating": 2.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #24.1",
+        "rating": 6.1
+      },
+      {
+        "episode": 2,
+        "name": "Episode #24.2",
+        "rating": 5.8
+      },
+      {
+        "episode": 3,
+        "name": "Episode #24.3",
+        "rating": 6
+      },
+      {
+        "episode": 4,
+        "name": "Episode #24.4",
+        "rating": 6.1
+      },
+      {
+        "episode": 5,
+        "name": "Episode #24.5",
+        "rating": 5.5
+      },
+      {
+        "episode": 6,
+        "name": "Episode #24.6",
+        "rating": 5
+      },
+      {
+        "episode": 7,
+        "name": "Episode #24.7",
+        "rating": 5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #25.1",
+        "rating": 5.8
+      },
+      {
+        "episode": 2,
+        "name": "Episode #25.2",
+        "rating": 6
+      },
+      {
+        "episode": 3,
+        "name": "Episode #25.3",
+        "rating": 6.5
+      },
+      {
+        "episode": 4,
+        "name": "Episode #25.4",
+        "rating": 5.9
+      },
+      {
+        "episode": 5,
+        "name": "Episode #25.5",
+        "rating": 5.3
+      },
+      {
+        "episode": 6,
+        "name": "Episode #25.6",
+        "rating": 5.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #26.1",
+        "rating": 5
+      },
+      {
+        "episode": 2,
+        "name": "Episode #26.2",
+        "rating": 4.8
+      },
+      {
+        "episode": 3,
+        "name": "Episode #26.3",
+        "rating": 5
+      },
+      {
+        "episode": 4,
+        "name": "Episode #26.4",
+        "rating": 5.7
+      },
+      {
+        "episode": 5,
+        "name": "Episode #26.5",
+        "rating": 5.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #27.1",
+        "rating": 5.5
+      },
+      {
+        "episode": 2,
+        "name": "Episode #27.2",
+        "rating": 5.3
+      },
+      {
+        "episode": 3,
+        "name": "Episode #27.3",
+        "rating": 4.5
+      },
+      {
+        "episode": 4,
+        "name": "Episode #27.4",
+        "rating": 4.7
+      },
+      {
+        "episode": 5,
+        "name": "Episode #27.5",
+        "rating": 5.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #28.1",
+        "rating": 5.9
+      },
+      {
+        "episode": 2,
+        "name": "Episode #28.2",
+        "rating": 6
+      },
+      {
+        "episode": 3,
+        "name": "Episode #28.3",
+        "rating": 6.2
+      },
+      {
+        "episode": 4,
+        "name": "Episode #28.4",
+        "rating": 5.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #28.5",
+        "rating": 5.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode #28.6",
+        "rating": 5.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #29.1",
+        "rating": 5.7
+      },
+      {
+        "episode": 2,
+        "name": "Episode #29.2",
+        "rating": 6.3
+      },
+      {
+        "episode": 3,
+        "name": "Episode #29.3",
+        "rating": 5.2
+      },
+      {
+        "episode": 4,
+        "name": "Episode #29.4",
+        "rating": 5.6
+      },
+      {
+        "episode": 5,
+        "name": "Episode #29.5",
+        "rating": 5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #30.1",
+        "rating": 5.8
+      },
+      {
+        "episode": 2,
+        "name": "Episode #30.2",
+        "rating": 5.7
+      },
+      {
+        "episode": 3,
+        "name": "Episode #30.3",
+        "rating": 6
+      },
+      {
+        "episode": 4,
+        "name": "Episode #30.4",
+        "rating": 5.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #31.1",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "Episode #31.2",
+        "rating": 5.7
+      },
+      {
+        "episode": 3,
+        "name": "Episode #31.3",
+        "rating": 5.3
+      },
+      {
+        "episode": 4,
+        "name": "Episode #31.4",
+        "rating": 6
+      },
+      {
+        "episode": 5,
+        "name": "Episode #31.5",
+        "rating": 5
+      },
+      {
+        "episode": 6,
+        "name": "Driving Home for Christmas",
+        "rating": 4.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #32.1",
+        "rating": 5.6
+      },
+      {
+        "episode": 2,
+        "name": "Episode #32.2",
+        "rating": 5.4
+      },
+      {
+        "episode": 3,
+        "name": "Episode #32.3",
+        "rating": 5.3
+      },
+      {
+        "episode": 4,
+        "name": "Episode #32.4",
+        "rating": 5.3
+      },
+      {
+        "episode": 5,
+        "name": "Episode #32.5",
+        "rating": 5.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #33.1",
+        "rating": 5.5
+      },
+      {
+        "episode": 2,
+        "name": "Episode #33.2",
+        "rating": 5.9
+      },
+      {
+        "episode": 3,
+        "name": "Episode #33.3",
+        "rating": 5.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode #33.4",
+        "rating": 5.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #33.5",
+        "rating": 5.3
+      }
+    ]
+  ]
+}

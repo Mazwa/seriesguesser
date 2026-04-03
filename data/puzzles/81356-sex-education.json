@@ -1,0 +1,191 @@
+{
+  "id": "81356-sex-education",
+  "rank": 202,
+  "answer": "Sex Education",
+  "sourceUrl": "https://seriesgraph.com/show/81356-sex-education",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/81356",
+    "seasonRatings": "https://seriesgraph.com/api/shows/81356/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Episode 7",
+    "season": 2,
+    "episode": 7,
+    "rating": 8.9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode 1",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Episode 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Episode 3",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Episode 4",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Episode 5",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode 6",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Episode 7",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Episode 8",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Episode 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Episode 3",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Episode 4",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Episode 5",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode 6",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Episode 7",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Episode 8",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Episode 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Episode 3",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Episode 4",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Episode 5",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Episode 6",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Episode 7",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Episode 8",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode 1",
+        "rating": 6.6
+      },
+      {
+        "episode": 2,
+        "name": "Episode 2",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Episode 3",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode 4",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Episode 5",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode 6",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Episode 7",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Episode 8",
+        "rating": 6.5
+      }
+    ]
+  ]
+}

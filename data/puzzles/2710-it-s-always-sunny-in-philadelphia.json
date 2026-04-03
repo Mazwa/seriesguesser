@@ -1,0 +1,948 @@
+{
+  "id": "2710-it-s-always-sunny-in-philadelphia",
+  "rank": 18,
+  "answer": "It's Always Sunny in Philadelphia",
+  "sourceUrl": "https://seriesgraph.com/show/2710-it's-always-sunny-in-philadelphia",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2710",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2710/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Charlie Work",
+    "season": 10,
+    "episode": 4,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Gets Racist",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Charlie Wants an Abortion",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Underage Drinking: A National Concern",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Charlie Has Cancer",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Gun Fever",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Finds a Dead Guy",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Charlie Got Molested",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Charlie Gets Crippled",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Goes Jihad",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Dennis and Dee Go on Welfare",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Mac Bangs Dennis' Mom",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Hundred Dollar Baby",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Gives Back",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Exploits a Miracle",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Gang Runs for Office",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Charlie Goes America All Over Everybody's Ass",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Dennis and Dee Get a New Dad",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Finds a Dumpster Baby",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Gets Invincible",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Dennis and Dee's Mom Is Dead",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Gang Gets Held Hostage",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Aluminum Monster vs. Fatty Magoo",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Solves the North Korea Situation",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Sells Out",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Frank Sets Sweet Dee on Fire",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Sweet Dee's Dating a Retarded Person",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Mac Is a Serial Killer",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Dennis Looks Like a Registered Sex Offender",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Gang Gets Whacked: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Gang Gets Whacked: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Bums: Making a Mess All Over the City",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "The Gang Dances Their Asses Off",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mac and Dennis: Manhunters",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Solves the Gas Crisis",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "America's Next Top Paddy's Billboard Model Contest",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Mac's Banging the Waitress",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Mac & Charlie Die: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Mac & Charlie Die: Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Who Pooped the Bed?",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Paddy's Pub: The Worst Bar in Philadelphia",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Dennis Reynolds: An Erotic Life",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Sweet Dee Has a Heart Attack",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "The Gang Cracks the Liberty Bell",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "The Gang Gets Extreme: Home Makeover Edition",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Nightman Cometh",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Exploits the Mortgage Crisis",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Hits the Road",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "The Great Recession",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Gang Gives Frank an Intervention",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Waitress Is Getting Married",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The World Series Defense",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Wrestles for the Troops",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Paddy's Pub: Home of the Original Kitten Mittens",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Mac and Dennis Break Up",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The D.E.N.N.I.S. System",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "Mac and Charlie Write a Movie",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Gang Reignites the Rivalry",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mac Fights Gay Marriage",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Dennis Gets Divorced",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Buys a Boat",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Mac's Big Break",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Mac and Charlie: White Trash",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Mac's Mom Burns Her House Down",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Who Got Dee Pregnant?",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "The Gang Gets a New Member",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Dee Reynolds: Shaping America's Youth",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Charlie Kelly: King of the Rats",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Gang Gets Stranded in the Woods",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Dee Gives Birth",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "A Very Sunny Christmas",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Frank's Pretty Woman",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Goes to the Jersey Shore",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Frank Reynolds' Little Beauties",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Sweet Dee Gets Audited",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Frank's Brother",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "The Storm of the Century",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "CharDee MacDennis: The Game of Games",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "The ANTI-Social Network",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Gang Gets Trapped",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "How Mac Got Fat",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Thunder Gun Express",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The High School Reunion",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The High School Reunion Part 2: The Gang's Revenge",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pop-Pop: The Final Solution",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Recycles Their Trash",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Maureen Ponderosa Wedding Massacre",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Charlie and Dee Find Love",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Gets Analyzed",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Charlie's Mom Has Cancer",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Frank's Back in Business",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Charlie Rules the World",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Gang Dines Out",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Reynolds vs. Reynolds: The Cereal Defense",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Broke Dee",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Gun Fever Too: Still Hot",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Tries Desperately to Win an Award",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Mac and Dennis Buy a Timeshare",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Mac Day",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Saves the Day",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Gets Quarantined",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Flowers for Charlie",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Gang Makes Lethal Weapon 6",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Gang Squashes Their Beefs",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Beats Boggs",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Group Dates",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Psycho Pete Returns",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Charlie Work",
+        "rating": 9.8
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Spies Like U.S.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Misses the Boat",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Mac Kills His Dad",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Gang Goes on Family Fight",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Frank Retires",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Ass Kickers United: Mac and Charlie Join a Cult",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chardee MacDennis 2: Electric Boogaloo",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Frank Falls Out the Window",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Hits the Slopes",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Dee Made a Smut Film",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Mac & Dennis Move to the Suburbs",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Being Frank",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "McPoyle vs. Ponderosa: The Trial of the Century",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Charlie Catches a Leprechaun",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Gang Goes to Hell",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Gang Goes to Hell: Part Two",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Turns Black",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Goes to a Water Park",
+        "rating": 9.5
+      },
+      {
+        "episode": 3,
+        "name": "Old Lady House: A Situation Comedy",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Wolf Cola: A Public Relations Nightmare",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Making Dennis Reynolds a Murderer",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Hero or Hate Crime?",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "PTSDee",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Gang Tends Bar",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "A Cricket's Tale",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Dennis' Double Life",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Makes Paddy's Great Again",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Escapes",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Beats Boggs: Ladies Reboot",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "Time's Up for the Gang",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Gets New Wheels",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Gang Solves the Bathroom Problem",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Does a Clip Show",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Charlie's Home Alone",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "The Gang Wins the Big Game",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Mac Finds His Pride",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Gets Romantic",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Thunder Gun 4: Maximum Cool",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Dee Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Gang Chokes",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Texts",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Janitor Always Mops Twice",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Solves Global Warming",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Paddy's Has a Jumper",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Woman's Right to Chop",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Waiting for Big Mo",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "2020: A Year In Review",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Gang Makes Lethal Weapon 7",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Buys a Roller Rink",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Gang Replaces Dee With a Monkey",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Goes to Ireland",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Gang's Still in Ireland",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Dee Sinks in a Bog",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Gang Carries a Corpse Up a Mountain",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang Inflates",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Frank Shoots Every Member of the Gang",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Gang Gets Cursed",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Frank vs. Russia",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Celebrity Booze: The Ultimate Cash Grab",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Risk E. Rat's Pizza & Amusement Center",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Goes Bowling",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Dennis Takes a Mental Health Day",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gang F***s Up Abbott Elementary",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "Frank Is in a Coma",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Mac and Dennis Become EMTs",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Thought Leadership: A Corporate Conversation",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "The Gang Goes to a Dog Track",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Overage Drinking: A National Concern",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Gang Gets Ready for Prime Time",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "The Golden Bachelor Live",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #18.1"
+      }
+    ]
+  ]
+}

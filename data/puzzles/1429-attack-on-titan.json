@@ -1,0 +1,476 @@
+{
+  "id": "1429-attack-on-titan",
+  "rank": 2,
+  "answer": "Attack on Titan",
+  "sourceUrl": "https://seriesgraph.com/show/1429-attack-on-titan",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1429",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1429/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Hero",
+    "season": 3,
+    "episode": 17,
+    "rating": 9.8,
+    "tieCount": 10
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "That Day: The Fall of Shiganshina, Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "First Battle: The Struggle for Trost, Part 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "The World the Girl Saw: The Struggle for Trost, Part 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Small Blade: The Struggle for Trost, Part 3",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Response: The Struggle for Trost, Part 6",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Idol: The Struggle for Trost, Part 7",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Wound: The Struggle for Trost, Part 8",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Primal Desire: The Struggle for Trost, Part 9",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Can't Look Into His Eyes Yet: Eve of The Counterattack, Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Special Operations Squad: Eve of the Counterattack, Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "What Needs to Be Done Now: Eve of the Counterattack, Part 3",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Female Titan: The 57th Expedition Beyond the Walls, Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "Forest of Giant Trees: The 57th Expedition Beyond the Walls, Part 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Bite: The 57th Exterior Scouting Mission, Part 3",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "Erwin Smith: The 57th Expedition Beyond the Walls, Part 4",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Crushing Blow: The 57th Exterior Scouting Mission, Part 5",
+        "rating": 9.6
+      },
+      {
+        "episode": 22,
+        "name": "The Defeated: The 57th Expedition Beyond the Walls, Part 6",
+        "rating": 9.1
+      },
+      {
+        "episode": 23,
+        "name": "Smile: Raid on Stohess District, Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 24,
+        "name": "Mercy: Raid on Stohess District, Part 2",
+        "rating": 9.2
+      },
+      {
+        "episode": 25,
+        "name": "Wall: Raid on Stohess District, Part 3",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beast Titan",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "I'm Home",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Southwestward",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Soldier",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Historia",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Warrior",
+        "rating": 9.8
+      },
+      {
+        "episode": 7,
+        "name": "Close Combat",
+        "rating": 9.6
+      },
+      {
+        "episode": 8,
+        "name": "The Hunters",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Opening",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Children",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Charge",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Scream",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smoke Signal",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Pain",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Old Story",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Trust",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Reply",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Sin",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Wish",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Outside the Walls of Orvud District",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Ruler of the Walls",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Friends",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Bystander",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Night of the Battle to Retake the Wall",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "The Town Where Everything Began",
+        "rating": 9.6
+      },
+      {
+        "episode": 14,
+        "name": "Thunder Spears",
+        "rating": 9.6
+      },
+      {
+        "episode": 15,
+        "name": "Descent",
+        "rating": 9.6
+      },
+      {
+        "episode": 16,
+        "name": "Perfect Game",
+        "rating": 9.8
+      },
+      {
+        "episode": 17,
+        "name": "Hero",
+        "rating": 9.8
+      },
+      {
+        "episode": 18,
+        "name": "Midnight Sun",
+        "rating": 9.8
+      },
+      {
+        "episode": 19,
+        "name": "The Basement",
+        "rating": 9.2
+      },
+      {
+        "episode": 20,
+        "name": "That Day",
+        "rating": 9.8
+      },
+      {
+        "episode": 21,
+        "name": "Attack Titan",
+        "rating": 9.6
+      },
+      {
+        "episode": 22,
+        "name": "The Other Side of the Wall",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Other Side of the Sea",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Midnight Train",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Door of Hope",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "From One Hand to Another",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Declaration of War",
+        "rating": 9.8
+      },
+      {
+        "episode": 6,
+        "name": "The War Hammer Titan",
+        "rating": 9.8
+      },
+      {
+        "episode": 7,
+        "name": "Assault",
+        "rating": 9.8
+      },
+      {
+        "episode": 8,
+        "name": "Assassin's Bullet",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "Brave Volunteers",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "A Sound Argument",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Deceiver",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Guides",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Children of the Forest",
+        "rating": 9.5
+      },
+      {
+        "episode": 14,
+        "name": "Savagery",
+        "rating": 9.7
+      },
+      {
+        "episode": 15,
+        "name": "Sole Salvation",
+        "rating": 9.5
+      },
+      {
+        "episode": 16,
+        "name": "Above and Below",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "Judgment",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "Sneak Attack",
+        "rating": 9.3
+      },
+      {
+        "episode": 19,
+        "name": "Two Brothers",
+        "rating": 9.7
+      },
+      {
+        "episode": 20,
+        "name": "Memories of the Future",
+        "rating": 9.8
+      },
+      {
+        "episode": 21,
+        "name": "From You, 2000 Years Ago",
+        "rating": 9.8
+      },
+      {
+        "episode": 22,
+        "name": "Thaw",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Sunset",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "Pride",
+        "rating": 8.5
+      },
+      {
+        "episode": 25,
+        "name": "Night of the End",
+        "rating": 8.6
+      },
+      {
+        "episode": 26,
+        "name": "Traitor",
+        "rating": 9.2
+      },
+      {
+        "episode": 27,
+        "name": "Retrospective",
+        "rating": 9.5
+      },
+      {
+        "episode": 28,
+        "name": "The Dawn of Humanity",
+        "rating": 9.6
+      },
+      {
+        "episode": 29,
+        "name": "The Final Chapters: Special 1",
+        "rating": 9.5
+      },
+      {
+        "episode": 30,
+        "name": "The Final Chapters: Special 2",
+        "rating": 9
+      }
+    ]
+  ]
+}

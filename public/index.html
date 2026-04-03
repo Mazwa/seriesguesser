@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seriesguesser</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="hero">
+      <p class="eyebrow">Daily TV guessing game</p>
+      <h1>Seriesguesser</h1>
+      <p class="lede">
+        Guess the series title. Each wrong guess reveals more of the show's ratings history.
+      </p>
+    </section>
+
+    <section class="game-card">
+      <div class="game-meta">
+        <div>
+          <p class="label">Guesses</p>
+          <div class="guess-tracker" id="guess-tracker" aria-label="Guess tracker"></div>
+        </div>
+      </div>
+
+      <div class="guess-panel">
+        <div class="guess-input-wrap">
+          <label class="sr-only" for="guess-input">Guess the TV show</label>
+          <input id="guess-input" type="text" autocomplete="off" spellcheck="false" placeholder="Type the TV show name" aria-autocomplete="list" aria-expanded="false" aria-controls="guess-suggestions">
+          <div class="guess-suggestions" id="guess-suggestions" hidden></div>
+        </div>
+        <div class="guess-actions">
+          <button id="guess-button" type="button">Submit Guess</button>
+          <button id="skip-button" type="button" class="secondary-button">Skip</button>
+        </div>
+      </div>
+
+      <p class="hint-text">Loading a random enabled show from the local dataset.</p>
+      <p class="status-message" id="status-message" aria-live="polite"></p>
+
+      <div class="inline-clues">
+        <div class="result-panel" id="result-panel" hidden>
+          <h2 id="result-title"></h2>
+          <p id="result-summary"></p>
+          <p id="result-answer" class="result-answer"></p>
+          <div class="result-actions">
+            <button id="share-button" type="button">Copy Result</button>
+          </div>
+          <pre id="share-preview"></pre>
+        </div>
+        <p class="inline-clue locked" id="first-year">First season year: Hidden</p>
+        <p class="inline-clue locked" id="last-year">Final season year: Hidden</p>
+        <p class="inline-clue locked" id="best-episode">Highest-rated episode: Hidden</p>
+      </div>
+
+      <div class="reveal-list">
+        <article class="reveal-card active" data-stage="1">
+          <div class="reveal-head">
+            <p class="step">Ratings Grid</p>
+            <h2>Season ratings by episode</h2>
+          </div>
+          <div class="matrix-wrap">
+            <div class="ratings-matrix-shell" id="ratings-matrix"></div>
+          </div>
+        </article>
+      </div>
+
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

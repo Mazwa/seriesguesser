@@ -1,0 +1,548 @@
+{
+  "id": "1411-person-of-interest",
+  "rank": 34,
+  "answer": "Person of Interest",
+  "sourceUrl": "https://seriesgraph.com/show/1411-person-of-interest",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1411",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1411/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "If-Then-Else",
+    "season": 4,
+    "episode": 11,
+    "rating": 9.8,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Ghosts",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Mission Creep",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Cura Te Ipsum",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Judgement",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Fix",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Witness",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Foe",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Get Carter",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Number Crunch",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Super",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Legacy",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Root Cause",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Wolf and Cub",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Blue Code",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Risk",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Baby Blue",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Identity Crisis",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Flesh and Blood",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "Matsya Nyaya",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Many Happy Returns",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "No Good Deed",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Firewall",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Contingency",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Bad Code",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Masquerade",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Triggerman",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Bury the Lede",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The High Road",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Critical",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Til Death",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "C.O.D.",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Shadow Box",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "2 Pi R",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Prisoner's Dilemma",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "Dead Reckoning",
+        "rating": 9.2
+      },
+      {
+        "episode": 14,
+        "name": "One Percent",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Booked Solid",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Relevance",
+        "rating": 9.3
+      },
+      {
+        "episode": 17,
+        "name": "Proteus",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "All In",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Trojan Horse",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "In Extremis",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Zero Day",
+        "rating": 9.4
+      },
+      {
+        "episode": 22,
+        "name": "God Mode",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Liberty",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Nothing to Hide",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Lady Killer",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Reasonable Doubt",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Razgovor",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Mors Praematura",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "The Perfect Mark",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Endgame",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "The Crossing",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "The Devil's Share",
+        "rating": 9.7
+      },
+      {
+        "episode": 11,
+        "name": "Lethe",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Aletheia",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "4C",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Provenance",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Last Call",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "RAM",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "Root Path",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Allegiance",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Most Likely to...",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Death Benefit",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Beta",
+        "rating": 9.2
+      },
+      {
+        "episode": 22,
+        "name": "A House Divided",
+        "rating": 9.1
+      },
+      {
+        "episode": 23,
+        "name": "Deus Ex Machina",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Panopticon",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Nautilus",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Wingman",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Brotherhood",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Prophets",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Pretenders",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Honor Among Thieves",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Point of Origin",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Devil You Know",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "The Cold War",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "If-Then-Else",
+        "rating": 9.8
+      },
+      {
+        "episode": 12,
+        "name": "Control-Alt-Delete",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "M.I.A.",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Guilty",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Q & A",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Blunt",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Karma",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Skip",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Search and Destroy",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Terra Incognita",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Asylum",
+        "rating": 9.5
+      },
+      {
+        "episode": 22,
+        "name": "YHWH",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "B.S.O.D.",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "SNAFU",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Truth Be Told",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "6,741",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "ShotSeeker",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "A More Perfect Union",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "QSO",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Reassortment",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Sotto Voce",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Day the World Went Away",
+        "rating": 9.7
+      },
+      {
+        "episode": 11,
+        "name": "Synecdoche",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": ".exe",
+        "rating": 9.5
+      },
+      {
+        "episode": 13,
+        "name": "Return 0",
+        "rating": 9.8
+      }
+    ]
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "76479-the-boys",
+  "rank": 42,
+  "answer": "The Boys",
+  "sourceUrl": "https://seriesgraph.com/show/76479-the-boys",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/76479",
+    "seasonRatings": "https://seriesgraph.com/api/shows/76479/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Herogasm",
+    "season": 3,
+    "episode": 6,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Name of the Game",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Cherry",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Get Some",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Female of the Species",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Good for the Soul",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Innocents",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Self-Preservation Society",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "You Found Me",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Big Ride",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Proper Preparation and Planning",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Over the Hill with the Swords of a Thousand Men",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Nothing Like It in the World",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "We Gotta Go Now",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Bloody Doors Off",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Butcher, Baker, Candlestick Maker",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "What I Know",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Payback",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Only Man in the Sky",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Barbary Coast",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Glorious Five Year Plan",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Last Time to Look on This World of Lies",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Herogasm",
+        "rating": 9.6
+      },
+      {
+        "episode": 7,
+        "name": "Here Comes a Candle to Light You to Bed",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "The Instant White-Hot Wild",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Department of Dirty Tricks",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Life Among the Septics",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "We'll Keep the Red Flag Flying Here",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Wisdom of the Ages",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Beware the Jabberwock, My Son",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Dirty Business",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Insider",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Season Four Finale",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fifteen Inches of Sheer Dynamite"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #5.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #5.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #5.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #5.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #5.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #5.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #5.8"
+      }
+    ]
+  ]
+}

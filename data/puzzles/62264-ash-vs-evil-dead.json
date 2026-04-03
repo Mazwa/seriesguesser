@@ -1,0 +1,179 @@
+{
+  "id": "62264-ash-vs-evil-dead",
+  "rank": 206,
+  "answer": "Ash vs Evil Dead",
+  "sourceUrl": "https://seriesgraph.com/show/62264-ash-vs-evil-dead",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/62264",
+    "seasonRatings": "https://seriesgraph.com/api/shows/62264/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "The Mettle of Man",
+    "season": 3,
+    "episode": 10,
+    "rating": 9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "El Jefe",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Bait",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Books from Beyond",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Brujo",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Host",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Killer of Killers",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Fire in the Hole",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Ashes to Ashes",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Bound in Flesh",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Dark One",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Home",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Morgue",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Last Call",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "DUI",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Confinement",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Trapped Inside",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Delusion",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Ashy Slashy",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Home Again",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Second Coming",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Family",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Booth Three",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Apparently Dead",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Unfinished Business",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Baby Proof",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Tales from the Rift",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Twist and Shout",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Rifting Apart",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Judgement Day",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Mettle of Man",
+        "rating": 9
+      }
+    ]
+  ]
+}

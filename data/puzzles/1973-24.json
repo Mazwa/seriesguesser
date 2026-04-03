@@ -1,0 +1,999 @@
+{
+  "id": "1973-24",
+  "rank": 76,
+  "answer": "24",
+  "sourceUrl": "https://seriesgraph.com/show/1973-24",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1973",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1973/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "11:00 p.m.-12:00 a.m.",
+    "season": 1,
+    "episode": 24,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "12:00 a.m.-1:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "1:00 a.m.-2:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "2:00 a.m.-3:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "3:00 a.m.-4:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "4:00 a.m.-5:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "5:00 a.m.-6:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "6:00 a.m.-7:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "7:00 a.m.-8:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "8:00 a.m.-9:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "9:00 a.m.-10:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "10:00 a.m.-11:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "11:00 a.m.-12:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "12:00 p.m.-1:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "1:00 p.m.-2:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "2:00 p.m.-3:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "3:00 p.m.-4:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "4:00 p.m.-5:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "5:00 p.m.-6:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "6:00 p.m.-7:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "7:00 p.m.-8:00 p.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "8:00 p.m.-9:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "9:00 p.m.-10:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "10:00 p.m.-11:00 p.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "11:00 p.m.-12:00 a.m.",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 2: 8:00 a.m.-9:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Day 2: 9:00 a.m.-10:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Day 2: 10:00 a.m.-11:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Day 2: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Day 2: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Day 2: 1:00 p.m.-2:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Day 2: 2:00 p.m.-3:00 p.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Day 2: 3:00 p.m.-4:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Day 2: 4:00 p.m.-5:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Day 2: 5:00 p.m.-6:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Day 2: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Day 2: 7:00 p.m.-8:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Day 2: 8:00 p.m.-9:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Day 2: 9:00 p.m.-10:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Day 2: 10:00 p.m.-11:00 p.m.",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "Day 2: 11:00 p.m.-12:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Day 2: 12:00 a.m.-1:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Day 2: 1:00 a.m.-2:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Day 2: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Day 2: 3:00 a.m.-4:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Day 2: 4:00 a.m.-5:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Day 2: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Day 2: 6:00 a.m.-7:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 24,
+        "name": "Day 2: 7:00 a.m.-8:00 a.m.",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 3: 1:00 p.m.-2:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Day 3: 2:00 p.m.-3:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Day 3: 3:00 p.m.-4:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Day 3: 4:00 p.m.-5:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Day 3: 5:00 p.m.-6:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Day 3: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Day 3: 7:00 p.m.-8:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Day 3: 8:00 p.m.-9:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Day 3: 9:00 p.m.-10:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Day 3: 10:00 p.m.-11:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Day 3: 11:00 p.m.-12:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Day 3: 12:00 a.m.-1:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Day 3: 1:00 a.m.-2:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Day 3: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Day 3: 3:00 a.m.-4:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Day 3: 4:00 a.m.-5:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Day 3: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Day 3: 6:00 a.m.-7:00 a.m.",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "Day 3: 7:00 a.m.-8:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Day 3: 8:00 a.m.-9:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Day 3: 9:00 a.m.-10:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Day 3: 10:00 a.m.-11:00 a.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "Day 3: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "Day 3: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 4: 7:00 a.m.-8:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Day 4: 8:00 a.m.-9:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Day 4: 9:00 a.m.-10:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Day 4: 10:00 a.m.-11:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Day 4: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Day 4: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Day 4: 1:00 p.m.-2:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Day 4: 2:00 p.m.-3:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Day 4: 3:00 p.m.-4:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Day 4: 4:00 p.m.-5:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Day 4: 5:00 p.m.-6:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Day 4: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Day 4: 7:00 p.m.-8:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Day 4: 8:00 p.m.-9:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Day 4: 9:00 p.m.-10:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Day 4: 10:00 p.m.-11:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Day 4: 11:00 p.m.-12:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Day 4: 12:00 a.m.-1:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Day 4: 1:00 a.m.-2:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Day 4: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Day 4: 3:00 a.m.-4:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Day 4: 4:00 a.m.-5:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Day 4: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "Day 4: 6:00 a.m.-7:00 a.m.",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 5: 7:00 a.m.-8:00 a.m.",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Day 5: 8:00 a.m.-9:00 a.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Day 5: 9:00 a.m.-10:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Day 5: 10:00 a.m.-11:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Day 5: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Day 5: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Day 5: 1:00 p.m.-2:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Day 5: 2:00 p.m.-3:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Day 5: 3:00 p.m.-4:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Day 5: 4:00 p.m.-5:00 p.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Day 5: 5:00 p.m.-6:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Day 5: 6:00 p.m.-7:00 p.m.",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Day 5: 7:00 p.m.-8:00 p.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Day 5: 8:00 p.m.-9:00 p.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Day 5: 9:00 p.m.-10:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Day 5: 10:00 p.m.-11:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Day 5: 11:00 p.m.-12:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Day 5: 12:00 a.m.-1:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Day 5: 1:00 a.m.-2:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Day 5: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Day 5: 3:00 a.m.-4:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Day 5: 4:00 a.m.-5:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Day 5: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "Day 5: 6:00 a.m.-7:00 a.m.",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 6: 6:00 a.m.-7:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Day 6: 7:00 a.m.-8:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Day 6: 8:00 a.m.-9:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Day 6: 9:00 a.m.-10:00 a.m.",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Day 6: 10:00 a.m.-11:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Day 6: 11:00 a.m.-12:00 p.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Day 6: 12:00 p.m.-1:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Day 6: 1:00 p.m.-2:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Day 6: 2:00 p.m.-3:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Day 6: 3:00 p.m.-4:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Day 6: 4:00 p.m.-5:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Day 6: 5:00 p.m.-6:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Day 6: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Day 6: 7:00 p.m.-8:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Day 6: 8:00 p.m.-9:00 p.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Day 6: 9:00 p.m.-10:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Day 6: 10:00 p.m.-11:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Day 6: 11:00 p.m.-12:00 a.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Day 6: 12:00 a.m.-1:00 a.m.",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Day 6: 1:00 a.m.-2:00 a.m.",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Day 6: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Day 6: 3:00 a.m.-4:00 a.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Day 6: 4:00 a.m.-5:00 a.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Day 6: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 7: 8:00 a.m.-9:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Day 7: 9:00 a.m.-10:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Day 7: 10:00 a.m.-11:00 a.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Day 7: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Day 7: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Day 7: 1:00 p.m.-2:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Day 7: 2:00 p.m.-3:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Day 7: 3:00 p.m.-4:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Day 7: 4:00 p.m.-5:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Day 7: 5:00 p.m.-6:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Day 7: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Day 7: 7:00 p.m.-8:00 p.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Day 7: 8:00 p.m.-9:00 p.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Day 7: 9:00 p.m.-10:00 p.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Day 7: 10:00 p.m.-11:00 p.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Day 7: 11:00 p.m.-12:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Day 7: 12:00 a.m.-1:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Day 7: 1:00 a.m.-2:00 a.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Day 7: 2:00 a.m.-3:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Day 7: 3:00 a.m.-4:00 a.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Day 7: 4:00 a.m.-5:00 a.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Day 7: 5:00 a.m.-6:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Day 7: 6:00 a.m.-7:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Day 7: 7:00 a.m.-8:00 a.m.",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Day 8: 4:00 p.m.-5:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Day 8: 5:00 p.m.-6:00 p.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Day 8: 6:00 p.m.-7:00 p.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Day 8: 7:00 p.m.-8:00 p.m.",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Day 8: 8:00 p.m.-9:00 p.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Day 8: 9:00 p.m.-10:00 p.m.",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Day 8: 10:00 p.m.-11:00 p.m.",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Day 8: 11:00 p.m.-12:00 a.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Day 8: 12:00 a.m.-1:00 a.m.",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Day 8: 1:00 a.m.-2:00 a.m.",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Day 8: 2:00 a.m.-3:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Day 8: 3:00 a.m.-4:00 a.m.",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Day 8: 4:00 a.m.-5:00 a.m.",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Day 8: 5:00 a.m.-6:00 a.m.",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Day 8: 6:00 a.m.-7:00 a.m.",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Day 8: 7:00 a.m.-8:00 a.m.",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Day 8: 8:00 a.m.-9:00 a.m.",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Day 8: 9:00 a.m.-10:00 a.m.",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Day 8: 10:00 a.m.-11:00 a.m.",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Day 8: 11:00 a.m.-12:00 p.m.",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Day 8: 12:00 p.m.-1:00 p.m.",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Day 8: 1:00 p.m.-2:00 p.m.",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Day 8: 2:00 p.m.-3:00 p.m.",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "Day 8: 3:00 p.m.-4:00 p.m.",
+        "rating": 9
+      }
+    ]
+  ]
+}

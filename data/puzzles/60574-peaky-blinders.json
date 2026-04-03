@@ -1,0 +1,215 @@
+{
+  "id": "60574-peaky-blinders",
+  "rank": 21,
+  "answer": "Peaky Blinders",
+  "sourceUrl": "https://seriesgraph.com/show/60574-peaky-blinders",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60574",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60574/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Episode #2.6",
+    "season": 2,
+    "episode": 6,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode #1.1",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Episode #1.2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Episode #1.3",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode #1.4",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #1.5",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Episode #1.6",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Episode #2.6",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Noose",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "Heathens",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Blackbird",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Dangerous",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Duel",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Company",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Black Tuesday",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Black Cats",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Strategy",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Loop",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Shock",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Mr. Jones",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Black Day",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Black Shirt",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Gold",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Sapphire",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Road to Hell",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Lock and Key",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

@@ -1,0 +1,2525 @@
+{
+  "id": "31910-naruto-shipp-den",
+  "rank": 168,
+  "answer": "Naruto: Shippuden",
+  "sourceUrl": "https://seriesgraph.com/show/31910-naruto-shippūden",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/31910",
+    "seasonRatings": "https://seriesgraph.com/api/shows/31910/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "The Tale of Jiraiya the Gallant",
+    "season": 1,
+    "episode": 133,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Kikyô",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Akatsuki, shidô",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Shûgyô no seika",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Suna no jinchûriki",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Kazekage to shite...!",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Noruma kuriâ",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Shissôre Kankurô",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Shutsugeki, Kakashi han",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Jinchûriki no namida",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Fûinjutsu: Genryû kyû fûjin",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Iryô ninja no deshi",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Inkyo babâ no ketsui",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "In'nen a ima mieru",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Naruto no seichô",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Kakushi dama nazukete...!",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Jinchûriki no himitsu",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Gaara shisu",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Totsunyû! Botan fukku entorî",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Torappu sadô! Gai han no teki",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Hiruko VS futari no kunoichi",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Sasori no sugao",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Chiyo no oku no te",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "'Chichi' to 'Haha'",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Sandaime Kazekage",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "Sei to shi no san bun kan",
+        "rating": 7.7
+      },
+      {
+        "episode": 26,
+        "name": "Jû-ki VS Hyaku-ki",
+        "rating": 8.8
+      },
+      {
+        "episode": 27,
+        "name": "Kanawanu yume",
+        "rating": 8.5
+      },
+      {
+        "episode": 28,
+        "name": "Yomigaeru kemono-tachi",
+        "rating": 6.8
+      },
+      {
+        "episode": 29,
+        "name": "Kakashi kaigan!",
+        "rating": 8
+      },
+      {
+        "episode": 30,
+        "name": "Shunkan no bigaku",
+        "rating": 8.4
+      },
+      {
+        "episode": 31,
+        "name": "Tsuga re yuku mono",
+        "rating": 8.8
+      },
+      {
+        "episode": 32,
+        "name": "Kazekage no kikan",
+        "rating": 7.7
+      },
+      {
+        "episode": 33,
+        "name": "The New Target",
+        "rating": 7.4
+      },
+      {
+        "episode": 34,
+        "name": "Kessei! Shin Kakashi han",
+        "rating": 7.1
+      },
+      {
+        "episode": 35,
+        "name": "Gadatensoku",
+        "rating": 7.1
+      },
+      {
+        "episode": 36,
+        "name": "Itsuwari no egao",
+        "rating": 6.9
+      },
+      {
+        "episode": 37,
+        "name": "Mudai",
+        "rating": 6.9
+      },
+      {
+        "episode": 38,
+        "name": "Shimyurêshon",
+        "rating": 6.9
+      },
+      {
+        "episode": 39,
+        "name": "Tenchikyô",
+        "rating": 7.7
+      },
+      {
+        "episode": 40,
+        "name": "Kyûbi kaihô!!",
+        "rating": 7.6
+      },
+      {
+        "episode": 41,
+        "name": "Gokuhi ninmu sutâto",
+        "rating": 8
+      },
+      {
+        "episode": 42,
+        "name": "Orochimaru vs Jinchûriki",
+        "rating": 8.5
+      },
+      {
+        "episode": 43,
+        "name": "Sakura no namida",
+        "rating": 7.8
+      },
+      {
+        "episode": 44,
+        "name": "Tatakai no tenmatsu",
+        "rating": 7.2
+      },
+      {
+        "episode": 45,
+        "name": "Uragiri no hate",
+        "rating": 7.1
+      },
+      {
+        "episode": 46,
+        "name": "Mikan no pêji",
+        "rating": 7.1
+      },
+      {
+        "episode": 47,
+        "name": "Sennyû! Dokuhebi no ajito",
+        "rating": 7.3
+      },
+      {
+        "episode": 48,
+        "name": "Tsunagari",
+        "rating": 7.1
+      },
+      {
+        "episode": 49,
+        "name": "Taisetsu na mono",
+        "rating": 7.3
+      },
+      {
+        "episode": 50,
+        "name": "Ehon ga kataru sutôrî",
+        "rating": 7.2
+      },
+      {
+        "episode": 51,
+        "name": "Saikai",
+        "rating": 7.4
+      },
+      {
+        "episode": 52,
+        "name": "Uchiha no chikara",
+        "rating": 7.9
+      },
+      {
+        "episode": 53,
+        "name": "Taitoru",
+        "rating": 7.4
+      },
+      {
+        "episode": 54,
+        "name": "Akumu",
+        "rating": 7.3
+      },
+      {
+        "episode": 55,
+        "name": "Kaze",
+        "rating": 7.7
+      },
+      {
+        "episode": 56,
+        "name": "Ugomeku",
+        "rating": 7.3
+      },
+      {
+        "episode": 57,
+        "name": "Ubawareta nemuri",
+        "rating": 6.6
+      },
+      {
+        "episode": 58,
+        "name": "Kodoku",
+        "rating": 6.3
+      },
+      {
+        "episode": 59,
+        "name": "Aratana teki",
+        "rating": 6.3
+      },
+      {
+        "episode": 60,
+        "name": "Uitenpen",
+        "rating": 6.5
+      },
+      {
+        "episode": 61,
+        "name": "Sesshoku",
+        "rating": 6.5
+      },
+      {
+        "episode": 62,
+        "name": "Chîmumeito",
+        "rating": 6.4
+      },
+      {
+        "episode": 63,
+        "name": "Futatsu no gyoku",
+        "rating": 6.4
+      },
+      {
+        "episode": 64,
+        "name": "Shikkoku no noroshi",
+        "rating": 6.4
+      },
+      {
+        "episode": 65,
+        "name": "Ankoku no sejô",
+        "rating": 6.7
+      },
+      {
+        "episode": 66,
+        "name": "Yomigaeru tamashi",
+        "rating": 6.5
+      },
+      {
+        "episode": 67,
+        "name": "Sorezore no shitô",
+        "rating": 6.6
+      },
+      {
+        "episode": 68,
+        "name": "Mezame no toki",
+        "rating": 6.6
+      },
+      {
+        "episode": 69,
+        "name": "Zetsubô",
+        "rating": 6.4
+      },
+      {
+        "episode": 70,
+        "name": "Kyômei",
+        "rating": 6.5
+      },
+      {
+        "episode": 71,
+        "name": "Tomo yo",
+        "rating": 6.4
+      },
+      {
+        "episode": 72,
+        "name": "Shinobi yoru kyôi",
+        "rating": 7.2
+      },
+      {
+        "episode": 73,
+        "name": "\"Akatuski\" shinkô",
+        "rating": 7.5
+      },
+      {
+        "episode": 74,
+        "name": "Hoshizora no shita de",
+        "rating": 7.3
+      },
+      {
+        "episode": 75,
+        "name": "Rôsô no inori",
+        "rating": 7.1
+      },
+      {
+        "episode": 76,
+        "name": "Tsuginaru suteppu",
+        "rating": 7.5
+      },
+      {
+        "episode": 77,
+        "name": "Bôgin",
+        "rating": 8.2
+      },
+      {
+        "episode": 78,
+        "name": "Kudasareta sabaki",
+        "rating": 8.6
+      },
+      {
+        "episode": 79,
+        "name": "Todokanu zekkyô",
+        "rating": 8.8
+      },
+      {
+        "episode": 80,
+        "name": "Saigo no kotoba",
+        "rating": 9
+      },
+      {
+        "episode": 81,
+        "name": "Kanashiki shirase",
+        "rating": 8.1
+      },
+      {
+        "episode": 82,
+        "name": "Daijûppan",
+        "rating": 8.9
+      },
+      {
+        "episode": 83,
+        "name": "Tâgetto rokkuon",
+        "rating": 8.3
+      },
+      {
+        "episode": 84,
+        "name": "Kakuzu's Abilities",
+        "rating": 8.6
+      },
+      {
+        "episode": 85,
+        "name": "The Terrifying Secret",
+        "rating": 8.8
+      },
+      {
+        "episode": 86,
+        "name": "Shikamaru's Genius",
+        "rating": 9.1
+      },
+      {
+        "episode": 87,
+        "name": "When You Curse Someone, You Dig Your Own Grave",
+        "rating": 9.2
+      },
+      {
+        "episode": 88,
+        "name": "Wind Element: Rasen Shuriken!",
+        "rating": 8.9
+      },
+      {
+        "episode": 89,
+        "name": "The Price of Power",
+        "rating": 7.5
+      },
+      {
+        "episode": 90,
+        "name": "A Shinobi's Decision",
+        "rating": 6.7
+      },
+      {
+        "episode": 91,
+        "name": "Discovery: Orochimaru's Hideout",
+        "rating": 6.7
+      },
+      {
+        "episode": 92,
+        "name": "Deai",
+        "rating": 6.4
+      },
+      {
+        "episode": 93,
+        "name": "Kayoiau kokoro",
+        "rating": 6.2
+      },
+      {
+        "episode": 94,
+        "name": "Ame hito yo",
+        "rating": 6.2
+      },
+      {
+        "episode": 95,
+        "name": "Futatsu no omamori",
+        "rating": 6.2
+      },
+      {
+        "episode": 96,
+        "name": "Miezaru teki",
+        "rating": 6.3
+      },
+      {
+        "episode": 97,
+        "name": "Ran hansha no meikyû",
+        "rating": 6.6
+      },
+      {
+        "episode": 98,
+        "name": "Arawareta hyôteki",
+        "rating": 6.7
+      },
+      {
+        "episode": 99,
+        "name": "Arekurû Bijû",
+        "rating": 6.7
+      },
+      {
+        "episode": 100,
+        "name": "Kiri no naka de",
+        "rating": 6.3
+      },
+      {
+        "episode": 101,
+        "name": "Sorezore no omoi",
+        "rating": 6.3
+      },
+      {
+        "episode": 102,
+        "name": "Saihensei",
+        "rating": 6.3
+      },
+      {
+        "episode": 103,
+        "name": "Kekkai shihô fûjin",
+        "rating": 6.6
+      },
+      {
+        "episode": 104,
+        "name": "Shôton kuzushi",
+        "rating": 6.7
+      },
+      {
+        "episode": 105,
+        "name": "Kekkai kôbô-sen",
+        "rating": 6.4
+      },
+      {
+        "episode": 106,
+        "name": "Akai tsubaki",
+        "rating": 6.5
+      },
+      {
+        "episode": 107,
+        "name": "Goetsu dôshû",
+        "rating": 6.4
+      },
+      {
+        "episode": 108,
+        "name": "Tsubaki no michishirube",
+        "rating": 6.3
+      },
+      {
+        "episode": 109,
+        "name": "Juin no gyakushû",
+        "rating": 6.2
+      },
+      {
+        "episode": 110,
+        "name": "Tsumi no kioku",
+        "rating": 6.4
+      },
+      {
+        "episode": 111,
+        "name": "Kudakareta yakusoku",
+        "rating": 6.6
+      },
+      {
+        "episode": 112,
+        "name": "Kaerubeki basho",
+        "rating": 6.7
+      },
+      {
+        "episode": 113,
+        "name": "Daija no dôkô",
+        "rating": 7.8
+      },
+      {
+        "episode": 114,
+        "name": "Taka no hitomi",
+        "rating": 8.3
+      },
+      {
+        "episode": 115,
+        "name": "Zabuza no daitô",
+        "rating": 7.3
+      },
+      {
+        "episode": 116,
+        "name": "Teppeki no ban'nin",
+        "rating": 7
+      },
+      {
+        "episode": 117,
+        "name": "Kita ajito no Jûgo",
+        "rating": 7.1
+      },
+      {
+        "episode": 118,
+        "name": "Kessei!",
+        "rating": 7.1
+      },
+      {
+        "episode": 119,
+        "name": "Kakashi gaiden ~ Senjô no bôizu raifu ~ Zenpen",
+        "rating": 8.9
+      },
+      {
+        "episode": 120,
+        "name": "Kakashi gaiden ~ Senjô no bôizu raifu ~ Kôhen",
+        "rating": 9.4
+      },
+      {
+        "episode": 121,
+        "name": "Ugokidasu monotachi",
+        "rating": 7.6
+      },
+      {
+        "episode": 122,
+        "name": "Tansaku",
+        "rating": 7.6
+      },
+      {
+        "episode": 123,
+        "name": "Gekitotsu!",
+        "rating": 8.6
+      },
+      {
+        "episode": 124,
+        "name": "Geijutsu",
+        "rating": 8.7
+      },
+      {
+        "episode": 125,
+        "name": "Shôshitsu",
+        "rating": 8.2
+      },
+      {
+        "episode": 126,
+        "name": "Tasogare",
+        "rating": 8.4
+      },
+      {
+        "episode": 127,
+        "name": "Dokonjô ninden ~ Jiraiya ninpôchô ~ Zenpen",
+        "rating": 8.1
+      },
+      {
+        "episode": 128,
+        "name": "Dokonjô ninden ~ Jiraiya ninpôchô ~ Kôhen",
+        "rating": 8.7
+      },
+      {
+        "episode": 129,
+        "name": "Sen'nyû! Amegakure no sato",
+        "rating": 8
+      },
+      {
+        "episode": 130,
+        "name": "Kami to natta otoko",
+        "rating": 8.7
+      },
+      {
+        "episode": 131,
+        "name": "Hatsudô! Sen'nin modô",
+        "rating": 9
+      },
+      {
+        "episode": 132,
+        "name": "Pein rokudô, kenzan",
+        "rating": 9.2
+      },
+      {
+        "episode": 133,
+        "name": "The Tale of Jiraiya the Gallant",
+        "rating": 9.7
+      },
+      {
+        "episode": 134,
+        "name": "Utage e no sasoi",
+        "rating": 8.2
+      },
+      {
+        "episode": 135,
+        "name": "Nagaki toki no naka de...",
+        "rating": 8.4
+      },
+      {
+        "episode": 136,
+        "name": "Mangekyô Sharingan no hikari to yami",
+        "rating": 9.2
+      },
+      {
+        "episode": 137,
+        "name": "Amaterasu",
+        "rating": 9.3
+      },
+      {
+        "episode": 138,
+        "name": "Shûen",
+        "rating": 9.6
+      },
+      {
+        "episode": 139,
+        "name": "Tobi no nazo",
+        "rating": 8.7
+      },
+      {
+        "episode": 140,
+        "name": "In'nen",
+        "rating": 9.2
+      },
+      {
+        "episode": 141,
+        "name": "Shinjitsu",
+        "rating": 9.5
+      },
+      {
+        "episode": 142,
+        "name": "Unraikyô no tatakai",
+        "rating": 7.8
+      },
+      {
+        "episode": 143,
+        "name": "\"Hachibi\" tai \"Sasuke\"",
+        "rating": 8.7
+      },
+      {
+        "episode": 144,
+        "name": "Fûraibô",
+        "rating": 6
+      },
+      {
+        "episode": 145,
+        "name": "Kinjutsu no keishôsha",
+        "rating": 6
+      },
+      {
+        "episode": 146,
+        "name": "Keishôsha no omoi",
+        "rating": 6.1
+      },
+      {
+        "episode": 147,
+        "name": "Nukenin no kako",
+        "rating": 6.1
+      },
+      {
+        "episode": 148,
+        "name": "Yami no kôkeisha",
+        "rating": 5.9
+      },
+      {
+        "episode": 149,
+        "name": "Betsuri",
+        "rating": 6.2
+      },
+      {
+        "episode": 150,
+        "name": "Kinjutsu hatsudô",
+        "rating": 6.2
+      },
+      {
+        "episode": 151,
+        "name": "Shitei",
+        "rating": 6.4
+      },
+      {
+        "episode": 152,
+        "name": "Hihô",
+        "rating": 8.2
+      },
+      {
+        "episode": 153,
+        "name": "Shi no kage o ote",
+        "rating": 8.6
+      },
+      {
+        "episode": 154,
+        "name": "Angô kaidoku",
+        "rating": 7.8
+      },
+      {
+        "episode": 155,
+        "name": "Daiichi no kadai",
+        "rating": 7.8
+      },
+      {
+        "episode": 156,
+        "name": "Shi o koeru toki",
+        "rating": 7.6
+      },
+      {
+        "episode": 157,
+        "name": "Konoha shûgeki!",
+        "rating": 8.1
+      },
+      {
+        "episode": 158,
+        "name": "Shinjiru chikara",
+        "rating": 8.4
+      },
+      {
+        "episode": 159,
+        "name": "Pain vs. Kakashi",
+        "rating": 9.4
+      },
+      {
+        "episode": 160,
+        "name": "Pain no nazo",
+        "rating": 8.3
+      },
+      {
+        "episode": 161,
+        "name": "Sei wa Sarutobi, na wa Konohamaru!",
+        "rating": 8.4
+      },
+      {
+        "episode": 162,
+        "name": "Sekai ni itami o",
+        "rating": 9.4
+      },
+      {
+        "episode": 163,
+        "name": "Bakuhatsu! Sen'nin modô",
+        "rating": 9.4
+      },
+      {
+        "episode": 164,
+        "name": "Pinchi! Kieta sen'nin môdo",
+        "rating": 9.5
+      },
+      {
+        "episode": 165,
+        "name": "Kyûbi hokaku kanryô",
+        "rating": 9.5
+      },
+      {
+        "episode": 166,
+        "name": "Kokuhaku",
+        "rating": 9.7
+      },
+      {
+        "episode": 167,
+        "name": "Chibaku Tensei",
+        "rating": 9.6
+      },
+      {
+        "episode": 168,
+        "name": "Yondaime Hokage",
+        "rating": 9.6
+      },
+      {
+        "episode": 169,
+        "name": "Futari no deshi",
+        "rating": 8.7
+      },
+      {
+        "episode": 170,
+        "name": "Daibôken! Yondaime no isan o sagase - Zenpen",
+        "rating": 5.8
+      },
+      {
+        "episode": 171,
+        "name": "Daibôken! Yondaime no isan o sagase - Kôhen",
+        "rating": 5.8
+      },
+      {
+        "episode": 172,
+        "name": "Deai",
+        "rating": 8
+      },
+      {
+        "episode": 173,
+        "name": "Pein tanjô",
+        "rating": 8.7
+      },
+      {
+        "episode": 174,
+        "name": "Uzumaki Naruto monogatari",
+        "rating": 8.8
+      },
+      {
+        "episode": 175,
+        "name": "Konoha no eiyû",
+        "rating": 9.5
+      },
+      {
+        "episode": 176,
+        "name": "Kako-hen ~Konoha no kiseki~ Shinmai kyôshi Iruka",
+        "rating": 6.7
+      },
+      {
+        "episode": 177,
+        "name": "Kako-hen ~Konoha no kiseki~ Iruka no shiren",
+        "rating": 6.6
+      },
+      {
+        "episode": 178,
+        "name": "Kako-hen ~Konoha no kiseki~ Iruka no ketsui",
+        "rating": 6.7
+      },
+      {
+        "episode": 179,
+        "name": "Kako-hen ~Konoha no kiseki~ Tantô Jônin Hatake Kakashi",
+        "rating": 6.4
+      },
+      {
+        "episode": 180,
+        "name": "Kako-hen ~Konoha no kiseki~ Inari, tamesureru yûki",
+        "rating": 5.8
+      },
+      {
+        "episode": 181,
+        "name": "Kako-hen ~Konoha no kiseki~ Naruto, adauchi shinanjuku",
+        "rating": 5.6
+      },
+      {
+        "episode": 182,
+        "name": "Gaara \"kizuna\"",
+        "rating": 6.3
+      },
+      {
+        "episode": 183,
+        "name": "Naruto: Autobureiko",
+        "rating": 5.6
+      },
+      {
+        "episode": 184,
+        "name": "Shutsugeki! Tenten-han",
+        "rating": 5.7
+      },
+      {
+        "episode": 185,
+        "name": "Animaru bangaichi",
+        "rating": 4.8
+      },
+      {
+        "episode": 186,
+        "name": "Aa, seishun no kanpôgan",
+        "rating": 5.6
+      },
+      {
+        "episode": 187,
+        "name": "Dokonjô shitei shûgyô-hen",
+        "rating": 5.7
+      },
+      {
+        "episode": 188,
+        "name": "Dokonjô shitei ninpû-roku",
+        "rating": 5.8
+      },
+      {
+        "episode": 189,
+        "name": "Sasuke no nikukyû taizen",
+        "rating": 5.4
+      },
+      {
+        "episode": 190,
+        "name": "Naruto to rôhei",
+        "rating": 6
+      },
+      {
+        "episode": 191,
+        "name": "Kakashi koi-uta",
+        "rating": 6.1
+      },
+      {
+        "episode": 192,
+        "name": "Neji gaiden",
+        "rating": 5.8
+      },
+      {
+        "episode": 193,
+        "name": "Nida shinda otoko",
+        "rating": 5.9
+      },
+      {
+        "episode": 194,
+        "name": "Saiaku no nininsankyaku",
+        "rating": 5.9
+      },
+      {
+        "episode": 195,
+        "name": "Renkei, daijûppan",
+        "rating": 5.6
+      },
+      {
+        "episode": 196,
+        "name": "Yami e no shissô",
+        "rating": 5.5
+      },
+      {
+        "episode": 197,
+        "name": "Rokudaime Hokage Danzô",
+        "rating": 7.4
+      },
+      {
+        "episode": 198,
+        "name": "Gokage kaidan zen'ya",
+        "rating": 7.5
+      },
+      {
+        "episode": 199,
+        "name": "Gokage tojô!",
+        "rating": 7.5
+      },
+      {
+        "episode": 200,
+        "name": "Naruto no tangan",
+        "rating": 7.6
+      },
+      {
+        "episode": 201,
+        "name": "Kujû no ketsudan",
+        "rating": 8
+      },
+      {
+        "episode": 202,
+        "name": "Hashiru ikazuchi",
+        "rating": 8.2
+      },
+      {
+        "episode": 203,
+        "name": "Sasuke no nindô",
+        "rating": 8.5
+      },
+      {
+        "episode": 204,
+        "name": "Gokage no chikara",
+        "rating": 8.4
+      },
+      {
+        "episode": 205,
+        "name": "Sensen fukoku",
+        "rating": 8.3
+      },
+      {
+        "episode": 206,
+        "name": "Sakura no omoi",
+        "rating": 7.3
+      },
+      {
+        "episode": 207,
+        "name": "Bijû VS o no nai Bijû",
+        "rating": 8.3
+      },
+      {
+        "episode": 208,
+        "name": "Tomo to shite",
+        "rating": 7.7
+      },
+      {
+        "episode": 209,
+        "name": "Danzô no migiude",
+        "rating": 8.7
+      },
+      {
+        "episode": 210,
+        "name": "Kinjirareta dôjutsu",
+        "rating": 8.6
+      },
+      {
+        "episode": 211,
+        "name": "Shimura Danzô",
+        "rating": 8.9
+      },
+      {
+        "episode": 212,
+        "name": "Sakura no kakugo",
+        "rating": 6.7
+      },
+      {
+        "episode": 213,
+        "name": "Ushinawareta kizuna",
+        "rating": 6.1
+      },
+      {
+        "episode": 214,
+        "name": "Seoubeki omoni",
+        "rating": 7
+      },
+      {
+        "episode": 215,
+        "name": "Shukumei no futari",
+        "rating": 7.4
+      },
+      {
+        "episode": 216,
+        "name": "Ichiryû no shinobi",
+        "rating": 7.5
+      },
+      {
+        "episode": 217,
+        "name": "Sen'nyûsha",
+        "rating": 7.4
+      },
+      {
+        "episode": 218,
+        "name": "Ugokidasu taikoku",
+        "rating": 7
+      },
+      {
+        "episode": 219,
+        "name": "Hokage Hatake Kakashi",
+        "rating": 8
+      },
+      {
+        "episode": 220,
+        "name": "Ôgama sen'nin no yogen",
+        "rating": 7.2
+      },
+      {
+        "episode": 221,
+        "name": "Kurairi",
+        "rating": 7.8
+      },
+      {
+        "episode": 222,
+        "name": "Gokage no ketsudan",
+        "rating": 7.1
+      },
+      {
+        "episode": 223,
+        "name": "Seinen to umi",
+        "rating": 5.6
+      },
+      {
+        "episode": 224,
+        "name": "Benisu no shônin",
+        "rating": 5.3
+      },
+      {
+        "episode": 225,
+        "name": "Norowareta no yûreisen",
+        "rating": 5.2
+      },
+      {
+        "episode": 226,
+        "name": "Senkan no shima",
+        "rating": 4.9
+      },
+      {
+        "episode": 227,
+        "name": "Bôkyaku no shima",
+        "rating": 5.3
+      },
+      {
+        "episode": 228,
+        "name": "Tatakae Rokku Rî!",
+        "rating": 5.2
+      },
+      {
+        "episode": 229,
+        "name": "Kuu ka kuwaweru ka! Odoru kinoko jigoku",
+        "rating": 5
+      },
+      {
+        "episode": 230,
+        "name": "Kage no gyakushû",
+        "rating": 5.4
+      },
+      {
+        "episode": 231,
+        "name": "Tozasareta kôro",
+        "rating": 5.2
+      },
+      {
+        "episode": 232,
+        "name": "Konoha no joshikai",
+        "rating": 6.3
+      },
+      {
+        "episode": 233,
+        "name": "Sanjô, nise? Naruto",
+        "rating": 5.3
+      },
+      {
+        "episode": 234,
+        "name": "Naruto no manadeshi",
+        "rating": 6.1
+      },
+      {
+        "episode": 235,
+        "name": "Nadeshiko no Kunoichi",
+        "rating": 5.7
+      },
+      {
+        "episode": 236,
+        "name": "Nakama no senaka",
+        "rating": 5.7
+      },
+      {
+        "episode": 237,
+        "name": "Aa, Akogare no Tsunade-Sama",
+        "rating": 5.9
+      },
+      {
+        "episode": 238,
+        "name": "Sai no kyûsoku",
+        "rating": 5.7
+      },
+      {
+        "episode": 239,
+        "name": "Densetsu no Ino-Shika-Chô",
+        "rating": 5.8
+      },
+      {
+        "episode": 240,
+        "name": "Kiba no ketsui",
+        "rating": 5.6
+      },
+      {
+        "episode": 241,
+        "name": "Kakashi, waga eien no raibaru yo",
+        "rating": 6.6
+      },
+      {
+        "episode": 242,
+        "name": "Naruto no chikai",
+        "rating": 6.1
+      },
+      {
+        "episode": 243,
+        "name": "Jôriku! Rakuen no shima?",
+        "rating": 7
+      },
+      {
+        "episode": 244,
+        "name": "Kirâ Bî to Motoi",
+        "rating": 7.1
+      },
+      {
+        "episode": 245,
+        "name": "Saranaru shiren! Naruto VS Kyûbi!!",
+        "rating": 8.2
+      },
+      {
+        "episode": 246,
+        "name": "Orenji-iro no kagayaki",
+        "rating": 9.1
+      },
+      {
+        "episode": 247,
+        "name": "Nerawareta Kyûbi",
+        "rating": 9.1
+      },
+      {
+        "episode": 248,
+        "name": "Yondaime no shitô!!",
+        "rating": 9.6
+      },
+      {
+        "episode": 249,
+        "name": "Arigatô",
+        "rating": 9.6
+      },
+      {
+        "episode": 250,
+        "name": "Chinjû VS Kaijin! Rakuen no tatakai!",
+        "rating": 8
+      },
+      {
+        "episode": 251,
+        "name": "Kisame to iu otoko",
+        "rating": 8.4
+      },
+      {
+        "episode": 252,
+        "name": "Shi e izanu tenshi",
+        "rating": 8.2
+      },
+      {
+        "episode": 253,
+        "name": "Heiwa e no kakehashi",
+        "rating": 8.8
+      },
+      {
+        "episode": 254,
+        "name": "Do S-kyû gokuhi ninmu",
+        "rating": 6.6
+      },
+      {
+        "episode": 255,
+        "name": "Geijutsuka futatabi",
+        "rating": 7.3
+      },
+      {
+        "episode": 256,
+        "name": "Shûketsu! Shinobi rengô-gun!",
+        "rating": 8.4
+      },
+      {
+        "episode": 257,
+        "name": "Deai",
+        "rating": 5.7
+      },
+      {
+        "episode": 258,
+        "name": "Raibaru",
+        "rating": 5.4
+      },
+      {
+        "episode": 259,
+        "name": "Kiretsu",
+        "rating": 5.3
+      },
+      {
+        "episode": 260,
+        "name": "Ribetsu",
+        "rating": 5.6
+      },
+      {
+        "episode": 261,
+        "name": "Tomo no tame ni",
+        "rating": 7.7
+      },
+      {
+        "episode": 262,
+        "name": "Kaisen!",
+        "rating": 8
+      },
+      {
+        "episode": 263,
+        "name": "Sai to Shin",
+        "rating": 7.8
+      },
+      {
+        "episode": 264,
+        "name": "Edo Tensei no himitsu",
+        "rating": 7.6
+      },
+      {
+        "episode": 265,
+        "name": "Shukuteki to no saikai",
+        "rating": 7.7
+      },
+      {
+        "episode": 266,
+        "name": "Saisho no teki, saigo no teki",
+        "rating": 8
+      },
+      {
+        "episode": 267,
+        "name": "Konoha no tensai gunshi",
+        "rating": 7.5
+      },
+      {
+        "episode": 268,
+        "name": "Sorezore no gekisen!!",
+        "rating": 7.4
+      },
+      {
+        "episode": 269,
+        "name": "NG wâdo",
+        "rating": 7.7
+      },
+      {
+        "episode": 270,
+        "name": "Konjiki no kizuna",
+        "rating": 7.8
+      },
+      {
+        "episode": 271,
+        "name": "ROAD to SAKURA",
+        "rating": 5.5
+      },
+      {
+        "episode": 272,
+        "name": "Mifune VS Hanzô",
+        "rating": 7.7
+      },
+      {
+        "episode": 273,
+        "name": "Hontô no yasashisa",
+        "rating": 7.2
+      },
+      {
+        "episode": 274,
+        "name": "Kanpeki na Ino-Shika-Chô",
+        "rating": 7.5
+      },
+      {
+        "episode": 275,
+        "name": "Kokoro no naka no tegami",
+        "rating": 8
+      },
+      {
+        "episode": 276,
+        "name": "Gedô mazô no shûrai",
+        "rating": 7.8
+      },
+      {
+        "episode": 277,
+        "name": "Wakai no In",
+        "rating": 7.2
+      },
+      {
+        "episode": 278,
+        "name": "Nerawareta iryô ninja",
+        "rating": 7.2
+      },
+      {
+        "episode": 279,
+        "name": "Shiro Zetsu no torappu",
+        "rating": 6.9
+      },
+      {
+        "episode": 280,
+        "name": "Geijutsu ka no bigaku",
+        "rating": 6.6
+      },
+      {
+        "episode": 281,
+        "name": "Kâ-chan rengô-gun!!",
+        "rating": 5
+      },
+      {
+        "episode": 282,
+        "name": "Hiwa: Saikyô taggu!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 283,
+        "name": "Futatsu no taiyô!!",
+        "rating": 8.1
+      },
+      {
+        "episode": 284,
+        "name": "Kabuto wari! Akebino jinin",
+        "rating": 7.1
+      },
+      {
+        "episode": 285,
+        "name": "Shakuton tsukai! Sunagakure no Pakura",
+        "rating": 6.6
+      },
+      {
+        "episode": 286,
+        "name": "Torimodosenai mono",
+        "rating": 6.2
+      },
+      {
+        "episode": 287,
+        "name": "Kakeru ni ataisuru mono",
+        "rating": 6.2
+      },
+      {
+        "episode": 288,
+        "name": "Kyôi, Jinpachi - Kushimaru konbi!!",
+        "rating": 6.4
+      },
+      {
+        "episode": 289,
+        "name": "Raiken!! Ringo Ameyuri",
+        "rating": 6.5
+      },
+      {
+        "episode": 290,
+        "name": "\"Chikara\" Episode 1",
+        "rating": 6.3
+      },
+      {
+        "episode": 291,
+        "name": "\"Chikara\" Episode 2",
+        "rating": 6.1
+      },
+      {
+        "episode": 292,
+        "name": "\"Chikara\" Episode 3",
+        "rating": 6.5
+      },
+      {
+        "episode": 293,
+        "name": "\"Chikara\" Episode 4",
+        "rating": 6.2
+      },
+      {
+        "episode": 294,
+        "name": "\"Chikara\" Episode 5",
+        "rating": 6.4
+      },
+      {
+        "episode": 295,
+        "name": "\"Chikara\" Episode Final",
+        "rating": 6.8
+      },
+      {
+        "episode": 296,
+        "name": "Naruto, sansen!!",
+        "rating": 7.6
+      },
+      {
+        "episode": 297,
+        "name": "Chichi no omoi, haha no ai",
+        "rating": 8.4
+      },
+      {
+        "episode": 298,
+        "name": "Tsuini sesshoku!! Naruto VS Itachi",
+        "rating": 9
+      },
+      {
+        "episode": 299,
+        "name": "Mitomi rareshi mono",
+        "rating": 8.8
+      },
+      {
+        "episode": 300,
+        "name": "Mizukage to Ôhamaguri to Shinkirô",
+        "rating": 7.9
+      },
+      {
+        "episode": 301,
+        "name": "Mujun",
+        "rating": 8.2
+      },
+      {
+        "episode": 302,
+        "name": "Kyôfu joukibôi",
+        "rating": 7.7
+      },
+      {
+        "episode": 303,
+        "name": "Kako no bôrei",
+        "rating": 6.6
+      },
+      {
+        "episode": 304,
+        "name": "Yomi Tenshin no jutsu",
+        "rating": 6.3
+      },
+      {
+        "episode": 305,
+        "name": "Fukushûsha",
+        "rating": 6.4
+      },
+      {
+        "episode": 306,
+        "name": "Kokoro no me",
+        "rating": 6.1
+      },
+      {
+        "episode": 307,
+        "name": "Gekkô ni keyu",
+        "rating": 6.2
+      },
+      {
+        "episode": 308,
+        "name": "Mikazuki no yoru",
+        "rating": 6.1
+      },
+      {
+        "episode": 309,
+        "name": "A-kûy ninmu: Gozen-jiai",
+        "rating": 5.4
+      },
+      {
+        "episode": 310,
+        "name": "Rakujô",
+        "rating": 5.5
+      },
+      {
+        "episode": 311,
+        "name": "Prologue of Road to Ninja",
+        "rating": 7.3
+      },
+      {
+        "episode": 312,
+        "name": "Rôjin to ryû no me",
+        "rating": 5.4
+      },
+      {
+        "episode": 313,
+        "name": "Ame nochi yuki, tokidoki kaminari",
+        "rating": 4.6
+      },
+      {
+        "episode": 314,
+        "name": "Kanashî tenki ame",
+        "rating": 4.9
+      },
+      {
+        "episode": 315,
+        "name": "Nagori yuki",
+        "rating": 5.4
+      },
+      {
+        "episode": 316,
+        "name": "Edo Tensei rengô-gun!!",
+        "rating": 5.9
+      },
+      {
+        "episode": 317,
+        "name": "Shino VS Torune!!",
+        "rating": 6.4
+      },
+      {
+        "episode": 318,
+        "name": "Kokoro no ana môhitori no Jinchûriki",
+        "rating": 6.1
+      },
+      {
+        "episode": 319,
+        "name": "Kugutsu ni yadoru tamashî",
+        "rating": 6.5
+      },
+      {
+        "episode": 320,
+        "name": "Hashire Omoi",
+        "rating": 6.1
+      },
+      {
+        "episode": 321,
+        "name": "Zôen tôchaku",
+        "rating": 8.1
+      },
+      {
+        "episode": 322,
+        "name": "Uchiha Madara",
+        "rating": 9.6
+      },
+      {
+        "episode": 323,
+        "name": "Gokage shûketsu...!!",
+        "rating": 9
+      },
+      {
+        "episode": 324,
+        "name": "Warenai Kamen: Wareta Shabondama",
+        "rating": 7.6
+      },
+      {
+        "episode": 325,
+        "name": "Jinchûriki VS Jinchûriki!!",
+        "rating": 8.1
+      },
+      {
+        "episode": 326,
+        "name": "Yonbi: Sen'nen no Ô",
+        "rating": 8.2
+      },
+      {
+        "episode": 327,
+        "name": "Kyûbi",
+        "rating": 7.2
+      },
+      {
+        "episode": 328,
+        "name": "Kurama",
+        "rating": 7.8
+      },
+      {
+        "episode": 329,
+        "name": "Tsû man seru",
+        "rating": 9.3
+      },
+      {
+        "episode": 330,
+        "name": "Shôri e no yogen",
+        "rating": 7.6
+      },
+      {
+        "episode": 331,
+        "name": "Yami o miru me",
+        "rating": 6.7
+      },
+      {
+        "episode": 332,
+        "name": "Ishi no ishi",
+        "rating": 8.1
+      },
+      {
+        "episode": 333,
+        "name": "Edo Tensei no risuku",
+        "rating": 8.5
+      },
+      {
+        "episode": 334,
+        "name": "Kyôdai taggu!!",
+        "rating": 8.4
+      },
+      {
+        "episode": 335,
+        "name": "Tagai no Konoha",
+        "rating": 7.7
+      },
+      {
+        "episode": 336,
+        "name": "Yakushi Kabuto",
+        "rating": 7.8
+      },
+      {
+        "episode": 337,
+        "name": "Hatzudô: Izanami",
+        "rating": 8.3
+      },
+      {
+        "episode": 338,
+        "name": "Izanagi to Izanami",
+        "rating": 8.3
+      },
+      {
+        "episode": 339,
+        "name": "Imao o zutto aishiteru",
+        "rating": 9.6
+      },
+      {
+        "episode": 340,
+        "name": "Edo Tensei: Kai",
+        "rating": 8.4
+      },
+      {
+        "episode": 341,
+        "name": "Fukkatsu!! Orochimaru",
+        "rating": 8
+      },
+      {
+        "episode": 342,
+        "name": "Jikûkan ninjutsu no himitsu",
+        "rating": 8.8
+      },
+      {
+        "episode": 343,
+        "name": "Temê wa dare da!!",
+        "rating": 9.2
+      },
+      {
+        "episode": 344,
+        "name": "Obito to Madara",
+        "rating": 8.8
+      },
+      {
+        "episode": 345,
+        "name": "Ore wa jigoku ni iru",
+        "rating": 9.6
+      },
+      {
+        "episode": 346,
+        "name": "Yume no sekai",
+        "rating": 8.2
+      },
+      {
+        "episode": 347,
+        "name": "Shinobiyoru kage",
+        "rating": 7.5
+      },
+      {
+        "episode": 348,
+        "name": "Shinsei: \"Akatsuki\"",
+        "rating": 8
+      },
+      {
+        "episode": 349,
+        "name": "Kokoro o kakusu men",
+        "rating": 7.6
+      },
+      {
+        "episode": 350,
+        "name": "Minato no shi",
+        "rating": 7.7
+      },
+      {
+        "episode": 351,
+        "name": "Hashirama saibô",
+        "rating": 7.1
+      },
+      {
+        "episode": 352,
+        "name": "Nukenin: Orochimaru",
+        "rating": 6.7
+      },
+      {
+        "episode": 353,
+        "name": "Orochimaru no jikkentai",
+        "rating": 6.7
+      },
+      {
+        "episode": 354,
+        "name": "Sorezore no michi",
+        "rating": 6.7
+      },
+      {
+        "episode": 355,
+        "name": "Nerawareta Sharingan",
+        "rating": 7.1
+      },
+      {
+        "episode": 356,
+        "name": "Konoha no Shinobi",
+        "rating": 7.1
+      },
+      {
+        "episode": 357,
+        "name": "ANBU no Uchiha",
+        "rating": 7.6
+      },
+      {
+        "episode": 358,
+        "name": "Kûdetâ",
+        "rating": 8.1
+      },
+      {
+        "episode": 359,
+        "name": "Sangeki no yoru",
+        "rating": 8
+      },
+      {
+        "episode": 360,
+        "name": "Tantô Jônin",
+        "rating": 7.5
+      },
+      {
+        "episode": 361,
+        "name": "Dai nana han",
+        "rating": 7.9
+      },
+      {
+        "episode": 362,
+        "name": "Kakashi no ketsui",
+        "rating": 8.8
+      },
+      {
+        "episode": 363,
+        "name": "Shinobi rengô-gun no jutsu!",
+        "rating": 9.2
+      },
+      {
+        "episode": 364,
+        "name": "Tsunagareru mono",
+        "rating": 9.6
+      },
+      {
+        "episode": 365,
+        "name": "Shinobimau mono-tachi",
+        "rating": 9.3
+      },
+      {
+        "episode": 366,
+        "name": "Subete o shiru mono-tachi",
+        "rating": 9.3
+      },
+      {
+        "episode": 367,
+        "name": "Hashirama to Madara",
+        "rating": 8.8
+      },
+      {
+        "episode": 368,
+        "name": "Sengoku jidai",
+        "rating": 9.1
+      },
+      {
+        "episode": 369,
+        "name": "Hontô no yume",
+        "rating": 8.8
+      },
+      {
+        "episode": 370,
+        "name": "Sasuke no kotae",
+        "rating": 8.9
+      },
+      {
+        "episode": 371,
+        "name": "Kazaana",
+        "rating": 8.6
+      },
+      {
+        "episode": 372,
+        "name": "Umeru mono",
+        "rating": 9.4
+      },
+      {
+        "episode": 373,
+        "name": "Dai nana han, shûketsu!!",
+        "rating": 8.8
+      },
+      {
+        "episode": 374,
+        "name": "Aratanaru sansukumi",
+        "rating": 8.6
+      },
+      {
+        "episode": 375,
+        "name": "Kakashi VS Obito",
+        "rating": 9.6
+      },
+      {
+        "episode": 376,
+        "name": "Kyûbi gôdatsu shirei",
+        "rating": 4
+      },
+      {
+        "episode": 377,
+        "name": "Naruto tai Meka Naruto",
+        "rating": 3.5
+      },
+      {
+        "episode": 378,
+        "name": "Jûbi no Jinchûriki",
+        "rating": 8.7
+      },
+      {
+        "episode": 379,
+        "name": "Toppakô",
+        "rating": 8.9
+      },
+      {
+        "episode": 380,
+        "name": "Naruto ga umareta hi",
+        "rating": 8.8
+      },
+      {
+        "episode": 381,
+        "name": "Shinju",
+        "rating": 8.9
+      },
+      {
+        "episode": 382,
+        "name": "Shinobi no yume",
+        "rating": 8.7
+      },
+      {
+        "episode": 383,
+        "name": "Saki o ou",
+        "rating": 8.5
+      },
+      {
+        "episode": 384,
+        "name": "Nakama de michita kokoro",
+        "rating": 8.8
+      },
+      {
+        "episode": 385,
+        "name": "Uchiha Obito",
+        "rating": 7.9
+      },
+      {
+        "episode": 386,
+        "name": "Chanto miteru",
+        "rating": 7.8
+      },
+      {
+        "episode": 387,
+        "name": "Mamorareta yakusoku",
+        "rating": 8.3
+      },
+      {
+        "episode": 388,
+        "name": "Saisho no tomo",
+        "rating": 6.2
+      },
+      {
+        "episode": 389,
+        "name": "Akogare no Nê-Sama",
+        "rating": 6.1
+      },
+      {
+        "episode": 390,
+        "name": "Hanabi no ketsui",
+        "rating": 6.4
+      },
+      {
+        "episode": 391,
+        "name": "Uchiha Madara, tatsu",
+        "rating": 8.9
+      },
+      {
+        "episode": 392,
+        "name": "Ura no kokoro",
+        "rating": 8.8
+      },
+      {
+        "episode": 393,
+        "name": "Hontô no owari",
+        "rating": 9.2
+      },
+      {
+        "episode": 394,
+        "name": "Aratanaru Chûnin shiken",
+        "rating": 6.1
+      },
+      {
+        "episode": 395,
+        "name": "Chûnin shiken, kaishi!",
+        "rating": 5.9
+      },
+      {
+        "episode": 396,
+        "name": "Mittsu no mondai",
+        "rating": 6.3
+      },
+      {
+        "episode": 397,
+        "name": "Rîdâ ni fusawashî mono",
+        "rating": 6.4
+      },
+      {
+        "episode": 398,
+        "name": "Niji shiken, zen'ya",
+        "rating": 6.1
+      },
+      {
+        "episode": 399,
+        "name": "Ma no sabaku no sabaibaru",
+        "rating": 6
+      },
+      {
+        "episode": 400,
+        "name": "Taijutsu tsukai to shite...",
+        "rating": 5.8
+      },
+      {
+        "episode": 401,
+        "name": "Kimaweshi mono",
+        "rating": 6.6
+      },
+      {
+        "episode": 402,
+        "name": "Tôsô VS tsuiseki",
+        "rating": 5.5
+      },
+      {
+        "episode": 403,
+        "name": "Akiramenai dokonjô",
+        "rating": 5.5
+      },
+      {
+        "episode": 404,
+        "name": "Tenten no nayami",
+        "rating": 5.4
+      },
+      {
+        "episode": 405,
+        "name": "Tokijomerareta futari",
+        "rating": 5.6
+      },
+      {
+        "episode": 406,
+        "name": "Jibun no ibasho",
+        "rating": 5.4
+      },
+      {
+        "episode": 407,
+        "name": "Yamanaka Ichizoku: Hiden Ninjutsu",
+        "rating": 5.5
+      },
+      {
+        "episode": 408,
+        "name": "Noroi no ningyô",
+        "rating": 5.7
+      },
+      {
+        "episode": 409,
+        "name": "Futari no senaka",
+        "rating": 5.8
+      },
+      {
+        "episode": 410,
+        "name": "Ugokidashita inbô",
+        "rating": 5.9
+      },
+      {
+        "episode": 411,
+        "name": "Nerawareta Bijû",
+        "rating": 5.8
+      },
+      {
+        "episode": 412,
+        "name": "Neji no handan",
+        "rating": 5.8
+      },
+      {
+        "episode": 413,
+        "name": "Mirai ni takusu omoi",
+        "rating": 6.1
+      },
+      {
+        "episode": 414,
+        "name": "Shi no kiwa",
+        "rating": 8.6
+      },
+      {
+        "episode": 415,
+        "name": "Futatsu no Mangekyô",
+        "rating": 8.1
+      },
+      {
+        "episode": 416,
+        "name": "Kessei: Minato han",
+        "rating": 6.8
+      },
+      {
+        "episode": 417,
+        "name": "Omae wa bakkuappuda",
+        "rating": 7.9
+      },
+      {
+        "episode": 418,
+        "name": "Aoki Môjû VS Rikudô Madara",
+        "rating": 8.3
+      },
+      {
+        "episode": 419,
+        "name": "Papa no seishun",
+        "rating": 8.7
+      },
+      {
+        "episode": 420,
+        "name": "Hachimon tonkô no jin",
+        "rating": 9.2
+      },
+      {
+        "episode": 421,
+        "name": "Rikudô Sen'nin",
+        "rating": 9.6
+      },
+      {
+        "episode": 422,
+        "name": "Uketsugareru mono",
+        "rating": 6.1
+      },
+      {
+        "episode": 423,
+        "name": "Naruto no raibaru",
+        "rating": 6.4
+      },
+      {
+        "episode": 424,
+        "name": "Tatsu",
+        "rating": 9.3
+      },
+      {
+        "episode": 425,
+        "name": "Mugen no yume",
+        "rating": 9.1
+      },
+      {
+        "episode": 426,
+        "name": "Mugen Tsukuyomi",
+        "rating": 8.3
+      },
+      {
+        "episode": 427,
+        "name": "Yume no sekai e",
+        "rating": 5.7
+      },
+      {
+        "episode": 428,
+        "name": "Tenten no ibasho",
+        "rating": 5.8
+      },
+      {
+        "episode": 429,
+        "name": "Kirâ Bî rappûden: Ten no maki",
+        "rating": 5
+      },
+      {
+        "episode": 430,
+        "name": "Kirâ Bî rappûden: Chi no maki",
+        "rating": 5
+      },
+      {
+        "episode": 431,
+        "name": "Ano egao o môichido",
+        "rating": 5.9
+      },
+      {
+        "episode": 432,
+        "name": "Ochikobore ninja",
+        "rating": 5.4
+      },
+      {
+        "episode": 433,
+        "name": "Shutsugeki: Tansaku ninmu",
+        "rating": 5.3
+      },
+      {
+        "episode": 434,
+        "name": "Chîmuru Jiraiya",
+        "rating": 4.7
+      },
+      {
+        "episode": 435,
+        "name": "Yûsen jun'i",
+        "rating": 4.8
+      },
+      {
+        "episode": 436,
+        "name": "Kamen no otoko",
+        "rating": 4.8
+      },
+      {
+        "episode": 437,
+        "name": "Fûin sareshi chikara",
+        "rating": 4.9
+      },
+      {
+        "episode": 438,
+        "name": "Okite ka, nakama ka",
+        "rating": 5.1
+      },
+      {
+        "episode": 439,
+        "name": "Yogen no ko",
+        "rating": 5.3
+      },
+      {
+        "episode": 440,
+        "name": "Kago no tori",
+        "rating": 5.4
+      },
+      {
+        "episode": 441,
+        "name": "Kikan",
+        "rating": 5
+      },
+      {
+        "episode": 442,
+        "name": "Tagai no michi",
+        "rating": 5.6
+      },
+      {
+        "episode": 443,
+        "name": "Chikara no sa",
+        "rating": 5.4
+      },
+      {
+        "episode": 444,
+        "name": "Sato nuke",
+        "rating": 5.5
+      },
+      {
+        "episode": 445,
+        "name": "Otte",
+        "rating": 5.2
+      },
+      {
+        "episode": 446,
+        "name": "Shôtotsu",
+        "rating": 5.2
+      },
+      {
+        "episode": 447,
+        "name": "Môhitotsu no tsuki",
+        "rating": 5.1
+      },
+      {
+        "episode": 448,
+        "name": "Nakama",
+        "rating": 4.9
+      },
+      {
+        "episode": 449,
+        "name": "Shinobi-tachi no kyôen",
+        "rating": 4.6
+      },
+      {
+        "episode": 450,
+        "name": "Raibaru",
+        "rating": 5.6
+      },
+      {
+        "episode": 451,
+        "name": "Umareru inochi, shinu inochi",
+        "rating": 7.7
+      },
+      {
+        "episode": 452,
+        "name": "Isai",
+        "rating": 7.8
+      },
+      {
+        "episode": 453,
+        "name": "Inochi no itami",
+        "rating": 7.1
+      },
+      {
+        "episode": 454,
+        "name": "Shisui no irai",
+        "rating": 7.9
+      },
+      {
+        "episode": 455,
+        "name": "Tsukiyo",
+        "rating": 9
+      },
+      {
+        "episode": 456,
+        "name": "Akatsuki no yami",
+        "rating": 8
+      },
+      {
+        "episode": 457,
+        "name": "Aibô",
+        "rating": 8.1
+      },
+      {
+        "episode": 458,
+        "name": "Makoto",
+        "rating": 8.4
+      },
+      {
+        "episode": 459,
+        "name": "Hajimari no mono",
+        "rating": 8.4
+      },
+      {
+        "episode": 460,
+        "name": "Ôtsutsuki Kaguya",
+        "rating": 7.5
+      },
+      {
+        "episode": 461,
+        "name": "Hagoromo to Hamura",
+        "rating": 7.7
+      },
+      {
+        "episode": 462,
+        "name": "Tsukurareta kako",
+        "rating": 8.2
+      },
+      {
+        "episode": 463,
+        "name": "Iga-sei nanbâwan!",
+        "rating": 8.3
+      },
+      {
+        "episode": 464,
+        "name": "Ninshû",
+        "rating": 7.5
+      },
+      {
+        "episode": 465,
+        "name": "Ashura to Indora",
+        "rating": 7.3
+      },
+      {
+        "episode": 466,
+        "name": "Shiren no tabi",
+        "rating": 7.2
+      },
+      {
+        "episode": 467,
+        "name": "Ashura no ketsui",
+        "rating": 7.6
+      },
+      {
+        "episode": 468,
+        "name": "Kôkeisha",
+        "rating": 8.1
+      },
+      {
+        "episode": 469,
+        "name": "Tokubetsu ninmu",
+        "rating": 7.9
+      },
+      {
+        "episode": 470,
+        "name": "Tsunagaru omoi",
+        "rating": 8.4
+      },
+      {
+        "episode": 471,
+        "name": "Futari o chanto",
+        "rating": 8.3
+      },
+      {
+        "episode": 472,
+        "name": "Omae wa kanarazu",
+        "rating": 8.7
+      },
+      {
+        "episode": 473,
+        "name": "Sharingan, futatabi",
+        "rating": 9
+      },
+      {
+        "episode": 474,
+        "name": "Omedetô",
+        "rating": 9.6
+      },
+      {
+        "episode": 475,
+        "name": "Shûmatsu no tani",
+        "rating": 8.6
+      },
+      {
+        "episode": 476,
+        "name": "Saigo no tatakai",
+        "rating": 9.5
+      },
+      {
+        "episode": 477,
+        "name": "Naruto to Sasuke",
+        "rating": 9.5
+      },
+      {
+        "episode": 478,
+        "name": "Wakai no shirushi",
+        "rating": 9.6
+      },
+      {
+        "episode": 479,
+        "name": "Uzumaki Naruto!! \"Saishûkai\"",
+        "rating": 9.2
+      },
+      {
+        "episode": 480,
+        "name": "Naruto to Hinata",
+        "rating": 7.2
+      },
+      {
+        "episode": 481,
+        "name": "Sasuke to Sakura",
+        "rating": 6.3
+      },
+      {
+        "episode": 482,
+        "name": "Gaara to Shikamaru",
+        "rating": 6.4
+      },
+      {
+        "episode": 483,
+        "name": "Jiraiya to Kakashi",
+        "rating": 6.5
+      },
+      {
+        "episode": 484,
+        "name": "Kibaku ningen",
+        "rating": 7.1
+      },
+      {
+        "episode": 485,
+        "name": "Koroshiamu",
+        "rating": 7.1
+      },
+      {
+        "episode": 486,
+        "name": "Fûshin",
+        "rating": 7.1
+      },
+      {
+        "episode": 487,
+        "name": "Ketsuryûgan",
+        "rating": 6.8
+      },
+      {
+        "episode": 488,
+        "name": "Saigo no hitori",
+        "rating": 7.6
+      },
+      {
+        "episode": 489,
+        "name": "Fûun",
+        "rating": 7.1
+      },
+      {
+        "episode": 490,
+        "name": "An'un",
+        "rating": 6.7
+      },
+      {
+        "episode": 491,
+        "name": "Yamikumo",
+        "rating": 6.7
+      },
+      {
+        "episode": 492,
+        "name": "Giun",
+        "rating": 6.7
+      },
+      {
+        "episode": 493,
+        "name": "Shinonome",
+        "rating": 7.1
+      },
+      {
+        "episode": 494,
+        "name": "Naruto no kekkon",
+        "rating": 7
+      },
+      {
+        "episode": 495,
+        "name": "Furupawâ kekkon iwai",
+        "rating": 6.4
+      },
+      {
+        "episode": 496,
+        "name": "Yukemuri to hyôrôgan",
+        "rating": 7.3
+      },
+      {
+        "episode": 497,
+        "name": "Kazekage no oiwai",
+        "rating": 7.1
+      },
+      {
+        "episode": 498,
+        "name": "Saigo no ninmu",
+        "rating": 6.3
+      },
+      {
+        "episode": 499,
+        "name": "Gokuhi ninmu no yukue",
+        "rating": 7.4
+      },
+      {
+        "episode": 500,
+        "name": "Iwai no kotoba",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

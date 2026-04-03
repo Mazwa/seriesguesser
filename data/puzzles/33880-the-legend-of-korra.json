@@ -1,0 +1,291 @@
+{
+  "id": "33880-the-legend-of-korra",
+  "rank": 142,
+  "answer": "The Legend of Korra",
+  "sourceUrl": "https://seriesgraph.com/show/33880-the-legend-of-korra",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/33880",
+    "seasonRatings": "https://seriesgraph.com/api/shows/33880/season-ratings"
+  },
+  "years": {
+    "first": 2012,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Venom of the Red Lotus",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to Republic City",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "A Leaf in the Wind",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Revelation",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Voice in the Night",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Spirit of Competition",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "And the Winner Is...",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Aftermath",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "When Extremes Meet",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Out of the Past",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Turning the Tides",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Skeletons in the Closet",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Endgame",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rebel Spirit",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Southern Lights",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Civil Wars: Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Civil Wars: Part 2",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Peacekeepers",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Sting",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Beginnings, Part 1",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Beginnings, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 9,
+        "name": "The Guide",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "A New Spiritual Age",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Night of a Thousand Stars",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Harmonic Convergence",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Darkness Falls",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Light in the Dark",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Breath of Fresh Air",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Rebirth",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Earth Queen",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "In Harm's Way",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Metal Clan",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Old Wounds",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Original Airbenders",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Terror Within",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Stakeout",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Long Live the Queen",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "The Ultimatum",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "Enter the Void",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "Venom of the Red Lotus",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "After All These Years",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Korra Alone",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "The Coronation",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Calling",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Enemy at the Gates",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Battle of Zaofu",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Reunion",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Remembrances",
+        "rating": 5.7
+      },
+      {
+        "episode": 9,
+        "name": "Beyond the Wilds",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Operation Beifong",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Kuvira's Gambit",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Day of the Colossus",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "The Last Stand",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

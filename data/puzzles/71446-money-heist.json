@@ -1,0 +1,238 @@
+{
+  "id": "71446-money-heist",
+  "rank": 165,
+  "answer": "Money Heist",
+  "sourceUrl": "https://seriesgraph.com/show/71446-money-heist",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/71446",
+    "seasonRatings": "https://seriesgraph.com/api/shows/71446/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "La deriva",
+    "season": 3,
+    "episode": 8,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Efectuar lo acordado",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Imprudencias letales",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Errar al disparar",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Caballo de Troya",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "El día de la marmota",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "La cálida Guerra Fría",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Refrigerada inestabilidad",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Tú lo has buscado",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "El que la sigue la consigue",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Se acabaron las máscaras",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "La cabeza del plan",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Cuestión de eficacia",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "¿Qué hemos hecho?",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "A contrarreloj",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Bella ciao",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hemos vuelto",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Aikido",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "48 metros bajo el suelo",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "La hora del delfín",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Bum, bum, ciao",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Todo pareció insignificante",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Pequeñas vacaciones",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "La deriva",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Game over",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "La boda de Berlín",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Lección de anatomía",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "Suspiros de España",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "5 minutos antes",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "KO técnico",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Tumbar la carpa",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Plan París",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "El final del camino",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "¿Crees en la reencarnación?",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "El espectáculo de la vida",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Tu sitio en el cielo",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Vivir muchas vidas",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Válvulas de escape",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Ciencia ilusionada",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "La teoría de la elegancia",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Lo que se habla en la cama",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Una tradición familiar",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

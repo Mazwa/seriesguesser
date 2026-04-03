@@ -1,0 +1,179 @@
+{
+  "id": "63351-narcos",
+  "rank": 27,
+  "answer": "Narcos",
+  "sourceUrl": "https://seriesgraph.com/show/63351-narcos",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/63351",
+    "seasonRatings": "https://seriesgraph.com/api/shows/63351/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Al Fin Cayó!",
+    "season": 2,
+    "episode": 10,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Descenso",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Sword of Simón Bolivar",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Men of Always",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Palace in Flames",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "There Will Be a Future",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Explosivos",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "You Will Cry Tears of Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "La Gran Mentira",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "La Catedral",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Despegue",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Free at Last",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Cambalache",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Our Man in Madrid",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Good, the Bad, and the Dead",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "The Enemies of My Enemy",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Los Pepes",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Deutschland 93",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Exit El Patrón",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Nuestra Finca",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Al Fin Cayó!",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Kingpin Strategy",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Cali KGB",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Follow the Money",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Checkmate",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "MRO",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Best Laid Plans",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Sin Salida",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Convivir",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Todos Los Hombres del Presidente",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Going Back to Cali",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

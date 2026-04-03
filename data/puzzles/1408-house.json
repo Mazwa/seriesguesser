@@ -1,0 +1,924 @@
+{
+  "id": "1408-house",
+  "rank": 16,
+  "answer": "House",
+  "sourceUrl": "https://seriesgraph.com/show/1408-house",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1408",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1408/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2012
+  },
+  "highestRatedEpisode": {
+    "name": "House's Head",
+    "season": 4,
+    "episode": 15,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Paternity",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Occam's Razor",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Maternity",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Damned If You Do",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Socratic Method",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Fidelity",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Poison",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "DNR",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Histories",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Detox",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Sports Medicine",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Cursed",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Control",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Mob Rules",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Heavy",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Role Model",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Babies & Bathwater",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Kids",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Love Hurts",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Three Stories",
+        "rating": 9.6
+      },
+      {
+        "episode": 22,
+        "name": "Honeymoon",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Acceptance",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Autopsy",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Humpty Dumpty",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "TB or Not TB",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Daddy's Boy",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Spin",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Hunting",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Mistake",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Deception",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Failure to Communicate",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Need to Know",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Distractions",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Skin Deep",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Sex Kills",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Clueless",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Safe",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "All In",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Sleeping Dogs Lie",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "House vs. God",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Euphoria: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Euphoria: Part 2",
+        "rating": 9.3
+      },
+      {
+        "episode": 22,
+        "name": "Forever",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Who's Your Daddy?",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "No Reason",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Meaning",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Cane and Able",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Informed Consent",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Lines in the Sand",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Fools for Love",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Que Será Será",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Son of Coma Guy",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Whac-A-Mole",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Finding Judas",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Merry Little Christmas",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Words and Deeds",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "One Day, One Room",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Needle in a Haystack",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Insensitive",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Half-Wit",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Top Secret",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Fetal Position",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Airborne",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Act Your Age",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "House Training",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Family",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Resignation",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "The Jerk",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Human Error",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Alone",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Right Stuff",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "97 Seconds",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Guardian Angels",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Mirror Mirror",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Whatever It Takes",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Ugly",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "You Don't Want to Know",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Games",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "It's a Wonderful Lie",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Frozen",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Don't Ever Change",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "No More Mr. Nice Guy",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Living the Dream",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "House's Head",
+        "rating": 9.7
+      },
+      {
+        "episode": 16,
+        "name": "Wilson's Heart",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dying Changes Everything",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Not Cancer",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Adverse Events",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Birthmarks",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Lucky Thirteen",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Joy",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Itch",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Emancipation",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Last Resort",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Let Them Eat Cake",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Joy to the World",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Painless",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Big Baby",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Greater Good",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Unfaithful",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "The Softer Side",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "The Social Contract",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Here Kitty",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Locked In",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "Simple Explanation",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Saviors",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "House Divided",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Under My Skin",
+        "rating": 9.2
+      },
+      {
+        "episode": 24,
+        "name": "Both Sides Now",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Broken",
+        "rating": 9.6
+      },
+      {
+        "episode": 2,
+        "name": "Epic Fail",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Tyrant",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Instant Karma",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Brave Heart",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Known Unknowns",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Teamwork",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Ignorance Is Bliss",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Wilson",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Down Low",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Remorse",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Moving the Chains",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "5 to 9",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Private Lives",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Black Hole",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Lockdown",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Knight Fall",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Open and Shut",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "The Choice",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Baggage",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Help Me",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Now What?",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Selfish",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Unwritten",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Massage Therapy",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Unplanned Parenthood",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Office Politics",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "A Pox on Our House",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Small Sacrifices",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Larger Than Life",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Carrot or Stick",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Family Practice",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "You Must Remember This",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Two Stories",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Recession Proof",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Bombshells",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Out of the Chute",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Fall from Grace",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "The Dig",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Last Temptation",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Changes",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "The Fix",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "After Hours",
+        "rating": 9.1
+      },
+      {
+        "episode": 23,
+        "name": "Moving On",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Twenty Vicodin",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Transplant",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Charity Case",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Risky Business",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Confession",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Parents",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Dead & Buried",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Perils of Paranoia",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Better Half",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Runaways",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Nobody's Fault",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Chase",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Man of the House",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Love Is Blind",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Blowing the Whistle",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Gut Check",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "We Need the Eggs",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Body and Soul",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "The C Word",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "Post Mortem",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Holding On",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Everybody Dies",
+        "rating": 9.3
+      },
+      {
+        "episode": 23,
+        "name": "House M.D. Swan Song",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

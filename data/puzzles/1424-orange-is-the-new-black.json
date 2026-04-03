@@ -1,0 +1,492 @@
+{
+  "id": "1424-orange-is-the-new-black",
+  "rank": 201,
+  "answer": "Orange Is the New Black",
+  "sourceUrl": "https://seriesgraph.com/show/1424-orange-is-the-new-black",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1424",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1424/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Toast Can't Never Be Bread Again",
+    "season": 4,
+    "episode": 13,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "I Wasn't Ready",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Tit Punch",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Lesbian Request Denied",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Imaginary Enemies",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Chickening",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "WAC Pack",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Blood Donut",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Moscow Mule",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Fucksgiving",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Bora Bora Bora",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Tall Men with Feelings",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Fool Me Once",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Can't Fix Crazy",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Thirsty Bird",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Looks Blue, Tastes Red",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Hugs Can Be Deceiving",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "A Whole Other Hole",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Low Self Esteem City",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "You Also Have a Pizza",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Comic Sans",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Appropriately Sized Pots",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "40 Oz. of Furlough",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Little Mustachioed Shit",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Take a Break from Your Values",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "It Was the Change",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "We Have Manners. We're Polite.",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mother's Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Bed Bugs and Beyond",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Empathy Is a Boner Killer",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Finger in the Dyke",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Fake It Till You Fake It Some More",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Ching Chong Chang",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Tongue-Tied",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Fear, and Other Smells",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Where My Dreidel At",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "A Tittin' and a Hairin'",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "We Can Be Heroes",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Don't Make Me Come Back There",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Trust No Bitch",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Work That Body for Me",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Power Suit",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "(Don't) Say Anything",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Doctor Psycho",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "We'll Always Have Baltimore",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Piece of Sh*t",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "It Sounded Nicer in My Head",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Friends in Low Places",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Turn Table Turn",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Bunny, Skull, Bunny, Skull",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "People Persons",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "The Animals",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Toast Can't Never Be Bread Again",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Riot FOMO",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "F*ck, Marry, Frieda",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Pissters!",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Litchfield's Got Talent",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Sing It, White Effie",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Flaming Hot Cheetos, Literally",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Full Bush, Half Snickers",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Tied to the Tracks",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Tightening",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Reverse Midas Touch",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Breaking the Fiberboard Ceiling",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Tattoo You",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Storm-y Weather",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Who Knows Better Than I",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Sh*tstorm Coming",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Look Out for Number One",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "I'm the Talking Ass",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Mischief Mischief",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "State of the Uterus",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Changing Winds",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Gordons",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Break the String",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Chocolate Chip Nookie",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Well This Took a Dark Turn",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Double Trouble",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Be Free",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beginning of the End",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Just Desserts",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "And Brown Is the New Orange",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "How to Do Life",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Minority Deport",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Trapped in an Elevator",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Me as Well",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Baker's Dozen",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "The Hidey Hole",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Thirteenth",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "God Bless America",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Big House",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Here's Where We Get Off",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

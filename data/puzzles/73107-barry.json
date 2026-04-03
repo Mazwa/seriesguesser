@@ -1,0 +1,191 @@
+{
+  "id": "73107-barry",
+  "rank": 153,
+  "answer": "Barry",
+  "sourceUrl": "https://seriesgraph.com/show/73107-barry",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/73107",
+    "seasonRatings": "https://seriesgraph.com/api/shows/73107/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "ronny/lily",
+    "season": 2,
+    "episode": 5,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: Make Your Mark",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: Use It",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: Make the Unsafe Choice",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: Commit... to YOU",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: Do Your Job",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: Listen with Your Ears, React with Your Face",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: Loud, Fast, and Keep Going",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: Know Your Truth",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Show Must Go On, Probably?",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Power of No",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Past = Present x Future Over Yesterday",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "What?!",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "ronny/lily",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "The Truth Has a Ring to It",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Audition",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "berkman > block",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "forgiving jeff",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "limonada",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "ben mendelsohn",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "all the sauces",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "crazytimesh*tshow",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "710N",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "candy asses",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "starting now",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "yikes",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "bestest place on the earth",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "you're charming",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "it takes a psycho",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "tricky legacies",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "the wizard",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "a nice meal",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "wow",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

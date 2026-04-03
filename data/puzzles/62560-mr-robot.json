@@ -1,0 +1,256 @@
+{
+  "id": "62560-mr-robot",
+  "rank": 25,
+  "answer": "Mr. Robot",
+  "sourceUrl": "https://seriesgraph.com/show/62560-mr.-robot",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/62560",
+    "seasonRatings": "https://seriesgraph.com/api/shows/62560/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "407 Proxy Authentication Required",
+    "season": 4,
+    "episode": 7,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "eps1.0_hellofriend.mov",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "eps1.1_ones-and-zer0es.mpeg",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "eps1.2_d3bug.mkv",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "eps1.3_da3m0ns.mp4",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "eps1.4_3xpl0its.wmv",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "eps1.5_br4ve-trave1er.asf",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "eps1.6_v1ew-s0urce.flv",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "eps1.7_wh1ter0se.m4v",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "eps1.8_m1rr0r1ng.qt",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "eps1.9_zer0-day.avi",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "eps2.0_unm4sk-pt1.tc",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "eps2.0_unm4sk-pt2.tc",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "eps2.1_k3rnel-pan1c.ksd",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "eps2.2_init_1.asec",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "eps2.3_logic-b0mb.hc",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "eps2.4_m4ster-s1ave.aes",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "eps2.5_h4ndshake.sme",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "eps2.6_succ3ss0r.p12",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "eps2.7_init_5.fve",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "eps2.8_h1dden-pr0cess.axx",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "eps2.9_pyth0n-pt1.p7z",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "eps2.9_pyth0n-pt2.p7z",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "eps3.0_power-saver-mode.h",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "eps3.1_undo.gz",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "eps3.2_legacy.so",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "eps3.3_m3tadata.par2",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "eps3.4_runtime-err0r.r00",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "eps3.5_kill-pr0cess.inc",
+        "rating": 9.7
+      },
+      {
+        "episode": 7,
+        "name": "eps3.6_fredrick+tanya.chk",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "eps3.7_dont-delete-me.ko",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "eps3.8_stage3.torrent",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "shutdown -r",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "401 Unauthorized",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "402 Payment Required",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "403 Forbidden",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "404 Not Found",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "405 Method Not Allowed",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "406 Not Acceptable",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "407 Proxy Authentication Required",
+        "rating": 9.9
+      },
+      {
+        "episode": 8,
+        "name": "408 Request Timeout",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "409 Conflict",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "410 Gone",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "eXit",
+        "rating": 9.4
+      },
+      {
+        "episode": 12,
+        "name": "whoami",
+        "rating": 9.5
+      },
+      {
+        "episode": 13,
+        "name": "Hello, Elliot",
+        "rating": 9.8
+      }
+    ]
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "id": "1436-justified",
+  "rank": 83,
+  "answer": "Justified",
+  "sourceUrl": "https://seriesgraph.com/show/1436-justified",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1436",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1436/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "The Promise",
+    "season": 6,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Fire in the Hole",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Riverbrook",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Fixer",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Long in the Tooth",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Lord of War and Thunder",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "The Collection",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Blind Spot",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Blowback",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Hatless",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Hammer",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Veterans",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Fathers and Sons",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Bulletville",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Moonshine War",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Life Inside",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The I of the Storm",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "For Blood or Money",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Cottonmouth",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Blaze of Glory",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Save My Love",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Spoil",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Brother's Keeper",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Debts and Accounts",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Full Commitment",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Reckoning",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Bloody Harlan",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Gunfighter",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Cut Ties",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Harlan Roulette",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Devil You Know",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Thick as Mud",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "When the Guns Come Out",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Man Behind the Curtain",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Watching the Detectives",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Loose Ends",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Guy Walks Into a Bar",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Measures",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Coalition",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Slaughterhouse",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hole in the Wall",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Where's Waldo?",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Truth and Consequences",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "This Bird Has Flown",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Kin",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Foot Chase",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Money Trap",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Outlaw",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Hatchet Tour",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Get Drew",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Decoy",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Peace of Mind",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Ghosts",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Murder of Crowes",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Kids Aren't All Right",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Good Intentions",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Over the Mountain",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Shot All to Hell",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Kill the Messenger",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Raw Deal",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Whistle Past the Graveyard",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Wrong Roads",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Weight",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Toll",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Starvation",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Restitution",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fate's Right Hand",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Cash Game",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Noblesse Oblige",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Trash and the Snake",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Sounding",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Alive Day",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Hunt",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Dark as a Dungeon",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Burned",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Trust",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Fugitive Number One",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "Collateral",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "The Promise",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

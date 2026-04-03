@@ -1,0 +1,87 @@
+{
+  "id": "2207-fawlty-towers",
+  "rank": 124,
+  "answer": "Fawlty Towers",
+  "sourceUrl": "https://seriesgraph.com/show/2207-fawlty-towers",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2207",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2207/season-ratings"
+  },
+  "years": {
+    "first": 1975,
+    "last": 1979
+  },
+  "highestRatedEpisode": {
+    "name": "The Germans",
+    "season": 1,
+    "episode": 6,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "A Touch of Class",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Builders",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Wedding Party",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Hotel Inspectors",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Gourmet Night",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "The Germans",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Communication Problems",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "The Psychiatrist",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Waldorf Salad",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Kipper and the Corpse",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "The Anniversary",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Basil the Rat",
+        "rating": 9
+      }
+    ]
+  ]
+}

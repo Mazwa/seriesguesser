@@ -1,0 +1,817 @@
+{
+  "id": "1435-the-good-wife",
+  "rank": 209,
+  "answer": "The Good Wife",
+  "sourceUrl": "https://seriesgraph.com/show/1435-the-good-wife",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1435",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1435/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "Hitting the Fan",
+    "season": 5,
+    "episode": 5,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Stripped",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Home",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Fixed",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Crash",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Conjugal",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Unorthodox",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Unprepared",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Threesome",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Lifeguard",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Infamy",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Painkiller",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Bad",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Hi",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Bang",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Fleas",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Heart",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Doubt",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Boom",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Mock",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Unplugged",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Hybristophilia",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Running",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Taking Control",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Double Jeopardy",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Breaking Fast",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Cleaning House",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "VIP Treatment",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Poisoned Pill",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Bad Girls",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "On Tap",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Nine Hours",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Breaking Up",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Two Courts",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Silly Season",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Real Deal",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Net Worth",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Silver Bullet",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Great Firewall",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Ham Sandwich",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Killer Song",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Wrongful Termination",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Foreign Affairs",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "In Sickness",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Getting Off",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Closing Arguments",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A New Day",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Death Zone",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Get a Room",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Feeding the Rat",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Marthas and Caitlins",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Affairs of State",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Executive Order 13224",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Death Row Tip",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Whiskey Tango Foxtrot",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Parenting Made Easy",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "What Went Wrong",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Alienation of Affection",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Bitcoin for Dummies",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Another Ham Sandwich",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Live from Damascus",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "After the Fall",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Long Way Home",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Gloves Come Off",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Blue Ribbon Panel",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Pants on Fire",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Penalty Box",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "The Dream Team",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Fought the Law",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "And the Law Won",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Two Girls, One Code",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Don't Haze Me, Bro",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Waiting for the Knock",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Art of War",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Anatomy of a Joke",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Here Comes the Judge",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "A Defense of Marriage",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Battle of the Proxies",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Boom De Yah Da",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Je Ne Sais What?",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Seven Day Rule",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Red Team, Blue Team",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Going for the Gold",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Runnin' with the Devil",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Invitation to an Inquest",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Death of a Client",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "The Wheels of Justice",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Rape: A Modern Perspective",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "A More Perfect Union",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "What's in the Box?",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything Is Ending",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Bit Bucket",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "A Precious Commodity",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Outside the Bubble",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Hitting the Fan",
+        "rating": 9.6
+      },
+      {
+        "episode": 6,
+        "name": "The Next Day",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Next Week",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Next Month",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Whack-a-Mole",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Decision Tree",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Goliath and David",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "We, the Juries",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Parallel Construction, Bitches",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "A Few Words",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Dramatics, Your Honor",
+        "rating": 9.4
+      },
+      {
+        "episode": 16,
+        "name": "The Last Call",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "A Material World",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "All Tapped Out",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Tying the Knot",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "The Deep Web",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "The One Percent",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "A Weird Year",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Line",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Trust Issues",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Dear God",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Oppo Research",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Shiny Objects",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Old Spice",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Message Discipline",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Red Zone",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Sticky Content",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Trial",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Hail Mary",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "The Debate",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Dark Money",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Mind's Eye",
+        "rating": 6.3
+      },
+      {
+        "episode": 15,
+        "name": "Open Source",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Red Meat",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Undisclosed Recipients",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Loser Edit",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Winning Ugly",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "The Deconstruction",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Don't Fail",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Wanna Partner?",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bond",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Innocents",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Cooked",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Taxed",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Payback",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Lies",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Driven",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Restraint",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Discovery",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "KSR",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Iowa",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Tracks",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Judged",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Monday",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Targets",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Hearing",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Shoot",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Unmanned",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Landing",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Party",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Verdict",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "End",
+        "rating": 6.1
+      }
+    ]
+  ]
+}

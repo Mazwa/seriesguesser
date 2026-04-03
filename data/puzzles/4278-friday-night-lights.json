@@ -1,0 +1,413 @@
+{
+  "id": "4278-friday-night-lights",
+  "rank": 138,
+  "answer": "Friday Night Lights",
+  "sourceUrl": "https://seriesgraph.com/show/4278-friday-night-lights",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4278",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4278/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2011
+  },
+  "highestRatedEpisode": {
+    "name": "Always",
+    "season": 5,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Eyes Wide Open",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Wind Sprints",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Who's Your Daddy",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Git'er Done",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "El Accidente",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Homecoming",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Crossing the Line",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Full Hearts",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "It's Different for Girls",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Nevermind",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "What to Do While You're Waiting",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Little Girl I Wanna Marry You",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Upping the Ante",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Blinders",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Black Eyes and Broken Hearts",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "I Think We Should Have Sex",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Extended Families",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Ch-Ch-Ch-Ch-Changes",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Mud Bowl",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "Best Laid Plans",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "State",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Last Days of Summer",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Bad Ideas",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Are You Ready for Friday Night?",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Backfire",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Let's Get It On",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "How Did I Get Here",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Pantherama!",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Seeing Other People",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "The Confession",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "There Goes the Neighborhood",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Jumping the Gun",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Who Do You Think You Are?",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Humble Pie",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Leave No One Behind",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "May the Best Man Win",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Knew You When",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Tami Knows Best",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "How the Other Half Lives",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Hello, Goodbye",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Every Rose Has Its Thorn",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "It Ain't Easy Being J.D. McCoy",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Keeping Up Appearances",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "New York, New York",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Game of the Week",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Giving Tree",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "A Hard Rain's Gonna Fall",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Underdogs",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Tomorrow Blues",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "East of Dillon",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "After the Fall",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "In the Skin of a Lion",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "A Sort of Homecoming",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Son",
+        "rating": 9.6
+      },
+      {
+        "episode": 6,
+        "name": "Stay",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "In the Bag",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Toilet Bowl",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Lights in Carroll Park",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "I Can't",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Injury List",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Laboring",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Thanksgiving",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Expectations",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "On the Outside Looking In",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Right Hand of the Father",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Keep Looking",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Kingdom",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Swerve",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Perfect Record",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Fracture",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Gut Check",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Don't Go",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "The March",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Texas Whatever",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Always",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "1401-hell-on-wheels",
+  "rank": 239,
+  "answer": "Hell on Wheels",
+  "sourceUrl": "https://seriesgraph.com/show/1401-hell-on-wheels",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1401",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1401/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "Two Soldiers",
+    "season": 5,
+    "episode": 8,
+    "rating": 8.9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Immoral Mathematics",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "A New Birth of Freedom",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Jamais je ne t'oublierai",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Bread and Circuses",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Pride, Pomp and Circumstance",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Revelations",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Derailed",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Timshel",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "God of Chaos",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Viva La Mexico",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Durant, Nebraska",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Slaughterhouse",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Scabs",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Railroad Job",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Purged Away with Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The White Spirit",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Lord's Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Blood Moon",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Blood Moon Rising",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Big Bad Wolf",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Eminent Domain",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Range War",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Game",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Searchers",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "One Less Mule",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Cholera",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "It Happened in Boston",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Fathers and Sins",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Get Behind the Mule",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Elusive Eden",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Escape from the Garden",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Chicken Hill",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Reckoning",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Life's a Mystery",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Bear Man",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Elam Ferguson",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Under Color of Law",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Two Trains",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Return to Hell",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Bleeding Kansas",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Thirteen Steps",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Further West",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chinatown",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Mei Mei",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "White Justice",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Struck",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Elixir of Life",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Hungry Ghosts",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "False Prophets",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Two Soldiers",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Return to the Garden",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "61 Degrees",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Gambit",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Any Sum Within Reason",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Railroad Men",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Done",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

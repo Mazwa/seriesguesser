@@ -1,0 +1,210 @@
+{
+  "id": "13916-death-note",
+  "rank": 26,
+  "answer": "Death Note",
+  "sourceUrl": "https://seriesgraph.com/show/13916-death-note",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/13916",
+    "seasonRatings": "https://seriesgraph.com/api/shows/13916/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2007
+  },
+  "highestRatedEpisode": {
+    "name": "Silence",
+    "season": 1,
+    "episode": 25,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Rebirth",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Confrontation",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Dealings",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Pursuit",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Tactics",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Unraveling",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Overcast",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Glare",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Encounter",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Doubt",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Assault",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Love",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Confession",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Friend",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Wager",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Decision",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Execution",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Ally",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Matsuda",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Makeshift",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Performance",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Guidance",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Frenzy",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "Revival",
+        "rating": 9.3
+      },
+      {
+        "episode": 25,
+        "name": "Silence",
+        "rating": 9.6
+      },
+      {
+        "episode": 26,
+        "name": "Renewal",
+        "rating": 7
+      },
+      {
+        "episode": 27,
+        "name": "Abduction",
+        "rating": 7.2
+      },
+      {
+        "episode": 28,
+        "name": "Impatience",
+        "rating": 7.3
+      },
+      {
+        "episode": 29,
+        "name": "Father",
+        "rating": 7.9
+      },
+      {
+        "episode": 30,
+        "name": "Justice",
+        "rating": 7.6
+      },
+      {
+        "episode": 31,
+        "name": "Transfer",
+        "rating": 7.6
+      },
+      {
+        "episode": 32,
+        "name": "Selection",
+        "rating": 7.8
+      },
+      {
+        "episode": 33,
+        "name": "Scorn",
+        "rating": 7.1
+      },
+      {
+        "episode": 34,
+        "name": "Vigilance",
+        "rating": 7.2
+      },
+      {
+        "episode": 35,
+        "name": "Malice",
+        "rating": 8
+      },
+      {
+        "episode": 36,
+        "name": "1.28",
+        "rating": 9
+      },
+      {
+        "episode": 37,
+        "name": "New World",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

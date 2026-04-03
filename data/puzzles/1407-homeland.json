@@ -1,0 +1,519 @@
+{
+  "id": "1407-homeland",
+  "rank": 99,
+  "answer": "Homeland",
+  "sourceUrl": "https://seriesgraph.com/show/1407-homeland",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1407",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1407/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "There's Something Else Going On",
+    "season": 4,
+    "episode": 9,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Grace",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Clean Skin",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Semper I",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Blind Spot",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Good Soldier",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Weekend",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Achilles Heel",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Crossfire",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Representative Brody",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Vest",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Marine One",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Smile",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Beirut Is Back",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "State of Independence",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "New Car Smell",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Q&A",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "A Gettysburg Address",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Clearing",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "I'll Fly Away",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Two Hats",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Broken Hearts",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "In Memoriam",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "The Choice",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tin Man Is Down",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Uh...Oo...Aw",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Tower of David",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Game On",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Yoga Play",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Still Positive",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Gerontion",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "A Red Wheel Barrow",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "One Last Thing",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Good Night",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Big Man in Tehran",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "The Star",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Drone Queen",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Trylon and Perisphere",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Shalwar Kameez",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Iron in the Fire",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "About a Boy",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "From A to B and Back Again",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Redux",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Halfway to a Donut",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "There's Something Else Going On",
+        "rating": 9.5
+      },
+      {
+        "episode": 10,
+        "name": "13 Hours in Islamabad",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "Krieg Nicht Lieb",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Long Time Coming",
+        "rating": 5.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Separation Anxiety",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Tradition of Hospitality",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Super Powers",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Why Is This Night Different?",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Better Call Saul",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Parabiosis",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Oriole",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "All About Allison",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Litvinov Ruse",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "New Normal",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Our Man in Damascus",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "A False Glimmer",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fair Game",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "The Man in the Basement",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "The Covenant",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "A Flash of Light",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Casus Belli",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Return",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Imminent Risk",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "alt.truth",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Sock Puppets",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "The Flag House",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "R Is for Romeo",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "America First",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Enemy of the State",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Rebel Rebel",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Standoff",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Like Bad at Things",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Active Measures",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Species Jump",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Andante",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Lies, Amplifiers, Fucking Twitter",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Useful Idiot",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Clarity",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "All In",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Paean to the People",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Deception Indicated",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Catch and Release",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "False Friends",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Chalk One Up",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Chalk Two Down",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Two Minutes",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "F**ker Shot Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Threnody(s)",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "In Full Flight",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Designated Driver",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "The English Teacher",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Prisoners of War",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "71578-atypical",
+  "rank": 235,
+  "answer": "Atypical",
+  "sourceUrl": "https://seriesgraph.com/show/71578-atypical",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/71578",
+    "seasonRatings": "https://seriesgraph.com/api/shows/71578/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Ernest Shackleton's Rules for Survival",
+    "season": 2,
+    "episode": 10,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Antarctica",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "A Human Female",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Julia Says",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "A Nice Neutral Smell",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "That's My Sweatshirt",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The D-Train to Bone Town",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "I Lost My Poor Meatball",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Silencing Properties of Snow",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Juiced!",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Penguin Cam and Chill",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Little Dude and the Lion",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Pants on Fire",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Egg Is Pipping",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "In the Dragon's Lair",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Smudging",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Living at an Angle",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Ritual-licious",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Ernest Shackleton's Rules for Survival",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Best Laid Plans",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Standing Sam",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Cocaine Pills and Pony Meat",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Y.G.A.G.G.",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Only Tweed",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Essence of a Penguin",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Shrinkage",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Road Rage Paige",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Sam Takes a Walk",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Searching for Brown Sugar Man",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Magical Bird #1",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Master of Penguins",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "You Say You Want a Revolution",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Starters and Endings",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Dead Dreams",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Are You in Fair Health?",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Channel the Cat",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Magical Bird #2",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Player's Ball",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Dessert at Olive Garden",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

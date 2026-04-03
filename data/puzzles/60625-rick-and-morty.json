@@ -1,0 +1,468 @@
+{
+  "id": "60625-rick-and-morty",
+  "rank": 12,
+  "answer": "Rick and Morty",
+  "sourceUrl": "https://seriesgraph.com/show/60625-rick-and-morty",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60625",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60625/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "The Ricklantis Mixup",
+    "season": 3,
+    "episode": 7,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Lawnmower Dog",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Anatomy Park",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "M. Night Shaym-Aliens!",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Meeseeks and Destroy",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Rick Potion #9",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Raising Gazorpazorp",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Rixty Minutes",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Something Ricked This Way Comes",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Close Rick-Counters of the Rick Kind",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "Ricksy Business",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Rickle in Time",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Mortynight Run",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Auto Erotic Assimilation",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Total Rickall",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Get Schwifty",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Ricks Must Be Crazy",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "Big Trouble in Little Sanchez",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Interdimensional Cable 2: Tempting Fate",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Look Who's Purging Now",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Wedding Squanchers",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Rickshank Rickdemption",
+        "rating": 9.6
+      },
+      {
+        "episode": 2,
+        "name": "Rickmancing the Stone",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Pickle Rick",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Vindicators 3: The Return of Worldender",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Whirly Dirly Conspiracy",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Rest and Ricklaxation",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Ricklantis Mixup",
+        "rating": 9.8
+      },
+      {
+        "episode": 8,
+        "name": "Morty's Mind Blowers",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The ABCs of Beth",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Rickchurian Mortydate",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Edge of Tomorty: Rick Die Rickpeat",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Old Man and the Seat",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "One Crew over the Crewcoo's Morty",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Claw and Hoarder: Special Ricktim's Morty",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Rattlestar Ricklactica",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Never Ricking Morty",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Promortyus",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Vat of Acid Episode",
+        "rating": 9.5
+      },
+      {
+        "episode": 9,
+        "name": "Childrick of Mort",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Star Mort Rickturn of the Jerri",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mort Dinner Rick Andre",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Mortyplicity",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "A Rickconvenient Mort",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Rickdependence Spray",
+        "rating": 5.7
+      },
+      {
+        "episode": 5,
+        "name": "Amortycan Grickfitti",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Rick & Morty's Thanksploitation Spectacular",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Gotron Jerrysis Rickvangelion",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "Rickternal Friendshine of the Spotless Mort",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Forgetting Sarick Mortshall",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Rickmurai Jack",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Solaricks",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Rick: A Mort Well Lived",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Bethic Twinstinct",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Night Family",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Final DeSmithation",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Juricksic Mort",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Full Meta Jackrick",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Analyze Piss",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "A Rick in King Mortur's Mort",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Ricktional Mortpoon's Rickmas Mortcation",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "How Poopy Got His Poop Back",
+        "rating": 6.2
+      },
+      {
+        "episode": 2,
+        "name": "The Jerrick Trap",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Air Force Wong",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "That's Amorte",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Unmortricken",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Rickfending Your Mort",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Wet Kuat Amortican Summer",
+        "rating": 6.4
+      },
+      {
+        "episode": 8,
+        "name": "Rise of the Numbericons: The Movie",
+        "rating": 4.4
+      },
+      {
+        "episode": 9,
+        "name": "Mort: Ragnarick",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Fear No Mort",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Summer of All Fears",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Valkyrick",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "The Rick, The Mort & The Ugly",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Last Temptation of Jerry",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Cryo Mort a Rickver",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "The Curicksous Case of Bethjamin Button",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Ricker Than Fiction",
+        "rating": 6.8
+      },
+      {
+        "episode": 8,
+        "name": "Nomortland",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Morty Daddy",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "Hot Rick",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #9.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #10.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #11.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #12.1"
+      }
+    ]
+  ]
+}

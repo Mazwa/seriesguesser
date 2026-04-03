@@ -1,0 +1,124 @@
+{
+  "id": "76148-derry-girls",
+  "rank": 246,
+  "answer": "Derry Girls",
+  "sourceUrl": "https://seriesgraph.com/show/76148-derry-girls",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/76148",
+    "seasonRatings": "https://seriesgraph.com/api/shows/76148/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "The Agreement",
+    "season": 3,
+    "episode": 7,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode #1.1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Episode #1.2",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Episode #1.3",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Episode #1.4",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Episode #1.5",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Episode #1.6",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Across the Barricade",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Ms De Brún and the Child of Prague",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Concert",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Curse",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Prom",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The President",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Night Before",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Affair",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Stranger on a Train",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Haunting",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Reunion",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Halloween",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Agreement",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

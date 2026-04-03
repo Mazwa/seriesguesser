@@ -1,0 +1,226 @@
+{
+  "id": "76331-succession",
+  "rank": 17,
+  "answer": "Succession",
+  "sourceUrl": "https://seriesgraph.com/show/76331-succession",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/76331",
+    "seasonRatings": "https://seriesgraph.com/api/shows/76331/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Connor's Wedding",
+    "season": 4,
+    "episode": 3,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Celebration",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Sh*t Show at the F**k Factory",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Lifeboats",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Sad Sack Wasp Trap",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "I Went to Market",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Which Side Are You On?",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Austerlitz",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Prague",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Pre-Nuptial",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Nobody Is Ever Missing",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Summer Palace",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Vaulter",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Hunting",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Safe Room",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Tern Haven",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Argestes",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Return",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Dundee",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "DC",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "This Is Not for Tears",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Secession",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Mass in Time of War",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Disruption",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Lion in the Meadow",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Retired Janitors of Idaho",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "What It Takes",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Too Much Birthday",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Chiantishire",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "All the Bells Say",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Munsters",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Rehearsal",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Connor's Wedding",
+        "rating": 9.8
+      },
+      {
+        "episode": 4,
+        "name": "Honeymoon States",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Kill List",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Living+",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Tailgate Party",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "America Decides",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "Church and State",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "With Open Eyes",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "67744-mindhunter",
+  "rank": 85,
+  "answer": "Mindhunter",
+  "sourceUrl": "https://seriesgraph.com/show/67744-mindhunter",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/67744",
+    "seasonRatings": "https://seriesgraph.com/api/shows/67744/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "Episode #1.10",
+    "season": 1,
+    "episode": 10,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode #1.1",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Episode #1.2",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Episode #1.3",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Episode #1.4",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Episode #1.5",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Episode #1.6",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Episode #1.7",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Episode #1.8",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Episode #1.9",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Episode #1.10",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Episode #2.6",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Episode #2.7",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Episode #2.8",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Episode #2.9",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

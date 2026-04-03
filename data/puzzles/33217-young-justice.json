@@ -1,0 +1,521 @@
+{
+  "id": "33217-young-justice",
+  "rank": 103,
+  "answer": "Young Justice",
+  "sourceUrl": "https://seriesgraph.com/show/33217-young-justice",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/33217",
+    "seasonRatings": "https://seriesgraph.com/api/shows/33217/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Summit",
+    "season": 2,
+    "episode": 19,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Independence Day",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Fireworks",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Welcome to Happy Harbor",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Drop-Zone",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Schooled",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Infiltrator",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Denial",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Downtime",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Bereft",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Targets",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Terrors",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Homefront",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Alpha Male",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Revelation",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Humanity",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "Failsafe",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "Disordered",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Secrets",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Misplaced",
+        "rating": 9.2
+      },
+      {
+        "episode": 20,
+        "name": "Coldhearted",
+        "rating": 9.4
+      },
+      {
+        "episode": 21,
+        "name": "Image",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Agendas",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Insecurity",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "Performance",
+        "rating": 8.7
+      },
+      {
+        "episode": 25,
+        "name": "Usual Suspects",
+        "rating": 9.4
+      },
+      {
+        "episode": 26,
+        "name": "Auld Acquaintance",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Happy New Year",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Earthlings",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Alienated",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Salvage",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Beneath",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Bloodlines",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "Depths",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Satisfaction",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Darkest",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Before the Dawn",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Cornered",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "True Colors",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "The Fix",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "The Runaways",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "War",
+        "rating": 9.3
+      },
+      {
+        "episode": 16,
+        "name": "Complications",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "The Hunt",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Intervention",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Summit",
+        "rating": 9.7
+      },
+      {
+        "episode": 20,
+        "name": "Endgame",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Princes All",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Royal We",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Eminent Threat",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Private Security",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Away Mission",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Rescue Op",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Evolution",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Triptych",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Home Fires",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Exceptional Human Beings",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Another Freak",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Nightmare Monkeys",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "True Heroes",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Influence",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Leverage",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Illusion of Control",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "First Impression",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Early Warning",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Elder Wisdom",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Quiet Conversations",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Unknown Factors",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Antisocial Pathologies",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Terminus",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "Into the Breach",
+        "rating": 9
+      },
+      {
+        "episode": 25,
+        "name": "Overwhelmed",
+        "rating": 9.1
+      },
+      {
+        "episode": 26,
+        "name": "Nevermore",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Inhospitable",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Needful",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Volatile",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Involuntary",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Tale of Two Sisters",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Artemis Through the Looking Glass",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "The Lady, or the Tigress?",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "I Know Why the Caged Cat Sings",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "Odnu!",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Nomed Esir!",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Teg Ydaer!",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Og Htrof Dna Reuqnoc!",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Kaerb Ym traeh!",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Nautical Twilight",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "Ebb Tide",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Emergency Dive",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Leviathan Wakes",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Beyond the Grip of the Gods!",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Encounter Upon the Razor's Edge!",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Forbidden Secrets of Civilizations Past",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Odyssey of Death!",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Rescue and Search",
+        "rating": 8.7
+      },
+      {
+        "episode": 23,
+        "name": "Ego and Superego",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "Zenith and Abyss",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "Over and Out",
+        "rating": 8.9
+      },
+      {
+        "episode": 26,
+        "name": "Death and Rebirth",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

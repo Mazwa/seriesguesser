@@ -1,0 +1,488 @@
+{
+  "id": "1404-chuck",
+  "rank": 141,
+  "answer": "Chuck",
+  "sourceUrl": "https://seriesgraph.com/show/1404-chuck",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1404",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1404/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2012
+  },
+  "highestRatedEpisode": {
+    "name": "Chuck Versus the Ring",
+    "season": 2,
+    "episode": 22,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Chuck Versus the Helicopter",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Chuck Versus the Tango",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Chuck Versus the Wookiee",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Chuck Versus the Sizzling Shrimp",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Chuck Versus the Sandworm",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Chuck Versus the Alma Mater",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Chuck Versus the Truth",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Chuck Versus the Imported Hard Salami",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Chuck Versus the Nemesis",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Chuck Versus the Crown Vic",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Chuck Versus the Undercover Lover",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Chuck Versus the Marlin",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chuck Versus the First Date",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Chuck Versus the Seduction",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chuck Versus the Break-Up",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Chuck Versus the Cougars",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Chuck Versus Tom Sawyer",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Chuck Versus the Ex",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Chuck Versus the Fat Lady",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Chuck Versus the Gravitron",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Chuck Versus the Sensei",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Chuck Versus the DeLorean",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Chuck Versus Santa Claus",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Chuck Versus the Third Dimension",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Chuck Versus the Suburbs",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Chuck Versus the Best Friend",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Chuck Versus the Beefcake",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Chuck Versus the Lethal Weapon",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Chuck Versus the Predator",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Chuck Versus the Broken Heart",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Chuck Versus the Dream Job",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "Chuck Versus the First Kill",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Chuck Versus the Colonel",
+        "rating": 9.3
+      },
+      {
+        "episode": 22,
+        "name": "Chuck Versus the Ring",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chuck Versus the Pink Slip",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Chuck Versus the Three Words",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chuck Versus the Angel de la Muerte",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Chuck Versus Operation Awesome",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Chuck Versus First Class",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Chuck Versus the Nacho Sampler",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Chuck Versus the Mask",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Chuck Versus the Fake Name",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Chuck Versus the Beard",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Chuck Versus the Tic Tac",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Chuck Versus the Final Exam",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Chuck Versus the American Hero",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Chuck Versus the Other Guy",
+        "rating": 9.3
+      },
+      {
+        "episode": 14,
+        "name": "Chuck Versus the Honeymooners",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Chuck Versus the Role Models",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Chuck Versus the Tooth",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Chuck Versus the Living Dead",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Chuck Versus the Subway",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "Chuck Versus the Ring: Part II",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chuck Versus the Anniversary",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Chuck Versus the Suitcase",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Chuck Versus the Cubic Z",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Chuck Versus the Coup d'Etat",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Chuck Versus the Couch Lock",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Chuck Versus the Aisle of Terror",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Chuck Versus the First Fight",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Chuck Versus the Fear of Death",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Chuck Versus Phase Three",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Chuck Versus the Leftovers",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Chuck Versus the Balcony",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Chuck Versus the Gobbler",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Chuck Versus the Push Mix",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Chuck Versus the Seduction Impossible",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Chuck Versus the Cat Squad",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Chuck Versus the Masquerade",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Chuck Versus the First Bank of Evil",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Chuck Versus the A-Team",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Chuck Versus the Muuurder",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Chuck Versus the Family Volkoff",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Chuck Versus the Wedding Planner",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Chuck Versus Agent X",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Chuck Versus the Last Details",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "Chuck Versus the Cliffhanger",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chuck Versus the Zoom",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Chuck Versus the Bearded Bandit",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Chuck Versus the Frosted Tips",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Chuck Versus the Business Trip",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Chuck Versus the Hack Off",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Chuck Versus the Curse",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Chuck Versus the Santa Suit",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Chuck Versus the Baby",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Chuck Versus the Kept Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Chuck Versus Bo",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Chuck Versus the Bullet Train",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Chuck Versus Sarah",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Chuck Versus the Goodbye",
+        "rating": 9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1295 @@
+{
+  "id": "1421-modern-family",
+  "rank": 98,
+  "answer": "Modern Family",
+  "sourceUrl": "https://seriesgraph.com/show/1421-modern-family",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1421",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1421/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Connection Lost",
+    "season": 6,
+    "episode": 16,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Bicycle Thief",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Come Fly with Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Incident",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Coal Digger",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Run for Your Wife",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "En Garde",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Great Expectations",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Fizbo",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Undeck the Halls",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Up All Night",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Not in My House",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Fifteen Percent",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Moon Landing",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "My Funky Valentine",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Fears",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Truth Be Told",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Starry Night",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Game Changer",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Benched",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Travels with Scout",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Airport 2010",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Hawaii",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "Family Portrait",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Old Wagon",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Kiss",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Earthquake",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Strangers on a Treadmill",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Unplugged",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Halloween",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Chirp",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Manny Get Your Gun",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Mother Tucker",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Dance Dance Revelation",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Slow Down Your Neighbors",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Our Children, Ourselves",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Caught in the Act",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Bixby's Back",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Princess Party",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Regrets Only",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Two Monkeys and a Panda",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Boys' Night",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "The Musical Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Someone to Watch Over Lily",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Mother's Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Good Cop Bad Dog",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "See You Next Fall",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "The One That Got Away",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dude Ranch",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "When Good Kids Go Bad",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Phil on Wire",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Door to Door",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Hit and Run",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Go Bullfrogs!",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Treehouse",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "After the Fire",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Punkin Chunkin",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Express Christmas",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Lifetime Supply",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Egg Drop",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Little Bo Bleep",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Me? Jealous?",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Aunt Mommy",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Virgin Territory",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Leap Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Send Out the Clowns",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Election Day",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "The Last Walt",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Planes, Trains and Cars",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Disneyland",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Tableau Vivant",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Baby on Board",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bringing Up Baby",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Schooled",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Snip",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Butler's Escape",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Open House of Horrors",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Yard Sale",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Arrested",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Mistery Date",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "When a Tree Falls",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Diamond in the Rough",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "New Year's Eve",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Party Crasher",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Fulgencio",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "A Slight at the Opera",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Heart Broken",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Bad Hair Day",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "Best Men",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The Wow Factor",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "The Future Dunphys",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Flip Flop",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Career Day",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "My Hero",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Games People Play",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Goodnight Gracie",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Suddenly, Last Summer",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "First Days",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Larry's Wife",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Farm Strong",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Late Show",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Help",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "A Fair to Remember",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "ClosetCon '13",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Big Game",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "The Old Man & the Tree",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "And One to Grow On",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Under Pressure",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Three Dinners",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "iSpy",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "The Feud",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Spring-A-Ding-Fling",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Other People's Children",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Las Vegas",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "A Hard Jay's Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Australia",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Sleeper",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Message Received",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "The Wedding, Part 1",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "The Wedding, Part 2",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Long Honeymoon",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Don't Push",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Cold",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Marco Polo",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Won't You Be Our Neighbor",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Halloween 3: AwesomeLand",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Queer Eyes, Full Hearts",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Three Turkeys",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Strangers in the Night",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Haley's 21st Birthday",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Day We Almost Died",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Big Guns",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Rash Decisions",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Valentine's Day 4: Twisted Sister",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Fight or Flight",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Connection Lost",
+        "rating": 9.5
+      },
+      {
+        "episode": 17,
+        "name": "Closet? You'll Love It!",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Spring Break",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Grill, Interrupted",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Knock 'Em Down",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Integrity",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Patriot Games",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Crying Out Loud",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "American Skyper",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Summer Lovin'",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Day Alex Left for College",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Closet Case",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "She Crazy",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "The Verdict",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The More You Ignore Me",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Phil's Sexy, Sexy House",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Clean Out Your Junk Drawer",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "White Christmas",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Playdates",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Spread Your Wings",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Clean for a Day",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Thunk in the Trunk",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Storm",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "I Don't Know How She Does It",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "The Cover-Up",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Express Yourself",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "The Party",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Man Shouldn't Lie",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Promposal",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "Crazy Train",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Double Click",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Tale of Three Cities",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "A Stereotypical Day",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Blindsided",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Weathering Heights",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Halloween 4: The Revenge of Rod Skyhook",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Grab It",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Thanksgiving Jamboree",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "The Alliance",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Snow Ball",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Ringmaster Keifth",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Sarge & Pea",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Do You Believe in Magic",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Do It Yourself",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Heavy Is the Head",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Finding Fizbo",
+        "rating": 6.8
+      },
+      {
+        "episode": 16,
+        "name": "Basketball",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Pig Moon Rising",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Five Minutes",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Frank's Wedding",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "All Things Being Equal",
+        "rating": 6.4
+      },
+      {
+        "episode": 21,
+        "name": "Alone Time",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "The Graduates",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lake Life",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Long Goodbye",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Catch of the Day",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Sex, Lies & Kickball",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "It's the Great Pumpkin, Phil Dunphy",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Ten Years Later",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Winner Winner Turkey Dinner",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Brushes with Celebrity",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Tough Love",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "No Small Feet",
+        "rating": 7.1
+      },
+      {
+        "episode": 11,
+        "name": "He Said, She Shed",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Dear Beloved Family",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "In Your Head",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Written in the Stars",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Spanks for the Memories",
+        "rating": 6.9
+      },
+      {
+        "episode": 16,
+        "name": "Wine Weekend",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Royal Visit",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Daddy Issues",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "CHiPs and Salsa",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Mother!",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "The Escape",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Clash of Swords",
+        "rating": 6.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Love a Parade",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "Kiss and Tell",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "A Sketchy Area",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Torn Between Two Lovers",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Good Grief",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "On the Same Paige",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Did the Chicken Cross the Road?",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Kids These Days",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Putting Down Roots",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Stuck in a Moment",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "A Moving Day",
+        "rating": 7
+      },
+      {
+        "episode": 12,
+        "name": "Blasts from the Past",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Whanex?",
+        "rating": 6.8
+      },
+      {
+        "episode": 14,
+        "name": "We Need to Talk About Lily",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "SuperShowerBabyBowl",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Red Alert",
+        "rating": 6.9
+      },
+      {
+        "episode": 17,
+        "name": "The Wild",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Stand by Your Man",
+        "rating": 7.2
+      },
+      {
+        "episode": 19,
+        "name": "Yes-Woman",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Can't Elope",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Commencement",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "A Year of Birthdays",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Kids on the Block",
+        "rating": 6.6
+      },
+      {
+        "episode": 2,
+        "name": "Snapped",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Perfect Pairs",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Pool Party",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "The Last Halloween",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "A Game of Chicken",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "The Last Thanksgiving",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Tree's a Crowd",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "The Last Christmas",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "The Prescott",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Legacy",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Dead on a Rival",
+        "rating": 6.8
+      },
+      {
+        "episode": 13,
+        "name": "Paris",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Spuds",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Baby Steps",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "I'm Going to Miss This",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "Finale: Part 1",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Finale: Part 2",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

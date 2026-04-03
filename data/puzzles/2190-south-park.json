@@ -1,0 +1,1746 @@
+{
+  "id": "2190-south-park",
+  "rank": 40,
+  "answer": "South Park",
+  "sourceUrl": "https://seriesgraph.com/show/2190-south-park",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2190",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2190/season-ratings"
+  },
+  "years": {
+    "first": 1997,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Scott Tenorman Must Die",
+    "season": 5,
+    "episode": 4,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Cartman Gets an Anal Probe",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Volcano",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Weight Gain 4000",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Big Gay Al's Big Gay Boat Ride",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "An Elephant Makes Love to a Pig",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Death",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Pinkeye",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Starvin' Marvin",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Mr. Hankey, the Christmas Poo",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Damien",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Tom's Rhinoplasty",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Mecha-Streisand",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Cartman's Mom Is a Dirty Slut",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Terrance and Phillip in Not Without My Anus",
+        "rating": 6.2
+      },
+      {
+        "episode": 2,
+        "name": "Cartman's Mom is Still a Dirty Slut",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Ike's Wee Wee",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Chickenlover",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Conjoined Fetus Lady",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Mexican Staring Frog of Southern Sri Lanka",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "City on the Edge of Forever",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Summer Sucks",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Chef's Chocolate Salty Balls",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Chickenpox",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Roger Ebert Should Lay Off the Fatty Foods",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Clubhouses",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Cow Days",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Chef Aid",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Spookyfish",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Merry Christmas Charlie Manson!",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Gnomes",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Prehistoric Ice Man",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rainforest Shmainforest",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Spontaneous Combustion",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Succubus",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Jakovasaurs",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Tweek vs. Craig",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Sexual Harassment Panda",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Cat Orgy",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Two Guys Naked in a Hot Tub",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Jewbilee",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Korn's Groovy Pirate Ghost Mystery",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Chinpokomon",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Hooked on Monkey Fonics",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Starvin' Marvin in Space",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "The Red Badge of Gayness",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Mr. Hankey's Christmas Classics",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "Are You There God? It's Me, Jesus",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "World Wide Recorder Concert",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Tooth Fairy's Tats 2000",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Cartman's Silly Hate Crime 2000",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Timmy 2000",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Quintuplets 2000",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Cartman Joins NAMBLA",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Cherokee Hair Tampons",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Chef Goes Nanners",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Something You Can Do with Your Finger",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Do the Handicapped Go to Hell?",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Probably",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "4th Grade",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Trapper Keeper",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Helen Keller! The Musical",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Pip",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "Fat Camp",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "The Wacky Molestation Adventure",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "A Very Crappy Christmas",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "It Hits the Fan",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Cripple Fight",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Super Best Friends",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Scott Tenorman Must Die",
+        "rating": 9.6
+      },
+      {
+        "episode": 5,
+        "name": "Terrance and Phillip: Behind the Blow",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "Cartmanland",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Proper Condom Use",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Towelie",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Osama Bin Laden Has Farty Pants",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "How to Eat with Your Butt",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Entity",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Here Comes the Neighborhood",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Kenny Dies",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Butters' Very Own Episode",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Jared Has Aides",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Asspen",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Freak Strike",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Fun with Veal",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The New Terrance and Phillip Movie Trailer",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Professor Chaos",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Simpsons Already Did It",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Red Hot Catholic Love",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Free Hat",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Bebe's Boobs Destroy Society",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Child Abduction Is Not Funny",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "A Ladder to Heaven",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "The Return of the Fellowship of the Ring to the Two Towers",
+        "rating": 9.4
+      },
+      {
+        "episode": 14,
+        "name": "The Death Camp of Tolerance",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "The Biggest Douche in the Universe",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "My Future Self n' Me",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Red Sleigh Down",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Cancelled",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Krazy Kripples",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Toilet Paper",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "I'm a Little Bit Country",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Fat Butt and Pancake Head",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Lil' Crime Stoppers",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Red Man's Greed",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "South Park Is Gay",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Christian Rock Hard",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Grey Dawn",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Casa Bonita",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "All About Mormons",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Butt Out",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Raisins",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "It's Christmas in Canada",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Good Times with Weapons",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Up the Down Steroid",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Passion of the Jew",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "You Got F'd in the A",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "AWESOM-O",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "The Jeffersons",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Goobacks",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Douche and Turd",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Something Wall-Mart This Way Comes",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Pre-School",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Quest for Ratings",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Stupid Spoiled Whore Video Playset",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Cartman's Incredible Gift",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Woodland Critter Christmas",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mr. Garrison's Fancy New Vagina",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Die Hippie, Die",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Wing",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Best Friends Forever",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Losing Edge",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Death of Eric Cartman",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Erection Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Two Days Before the Day After Tomorrow",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Marjorine",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Follow That Egg",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Ginger Kids",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Trapped in the Closet",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Free Willzyx",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Bloody Mary",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Return of Chef",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Smug Alert!",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Cartoon Wars: Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Cartoon Wars: Part 2",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "A Million Little Fibers",
+        "rating": 6.1
+      },
+      {
+        "episode": 6,
+        "name": "ManBearPig",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Tsst",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Make Love, Not Warcraft",
+        "rating": 9.5
+      },
+      {
+        "episode": 9,
+        "name": "Mystery of the Urinal Deuce",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Miss Teacher Bangs a Boy",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Hell on Earth 2006",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Go God Go",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Go God Go XII",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Stanley's Cup",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "With Apologies to Jesse Jackson",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Cartman Sucks",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Lice Capades",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Snuke",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Fantastic Easter Special",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "D-Yikes!",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Night of the Living Homeless",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Le Petit Tourette",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "More Crap",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Imaginationland",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Imaginationland: Episode II",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Imaginationland: Episode III",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Guitar Queer-o",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "The List",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tonsil Trouble",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Britney's New Look",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Major Boobage",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Canada on Strike",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Eek, a Penis!",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Over Logging",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Super Fun Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The China Probrem",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Breast Cancer Show Ever",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Pandemic",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Pandemic 2: The Startling",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "About Last Night...",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Elementary School Musical",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Ungroundable",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ring",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Coon",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Margaritaville",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Eat, Pray, Queef",
+        "rating": 6.5
+      },
+      {
+        "episode": 5,
+        "name": "Fishsticks",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Pinewood Derby",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Fatbeard",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Dead Celebrities",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Butters' Bottom Bitch",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "W.T.F.",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Whale Whores",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The F Word",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Dances with Smurfs",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Pee",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sexual Healing",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Tale of Scrotie McBoogerballs",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Medicinal Fried Chicken",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "You Have 0 Friends",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "200",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "201",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Crippled Summer",
+        "rating": 6.8
+      },
+      {
+        "episode": 8,
+        "name": "Poor and Stupid",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "It's a Jersey Thing",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Insheeption",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Coon 2: Hindsight",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Mysterion Rises",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Coon vs. Coon and Friends",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Crème Fraîche",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "HUMANCENTiPAD",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Funnybot",
+        "rating": 6.3
+      },
+      {
+        "episode": 3,
+        "name": "Royal Pudding",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "T.M.I.",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Crack Baby Athletic Association",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "City Sushi",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "You're Getting Old",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Ass Burgers",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Last of the Meheecans",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Bass to Mouth",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Broadway Bro Down",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "1%",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "A History Channel Thanksgiving",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "The Poor Kid",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reverse Cowgirl",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Cash for Gold",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Faith Hilling",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Jewpacabra",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Butterballs",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "I Should Have Never Gone Ziplining",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Cartman Finds Love",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Sarcastaball",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Raising the Bar",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Insecurity",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Going Native",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "A Nightmare on FaceTime",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "A Scause for Applause",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Obama Wins!",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Let Go, Let Gov",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Informative Murder Porn",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "World War Zimmerman",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Goth Kids 3: Dawn of the Posers",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Taming Strange",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Ginger Cow",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Black Friday",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "A Song of Ass and Fire",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Titties and Dragons",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Hobbit",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Go Fund Yourself",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Gluten Free Ebola",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Cissy",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Handicar",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Magic Bush",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Freemium Isn't Free",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Grounded Vindaloop",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Cock Magic",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "#REHASH",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "#HappyHolograms",
+        "rating": 6.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stunning and Brave",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Where My Country Gone?",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The City Part of Town",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "You're Not Yelping",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Safe Space",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Tweek x Craig",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Naughty Ninjas",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Sponsored Content",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Truth and Advertising",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "PC Principal Final Justice",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Member Berries",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Skank Hunt",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Damned",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Wieners Out",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Douche and a Danish",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Fort Collins",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Oh, Jeez",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Members Only",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Not Funny",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "The End of Serialization as We Know It",
+        "rating": 7.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "White People Renovating Houses",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "Put It Down",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Holiday Special",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Franchise Prequel",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Hummels & Heroin",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Sons A Witches",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Doubling Down",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Moss Piglets",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Super Hard PCness",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Splatty Tomato",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dead Kids",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "A Boy and a Priest",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Problem with a Poo",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Tegridy Farms",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Scoots",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Time to Get Cereal",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Nobody Got Cereal?",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Buddha Box",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Unfulfilled",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Bike Parade",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mexican Joker",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Band in China",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Shots!!!",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Let Them Eat Goo",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Tegridy Farms Halloween Special",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Season Finale",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Board Girls",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Turd Burglars",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Basic Cable",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Christmas Snow",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Pandemic Special",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "South ParQ Vaccination Special",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pajama Day",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "The Big Fix",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "City People",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Back to the Cold War",
+        "rating": 6.6
+      },
+      {
+        "episode": 5,
+        "name": "Help, My Teenager Hates Me!",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Credigree Weed St. Patrick's Day Special",
+        "rating": 7.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Cupid Ye",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "The Worldwide Privacy Tour",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Japanese Toilet",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Deep Learning",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "DikinBaus Hot Dogs",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Spring Break",
+        "rating": 6.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sermon on the 'Mount",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "Got a Nut",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Sickofancy",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Wok Is Dead",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Conflict of Interest",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Twisted Christian",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "The Woman in the Hat",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Sora Not Sorry",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Turkey Trot",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Crap Out",
+        "rating": 6.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #29.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #30.1"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "id": "4629-stargate-sg-1",
+  "rank": 215,
+  "answer": "Stargate SG-1",
+  "sourceUrl": "https://seriesgraph.com/show/4629-stargate-sg-1",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4629",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4629/season-ratings"
+  },
+  "years": {
+    "first": 1997,
+    "last": 2007
+  },
+  "highestRatedEpisode": {
+    "name": "Window of Opportunity",
+    "season": 4,
+    "episode": 6,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Children of the Gods",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Enemy Within",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Emancipation",
+        "rating": 5.9
+      },
+      {
+        "episode": 4,
+        "name": "The Broca Divide",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "The First Commandment",
+        "rating": 6.5
+      },
+      {
+        "episode": 6,
+        "name": "Cold Lazarus",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Nox",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Brief Candle",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Thor's Hammer",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Torment of Tantalus",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Bloodlines",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Fire and Water",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Hathor",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Singularity",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Cor-ai",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "Enigma",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Solitudes",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Tin Man",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "There But for the Grace of God",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Politics",
+        "rating": 5.9
+      },
+      {
+        "episode": 21,
+        "name": "Within the Serpent's Grasp",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Serpent's Lair",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "In the Line of Duty",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Prisoners",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "The Gamekeeper",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Need",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Thor's Chariot",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Message in a Bottle",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Family",
+        "rating": 6.6
+      },
+      {
+        "episode": 9,
+        "name": "Secrets",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Bane",
+        "rating": 7.1
+      },
+      {
+        "episode": 11,
+        "name": "The Tok'ra: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Tok'ra: Part 2",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Spirits",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Touchstone",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "The Fifth Race",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "A Matter of Time",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Holiday",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "Serpent's Song",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "One False Step",
+        "rating": 6.7
+      },
+      {
+        "episode": 20,
+        "name": "Show and Tell",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "1969",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Out of Mind",
+        "rating": 7.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Into the Fire",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Seth",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Fair Game",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Legacy",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Learning Curve",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Point of View",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Deadman Switch",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Demons",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Rules of Engagement",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Forever in a Day",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Past and Present",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Jolinar's Memories",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "The Devil You Know",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Foothold",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Pretense",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Urgo",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "A Hundred Days",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Shades of Grey",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "New Ground",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Maternal Instinct",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Crystal Skull",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Nemesis",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Small Victories",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Other Side",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Upgrades",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Crossroads",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Divide and Conquer",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Window of Opportunity",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "Watergate",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "The First Ones",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Scorched Earth",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Beneath the Surface",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Point of No Return",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Tangent",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "The Curse",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Serpent's Venom",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Chain Reaction",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "2010",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Absolute Power",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "The Light",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "Prodigy",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Entity",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "Double Jeopardy",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Exodus",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Enemies",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Threshold",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Ascension",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Fifth Man",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Red Sky",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Rite of Passage",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "Beast of Burden",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "The Tomb",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Between Two Fires",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "2001",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Desperate Measures",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Wormhole X-Treme!",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Proving Ground",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "48 Hours",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Summit",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Last Stand",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Fail Safe",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "The Warrior",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Menace",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "The Sentinel",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Meridian",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Revelations",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Redemption: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Redemption: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Descent",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Frozen",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Nightwalkers",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Abyss",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Shadow Play",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "The Other Guys",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Allegiance",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Cure",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Prometheus",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Unnatural Selection",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Sight Unseen",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "Smoke & Mirrors",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Paradise Lost",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Metamorphosis",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Disclosure",
+        "rating": 6.5
+      },
+      {
+        "episode": 18,
+        "name": "Forsaken",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "The Changeling",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Memento",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Prophecy",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Full Circle",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fallen",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Homecoming",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Fragile Balance",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Orpheus",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Revisions",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Lifeboat",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Enemy Mine",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Space Race",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Avenger 2.0",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Birthright",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "Evolution: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Evolution: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Grace",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Fallout",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Chimera",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Death Knell",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Heroes: Part 1",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Heroes: Part 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Resurrection",
+        "rating": 6.8
+      },
+      {
+        "episode": 20,
+        "name": "Inauguration",
+        "rating": 6.9
+      },
+      {
+        "episode": 21,
+        "name": "Lost City: Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Lost City: Part 2",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Order: Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "New Order: Part 2",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Lockdown",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Zero Hour",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Icon",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Avatar",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Affinity",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Covenant",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Sacrifices",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "Endgame",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Gemini",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Prometheus Unbound",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "It's Good to Be King",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Full Alert",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Citizen Joe",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Reckoning: Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Reckoning: Part 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Threads",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "Moebius: Part 1",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Moebius: Part 2",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Avalon: Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Avalon: Part 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Origin",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Ties That Bind",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Powers That Be",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Beachhead",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Ex Deus Machina",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Babylon",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Prototype",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "The Fourth Horseman: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "The Fourth Horseman: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Collateral Damage",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Ripple Effect",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Stronghold",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "Ethon",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Off the Grid",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "The Scourge",
+        "rating": 6.9
+      },
+      {
+        "episode": 18,
+        "name": "Arthur's Mantle",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Crusade",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Camelot",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Flesh and Blood",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Morpheus",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The Pegasus Project",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Insiders",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Uninvited",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "200",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Counterstrike",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Memento Mori",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Company of Thieves",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "The Quest: Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "The Quest: Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Line in the Sand",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "The Road Not Taken",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Shroud",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Bounty",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Bad Guys",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Talion",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Family Ties",
+        "rating": 6.5
+      },
+      {
+        "episode": 19,
+        "name": "Dominion",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Unending",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,246 @@
+rank,enabled,tmdb_id,slug,title,puzzle_file
+1,1,1396,breaking-bad,Breaking Bad,1396-breaking-bad.json
+2,0,1429,attack-on-titan,Attack on Titan,1429-attack-on-titan.json
+3,1,1399,game-of-thrones,Game of Thrones,1399-game-of-thrones.json
+4,1,1398,the-sopranos,The Sopranos,1398-the-sopranos.json
+5,0,246,avatar:-the-last-airbender,Avatar: The Last Airbender,246-avatar-the-last-airbender.json
+6,1,1438,the-wire,The Wire,1438-the-wire.json
+7,1,60059,better-call-saul,Better Call Saul,60059-better-call-saul.json
+8,0,94605,arcane,Arcane,94605-arcane.json
+9,1,2316,the-office,The Office,2316-the-office.json
+10,1,1668,friends,Friends,1668-friends.json
+11,0,31911,fullmetal-alchemist:-brotherhood,Fullmetal Alchemist: Brotherhood,31911-fullmetal-alchemist-brotherhood.json
+12,1,60625,rick-and-morty,Rick and Morty,60625-rick-and-morty.json
+13,0,37854,one-piece,One Piece,37854-one-piece.json
+14,1,1400,seinfeld,Seinfeld,1400-seinfeld.json
+15,1,19885,sherlock,Sherlock,19885-sherlock.json
+16,1,1408,house,House,1408-house.json
+17,1,76331,succession,Succession,76331-succession.json
+18,1,2710,it's-always-sunny-in-philadelphia,It's Always Sunny in Philadelphia,2710-it-s-always-sunny-in-philadelphia.json
+19,1,1405,dexter,Dexter,1405-dexter.json
+20,1,70523,dark,Dark,70523-dark.json
+21,1,60574,peaky-blinders,Peaky Blinders,60574-peaky-blinders.json
+22,0,61889,marvel's-daredevil,Daredevil,61889-marvel-s-daredevil.json
+23,0,124411,aspirants,Aspirants,124411-aspirants.json
+24,1,60622,fargo,Fargo,60622-fargo.json
+25,1,62560,mr.-robot,Mr. Robot,62560-mr-robot.json
+26,0,13916,death-note,Death Note,13916-death-note.json
+27,1,63351,narcos,Narcos,63351-narcos.json
+28,1,61222,bojack-horseman,BoJack Horseman,61222-bojack-horseman.json
+29,1,1104,mad-men,Mad Men,1104-mad-men.json
+30,0,46298,hunter-x-hunter,Hunter x Hunter,46298-hunter-x-hunter.json
+31,1,66732,stranger-things,Stranger Things,66732-stranger-things.json
+32,1,97546,ted-lasso,Ted Lasso,97546-ted-lasso.json
+34,1,1411,person-of-interest,Person of Interest,1411-person-of-interest.json
+35,0,40075,gravity-falls,Gravity Falls,40075-gravity-falls.json
+36,1,67136,this-is-us,This Is Us,67136-this-is-us.json
+37,1,88803,vinland-saga,Vinland Saga,88803-vinland-saga.json
+38,1,1409,sons-of-anarchy,Sons of Anarchy,1409-sons-of-anarchy.json
+39,0,40417,leyla-and-mecnun,Leyla and Mecnun,40417-leyla-and-mecnun.json
+40,1,2190,south-park,South Park,2190-south-park.json
+41,1,1437,firefly,Firefly,1437-firefly.json
+42,1,76479,the-boys,The Boys,76479-the-boys.json
+43,1,85077,the-chosen,The Chosen,85077-the-chosen.json
+44,1,4546,curb-your-enthusiasm,Curb Your Enthusiasm,4546-curb-your-enthusiasm.json
+45,1,1622,supernatural,Supernatural,1622-supernatural.json
+46,1,46648,true-detective,True Detective,46648-true-detective.json
+47,1,95557,invincible,Invincible,95557-invincible.json
+48,1,4607,lost,Lost,4607-lost.json
+49,1,33907,downton-abbey,Downton Abbey,33907-downton-abbey.json
+50,1,37680,suits,Suits,37680-suits.json
+51,1,40008,hannibal,Hannibal,40008-hannibal.json
+52,0,95479,jujutsu-kaisen,Jujutsu Kaisen,95479-jujutsu-kaisen.json
+53,1,259909,dexter:-resurrection,Dexter: Resurrection,259909-dexter-resurrection.json
+54,1,1274,six-feet-under,Six Feet Under,1274-six-feet-under.json
+55,0,101352,panchayat,Panchayat,101352-panchayat.json
+56,1,82856,the-mandalorian,The Mandalorian,82856-the-mandalorian.json
+57,1,1621,boardwalk-empire,Boardwalk Empire,1621-boardwalk-empire.json
+58,0,117648,clarkson's-farm,Clarkson's Farm,117648-clarkson-s-farm.json
+59,1,63333,the-last-kingdom,The Last Kingdom,63333-the-last-kingdom.json
+60,1,65494,the-crown,The Crown,65494-the-crown.json
+61,0,85937,demon-slayer:-kimetsu-no-yaiba,Demon Slayer: Kimetsu no Yaiba,85937-demon-slayer-kimetsu-no-yaiba.json
+62,1,8592,parks-and-recreation,Parks and Recreation,8592-parks-and-recreation.json
+63,1,34307,shameless,Shameless,34307-shameless.json
+64,1,688,the-west-wing,The West Wing,688-the-west-wing.json
+65,1,18347,community,Community,18347-community.json
+66,1,1425,house-of-cards,House of Cards,1425-house-of-cards.json
+67,0,2098,batman:-the-animated-series,Batman: The Animated Series,2098-batman-the-animated-series.json
+68,1,2382,freaks-and-geeks,Freaks and Geeks,2382-freaks-and-geeks.json
+69,0,30991,cowboy-bebop,Cowboy Bebop,30991-cowboy-bebop.json
+70,1,4589,arrested-development,Arrested Development,4589-arrested-development.json
+71,1,2288,prison-break,Prison Break,2288-prison-break.json
+72,1,44217,vikings,Vikings,44217-vikings.json
+73,1,250307,the-pitt,The Pitt,250307-the-pitt.json
+74,1,83867,andor,Andor,83867-andor.json
+75,1,1920,twin-peaks,Twin Peaks,1920-twin-peaks.json
+76,1,1973,24,24,1973-24.json
+77,1,73586,yellowstone,Yellowstone,73586-yellowstone.json
+78,1,1891,rome,Rome,1891-rome.json
+79,1,1972,battlestar-galactica,Battlestar Galactica,1972-battlestar-galactica.json
+80,1,63247,westworld,Westworld,63247-westworld.json
+81,1,95396,severance,Severance,95396-severance.json
+82,0,46296,spartacus,Spartacus,46296-spartacus.json
+83,1,1436,justified,Justified,1436-justified.json
+84,1,63639,the-expanse,The Expanse,63639-the-expanse.json
+85,1,67744,mindhunter,Mindhunter,67744-mindhunter.json
+87,1,1705,fringe,Fringe,1705-fringe.json
+88,1,136315,the-bear,The Bear,136315-the-bear.json
+89,1,70796,the-marvelous-mrs.-maisel,The Marvelous Mrs. Maisel,70796-the-marvelous-mrs-maisel.json
+90,1,3322,oz,Oz,3322-oz.json
+91,1,42009,black-mirror,Black Mirror,42009-black-mirror.json
+92,0,60694,last-week-tonight-with-john-oliver,Last Week Tonight with John Oliver,60694-last-week-tonight-with-john-oliver.json
+93,1,69740,ozark,Ozark,69740-ozark.json
+94,1,1100,how-i-met-your-mother,How I Met Your Mother,1100-how-i-met-your-mother.json
+95,0,31724,code-geass:-lelouch-of-the-rebellion,Code Geass,31724-code-geass-lelouch-of-the-rebellion.json
+96,1,48891,brooklyn-nine-nine,Brooklyn Nine-Nine,48891-brooklyn-nine-nine.json
+97,1,77169,cobra-kai,Cobra Kai,77169-cobra-kai.json
+98,1,1421,modern-family,Modern Family,1421-modern-family.json
+99,1,1407,homeland,Homeland,1407-homeland.json
+100,1,46896,the-originals,The Originals,46896-the-originals.json
+101,1,224372,a-knight-of-the-seven-kingdoms,A Knight of the Seven Kingdoms,224372-a-knight-of-the-seven-kingdoms.json
+102,1,56570,outlander,Outlander,56570-outlander.json
+103,0,33217,young-justice,Young Justice,33217-young-justice.json
+104,0,31132,regular-show,Regular Show,31132-regular-show.json
+105,0,67178,marvel's-the-punisher,The Punisher,67178-marvel-s-the-punisher.json
+106,0,89113,kota-factory,Kota Factory,89113-kota-factory.json
+107,0,72,only-fools-and-horses,Only Fools and Horses,72-only-fools-and-horses.json
+108,1,4087,the-x-files,The X-Files,4087-the-x-files.json
+109,1,1414,the-shield,The Shield,1414-the-shield.json
+110,1,67070,fleabag,Fleabag,67070-fleabag.json
+111,1,4556,scrubs,Scrubs,4556-scrubs.json
+112,1,1940,entourage,Entourage,1940-entourage.json
+113,1,15621,the-newsroom,The Newsroom,15621-the-newsroom.json
+114,0,209867,frieren:-beyond-journey's-end,Frieren: Beyond Journey's End,209867-frieren-beyond-journey-s-end.json
+115,1,10283,archer,Archer,10283-archer.json
+116,0,41727,banshee,Banshee,41727-banshee.json
+117,0,67557,the-grand-tour,The Grand Tour,67557-the-grand-tour.json
+118,1,1406,deadwood,Deadwood,1406-deadwood.json
+119,0,275204,dhindora,Dhindora,275204-dhindora.json
+120,0,42509,steins;gate,Steins;Gate,42509-steins-gate.json
+121,1,60573,silicon-valley,Silicon Valley,60573-silicon-valley.json
+122,0,126308,shōgun,Shōgun,126308-sh-gun.json
+123,1,100088,the-last-of-us,The Last of Us,100088-the-last-of-us.json
+124,0,2207,fawlty-towers,Fawlty Towers,2207-fawlty-towers.json
+125,0,15260,adventure-time,Adventure Time,15260-adventure-time.json
+126,1,60585,bosch,Bosch,60585-bosch.json
+127,0,63180,tvf-pitchers,TVF Pitchers,63180-tvf-pitchers.json
+128,0,83880,our-planet,Our Planet,83880-our-planet.json
+129,0,127532,solo-leveling,Solo Leveling,127532-solo-leveling.json
+130,0,65495,atlanta,Atlanta,65495-atlanta.json
+131,0,4327,mr.-bean,Mr. Bean,4327-mr-bean.json
+132,1,1447,psych,Psych,1447-psych.json
+133,0,240983,sapne-vs-everyone,Sapne Vs Everyone,240983-sapne-vs-everyone.json
+134,0,60863,haikyu!!,Haikyu!!,60863-haikyu.json
+135,0,61662,schitt's-creek,Schitt's Creek,61662-schitt-s-creek.json
+136,0,93352,the-family-man,The Family Man,93352-the-family-man.json
+137,0,30981,monster,Monster,30981-monster.json
+138,1,4278,friday-night-lights,Friday Night Lights,4278-friday-night-lights.json
+139,1,63174,lucifer,Lucifer,63174-lucifer.json
+140,0,70785,anne-with-an-e,Anne with an E,70785-anne-with-an-e.json
+141,1,1404,chuck,Chuck,1404-chuck.json
+142,0,33880,the-legend-of-korra,The Legend of Korra,33880-the-legend-of-korra.json
+143,1,46533,the-americans,The Americans,46533-the-americans.json
+144,0,43982,line-of-duty,Line of Duty,43982-line-of-duty.json
+145,1,301507,heated-rivalry,Heated Rivalry,301507-heated-rivalry.json
+146,1,69478,the-handmaid's-tale,The Handmaid's Tale,69478-the-handmaid-s-tale.json
+147,0,124834,heartstopper,Heartstopper,124834-heartstopper.json
+148,1,94997,house-of-the-dragon,House of the Dragon,94997-house-of-the-dragon.json
+149,1,54344,the-leftovers,The Leftovers,54344-the-leftovers.json
+150,1,615,futurama,Futurama,615-futurama.json
+151,1,57243,doctor-who,Doctor Who,57243-doctor-who.json
+152,0,229429,sandeep-bhaiya,Sandeep Bhaiya,229429-sandeep-bhaiya.json
+153,1,73107,barry,Barry,73107-barry.json
+154,0,83631,what-we-do-in-the-shadows,What We Do in the Shadows,83631-what-we-do-in-the-shadows.json
+155,1,6357,the-twilight-zone,The Twilight Zone,6357-the-twilight-zone.json
+156,0,2723,samurai-jack,Samurai Jack,2723-samurai-jack.json
+157,1,1402,the-walking-dead,The Walking Dead,1402-the-walking-dead.json
+158,1,95,buffy-the-vampire-slayer,Buffy the Vampire Slayer,95-buffy-the-vampire-slayer.json
+159,0,2490,the-it-crowd,The IT Crowd,2490-the-it-crowd.json
+160,1,56296,orphan-black,Orphan Black,56296-orphan-black.json
+161,0,61056,how-to-get-away-with-murder,How to Get Away with Murder,61056-how-to-get-away-with-murder.json
+162,0,65930,my-hero-academia,My Hero Academia,65930-my-hero-academia.json
+163,0,849,monty-python's-flying-circus,Monty Python's Flying Circus,849-monty-python-s-flying-circus.json
+164,1,66292,big-little-lies,Big Little Lies,66292-big-little-lies.json
+165,0,71446,money-heist,Money Heist,71446-money-heist.json
+166,0,815,peep-show,Peep Show,815-peep-show.json
+167,0,4194,star-wars:-the-clone-wars,Star Wars: The Clone Wars,4194-star-wars-the-clone-wars.json
+168,0,31910,naruto-shippūden,Naruto: Shippuden,31910-naruto-shipp-den.json
+169,0,5920,the-mentalist,The Mentalist,5920-the-mentalist.json
+170,0,32962,louie,Louie,32962-louie.json
+171,0,61664,sense8,Sense8,61664-sense8.json
+172,0,67075,mob-psycho-100,Mob Psycho 100,67075-mob-psycho-100.json
+173,0,12971,dragon-ball-z,Dragon Ball Z,12971-dragon-ball-z.json
+174,0,1418,the-big-bang-theory,The Big Bang Theory,1418-the-big-bang-theory.json
+175,0,106379,fallout,Fallout,106379-fallout.json
+176,0,1426,luther,Luther,1426-luther.json
+177,0,45790,jojo's-bizarre-adventure,JoJo's Bizarre Adventure,45790-jojo-s-bizarre-adventure.json
+178,0,85552,euphoria,Euphoria,85552-euphoria.json
+179,0,456,the-simpsons,The Simpsons,456-the-simpsons.json
+180,0,4586,gilmore-girls,Gilmore Girls,4586-gilmore-girls.json
+181,0,35935,berserk,Berserk,35935-berserk.json
+182,0,1419,castle,Castle,1419-castle.json
+183,0,1423,ray-donovan,Ray Donovan,1423-ray-donovan.json
+184,0,47665,black-sails,Black Sails,47665-black-sails.json
+185,0,66573,the-good-place,The Good Place,66573-the-good-place.json
+186,0,713,chappelle's-show,Chappelle's Show,713-chappelle-s-show.json
+187,0,4608,30-rock,30 Rock,4608-30-rock.json
+188,0,1215,californication,Californication,1215-californication.json
+189,0,225180,blue-eye-samurai,Blue Eye Samurai,225180-blue-eye-samurai.json
+190,0,45016,the-bridge,The Bridge,45016-the-bridge.json
+192,0,84958,loki,Loki,84958-loki.json
+193,0,890,neon-genesis-evangelion,Neon Genesis Evangelion,890-neon-genesis-evangelion.json
+194,0,2996,the-office,The Office,2996-the-office.json
+195,0,3796,trailer-park-boys,Trailer Park Boys,3796-trailer-park-boys.json
+196,0,34415,the-killing,The Killing,34415-the-killing.json
+197,0,46786,bates-motel,Bates Motel,46786-bates-motel.json
+198,0,64439,making-a-murderer,Making a Murderer,64439-making-a-murderer.json
+199,0,95480,slow-horses,Slow Horses,95480-slow-horses.json
+200,0,45,top-gear,Top Gear,45-top-gear.json
+201,0,1424,orange-is-the-new-black,Orange Is the New Black,1424-orange-is-the-new-black.json
+202,0,81356,sex-education,Sex Education,81356-sex-education.json
+203,0,655,star-trek:-the-next-generation,Star Trek: The Next Generation,655-star-trek-the-next-generation.json
+204,0,21510,white-collar,White Collar,21510-white-collar.json
+205,0,2947,veep,Veep,2947-veep.json
+206,0,62264,ash-vs-evil-dead,Ash vs Evil Dead,62264-ash-vs-evil-dead.json
+207,0,2734,law-&-order:-special-victims-unit,Law & Order: Special Victims Unit,2734-law-order-special-victims-unit.json
+208,0,37863,fullmetal-alchemist,Fullmetal Alchemist,37863-fullmetal-alchemist.json
+209,0,1435,the-good-wife,The Good Wife,1435-the-good-wife.json
+210,0,54671,penny-dreadful,Penny Dreadful,54671-penny-dreadful.json
+211,0,64513,american-crime-story,American Crime Story,64513-american-crime-story.json
+212,0,79410,after-life,After Life,79410-after-life.json
+213,0,135934,the-legend-of-vox-machina,The Legend of Vox Machina,135934-the-legend-of-vox-machina.json
+214,0,59186,impractical-jokers,Impractical Jokers,59186-impractical-jokers.json
+215,0,4629,stargate-sg-1,Stargate SG-1,4629-stargate-sg-1.json
+216,0,2004,malcolm-in-the-middle,Malcolm in the Middle,2004-malcolm-in-the-middle.json
+217,0,37606,the-amazing-world-of-gumball,The Amazing World of Gumball,37606-the-amazing-world-of-gumball.json
+218,0,1427,broadchurch,Broadchurch,1427-broadchurch.json
+219,0,918,m*a*s*h,M*A*S*H,918-m-a-s-h.json
+220,0,3452,frasier,Frasier,3452-frasier.json
+221,0,4598,boston-legal,Boston Legal,4598-boston-legal.json
+222,0,18165,the-vampire-diaries,The Vampire Diaries,18165-the-vampire-diaries.json
+223,0,34524,teen-wolf,Teen Wolf,34524-teen-wolf.json
+224,0,39351,grimm,Grimm,39351-grimm.json
+225,0,79352,sacred-games,Sacred Games,79352-sacred-games.json
+226,0,71024,castlevania,Castlevania,71024-castlevania.json
+227,0,77994,persona,Persona,77994-persona.json
+228,0,7317,the-inbetweeners,The Inbetweeners,7317-the-inbetweeners.json
+229,0,110492,peacemaker,Peacemaker,110492-peacemaker.json
+230,0,61244,happy-valley,Happy Valley,61244-happy-valley.json
+231,0,62852,billions,Billions,62852-billions.json
+232,0,80968,narcos:-mexico,Narcos: Mexico,80968-narcos-mexico.json
+233,0,100911,asur,Asur: Welcome to Your Dark Side,100911-asur.json
+234,0,60708,gotham,Gotham,60708-gotham.json
+235,0,71578,atypical,Atypical,71578-atypical.json
+236,0,2719,coupling,Coupling,2719-coupling.json
+237,0,4057,criminal-minds,Criminal Minds,4057-criminal-minds.json
+238,0,111110,one-piece,One Piece,111110-one-piece.json
+239,0,1401,hell-on-wheels,Hell on Wheels,1401-hell-on-wheels.json
+240,0,1618,justice-league,Justice League,1618-justice-league.json
+241,0,1877,phineas-and-ferb,Phineas and Ferb,1877-phineas-and-ferb.json
+242,0,2742,flight-of-the-conchords,Flight of the Conchords,2742-flight-of-the-conchords.json
+243,0,65708,taboo,Taboo,65708-taboo.json
+244,0,67195,legion,Legion,67195-legion.json
+245,0,73544,warrior,Warrior,73544-warrior.json
+246,0,76148,derry-girls,Derry Girls,76148-derry-girls.json
+247,0,1695,monk,Monk,1695-monk.json
+250,0,1063,samurai-champloo,Samurai Champloo,1063-samurai-champloo.json

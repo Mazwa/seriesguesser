@@ -1,0 +1,4327 @@
+{
+  "id": "456-the-simpsons",
+  "rank": 179,
+  "answer": "The Simpsons",
+  "sourceUrl": "https://seriesgraph.com/show/456-the-simpsons",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/456",
+    "seasonRatings": "https://seriesgraph.com/api/shows/456/season-ratings"
+  },
+  "years": {
+    "first": 1989,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Homer's Enemy",
+    "season": 8,
+    "episode": 23,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Simpsons Roasting on an Open Fire",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Bart the Genius",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Homer's Odyssey",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "There's No Disgrace Like Home",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Bart the General",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Moaning Lisa",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Call of the Simpsons",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Telltale Head",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Life on the Fast Lane",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Homer's Night Out",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Crepes of Wrath",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Krusty Gets Busted",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Some Enchanted Evening",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bart Gets an F",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Simpson and Delilah",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Treehouse of Horror",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Two Cars in Every Garage and Three Eyes on Every Fish",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Dancin' Homer",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Dead Putting Society",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Bart vs. Thanksgiving",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Bart the Daredevil",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Itchy & Scratchy & Marge",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Bart Gets Hit by a Car",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "One Fish, Two Fish, Blowfish, Blue Fish",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Way We Was",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Homer vs. Lisa and the 8th Commandment",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Principal Charming",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Oh Brother, Where Art Thou?",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Bart's Dog Gets an F",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Old Money",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Brush with Greatness",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Lisa's Substitute",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "The War of the Simpsons",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Three Men and a Comic Book",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Blood Feud",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stark Raving Dad",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Mr. Lisa Goes to Washington",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "When Flanders Failed",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Bart the Murderer",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Homer Defined",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Like Father, Like Clown",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Treehouse of Horror II",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Lisa's Pony",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Saturdays of Thunder",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Flaming Moe's",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Burns Verkaufen der Kraftwerk",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "I Married Marge",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Radio Bart",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Lisa the Greek",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Homer Alone",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Bart the Lover",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Homer at the Bat",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Separate Vocations",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Dog of Death",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Colonel Homer",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Black Widower",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "The Otto Show",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Bart's Friend Falls in Love",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Brother, Can You Spare Two Dimes?",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Kamp Krusty",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "A Streetcar Named Marge",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Homer the Heretic",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Lisa the Beauty Queen",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror III",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Itchy & Scratchy: The Movie",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Marge Gets a Job",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "New Kid on the Block",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Mr. Plow",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Lisa's First Word",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Homer's Triple Bypass",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Marge vs. the Monorail",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Selma's Choice",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Brother from the Same Planet",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "I Love Lisa",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Duffless",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Last Exit to Springfield",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "So It's Come to This: A Simpsons Clip Show",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "The Front",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Whacking Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Marge in Chains",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Krusty Gets Kancelled",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homer's Barbershop Quartet",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Cape Feare",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Homer Goes to College",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Rosebud",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror IV",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Marge on the Lam",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Bart's Inner Child",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Boy Scoutz 'n the Hood",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Last Temptation of Homer",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Homer the Vigilante",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Bart Gets Famous",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Homer and Apu",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Lisa vs. Malibu Stacy",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Deep Space Homer",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Homer Loves Flanders",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Bart Gets an Elephant",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Burns' Heir",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Sweet Seymour Skinner's Baadasssss Song",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "The Boy Who Knew Too Much",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Lady Bouvier's Lover",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Secrets of a Successful Marriage",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bart of Darkness",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Lisa's Rival",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Another Simpsons Clip Show",
+        "rating": 5.7
+      },
+      {
+        "episode": 4,
+        "name": "Itchy & Scratchy Land",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Sideshow Bob Roberts",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Treehouse of Horror V",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Bart's Girlfriend",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Lisa on Ice",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Homer Badman",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Grampa vs. Sexual Inadequacy",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Fear of Flying",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Homer the Great",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "And Maggie Makes Three",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Bart's Comet",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Homie the Clown",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Bart vs. Australia",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Homer vs. Patty and Selma",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "A Star Is Burns",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Lisa's Wedding",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Two Dozen and One Greyhounds",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "The PTA Disbands",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "'Round Springfield",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "The Springfield Connection",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Lemon of Troy",
+        "rating": 8.7
+      },
+      {
+        "episode": 25,
+        "name": "Who Shot Mr. Burns? Part One",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Who Shot Mr. Burns? Part Two",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Radioactive Man",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Home Sweet Home-Dum-Diddly Doodily",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Bart Sells His Soul",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Lisa the Vegetarian",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Treehouse of Horror VI",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "King Size Homer",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Mother Simpson",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Sideshow Bob's Last Gleaming",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Simpsons 138th Episode Spectacular!",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Marge Be Not Proud",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Team Homer",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Two Bad Neighbors",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Scenes from the Class Struggle in Springfield",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Bart the Fink",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Lisa the Iconoclast",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Homer the Smithers",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "The Day the Violence Died",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "A Fish Called Selma",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Bart on the Road",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "22 Short Films About Springfield",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish'",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Much Apu About Nothing",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Homerpalooza",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "Summer of 4'2\"",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror VII",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "You Only Move Twice",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "The Homer They Fall",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Burns, Baby Burns",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Bart After Dark",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "A Milhouse Divided",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Lisa's Date with Density",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Hurricane Neddy",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Mysterious Voyage of Our Homer",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Springfield Files",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "The Twisted World of Marge Simpson",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Mountain of Madness",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Itchy & Scratchy & Poochie Show",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Homer's Phobia",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Brother from Another Series",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "My Sister, My Sitter",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Homer vs. the 18th Amendment",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Grade School Confidential",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Canine Mutiny",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "The Old Man and the Lisa",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "In Marge We Trust",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Homer's Enemy",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "The Simpsons Spin-Off Showcase",
+        "rating": 7.1
+      },
+      {
+        "episode": 25,
+        "name": "The Secret War of Lisa Simpson",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The City of New York vs. Homer Simpson",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "The Principal and the Pauper",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Lisa's Sax",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror VIII",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Cartridge Family",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Bart Star",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Two Mrs. Nahasapeemapetilons",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Lisa the Skeptic",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Realty Bites",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Miracle on Evergreen Terrace",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "All Singing, All Dancing",
+        "rating": 5
+      },
+      {
+        "episode": 12,
+        "name": "Bart Carny",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "The Joy of Sect",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Das Bus",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "The Last Temptation of Krust",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Dumbbell Indemnity",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Lisa the Simpson",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "This Little Wiggy",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Simpson Tide",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Trouble with Trillions",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Girly Edition",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Trash of the Titans",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "King of the Hill",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Lost Our Lisa",
+        "rating": 7.7
+      },
+      {
+        "episode": 25,
+        "name": "Natural Born Kissers",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lard of the Dance",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Wizard of Evergreen Terrace",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Bart the Mother",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror IX",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "When You Dish Upon a Star",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "D'oh-in' in the Wind",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Lisa Gets an 'A'",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Homer Simpson in: 'Kidney Trouble'",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Mayored to the Mob",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Viva Ned Flanders",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Wild Barts Can't Be Broken",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Sunday, Cruddy Sunday",
+        "rating": 7
+      },
+      {
+        "episode": 13,
+        "name": "Homer to the Max",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "I'm with Cupid",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Marge Simpson in: 'Screaming Yellow Honkers'",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Make Room for Lisa",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Maximum Homerdrive",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Simpsons Bible Stories",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Mom and Pop Art",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The Old Man and the 'C' Student",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Monty Can't Buy Me Love",
+        "rating": 7
+      },
+      {
+        "episode": 22,
+        "name": "They Saved Lisa's Brain",
+        "rating": 7.2
+      },
+      {
+        "episode": 23,
+        "name": "Thirty Minutes Over Tokyo",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beyond Blunderdome",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Brother's Little Helper",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Guess Who's Coming to Criticize Dinner?",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror X",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "E-I-E-I-(Annoyed Grunt)",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Hello Gutter, Hello Fadder",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Eight Misbehavin'",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "Take My Wife, Sleaze",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Grift of the Magi",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Little Big Mom",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Faith Off",
+        "rating": 6.8
+      },
+      {
+        "episode": 12,
+        "name": "The Mansion Family",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Saddlesore Galactica",
+        "rating": 6.4
+      },
+      {
+        "episode": 14,
+        "name": "Alone Again, Natura-Diddly",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Missionary: Impossible",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Pygmoelian",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "Bart to the Future",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Days of Wine and D'oh'ses",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Kill the Alligator and Run",
+        "rating": 6.5
+      },
+      {
+        "episode": 20,
+        "name": "Last Tap Dance in Springfield",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "It's a Mad, Mad, Mad, Mad Marge",
+        "rating": 7.1
+      },
+      {
+        "episode": 22,
+        "name": "Behind the Laughter",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror XI",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "A Tale of Two Springfields",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Insane Clown Poppy",
+        "rating": 6.9
+      },
+      {
+        "episode": 4,
+        "name": "Lisa the Treehugger",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Homer vs. Dignity",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "The Computer Wore Menace Shoes",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Great Money Caper",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Skinner's Sense of Snow",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "HOMR",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Pokey Mom",
+        "rating": 7.1
+      },
+      {
+        "episode": 11,
+        "name": "Worst Episode Ever",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Tennis the Menace",
+        "rating": 6.8
+      },
+      {
+        "episode": 13,
+        "name": "Day of the Jackanapes",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "New Kids on the Blecch",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Hungry Hungry Homer",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Bye Bye Nerdy",
+        "rating": 6.6
+      },
+      {
+        "episode": 17,
+        "name": "Simpson Safari",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "Trilogy of Error",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "I'm Goin' to Praiseland",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "Children of a Lesser Clod",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Simpsons Tall Tales",
+        "rating": 6.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror XII",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Parent Rap",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Homer the Moe",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "A Hunka Hunka Burns in Love",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "The Blunder Years",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "She of Little Faith",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Brawl in the Family",
+        "rating": 6.8
+      },
+      {
+        "episode": 8,
+        "name": "Sweets and Sour Marge",
+        "rating": 6.9
+      },
+      {
+        "episode": 9,
+        "name": "Jaws Wired Shut",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Half-Decent Proposal",
+        "rating": 7.2
+      },
+      {
+        "episode": 11,
+        "name": "The Bart Wants What It Wants",
+        "rating": 7
+      },
+      {
+        "episode": 12,
+        "name": "The Lastest Gun in the West",
+        "rating": 6.5
+      },
+      {
+        "episode": 13,
+        "name": "The Old Man and the Key",
+        "rating": 6.5
+      },
+      {
+        "episode": 14,
+        "name": "Tales from the Public Domain",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "Blame It on Lisa",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "Weekend at Burnsie's",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Gump Roast",
+        "rating": 5.4
+      },
+      {
+        "episode": 18,
+        "name": "I Am Furious Yellow",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "The Sweetest Apu",
+        "rating": 6.7
+      },
+      {
+        "episode": 20,
+        "name": "Little Girl in the Big Ten",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "The Frying Game",
+        "rating": 6.9
+      },
+      {
+        "episode": 22,
+        "name": "Papa's Got a Brand New Badge",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror XIII",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "How I Spent My Strummer Vacation",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Bart vs. Lisa vs. 3rd Grade",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Large Marge",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Helter Shelter",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "The Great Louse Detective",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Special Edna",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "The Dad Who Knew Too Little",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "The Strong Arms of the Ma",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "Pray Anything",
+        "rating": 6.7
+      },
+      {
+        "episode": 11,
+        "name": "Barting Over",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "I'm Spelling as Fast as I Can",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "A Star Is Born Again",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "Mr. Spritz Goes to Washington",
+        "rating": 6.8
+      },
+      {
+        "episode": 15,
+        "name": "C.E.D'oh",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "'Scuse Me While I Miss the Sky",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "Three Gays of the Condo",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Dude, Where's My Ranch?",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "Old Yeller-Belly",
+        "rating": 6.6
+      },
+      {
+        "episode": 20,
+        "name": "Brake My Wife, Please",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "The Bart of War",
+        "rating": 6.6
+      },
+      {
+        "episode": 22,
+        "name": "Moe Baby Blues",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror XIV",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "My Mother the Carjacker",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "The President Wore Pearls",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "The Regina Monologues",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "The Fat and the Furriest",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Today, I Am a Clown",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "'Tis the Fifteenth Season",
+        "rating": 7
+      },
+      {
+        "episode": 8,
+        "name": "Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",
+        "rating": 6.6
+      },
+      {
+        "episode": 9,
+        "name": "I, (Annoyed Grunt)-Bot",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Diatribe of a Mad Housewife",
+        "rating": 7.2
+      },
+      {
+        "episode": 11,
+        "name": "Margical History Tour",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Milhouse Doesn't Live Here Anymore",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "Smart & Smarter",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "The Ziff Who Came to Dinner",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "Co-Dependent's Day",
+        "rating": 6.6
+      },
+      {
+        "episode": 16,
+        "name": "The Wandering Juvie",
+        "rating": 7
+      },
+      {
+        "episode": 17,
+        "name": "My Big Fat Geek Wedding",
+        "rating": 6.6
+      },
+      {
+        "episode": 18,
+        "name": "Catch 'Em If You Can",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Simple Simpson",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "The Way We Weren't",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "Bart-Mangled Banner",
+        "rating": 6.3
+      },
+      {
+        "episode": 22,
+        "name": "Fraudcast News",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Treehouse of Horror XV",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "All's Fair in Oven War",
+        "rating": 6.9
+      },
+      {
+        "episode": 3,
+        "name": "Sleeping with the Enemy",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "She Used to Be My Girl",
+        "rating": 6.5
+      },
+      {
+        "episode": 5,
+        "name": "Fat Man and Little Boy",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Midnight Rx",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Mommie Beerest",
+        "rating": 6.8
+      },
+      {
+        "episode": 8,
+        "name": "Homer and Ned's Hail Mary Pass",
+        "rating": 6.2
+      },
+      {
+        "episode": 9,
+        "name": "Pranksta Rap",
+        "rating": 6.5
+      },
+      {
+        "episode": 10,
+        "name": "There's Something About Marrying",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "On a Clear Day I Can't See My Sister",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "Goo Goo Gai Pan",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Mobile Homer",
+        "rating": 6.7
+      },
+      {
+        "episode": 14,
+        "name": "The Seven-Beer Snitch",
+        "rating": 6.7
+      },
+      {
+        "episode": 15,
+        "name": "Future-Drama",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Don't Fear the Roofer",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "The Heartbroke Kid",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "A Star Is Torn",
+        "rating": 6.7
+      },
+      {
+        "episode": 19,
+        "name": "Thank God It's Doomsday",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "Home Away from Homer",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "The Father, the Son, and the Holy Guest Star",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Bonfire of the Manatees",
+        "rating": 6.2
+      },
+      {
+        "episode": 2,
+        "name": "The Girl Who Slept Too Little",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Milhouse of Sand and Fog",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XVI",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Marge's Son Poisoning",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "See Homer Run",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "The Last of the Red Hat Mamas",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "The Italian Bob",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Simpsons Christmas Stories",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "Homer's Paternity Coot",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "We're on the Road to D'ohwhere",
+        "rating": 6.9
+      },
+      {
+        "episode": 12,
+        "name": "My Fair Laddy",
+        "rating": 6.5
+      },
+      {
+        "episode": 13,
+        "name": "The Seemingly Never-Ending Story",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Bart Has Two Mommies",
+        "rating": 7
+      },
+      {
+        "episode": 15,
+        "name": "Homer Simpson, This Is Your Wife",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "Million Dollar Abie",
+        "rating": 6.2
+      },
+      {
+        "episode": 17,
+        "name": "Kiss Kiss, Bang Bangalore",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "The Wettest Stories Ever Told",
+        "rating": 6.6
+      },
+      {
+        "episode": 19,
+        "name": "Girls Just Want to Have Sums",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "Regarding Margie",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "The Monkey Suit",
+        "rating": 7.1
+      },
+      {
+        "episode": 22,
+        "name": "Homer and Marge Turn a Couple Play",
+        "rating": 6.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Mook, the Chef, the Wife and Her Homer",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Jazzy & The Pussycats",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Please Homer, Don't Hammer 'Em",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XVII",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "G.I. (Annoyed Grunt)",
+        "rating": 6.7
+      },
+      {
+        "episode": 6,
+        "name": "Moe'N'a Lisa",
+        "rating": 6.7
+      },
+      {
+        "episode": 7,
+        "name": "Ice Cream of Margie (with the Light Blue Hair)",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "The Haw-Hawed Couple",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Kill Gil, Vol. 1 & 2",
+        "rating": 6.2
+      },
+      {
+        "episode": 10,
+        "name": "The Wife Aquatic",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Revenge Is a Dish Best Served Three Times",
+        "rating": 6.9
+      },
+      {
+        "episode": 12,
+        "name": "Little Big Girl",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Springfield Up",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Yokel Chords",
+        "rating": 6.8
+      },
+      {
+        "episode": 15,
+        "name": "Rome-old and Juli-eh",
+        "rating": 6.3
+      },
+      {
+        "episode": 16,
+        "name": "Homerazzi",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "Marge Gamer",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "The Boys of Bummer",
+        "rating": 5.8
+      },
+      {
+        "episode": 19,
+        "name": "Crook and Ladder",
+        "rating": 6.9
+      },
+      {
+        "episode": 20,
+        "name": "Stop, or My Dog Will Shoot!",
+        "rating": 6.8
+      },
+      {
+        "episode": 21,
+        "name": "24 Minutes",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "You Kent Always Say What You Want",
+        "rating": 7.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "He Loves to Fly and He D'ohs",
+        "rating": 6.6
+      },
+      {
+        "episode": 2,
+        "name": "Homer of Seville",
+        "rating": 6.5
+      },
+      {
+        "episode": 3,
+        "name": "Midnight Towboy",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "I Don't Wanna Know Why the Caged Bird Sings",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror XVIII",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Little Orphan Millie",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Husbands and Knives",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "Funeral for a Fiend",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Eternal Moonshine of the Simpson Mind",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "E Pluribus Wiggum",
+        "rating": 6.7
+      },
+      {
+        "episode": 11,
+        "name": "That '90s Show",
+        "rating": 6.3
+      },
+      {
+        "episode": 12,
+        "name": "Love, Springfieldian Style",
+        "rating": 6.5
+      },
+      {
+        "episode": 13,
+        "name": "The DeBarted",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Dial 'N' for Nerder",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Smoke on the Daughter",
+        "rating": 6.6
+      },
+      {
+        "episode": 16,
+        "name": "Papa Don't Leech",
+        "rating": 6
+      },
+      {
+        "episode": 17,
+        "name": "Apocalypse Cow",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "Any Given Sundance",
+        "rating": 7
+      },
+      {
+        "episode": 19,
+        "name": "Mona Leaves-a",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "All About Lisa",
+        "rating": 6.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sex, Pies and Idiot Scrapes",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Lost Verizon",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Double, Double, Boy in Trouble",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XIX",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Dangerous Curves",
+        "rating": 6.5
+      },
+      {
+        "episode": 6,
+        "name": "Homer and Lisa Exchange Cross Words",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "MyPods and Boomsticks",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "The Burns and the Bees",
+        "rating": 6.5
+      },
+      {
+        "episode": 9,
+        "name": "Lisa the Drama Queen",
+        "rating": 6
+      },
+      {
+        "episode": 10,
+        "name": "Take My Life, Please",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "How the Test Was Won",
+        "rating": 7
+      },
+      {
+        "episode": 12,
+        "name": "No Loan Again, Naturally",
+        "rating": 6.8
+      },
+      {
+        "episode": 13,
+        "name": "Gone Maggie Gone",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "In the Name of the Grandfather",
+        "rating": 6.3
+      },
+      {
+        "episode": 15,
+        "name": "Wedding for Disaster",
+        "rating": 6.5
+      },
+      {
+        "episode": 16,
+        "name": "Eeny Teeny Maya Moe",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "The Good, the Sad and the Drugly",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Father Knows Worst",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "Waverly Hills, 9021-D'Oh",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "Four Great Women and a Manicure",
+        "rating": 6.4
+      },
+      {
+        "episode": 21,
+        "name": "Coming to Homerica",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homer the Whopper",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Bart Gets a 'Z'",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "The Great Wife Hope",
+        "rating": 6.3
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XX",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Devil Wears Nada",
+        "rating": 6.6
+      },
+      {
+        "episode": 6,
+        "name": "Pranks and Greens",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Rednecks and Broomsticks",
+        "rating": 6.7
+      },
+      {
+        "episode": 8,
+        "name": "Oh Brother, Where Bart Thou?",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Thursdays with Abie",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "Once Upon a Time in Springfield",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Million Dollar Maybe",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Boy Meets Curl",
+        "rating": 6.8
+      },
+      {
+        "episode": 13,
+        "name": "The Color Yellow",
+        "rating": 6.5
+      },
+      {
+        "episode": 14,
+        "name": "Postcards from the Wedge",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "Stealing First Base",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "The Greatest Story Ever D'ohed",
+        "rating": 5.6
+      },
+      {
+        "episode": 17,
+        "name": "American History X-cellent",
+        "rating": 6.5
+      },
+      {
+        "episode": 18,
+        "name": "Chief of Hearts",
+        "rating": 6.8
+      },
+      {
+        "episode": 19,
+        "name": "The Squirt and the Whale",
+        "rating": 6.8
+      },
+      {
+        "episode": 20,
+        "name": "To Surveil, with Love",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "Moe Letter Blues",
+        "rating": 6.9
+      },
+      {
+        "episode": 22,
+        "name": "The Bob Next Door",
+        "rating": 7.3
+      },
+      {
+        "episode": 23,
+        "name": "Judge Me Tender",
+        "rating": 6.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Elementary School Musical",
+        "rating": 6.1
+      },
+      {
+        "episode": 2,
+        "name": "Loan-a Lisa",
+        "rating": 6.7
+      },
+      {
+        "episode": 3,
+        "name": "MoneyBart",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXI",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Lisa Simpson, This Isn't Your Life",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "The Fool Monty",
+        "rating": 6.5
+      },
+      {
+        "episode": 7,
+        "name": "How Munched Is That Birdie in the Window?",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "The Fight Before Christmas",
+        "rating": 6.7
+      },
+      {
+        "episode": 9,
+        "name": "Donnie Fatso",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "Moms I'd Like to Forget",
+        "rating": 6.3
+      },
+      {
+        "episode": 11,
+        "name": "Flaming Moe",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "Homer the Father",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "The Blue and the Gray",
+        "rating": 6.7
+      },
+      {
+        "episode": 14,
+        "name": "Angry Dad: The Movie",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "The Scorpion's Tale",
+        "rating": 6.6
+      },
+      {
+        "episode": 16,
+        "name": "A Midsummer's Nice Dreams",
+        "rating": 6
+      },
+      {
+        "episode": 17,
+        "name": "Love Is a Many Strangled Thing",
+        "rating": 6.1
+      },
+      {
+        "episode": 18,
+        "name": "The Great Simpsina",
+        "rating": 6.8
+      },
+      {
+        "episode": 19,
+        "name": "The Real Housewives of Fat Tony",
+        "rating": 6.5
+      },
+      {
+        "episode": 20,
+        "name": "Homer Scissorhands",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "500 Keys",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "The Ned-Liest Catch",
+        "rating": 7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Falcon and the D'Ohman",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "Bart Stops to Smell the Roosevelts",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Treehouse of Horror XXII",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Replaceable You",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "The Food Wife",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "The Book Job",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Man in the Blue Flannel Pants",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "The Ten-Per-Cent Solution",
+        "rating": 6.1
+      },
+      {
+        "episode": 9,
+        "name": "Holidays of Future Passed",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Politically Inept, with Homer Simpson",
+        "rating": 6
+      },
+      {
+        "episode": 11,
+        "name": "The D'oh-cial Network",
+        "rating": 6.9
+      },
+      {
+        "episode": 12,
+        "name": "Moe Goes from Rags to Riches",
+        "rating": 5.7
+      },
+      {
+        "episode": 13,
+        "name": "The Daughter Also Rises",
+        "rating": 6.3
+      },
+      {
+        "episode": 14,
+        "name": "At Long Last Leave",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "Exit Through the Kwik-E-Mart",
+        "rating": 6.8
+      },
+      {
+        "episode": 16,
+        "name": "How I Wet Your Mother",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Them, Robot",
+        "rating": 6.9
+      },
+      {
+        "episode": 18,
+        "name": "Beware My Cheating Bart",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "A Totally Fun Thing Bart Will Never Do Again",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The Spy Who Learned Me",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Ned 'N Edna's Blend Agenda",
+        "rating": 6.6
+      },
+      {
+        "episode": 22,
+        "name": "Lisa Goes Gaga",
+        "rating": 4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Moonshine River",
+        "rating": 6.3
+      },
+      {
+        "episode": 2,
+        "name": "Treehouse of Horror XXIII",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Adventures in Baby-Getting",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "Gone Abie Gone",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Penny-Wiseguys",
+        "rating": 6.3
+      },
+      {
+        "episode": 6,
+        "name": "A Tree Grows in Springfield",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "The Day the Earth Stood Cool",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "To Cur with Love",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Homer Goes to Prep School",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "A Test Before Trying",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "Changing of the Guardian",
+        "rating": 6.4
+      },
+      {
+        "episode": 12,
+        "name": "Love Is a Many Splintered Thing",
+        "rating": 6.2
+      },
+      {
+        "episode": 13,
+        "name": "Hardly Kirk-ing",
+        "rating": 7
+      },
+      {
+        "episode": 14,
+        "name": "Gorgeous Grampa",
+        "rating": 6.2
+      },
+      {
+        "episode": 15,
+        "name": "Black-Eyed, Please",
+        "rating": 6.9
+      },
+      {
+        "episode": 16,
+        "name": "Dark Knight Court",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "What Animated Women Want",
+        "rating": 6.4
+      },
+      {
+        "episode": 18,
+        "name": "Pulpit Friction",
+        "rating": 6.4
+      },
+      {
+        "episode": 19,
+        "name": "Whiskey Business",
+        "rating": 6.7
+      },
+      {
+        "episode": 20,
+        "name": "The Fabulous Faker Boy",
+        "rating": 6.2
+      },
+      {
+        "episode": 21,
+        "name": "The Saga of Carl",
+        "rating": 7
+      },
+      {
+        "episode": 22,
+        "name": "Dangers on a Train",
+        "rating": 7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homerland",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "Treehouse of Horror XXIV",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Four Regrettings and a Funeral",
+        "rating": 6.3
+      },
+      {
+        "episode": 4,
+        "name": "YOLO",
+        "rating": 6.5
+      },
+      {
+        "episode": 5,
+        "name": "Labor Pains",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "The Kid Is All Right",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "Yellow Subterfuge",
+        "rating": 6.7
+      },
+      {
+        "episode": 8,
+        "name": "White Christmas Blues",
+        "rating": 6.4
+      },
+      {
+        "episode": 9,
+        "name": "Steal This Episode",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Married to the Blob",
+        "rating": 6.8
+      },
+      {
+        "episode": 11,
+        "name": "Specs and the City",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Diggs",
+        "rating": 6.3
+      },
+      {
+        "episode": 13,
+        "name": "The Man Who Grew Too Much",
+        "rating": 6.6
+      },
+      {
+        "episode": 14,
+        "name": "The Winter of His Content",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "The War of Art",
+        "rating": 6.9
+      },
+      {
+        "episode": 16,
+        "name": "You Don't Have to Live Like a Referee",
+        "rating": 6.7
+      },
+      {
+        "episode": 17,
+        "name": "Luca$",
+        "rating": 6.3
+      },
+      {
+        "episode": 18,
+        "name": "Days of Future Future",
+        "rating": 7
+      },
+      {
+        "episode": 19,
+        "name": "What to Expect When Bart's Expecting",
+        "rating": 5.8
+      },
+      {
+        "episode": 20,
+        "name": "Brick Like Me",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Pay Pal",
+        "rating": 6.5
+      },
+      {
+        "episode": 22,
+        "name": "The Yellow Badge of Cowardge",
+        "rating": 6.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Clown in the Dumps",
+        "rating": 5.7
+      },
+      {
+        "episode": 2,
+        "name": "The Wreck of the Relationship",
+        "rating": 6.7
+      },
+      {
+        "episode": 3,
+        "name": "Super Franchise Me",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXV",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Opposites A-Frack",
+        "rating": 6.3
+      },
+      {
+        "episode": 6,
+        "name": "Simpsorama",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Blazed and Confused",
+        "rating": 6.8
+      },
+      {
+        "episode": 8,
+        "name": "Covercraft",
+        "rating": 6.4
+      },
+      {
+        "episode": 9,
+        "name": "I Won't Be Home for Christmas",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "The Man Who Came to Be Dinner",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "Bart's New Friend",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "The Musk Who Fell to Earth",
+        "rating": 5
+      },
+      {
+        "episode": 13,
+        "name": "Walking Big & Tall",
+        "rating": 6.2
+      },
+      {
+        "episode": 14,
+        "name": "My Fare Lady",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "The Princess Guide",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "Sky Police",
+        "rating": 6.7
+      },
+      {
+        "episode": 17,
+        "name": "Waiting for Duffman",
+        "rating": 6.6
+      },
+      {
+        "episode": 18,
+        "name": "Peeping Mom",
+        "rating": 6.6
+      },
+      {
+        "episode": 19,
+        "name": "The Kids Are All Fight",
+        "rating": 6.7
+      },
+      {
+        "episode": 20,
+        "name": "Let's Go Fly a Coot",
+        "rating": 6
+      },
+      {
+        "episode": 21,
+        "name": "Bull-E",
+        "rating": 6.5
+      },
+      {
+        "episode": 22,
+        "name": "Mathlete's Feat",
+        "rating": 6.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Every Man's Dream",
+        "rating": 5.6
+      },
+      {
+        "episode": 2,
+        "name": "'Cue Detective",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Puffless",
+        "rating": 6.9
+      },
+      {
+        "episode": 4,
+        "name": "Halloween of Horror",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror XXVI",
+        "rating": 6.5
+      },
+      {
+        "episode": 6,
+        "name": "Friend with Benefit",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Lisa with an \"S\"",
+        "rating": 5.9
+      },
+      {
+        "episode": 8,
+        "name": "Paths of Glory",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Barthood",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Girl Code",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "Teenage Mutant Milk-Caused Hurdles",
+        "rating": 6.5
+      },
+      {
+        "episode": 12,
+        "name": "Much Apu About Something",
+        "rating": 6.4
+      },
+      {
+        "episode": 13,
+        "name": "Love Is in the N2-O2-Ar-CO2-Ne-He-CH4",
+        "rating": 6.3
+      },
+      {
+        "episode": 14,
+        "name": "Gal of Constant Sorrow",
+        "rating": 6.5
+      },
+      {
+        "episode": 15,
+        "name": "Lisa the Veterinarian",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "The Marge-ian Chronicles",
+        "rating": 7
+      },
+      {
+        "episode": 17,
+        "name": "The Burns Cage",
+        "rating": 6.4
+      },
+      {
+        "episode": 18,
+        "name": "How Lisa Got Her Marge Back",
+        "rating": 6.2
+      },
+      {
+        "episode": 19,
+        "name": "Fland Canyon",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "To Courier with Love",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Simprovised",
+        "rating": 6.3
+      },
+      {
+        "episode": 22,
+        "name": "Orange Is the New Yellow",
+        "rating": 6.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Monty Burns' Fleeing Circus",
+        "rating": 6.1
+      },
+      {
+        "episode": 2,
+        "name": "Friends and Family",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "The Town",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXVII",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Trust But Clarify",
+        "rating": 6.2
+      },
+      {
+        "episode": 6,
+        "name": "There Will Be Buds",
+        "rating": 6.6
+      },
+      {
+        "episode": 7,
+        "name": "Havana Wild Weekend",
+        "rating": 6.2
+      },
+      {
+        "episode": 8,
+        "name": "Dad Behavior",
+        "rating": 6.5
+      },
+      {
+        "episode": 9,
+        "name": "The Last Traction Hero",
+        "rating": 6.3
+      },
+      {
+        "episode": 10,
+        "name": "The Nightmare After Krustmas",
+        "rating": 5.9
+      },
+      {
+        "episode": 11,
+        "name": "Pork and Burns",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "The Great Phatsby",
+        "rating": 6.1
+      },
+      {
+        "episode": 13,
+        "name": "The Great Phatsby: Part 2",
+        "rating": 6.5
+      },
+      {
+        "episode": 14,
+        "name": "Fatzcarraldo",
+        "rating": 6.3
+      },
+      {
+        "episode": 15,
+        "name": "The Cad and the Hat",
+        "rating": 6.5
+      },
+      {
+        "episode": 16,
+        "name": "Kamp Krustier",
+        "rating": 6.5
+      },
+      {
+        "episode": 17,
+        "name": "22 for 30",
+        "rating": 6.5
+      },
+      {
+        "episode": 18,
+        "name": "A Father's Watch",
+        "rating": 6.8
+      },
+      {
+        "episode": 19,
+        "name": "The Caper Chase",
+        "rating": 6.1
+      },
+      {
+        "episode": 20,
+        "name": "Looking for Mr. Goodbart",
+        "rating": 6.8
+      },
+      {
+        "episode": 21,
+        "name": "Moho House",
+        "rating": 6.1
+      },
+      {
+        "episode": 22,
+        "name": "Dogtown",
+        "rating": 6.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Serfsons",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "Springfield Splendor",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Whistler's Father",
+        "rating": 6.1
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXVIII",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Grampy Can Ya Hear Me",
+        "rating": 6.4
+      },
+      {
+        "episode": 6,
+        "name": "The Old Blue Mayor She Ain't What She Used To Be",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "Singin' in the Lane",
+        "rating": 6.4
+      },
+      {
+        "episode": 8,
+        "name": "Mr. Lisa's Opus",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Gone Boy",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Haw-Haw Land",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Frink Gets Testy",
+        "rating": 6.3
+      },
+      {
+        "episode": 12,
+        "name": "Homer is Where the Art Isn't",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "3 Scenes Plus a Tag from a Marriage",
+        "rating": 6.6
+      },
+      {
+        "episode": 14,
+        "name": "Fears of a Clown",
+        "rating": 6
+      },
+      {
+        "episode": 15,
+        "name": "No Good Read Goes Unpunished",
+        "rating": 6.3
+      },
+      {
+        "episode": 16,
+        "name": "King Leer",
+        "rating": 6.3
+      },
+      {
+        "episode": 17,
+        "name": "Lisa Gets the Blues",
+        "rating": 6.7
+      },
+      {
+        "episode": 18,
+        "name": "Forgive and Regret",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Left Behind",
+        "rating": 6.7
+      },
+      {
+        "episode": 20,
+        "name": "Throw Grampa from the Dane",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Flanders' Ladder",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bart's Not Dead",
+        "rating": 6.3
+      },
+      {
+        "episode": 2,
+        "name": "Heartbreak Hotel",
+        "rating": 6.1
+      },
+      {
+        "episode": 3,
+        "name": "My Way or the Highway to Heaven",
+        "rating": 6.2
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXIX",
+        "rating": 6
+      },
+      {
+        "episode": 5,
+        "name": "Baby You Can't Drive My Car",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "From Russia Without Love",
+        "rating": 6.5
+      },
+      {
+        "episode": 7,
+        "name": "Werking Mom",
+        "rating": 5.8
+      },
+      {
+        "episode": 8,
+        "name": "Krusty the Clown",
+        "rating": 6.4
+      },
+      {
+        "episode": 9,
+        "name": "Daddicus Finch",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "'Tis the 30th Season",
+        "rating": 6.7
+      },
+      {
+        "episode": 11,
+        "name": "Mad About the Toy",
+        "rating": 6
+      },
+      {
+        "episode": 12,
+        "name": "The Girl on the Bus",
+        "rating": 6.5
+      },
+      {
+        "episode": 13,
+        "name": "I'm Dancing as Fat as I Can",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "The Clown Stays in the Picture",
+        "rating": 6.2
+      },
+      {
+        "episode": 15,
+        "name": "101 Mitigations",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "I Want You (She's So Heavy)",
+        "rating": 5.8
+      },
+      {
+        "episode": 17,
+        "name": "E My Sports",
+        "rating": 6.4
+      },
+      {
+        "episode": 18,
+        "name": "Bart vs. Itchy & Scratchy",
+        "rating": 5.1
+      },
+      {
+        "episode": 19,
+        "name": "Girl's in the Band",
+        "rating": 6.5
+      },
+      {
+        "episode": 20,
+        "name": "I'm Just a Girl Who Can't Say D'oh",
+        "rating": 5.6
+      },
+      {
+        "episode": 21,
+        "name": "D'oh Canada",
+        "rating": 5.8
+      },
+      {
+        "episode": 22,
+        "name": "Woo-Hoo Dunnit?",
+        "rating": 6.3
+      },
+      {
+        "episode": 23,
+        "name": "Crystal Blue-Haired Persuasion",
+        "rating": 6.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Winter of Our Monetized Content",
+        "rating": 5.9
+      },
+      {
+        "episode": 2,
+        "name": "Go Big or Go Homer",
+        "rating": 6
+      },
+      {
+        "episode": 3,
+        "name": "The Fat Blue Line",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXX",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Gorillas on the Mast",
+        "rating": 6.3
+      },
+      {
+        "episode": 6,
+        "name": "Marge the Lumberjill",
+        "rating": 5.7
+      },
+      {
+        "episode": 7,
+        "name": "Livin la Pura Vida",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "Thanksgiving of Horror",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Todd, Todd, Why Hast Thou Forsaken Me?",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "Bobby, It's Cold Outside",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Hail to the Teeth",
+        "rating": 6.1
+      },
+      {
+        "episode": 12,
+        "name": "The Miseducation of Lisa Simpson",
+        "rating": 6.6
+      },
+      {
+        "episode": 13,
+        "name": "Frinkcoin",
+        "rating": 6
+      },
+      {
+        "episode": 14,
+        "name": "Bart the Bad Guy",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Screenless",
+        "rating": 6.6
+      },
+      {
+        "episode": 16,
+        "name": "Better Off Ned",
+        "rating": 6.5
+      },
+      {
+        "episode": 17,
+        "name": "Highway to Well",
+        "rating": 6.9
+      },
+      {
+        "episode": 18,
+        "name": "The Incredible Lightness of Being a Baby",
+        "rating": 6.4
+      },
+      {
+        "episode": 19,
+        "name": "Warrin' Priests: Part 1",
+        "rating": 6.1
+      },
+      {
+        "episode": 20,
+        "name": "Warrin' Priests: Part 2",
+        "rating": 5.7
+      },
+      {
+        "episode": 21,
+        "name": "The Hateful Eight-Year-Olds",
+        "rating": 6.6
+      },
+      {
+        "episode": 22,
+        "name": "The Way of the Dog",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Undercover Burns",
+        "rating": 6.5
+      },
+      {
+        "episode": 2,
+        "name": "I, Carumbus",
+        "rating": 6.8
+      },
+      {
+        "episode": 3,
+        "name": "Now Museum, Now You Don't",
+        "rating": 5.8
+      },
+      {
+        "episode": 4,
+        "name": "Treehouse of Horror XXXI",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "The 7 Beer Itch",
+        "rating": 5.7
+      },
+      {
+        "episode": 6,
+        "name": "Podcast News",
+        "rating": 6.7
+      },
+      {
+        "episode": 7,
+        "name": "Three Dreams Denied",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "The Road to Cincinnati",
+        "rating": 6.6
+      },
+      {
+        "episode": 9,
+        "name": "Sorry Not Sorry",
+        "rating": 6.3
+      },
+      {
+        "episode": 10,
+        "name": "A Springfield Summer Christmas for Christmas",
+        "rating": 6.3
+      },
+      {
+        "episode": 11,
+        "name": "The Dad-Feelings Limited",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Diary Queen",
+        "rating": 7
+      },
+      {
+        "episode": 13,
+        "name": "Wad Goals",
+        "rating": 6.4
+      },
+      {
+        "episode": 14,
+        "name": "Yokel Hero",
+        "rating": 5.6
+      },
+      {
+        "episode": 15,
+        "name": "Do Pizza Bots Dream of Electric Guitars",
+        "rating": 5.9
+      },
+      {
+        "episode": 16,
+        "name": "Manger Things",
+        "rating": 6.4
+      },
+      {
+        "episode": 17,
+        "name": "Uncut Femmes",
+        "rating": 6.6
+      },
+      {
+        "episode": 18,
+        "name": "Burger Kings",
+        "rating": 6.7
+      },
+      {
+        "episode": 19,
+        "name": "Panic on the Streets of Springfield",
+        "rating": 6.4
+      },
+      {
+        "episode": 20,
+        "name": "Mother and Child Reunion",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "The Man from G.R.A.M.P.A.",
+        "rating": 6.3
+      },
+      {
+        "episode": 22,
+        "name": "The Last Barfighter",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Star of the Backstage",
+        "rating": 4.3
+      },
+      {
+        "episode": 2,
+        "name": "Bart's in Jail!",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "Treehouse of Horror XXXII",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "The Wayz We Were",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Lisa's Belly",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "A Serious Flanders",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "A Serious Flanders: Part 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Portrait of a Lackey on Fire",
+        "rating": 6.2
+      },
+      {
+        "episode": 9,
+        "name": "Mothers and Other Strangers",
+        "rating": 6.3
+      },
+      {
+        "episode": 10,
+        "name": "A Made Maggie",
+        "rating": 7
+      },
+      {
+        "episode": 11,
+        "name": "The Longest Marge",
+        "rating": 5.8
+      },
+      {
+        "episode": 12,
+        "name": "Pixelated and Afraid",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Boyz N the Highlands",
+        "rating": 6.8
+      },
+      {
+        "episode": 14,
+        "name": "You Won't Believe What This Episode Is About - Act Three Will Shock You!",
+        "rating": 6.6
+      },
+      {
+        "episode": 15,
+        "name": "Bart the Cool Kid",
+        "rating": 6.4
+      },
+      {
+        "episode": 16,
+        "name": "Pretty Whittle Liar",
+        "rating": 6.2
+      },
+      {
+        "episode": 17,
+        "name": "The Sound of Bleeding Gums",
+        "rating": 5.8
+      },
+      {
+        "episode": 18,
+        "name": "My Octopus and a Teacher",
+        "rating": 6.6
+      },
+      {
+        "episode": 19,
+        "name": "Girls Just Shauna Have Fun",
+        "rating": 6.6
+      },
+      {
+        "episode": 20,
+        "name": "Marge the Meanie",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Meat Is Murder",
+        "rating": 6.1
+      },
+      {
+        "episode": 22,
+        "name": "Poorhouse Rock",
+        "rating": 6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Habeas Tortoise",
+        "rating": 6.6
+      },
+      {
+        "episode": 2,
+        "name": "One Angry Lisa",
+        "rating": 6.4
+      },
+      {
+        "episode": 3,
+        "name": "Lisa the Boy Scout",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "The King of Nice",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Not It",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Treehouse of Horror XXXIII",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "From Beer to Paternity",
+        "rating": 6.4
+      },
+      {
+        "episode": 8,
+        "name": "Step Brother from the Same Planet",
+        "rating": 6.5
+      },
+      {
+        "episode": 9,
+        "name": "When Nelson Met Lisa",
+        "rating": 5.9
+      },
+      {
+        "episode": 10,
+        "name": "Game Done Changed",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "Top Goon",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "My Life as a Vlog",
+        "rating": 5.9
+      },
+      {
+        "episode": 13,
+        "name": "The Many Saints of Springfield",
+        "rating": 6.5
+      },
+      {
+        "episode": 14,
+        "name": "Carl Carlson Rides Again",
+        "rating": 6.2
+      },
+      {
+        "episode": 15,
+        "name": "Bartless",
+        "rating": 6.9
+      },
+      {
+        "episode": 16,
+        "name": "Hostile Kirk Place",
+        "rating": 6.1
+      },
+      {
+        "episode": 17,
+        "name": "Pin Gal",
+        "rating": 6.4
+      },
+      {
+        "episode": 18,
+        "name": "Fan-ily Feud",
+        "rating": 5.5
+      },
+      {
+        "episode": 19,
+        "name": "Write Off This Episode",
+        "rating": 5.9
+      },
+      {
+        "episode": 20,
+        "name": "The Very Hungry Caterpillars",
+        "rating": 6.8
+      },
+      {
+        "episode": 21,
+        "name": "Clown v. Board of Education",
+        "rating": 6.3
+      },
+      {
+        "episode": 22,
+        "name": "Homer's Adventures Through the Windshield Glass",
+        "rating": 5.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homer's Crossing",
+        "rating": 6.7
+      },
+      {
+        "episode": 2,
+        "name": "A Mid-Childhood Night's Dream",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "McMansion & Wife",
+        "rating": 6.3
+      },
+      {
+        "episode": 4,
+        "name": "Thirst Trap: A Corporate Love Story",
+        "rating": 6
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror XXXIV",
+        "rating": 7
+      },
+      {
+        "episode": 6,
+        "name": "Iron Marge",
+        "rating": 6.9
+      },
+      {
+        "episode": 7,
+        "name": "It's a Blunderful Life",
+        "rating": 6.4
+      },
+      {
+        "episode": 8,
+        "name": "Ae Bonny Romance",
+        "rating": 6.3
+      },
+      {
+        "episode": 9,
+        "name": "Murder, She Boat",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "Do the Wrong Thing",
+        "rating": 6.5
+      },
+      {
+        "episode": 11,
+        "name": "Frinkenstein's Monster",
+        "rating": 6.2
+      },
+      {
+        "episode": 12,
+        "name": "Lisa Gets an F1",
+        "rating": 6.3
+      },
+      {
+        "episode": 13,
+        "name": "Clan of the Cave Mom",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "Night of the Living Wage",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "Cremains of the Day",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "The Tell-Tale Pants",
+        "rating": 6.3
+      },
+      {
+        "episode": 17,
+        "name": "The Tipping Point",
+        "rating": 6.2
+      },
+      {
+        "episode": 18,
+        "name": "Bart's Brain",
+        "rating": 6.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bart's Birthday",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Yellow Lotus",
+        "rating": 6.6
+      },
+      {
+        "episode": 3,
+        "name": "Desperately Seeking Lisa",
+        "rating": 5.8
+      },
+      {
+        "episode": 4,
+        "name": "Shoddy Heat",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Treehouse of Horror XXXV",
+        "rating": 6.4
+      },
+      {
+        "episode": 6,
+        "name": "Women in Shorts",
+        "rating": 5.7
+      },
+      {
+        "episode": 7,
+        "name": "Treehouse of Horror Presents: Simpsons Wicked This Way Comes",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "Convenience Airways",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Homer and Her Sisters",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "O C'mon All Ye Faithful",
+        "rating": 6.7
+      },
+      {
+        "episode": 11,
+        "name": "The Man Who Flew Too Much",
+        "rating": 6
+      },
+      {
+        "episode": 12,
+        "name": "Bottle Episode",
+        "rating": 6.5
+      },
+      {
+        "episode": 13,
+        "name": "The Past and the Furious",
+        "rating": 6.5
+      },
+      {
+        "episode": 14,
+        "name": "The Flandshees of Innersimpson",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "The Last Man Expanding",
+        "rating": 6.7
+      },
+      {
+        "episode": 16,
+        "name": "P.S. I Hate You",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "Yellow Planet",
+        "rating": 6.1
+      },
+      {
+        "episode": 18,
+        "name": "Abe League of Their Moe",
+        "rating": 6.5
+      },
+      {
+        "episode": 19,
+        "name": "Stew Lies",
+        "rating": 6.3
+      },
+      {
+        "episode": 20,
+        "name": "Full Heart, Empty Pool",
+        "rating": 6.4
+      },
+      {
+        "episode": 21,
+        "name": "Estranger Things",
+        "rating": 6.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Thrifty Ways to Thieve Your Mother",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "Keep Chalm and Gary On",
+        "rating": 6.7
+      },
+      {
+        "episode": 3,
+        "name": "Treehouse of Horror XXXVI",
+        "rating": 6.4
+      },
+      {
+        "episode": 4,
+        "name": "Men Behaving Manly",
+        "rating": 5.3
+      },
+      {
+        "episode": 5,
+        "name": "Bad Boys... For Life?",
+        "rating": 6.6
+      },
+      {
+        "episode": 6,
+        "name": "Bart 'N' Frink",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Sashes to Sashes",
+        "rating": 6.5
+      },
+      {
+        "episode": 8,
+        "name": "The Day of the Jack-up",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Aunt Misbehavin'",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "Guess Who's Coming to Skinner",
+        "rating": 6.8
+      },
+      {
+        "episode": 11,
+        "name": "Parahormonal Activity",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "¡The Fall Guy-Yi-Yi!",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Seperance",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Irrational Treasure",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Homer? A Cracker Bro?",
+        "rating": 7.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #38.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #38.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #38.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #38.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #38.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #38.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #38.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #38.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #38.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #38.10"
+      },
+      {
+        "episode": 11,
+        "name": "Episode #38.11"
+      },
+      {
+        "episode": 12,
+        "name": "Episode #38.12"
+      },
+      {
+        "episode": 13,
+        "name": "Episode #38.13"
+      },
+      {
+        "episode": 14,
+        "name": "Episode #38.14"
+      },
+      {
+        "episode": 15,
+        "name": "Episode #38.15"
+      },
+      {
+        "episode": 16,
+        "name": "Episode #38.16"
+      },
+      {
+        "episode": 17,
+        "name": "Episode #38.17"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #39.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #39.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #39.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #39.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #39.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #39.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #39.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #39.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #39.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #39.10"
+      },
+      {
+        "episode": 11,
+        "name": "Episode #39.11"
+      },
+      {
+        "episode": 12,
+        "name": "Episode #39.12"
+      },
+      {
+        "episode": 13,
+        "name": "Episode #39.13"
+      },
+      {
+        "episode": 14,
+        "name": "Episode #39.14"
+      },
+      {
+        "episode": 15,
+        "name": "Episode #39.15"
+      },
+      {
+        "episode": 16,
+        "name": "Episode #39.16"
+      },
+      {
+        "episode": 17,
+        "name": "Episode #39.17"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #40.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #40.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #40.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #40.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #40.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #40.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #40.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #40.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #40.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #40.10"
+      },
+      {
+        "episode": 11,
+        "name": "Episode #40.11"
+      },
+      {
+        "episode": 12,
+        "name": "Episode #40.12"
+      },
+      {
+        "episode": 13,
+        "name": "Episode #40.13"
+      },
+      {
+        "episode": 14,
+        "name": "Episode #40.14"
+      },
+      {
+        "episode": 15,
+        "name": "Episode #40.15"
+      },
+      {
+        "episode": 16,
+        "name": "Episode #40.16"
+      },
+      {
+        "episode": 17,
+        "name": "Episode #40.17"
+      }
+    ]
+  ]
+}

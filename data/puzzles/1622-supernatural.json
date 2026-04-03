@@ -1,0 +1,1688 @@
+{
+  "id": "1622-supernatural",
+  "rank": 45,
+  "answer": "Supernatural",
+  "sourceUrl": "https://seriesgraph.com/show/1622-supernatural",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1622",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1622/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Swan Song",
+    "season": 5,
+    "episode": 22,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Wendigo",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Dead in the Water",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Phantom Traveler",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Bloody Mary",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Skin",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Hook Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Bugs",
+        "rating": 6.7
+      },
+      {
+        "episode": 9,
+        "name": "Home",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Asylum",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Scarecrow",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Faith",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Route 666",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Nightmare",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "The Benders",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Shadow",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Hell House",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Something Wicked",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Provenance",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Dead Man's Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Salvation",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Devil's Trap",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In My Time of Dying",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Everybody Loves a Clown",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Bloodlust",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Children Shouldn't Play with Dead Things",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Simon Said",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "No Exit",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Usual Suspects",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Crossroad Blues",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Croatoan",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Hunted",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Playthings",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Nightshifter",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Houses of the Holy",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Born Under a Bad Sign",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Tall Tales",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "Roadkill",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Heart",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Hollywood Babylon",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Folsom Prison Blues",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "What Is and What Should Never Be",
+        "rating": 9.3
+      },
+      {
+        "episode": 21,
+        "name": "All Hell Breaks Loose: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "All Hell Breaks Loose: Part 2",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Magnificent Seven",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Kids Are Alright",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Bad Day at Black Rock",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Sin City",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Bedtime Stories",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Red Sky at Morning",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Fresh Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "A Very Supernatural Christmas",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Malleus Maleficarum",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Dream a Little Dream of Me",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Mystery Spot",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Jus in Bello",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Ghostfacers",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Long Distance Call",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Time Is on My Side",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "No Rest for the Wicked",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lazarus Rising",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "Are You There, God? It's Me, Dean Winchester",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "In the Beginning",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Metamorphosis",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Monster Movie",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Yellow Fever",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "It's the Great Pumpkin, Sam Winchester",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Wishful Thinking",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "I Know What You Did Last Summer",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Heaven and Hell",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Family Remains",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Criss Angel Is a Douche Bag",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "After School Special",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Sex and Violence",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Death Takes a Holiday",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "On the Head of a Pin",
+        "rating": 9.1
+      },
+      {
+        "episode": 17,
+        "name": "It's a Terrible Life",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "The Monster at the End of This Book",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "Jump the Shark",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Rapture",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "When the Levee Breaks",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Lucifer Rising",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sympathy for the Devil",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Good God, Y'All",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Free to Be You and Me",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The End",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Fallen Idols",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "I Believe the Children Are Our Future",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Curious Case of Dean Winchester",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Changing Channels",
+        "rating": 9.6
+      },
+      {
+        "episode": 9,
+        "name": "The Real Ghostbusters",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Abandon All Hope",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Sam, Interrupted",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Swap Meat",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Song Remains the Same",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "My Bloody Valentine",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Dead Men Don't Wear Plaid",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Dark Side of the Moon",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "99 Problems",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Point of No Return",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Hammer of the Gods",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "The Devil You Know",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Two Minutes to Midnight",
+        "rating": 9.2
+      },
+      {
+        "episode": 22,
+        "name": "Swan Song",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exile on Main St.",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Two and a Half Men",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Third Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Weekend at Bobby's",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Live Free or Twi-hard",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "You Can't Handle the Truth",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Family Matters",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "All Dogs Go to Heaven",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Clap Your Hands If You Believe",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Caged Heat",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Appointment in Samarra",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Like a Virgin",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Unforgiven",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Mannequin 3: The Reckoning",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "The French Mistake",
+        "rating": 9.6
+      },
+      {
+        "episode": 16,
+        "name": "And Then There Were None",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "My Heart Will Go On",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Frontierland",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Mommy Dearest",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "The Man Who Would Be King",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "Let It Bleed",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "The Man Who Knew Too Much",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Meet the New Boss",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Hello, Cruel World",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Girl Next Door",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Defending Your Life",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Shut Up, Dr. Phil",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Slash Fiction",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Mentalists",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Season Seven, Time for a Wedding!",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "How to Win Friends and Influence Monsters",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Death's Door",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Adventures in Babysitting",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Time After Time",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "The Slice Girls",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Plucky Pennywhistle's Magical Menagerie",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Repo Man",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Out with the Old",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "The Born-Again Identity",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Party On, Garth",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Of Grave Importance",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "The Girl with the Dungeons and Dragons Tattoo",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Reading is Fundamental",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "There Will Be Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Survival of the Fittest",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "We Need to Talk About Kevin",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "What's Up, Tiger Mommy?",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Heartache",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Bitten",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Blood Brother",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Southern Comfort",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "A Little Slice of Kevin",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Hunteri Heroici",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Citizen Fang",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Torn and Frayed",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "LARP and the Real Girl",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "As Time Goes By",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Everybody Hates Hitler",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Trial and Error",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Man's Best Friend with Benefits",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "Remember the Titans",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Goodbye Stranger",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Freaks and Geeks",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Taxi Driver",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Pac-Man Fever",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "The Great Escapist",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Clip Show",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Sacrifice",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Think I'm Gonna Like It Here",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Devil May Care",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "I'm No Angel",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Slumber Party",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Dog Dean Afternoon",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Heaven Can't Wait",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Bad Boys",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Rock and a Hard Place",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Holy Terror",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Road Trip",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "First Born",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Sharp Teeth",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "The Purge",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Captives",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "#thinman",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "Blade Runners",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Mother's Little Helper",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Meta Fiction",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Alex Annie Alexis Ann",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Bloodlines",
+        "rating": 5.8
+      },
+      {
+        "episode": 21,
+        "name": "King of the Damned",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Stairway to Heaven",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Do You Believe in Miracles",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Black",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Reichenbach",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Soul Survivor",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Paper Moon",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Fan Fiction",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Ask Jeeves",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Girls, Girls, Girls",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Hibbing 911",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Things We Left Behind",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Hunter Games",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "There's No Place Like Home",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "About a Boy",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Halt & Catch Fire",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "The Executioner's Song",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "The Things They Carried",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Paint It Black",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Inside Man",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Book of the Damned",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "The Werther Project",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Angel Heart",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Dark Dynasty",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "The Prisoner",
+        "rating": 9.1
+      },
+      {
+        "episode": 23,
+        "name": "Brother's Keeper",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Out of the Darkness, Into the Fire",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Form and Void",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Bad Seed",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Baby",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "Thin Lizzie",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Our Little World",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Plush",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Just My Imagination",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "O Brother, Where Art Thou?",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Devil in the Details",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Into the Mystic",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Don't You Forget About Me",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Love Hurts",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Vessel",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Beyond the Mat",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Safe House",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Red Meat",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Hell's Angel",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "The Chitters",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Don't Call Me Shurley",
+        "rating": 9.4
+      },
+      {
+        "episode": 21,
+        "name": "All in the Family",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "We Happy Few",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "Alpha and Omega",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Keep Calm and Carry On",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Mamma Mia",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Foundry",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "American Nightmare",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The One You've Been Waiting For",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Celebrating the Life of Asa Fox",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Rock Never Dies",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "LOTUS",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "First Blood",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Lily Sunder Has Some Regrets",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Regarding Dean",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Stuck in the Middle (With You)",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Family Feud",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Raid",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Somewhere Between Heaven and Hell",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Ladies Drink Free",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The British Invasion",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "The Memory Remains",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "The Future",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Twigs & Twine & Tasha Banes",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "There's Something About Mary",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "Who We Are",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "All Along the Watchtower",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lost and Found",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Rising Son",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Patience",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Big Empty",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Advanced Thanatology",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Tombstone",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "War of the Worlds",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Scorpion and the Frog",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Bad Place",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Wayward Sisters",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Breakdown",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Various & Sundry Villains",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Devil's Bargain",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Good Intentions",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "A Most Holy Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "ScoobyNatural",
+        "rating": 9.6
+      },
+      {
+        "episode": 17,
+        "name": "The Thing",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Bring 'em Back Alive",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Funeralia",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Unfinished Business",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Beat the Devil",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Exodus",
+        "rating": 8.3
+      },
+      {
+        "episode": 23,
+        "name": "Let the Good Times Roll",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stranger in a Strange Land",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Gods and Monsters",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Scar",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Mint Condition",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Nightmare Logic",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Optimism",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Unhuman Nature",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Byzantium",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Spear",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Nihilism",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Damaged Goods",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Prophet and Loss",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Lebanon",
+        "rating": 9.3
+      },
+      {
+        "episode": 14,
+        "name": "Ouroboros",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Peace of Mind",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Don't Go in the Woods",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Game Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Absence",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Jack in the Box",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Moriah",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Back and to the Future",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Raising Hell",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "The Rupture",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Atomic Monsters",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Proverbs 17:3",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Golden Time",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Last Call",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Our Father, Who Aren't in Heaven",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Trap",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Heroes' Journey",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Gamblers",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Galaxy Brain",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Destiny's Child",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Last Holiday",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Gimme Shelter",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Drag Me Away (From You)",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Unity",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Despair",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Inherit the Earth",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Carry On",
+        "rating": 7
+      }
+    ]
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "80968-narcos-mexico",
+  "rank": 232,
+  "answer": "Narcos: Mexico",
+  "sourceUrl": "https://seriesgraph.com/show/80968-narcos:-mexico",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/80968",
+    "seasonRatings": "https://seriesgraph.com/api/shows/80968/season-ratings"
+  },
+  "years": {
+    "first": 2018,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Leyenda",
+    "season": 1,
+    "episode": 10,
+    "rating": 9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Camelot",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Plaza System",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "El Padrino",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Rafa, Rafa, Rafa!",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Colombian Connection",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "La Última Frontera",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Jefe de Jefes",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Just Say No",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "881 Lope de Vega",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Leyenda",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Salva El Tigre",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Alea lacta Est",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Rubén Zuno Arce",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Big Dig",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "AFO",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "El Dedazo",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Truth and Reconciliation",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Se Cayó El Sistema",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Growth Prosperity and Liberation",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Free Trade",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "12 Steps",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Como La Flor",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Los Juniors",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "GDL",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Boots on the Ground",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "La Jefa",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "La Voz",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Last Dance",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "The Reckoning",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Life in Wartime",
+        "rating": 7.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "id": "69478-the-handmaid-s-tale",
+  "rank": 146,
+  "answer": "The Handmaid's Tale",
+  "sourceUrl": "https://seriesgraph.com/show/69478-the-handmaid's-tale",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/69478",
+    "seasonRatings": "https://seriesgraph.com/api/shows/69478/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Mayday",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Offred",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Birth Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Late",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Nolite Te Bastardes Carborundorum",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Faithful",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "A Woman's Place",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Other Side",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Jezebels",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Bridge",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Night",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "June",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Unwomen",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Baggage",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Other Women",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Seeds",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "First Blood",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "After",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Women's Work",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Smart Power",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Last Ceremony",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Holly",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Postpartum",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Word",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Night",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Mary and Martha",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Useful",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "God Bless the Child",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Unknown Caller",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Household",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Under His Eye",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Unfit",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Heroic",
+        "rating": 6.4
+      },
+      {
+        "episode": 10,
+        "name": "Witness",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Liars",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Sacrifice",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Mayday",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pigs",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Nightshade",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Crossing",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Milk",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Chicago",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Vows",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Home",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Testimony",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Progress",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Wilderness",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Morning",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Ballet",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Border",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Dear Offred",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Fairytale",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Together",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "No Man's Land",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Motherland",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Allegiance",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Safe",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Train",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Exile",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Devotion",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Promotion",
+        "rating": 6.7
+      },
+      {
+        "episode": 5,
+        "name": "Janine",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Surprise",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Shattered",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Exodus",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Execution",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "The Handmaid's Tale",
+        "rating": 5.7
+      }
+    ]
+  ]
+}

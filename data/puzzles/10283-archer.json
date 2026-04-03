@@ -1,0 +1,766 @@
+{
+  "id": "10283-archer",
+  "rank": 115,
+  "answer": "Archer",
+  "sourceUrl": "https://seriesgraph.com/show/10283-archer",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/10283",
+    "seasonRatings": "https://seriesgraph.com/api/shows/10283/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Mission: Difficult",
+    "season": 12,
+    "episode": 8,
+    "rating": 9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Mole Hunt",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Training Day",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Diversity Hire",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Killing Utne",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Honeypot",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Skorpio",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Skytanic",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Rock",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Job Offer",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Dial M for Mother",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Swiss Miss",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "A Going Concern",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Blood Test",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Pipeline Fever",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Double Deuce",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Tragical History",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Movie Star",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Stage Two",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Placebo Effect",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "El Secuestro",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Jeu Monegasque",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "White Nights",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Double Trouble",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Heart of Archness: Part I",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Heart of Archness: Part II",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Heart of Archness: Part III",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Man from Jupiter",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "El Contador",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Limited",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Drift Problem",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Lo Scandalo",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Bloody Ferlin",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Crossing Over",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Skin Game",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Space Race: Part I",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Space Race: Part II",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fugue and Riffs",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Wind Cries Mary",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Legs",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Midnight Ron",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Viscous Coupling",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Once Bitten",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Live and Let Dine",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Coyote Lovely",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Honeymooners",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Un Chien Tangerine",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "The Papal Chase",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Sea Tunt: Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Sea Tunt: Part 2",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Archer Vice: White Elephant",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Archer Vice: A Kiss While Dying",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Archer Vice: A Debt of Honor",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Archer Vice: House Call",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Archer Vice: Southbound and Down",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Archer Vice: Baby Shower",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Archer Vice: Smugglers' Blues",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Archer Vice: The Rules of Extraction",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Archer Vice: On the Carpet",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Archer Vice: Palace Intrigue - Part I",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Archer Vice: Palace Intrigue: Part II",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Archer Vice: Filibuster",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Archer Vice: Arrival/Departure",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Holdout",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Three to Tango",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Archer Sanction",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Edie's Wedding",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Vision Quest",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Sitting",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Nellis",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Kanes",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Pocket Listing",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Reignition Sequence",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Achub y Morfilod",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Drastic Voyage: Part 1",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Drastic Voyage: Part 2",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Figgis Agency",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Handoff",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Deadly Prep",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Motherless Child",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Bel Panto: Part I",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Bel Panto: Part II",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Double Indecency",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Liquid Lunch",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Deadly Velvet: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Deadly Velvet: Part 2",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Archer Dreamland: No Good Deed",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Archer Dreamland: Berenice",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Archer Dreamland: Jane Doe",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Archer Dreamland: Ladyfingers",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Archer Dreamland: Sleepers Wake",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Archer Dreamland: Waxing Gibbous",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Archer Dreamland: Gramercy, Halberd!",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Archer Dreamland: Auflösung",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Danger Island: Strange Pilot",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Danger Island: Disheartening Situation",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Danger Island: Different Modes of Preparing the Fruit",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "Danger Island: A Warrior in Costume",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Danger Island: Strange Doings in the Taboo Groves",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Danger Island: Some Remarks on Cannibalism",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Danger Island: Comparative Wickedness of Civilized and Unenlightened Peoples",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Danger Island: A Discovery",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Archer: 1999 -- Bort the Garj",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Archer: 1999 -- Happy Borthday",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Archer: 1999 -- The Leftovers",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Archer: 1999 -- Dining with the Zarglorp",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Archer: 1999 -- Mr. Deadly Goes to Town",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Archer: 1999 -- Road Trip",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Archer: 1999 -- Space Pirates",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Archer: 1999 -- Cubert",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Archer: 1999 -- Robert De Niro",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Orpheus Gambit",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Bloodsploosh",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Helping Hands",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Robot Factory",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Best Friends",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Double Date",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Caught Napping",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Cold Fusion",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Identity Crisis",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Lowjacked",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "London Time",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Photo Op",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Shots",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Dingo, Baby, et Cetera",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Colt Express",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Mission: Difficult",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Big Con",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Operation: Fang",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Saturday",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Laws of Attraction",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Out of Network",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Bank Run at Mr. Bank's Bank",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Distraction Action",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Dough, Ray, and Me",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Anglerfish Stratagem",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "30 for 30",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Plaque Removal",
+        "rating": 6.8
+      },
+      {
+        "episode": 4,
+        "name": "Chill Barry",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Keys Open Doors",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Face Off",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Mission Out of Control Room",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Breaking Fabian",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Into the Cold",
+        "rating": 8.4
+      }
+    ]
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "id": "4598-boston-legal",
+  "rank": 221,
+  "answer": "Boston Legal",
+  "sourceUrl": "https://seriesgraph.com/show/4598-boston-legal",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4598",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4598/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2008
+  },
+  "highestRatedEpisode": {
+    "name": "Last Call",
+    "season": 5,
+    "episode": 13,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Head Cases",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Still Crazy After All These Years",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Catch and Release",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Change of Course",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "An Eye for an Eye",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Truth Be Told",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Questionable Characters",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Loose Lips",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Greater Good",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Hired Guns",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Schmidt Happens",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "From Whence We Came",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "It Girls and Beyond",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "'Til We Meat Again",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Tortured Souls",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Let Sales Ring",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Death Be Not Proud",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Black Widow",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Schadenfreude",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Finding Nimmo",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "A Whiff and a Prayer",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Men to Boys",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Witches of Mass Destruction",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Truly, Madly, Deeply",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Ass Fat Jungle",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Gone",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Legal Deficits",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "The Cancer Man Can",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Helping Hands",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Too Much Information",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Breast in Show",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Smile",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Live Big",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "...There's Fire!",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Shock and Owww!",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Stick It",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Chitty Chitty Bang Bang",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Word Salad Days",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Ivan the Incorrigible",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Race Ipsa",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Deep End of the Poole",
+        "rating": 8.3
+      },
+      {
+        "episode": 25,
+        "name": "Squid Pro Quo",
+        "rating": 7.8
+      },
+      {
+        "episode": 26,
+        "name": "Spring Fever",
+        "rating": 7.8
+      },
+      {
+        "episode": 27,
+        "name": "BL: Los Angeles",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Can't We All Get a Lung?",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "New Kids on the Block",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Desperately Seeking Shirley",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Fine Young Cannibal",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Whose God Is It Anyway?",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Verdict",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Trick or Treat",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Lincoln",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "On the Ledge",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Nutcrackers",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Angel of Death",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Nuts",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Dumping Bella",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Selling Sickness",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Fat Burner",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Good Lawyer",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Bride Wore Blood",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Son of the Defender",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "Brotherly Love",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Guise 'n Dolls",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Tea and Sympathy",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Guantanamo by the Bay",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Duck and Cover",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Trial of the Century",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beauty and the Beast",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Innocent Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Chicken and the Leg",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Do Tell",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Hope and Gory",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Object of My Affection",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Attack of the Xenophobes",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Oral Contracts",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "No Brains Left Behind",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Green Christmas",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Mad About You",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Roe vs Wade: The Musical",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Glow in the Dark",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Rescue Me",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Tabloid Nation",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "The Mighty Rogues",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "The Court Supreme",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "Indecent Proposals",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "The Gods Must Be Crazy",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Patriot Acts",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smoke Signals",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Guardians and Gatekeepers",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Dances with Wolves",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "True Love",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Bad Seed",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Happy Trails",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Mad Cows",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Roe",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Kill, Baby, Kill!",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Thanksgiving",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Juiced",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Made in China",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Last Call",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

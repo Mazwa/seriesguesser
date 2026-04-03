@@ -1,0 +1,258 @@
+{
+  "id": "85077-the-chosen",
+  "rank": 43,
+  "answer": "The Chosen",
+  "sourceUrl": "https://seriesgraph.com/show/85077-the-chosen",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/85077",
+    "seasonRatings": "https://seriesgraph.com/api/shows/85077/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Sustenance",
+    "season": 3,
+    "episode": 8,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "I Have Called You by Name",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Shabbat",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Jesus Loves the Little Children",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "The Rock on Which it is Built",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "The Wedding Gift",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "Indescribable Compassion",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "Invitations",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "I Am He",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Thunder",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "I Saw You",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Matthew 4:24",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "The Perfect Opportunity",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Spirit",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Unlawful",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Reckoning",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Beyond Mountains",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "The Messengers",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Homecoming",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Two by Two",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Physician, Heal Yourself",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Clean, Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Clean, Part 2",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "Intensity in Tent City",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Ears to Hear",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Sustenance",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Promises",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Confessions",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Moon to Blood",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Calm Before",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "Sitting, Serving, Scheming",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Dedication",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Last Sign",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "Humble",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Entry",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "House of Cards",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Woes",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "The Same Coin",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Because of Me",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Reunions",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Upper Room Part I",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Upper Room Part II",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #6.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #6.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #6.3"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #7.1"
+      }
+    ]
+  ]
+}

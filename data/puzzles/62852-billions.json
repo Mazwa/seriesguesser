@@ -1,0 +1,457 @@
+{
+  "id": "62852-billions",
+  "rank": 231,
+  "answer": "Billions",
+  "sourceUrl": "https://seriesgraph.com/show/62852-billions",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/62852",
+    "seasonRatings": "https://seriesgraph.com/api/shows/62852/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Golden Frog Time",
+    "season": 2,
+    "episode": 11,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Naming Rights",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "YumTime",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Short Squeeze",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Good Life",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Deal",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Punch",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Boasts and Rails",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Where the F*ck Is Donnie?",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Quality of Life",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Magical Thinking",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Conversation",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Risk Management",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Dead Cat Bounce",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Optimal Play",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Oath",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Currency",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Indian Four",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Victory Lap",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Kingmaker",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Sic Transit Imperium",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "With or Without You",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Golden Frog Time",
+        "rating": 9.6
+      },
+      {
+        "episode": 12,
+        "name": "Ball in Hand",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tie Goes to the Runner",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Wrong Maria Gonzalez",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "A Generation Too Late",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Hell of a Ride",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Flaw in the Death Star",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Third Ortolan",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Not You, Mr. Dake.",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "All the Wilburys",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Icebreaker",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Redemption",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Kompenso",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Elmsley Count",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chucky Rhoades's Greatest Game",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Arousal Template",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Chickentown",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Overton Window",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "A Proper Sendoff",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Maximum Recreational Depth",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Infinite Game",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Fight Night",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "American Champion",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "New Year's Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Lamster",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Extreme Sandbox",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The New Decas",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "The Chris Rock Test",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Beg, Bribe, Bully",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Opportunity Zone",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Contract",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "The Nordic Model",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Limitless Sh*t",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Copenhagen",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Implosion",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Liberty",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Victory Smoke",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "No Direction Home",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Cannonade",
+        "rating": 5.9
+      },
+      {
+        "episode": 2,
+        "name": "Lyin' Eyes",
+        "rating": 5.9
+      },
+      {
+        "episode": 3,
+        "name": "STD",
+        "rating": 5.9
+      },
+      {
+        "episode": 4,
+        "name": "Burn Rate",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "Rock of Eye",
+        "rating": 6.1
+      },
+      {
+        "episode": 6,
+        "name": "Hostis Humani Generis",
+        "rating": 5.9
+      },
+      {
+        "episode": 7,
+        "name": "Napoleon's Hat",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "The Big Ugly",
+        "rating": 6
+      },
+      {
+        "episode": 9,
+        "name": "Hindenburg",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Johnny Favorite",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "Succession",
+        "rating": 6.5
+      },
+      {
+        "episode": 12,
+        "name": "Cold Storage",
+        "rating": 6.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tower of London",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Original Sin",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Winston Dick Energy",
+        "rating": 6.7
+      },
+      {
+        "episode": 4,
+        "name": "Hurricane Rosie",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Gulag Archipelago",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "The Man in the Olive Drab T-Shirt",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "DMV",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "The Owl",
+        "rating": 6.7
+      },
+      {
+        "episode": 9,
+        "name": "Game Theory Optimal",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Enemies List",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Axe Global",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Admirals Fund",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "id": "61662-schitt-s-creek",
+  "rank": 135,
+  "answer": "Schitt's Creek",
+  "sourceUrl": "https://seriesgraph.com/show/61662-schitt's-creek",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61662",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61662/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Happy Ending",
+    "season": 6,
+    "episode": 14,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Our Cup Runneth Over",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "The Drip",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Don't Worry, It's His Sister",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Bad Parents",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Cabin",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Wine and Roses",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Turkey Shoot",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Allez-Vous",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Carl's Funeral",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Honeymoon",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Little Sister",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Surprise Party",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Town for Sale",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Finding David",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Family Dinner",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Jazzagals",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Estate Sale",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Bob's Bagels",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Moira vs. Town Council",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Candidate",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Milk Money",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Moira's Nudes",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Ronnie's Party",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Motel Guest",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Lawn Signs",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Happy Anniversary",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Opening Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Throuple",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "New Car",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Driving Test",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Rooms by the Hour",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Murder Mystery",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "General Store",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Motel Review",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Affair",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Sebastien Raine",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Stop Saying Lice!",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Friends & Family",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Grad Night",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dead Guy in Room 4",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Pregnancy Test",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Asbestos Fest",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Girls' Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "RIP Moira Rose",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Open Mic",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "The Barbecue",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Jazzaguy",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Olive Branch",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Baby Sprinkle",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "The Rollout",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Singles Week",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Merry Christmas, Johnny Rose",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Crowening",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Love Letters",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Plant",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Dress",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Housewarming",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Rock On!",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "A Whisper of Desire",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Hospies",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The M.V.P.",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Roadkill",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Meet the Parents",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "The Roast",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Hike",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Life Is a Cabaret",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smoke Signals",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Incident",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Job Interview",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Maid of Honour",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Premiere",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Wingman",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Moira Rosé",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Presidential Suite",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Rebound",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Sunrise, Sunset",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Bachelor Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Pitch",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Start Spreading the News",
+        "rating": 9.2
+      },
+      {
+        "episode": 14,
+        "name": "Happy Ending",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

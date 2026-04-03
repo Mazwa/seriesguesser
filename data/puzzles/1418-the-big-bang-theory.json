@@ -1,0 +1,1442 @@
+{
+  "id": "1418-the-big-bang-theory",
+  "rank": 174,
+  "answer": "The Big Bang Theory",
+  "sourceUrl": "https://seriesgraph.com/show/1418-the-big-bang-theory",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1418",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1418/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "The Stockholm Syndrome",
+    "season": 12,
+    "episode": 24,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Big Bran Hypothesis",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Fuzzy Boots Corollary",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Luminous Fish Effect",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Hamburger Postulate",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Middle Earth Paradigm",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Dumpling Paradox",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Grasshopper Experiment",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Cooper-Hofstadter Polarization",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Loobenfeld Decay",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Pancake Batter Anomaly",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Jerusalem Duality",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "The Bat Jar Conjecture",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Nerdvana Annihilation",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Pork Chop Indeterminacy",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Peanut Reaction",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "The Tangerine Factor",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Bad Fish Paradigm",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Codpiece Topology",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Barbarian Sublimation",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Griffin Equivalency",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Euclid Alternative",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Cooper-Nowitzki Theorem",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Panty Piñata Polarization",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Lizard-Spock Expansion",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The White Asparagus Triangulation",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Vartabedian Conundrum",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Bath Item Gift Hypothesis",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "The Killer Robot Instability",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "The Friendship Algorithm",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "The Financial Permeability",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Maternal Capacitance",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "The Cushion Saturation",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Terminator Decoupling",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "The Work Song Nanocluster",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Dead Hooker Juxtaposition",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Hofstadter Isotope",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "The Vegas Renormalization",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "The Classified Materials Turbulence",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "The Monopolar Expedition",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Electric Can Opener Fluctuation",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Jiminy Conjecture",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Gothowitz Deviation",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Pirate Solution",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Creepy Candy Coating Corollary",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Cornhusker Vortex",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "The Guitarist Amplification",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Adhesive Duck Deficiency",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Vengeance Formulation",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "The Gorilla Experiment",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Maternal Congruence",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Psychic Vortex",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The Bozeman Reaction",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "The Einstein Approximation",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "The Large Hadron Collision",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Excelsior Acquisition",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "The Precious Fragmentation",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "The Pants Alternative",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "The Wheaton Recurrence",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Spaghetti Catalyst",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "The Plimpton Stimulation",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "The Staircase Implementation",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "The Lunar Excitation",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Robotic Manipulation",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Cruciferous Vegetable Amplification",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Zazzy Substitution",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Hot Troll Deviation",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Desperation Emanation",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Irish Pub Formulation",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Apology Insufficiency",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The 21-Second Excitation",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Boyfriend Complexity",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Alien Parasite Hypothesis",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Justice League Recombination",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Bus Pants Utilization",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Love Car Displacement",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Thespian Catalyst",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "The Benefactor Factor",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Cohabitation Formulation",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The Toast Derivation",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "The Prestidigitation Approximation",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Zarnecki Incursion",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "The Herb Garden Germination",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "The Agreement Dissection",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "The Wildebeest Implementation",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "The Engagement Reaction",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "The Roommate Transmogrification",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Skank Reflex Analysis",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Infestation Hypothesis",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Pulled Groin Extrapolation",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Wiggly Finger Catalyst",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Russian Rocket Reaction",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Rhinitis Revelation",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Good Guy Fluctuation",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "The Isolation Permutation",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Ornithophobia Diffusion",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Flaming Spittoon Acquisition",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "The Speckerman Recurrence",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "The Shiny Trinket Maneuver",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "The Recombination Hypothesis",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Beta Test Initiation",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "The Friendship Contraction",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Vacation Solution",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "The Rothman Disintegration",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "The Werewolf Transformation",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "The Weekend Vortex",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Transporter Malfunction",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Hawking Excitation",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "The Stag Convergence",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "The Launch Acceleration",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "The Countdown Reflection",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Date Night Variable",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Decoupling Fluctuation",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Higgs Boson Observation",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Re-Entry Minimization",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Holographic Excitation",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Extract Obliteration",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "The Habitation Configuration",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The 43 Peculiarity",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Parking Spot Escalation",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Fish Guts Displacement",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "The Santa Simulation",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "The Egg Salad Equivalency",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Bakersfield Expedition",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "The Cooper/Kripke Inversion",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "The Spoiler Alert Segmentation",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Tangible Affection Proof",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The Monster Isolation",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "The Contractual Obligation Implementation",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "The Closet Reconfiguration",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Tenure Turbulence",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Closure Alternative",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "The Proton Resurgence",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "The Love Spell Potential",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "The Bon Voyage Reaction",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Hofstadter Insufficiency",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Deception Verification",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Scavenger Vortex",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Raiders Minimization",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Workplace Proximity",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Romance Resonance",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Proton Displacement",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Itchy Brain Simulation",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "The Thanksgiving Decoupling",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Discovery Dissipation",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Cooper Extraction",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Hesitation Ramification",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "The Occupation Recalibration",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Convention Conundrum",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Locomotive Manipulation",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Table Polarization",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Friendship Turbulence",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "The Mommy Observation",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "The Indecision Amalgamation",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "The Relationship Diremption",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "The Anything Can Happen Recurrence",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "The Proton Transmogrification",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "The Gorilla Dissolution",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "The Status Quo Combustion",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Locomotion Interruption",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "The Junior Professor Solution",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "The First Pitch Insufficiency",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "The Hook-up Reverberation",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Focus Attenuation",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "The Expedition Approximation",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "The Misinterpretation Agitation",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Prom Equivalency",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Septum Deviation",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "The Champagne Reflection",
+        "rating": 7
+      },
+      {
+        "episode": 11,
+        "name": "The Clean Room Infiltration",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "The Space Probe Disintegration",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "The Anxiety Optimization",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "The Troll Manifestation",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Comic Book Store Regeneration",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "The Intimacy Acceleration",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The Colonization Application",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "The Leftover Thermalization",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "The Skywalker Incursion",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "The Fortification Implementation",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "The Communication Deterioration",
+        "rating": 7
+      },
+      {
+        "episode": 22,
+        "name": "The Graduation Transmission",
+        "rating": 7.3
+      },
+      {
+        "episode": 23,
+        "name": "The Maternal Combustion",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "The Commitment Determination",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Matrimonial Momentum",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "The Separation Oscillation",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "The Bachelor Party Corrosion",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The 2003 Approximation",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Perspiration Implementation",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The Helium Insufficiency",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "The Spock Resonance",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Mystery Date Observation",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Platonic Permutation",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "The Earworm Reverberation",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Opening Night Excitation",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "The Sales Call Sublimation",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "The Empathy Optimization",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "The Meemaw Materialization",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Valentino Submergence",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Positive Negative Reaction",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "The Celebration Experimentation",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "The Application Deterioration",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "The Solder Excursion Diversion",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "The Big Bear Precipitation",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "The Viewing Party Combustion",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "The Fermentation Bifurcation",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "The Line Substitution Solution",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "The Convergence Convergence",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Conjugal Conjecture",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Military Miniaturization",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "The Dependence Transcendence",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "The Cohabitation Experimentation",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Hot Tub Contamination",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The Fetal Kick Catalyst",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "The Veracity Elasticity",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Brain Bowl Incubation",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Geology Elevation",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "The Property Division Collision",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Birthday Synchronicity",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "The Holiday Summation",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "The Romance Recalibration",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "The Emotion Detection Automation",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "The Locomotion Reverberation",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "The Allowance Evaporation",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "The Comic-Con Conundrum",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "The Escape Hatch Identification",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "The Collaboration Fluctuation",
+        "rating": 7.1
+      },
+      {
+        "episode": 20,
+        "name": "The Recollection Dissipation",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "The Separation Agitation",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "The Cognition Regeneration",
+        "rating": 6.8
+      },
+      {
+        "episode": 23,
+        "name": "The Gyroscopic Collapse",
+        "rating": 7.1
+      },
+      {
+        "episode": 24,
+        "name": "The Long Distance Dissonance",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Proposal Proposal",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Retraction Reaction",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "The Relaxation Integration",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "The Explosion Implosion",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "The Collaboration Contamination",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Proton Regeneration",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "The Geology Methodology",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "The Tesla Recoil",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "The Bitcoin Entanglement",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "The Confidence Erosion",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Celebration Reverberation",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "The Matrimonial Metric",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Solo Oscillation",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "The Separation Triangulation",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "The Novelization Correlation",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Neonatal Nomenclature",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "The Athenaeum Allocation",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "The Gates Excitation",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "The Tenant Disassociation",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "The Reclusive Potential",
+        "rating": 7.2
+      },
+      {
+        "episode": 21,
+        "name": "The Comet Polarization",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "The Monetary Insufficiency",
+        "rating": 7.2
+      },
+      {
+        "episode": 23,
+        "name": "The Sibling Realignment",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "The Bow Tie Asymmetry",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Conjugal Configuration",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "The Wedding Gift Wormhole",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Procreation Calculation",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "The Tam Turbulence",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "The Planetarium Collision",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "The Imitation Perturbation",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Grant Allocation Derivation",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "The Consummation Deviation",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "The Citation Negation",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "The VCR Illumination",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "The Paintball Scattering",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "The Propagation Proposition",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "The Confirmation Polarization",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "The Meteorite Manifestation",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "The Donation Oscillation",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "The D & D Vortex",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "The Conference Valuation",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "The Laureate Accumulation",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "The Inspiration Deprivation",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "The Decision Reverberation",
+        "rating": 7.1
+      },
+      {
+        "episode": 21,
+        "name": "The Plagiarism Schism",
+        "rating": 7.3
+      },
+      {
+        "episode": 22,
+        "name": "The Maternal Conclusion",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "The Change Constant",
+        "rating": 9
+      },
+      {
+        "episode": 24,
+        "name": "The Stockholm Syndrome",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

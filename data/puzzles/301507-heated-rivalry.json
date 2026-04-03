@@ -1,0 +1,61 @@
+{
+  "id": "301507-heated-rivalry",
+  "rank": 145,
+  "answer": "Heated Rivalry",
+  "sourceUrl": "https://seriesgraph.com/show/301507-heated-rivalry",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/301507",
+    "seasonRatings": "https://seriesgraph.com/api/shows/301507/season-ratings"
+  },
+  "years": {
+    "first": 2025,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "I'll Believe in Anything",
+    "season": 1,
+    "episode": 5,
+    "rating": 9.8,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Rookies",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Olympians",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Hunter",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Rose",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "I'll Believe in Anything",
+        "rating": 9.8
+      },
+      {
+        "episode": 6,
+        "name": "The Cottage",
+        "rating": 9.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      }
+    ]
+  ]
+}

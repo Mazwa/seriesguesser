@@ -1,0 +1,1962 @@
+[
+  {
+    "rank": 1,
+    "enabled": true,
+    "tmdbId": 1396,
+    "slug": "breaking-bad",
+    "title": "Breaking Bad",
+    "puzzleFile": "1396-breaking-bad.json"
+  },
+  {
+    "rank": 2,
+    "enabled": false,
+    "tmdbId": 1429,
+    "slug": "attack-on-titan",
+    "title": "Attack on Titan",
+    "puzzleFile": "1429-attack-on-titan.json"
+  },
+  {
+    "rank": 3,
+    "enabled": true,
+    "tmdbId": 1399,
+    "slug": "game-of-thrones",
+    "title": "Game of Thrones",
+    "puzzleFile": "1399-game-of-thrones.json"
+  },
+  {
+    "rank": 4,
+    "enabled": true,
+    "tmdbId": 1398,
+    "slug": "the-sopranos",
+    "title": "The Sopranos",
+    "puzzleFile": "1398-the-sopranos.json"
+  },
+  {
+    "rank": 5,
+    "enabled": false,
+    "tmdbId": 246,
+    "slug": "avatar:-the-last-airbender",
+    "title": "Avatar: The Last Airbender",
+    "puzzleFile": "246-avatar-the-last-airbender.json"
+  },
+  {
+    "rank": 6,
+    "enabled": true,
+    "tmdbId": 1438,
+    "slug": "the-wire",
+    "title": "The Wire",
+    "puzzleFile": "1438-the-wire.json"
+  },
+  {
+    "rank": 7,
+    "enabled": true,
+    "tmdbId": 60059,
+    "slug": "better-call-saul",
+    "title": "Better Call Saul",
+    "puzzleFile": "60059-better-call-saul.json"
+  },
+  {
+    "rank": 8,
+    "enabled": false,
+    "tmdbId": 94605,
+    "slug": "arcane",
+    "title": "Arcane",
+    "puzzleFile": "94605-arcane.json"
+  },
+  {
+    "rank": 9,
+    "enabled": true,
+    "tmdbId": 2316,
+    "slug": "the-office",
+    "title": "The Office",
+    "puzzleFile": "2316-the-office.json"
+  },
+  {
+    "rank": 10,
+    "enabled": true,
+    "tmdbId": 1668,
+    "slug": "friends",
+    "title": "Friends",
+    "puzzleFile": "1668-friends.json"
+  },
+  {
+    "rank": 11,
+    "enabled": false,
+    "tmdbId": 31911,
+    "slug": "fullmetal-alchemist:-brotherhood",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "puzzleFile": "31911-fullmetal-alchemist-brotherhood.json"
+  },
+  {
+    "rank": 12,
+    "enabled": true,
+    "tmdbId": 60625,
+    "slug": "rick-and-morty",
+    "title": "Rick and Morty",
+    "puzzleFile": "60625-rick-and-morty.json"
+  },
+  {
+    "rank": 13,
+    "enabled": false,
+    "tmdbId": 37854,
+    "slug": "one-piece",
+    "title": "One Piece",
+    "puzzleFile": "37854-one-piece.json"
+  },
+  {
+    "rank": 14,
+    "enabled": true,
+    "tmdbId": 1400,
+    "slug": "seinfeld",
+    "title": "Seinfeld",
+    "puzzleFile": "1400-seinfeld.json"
+  },
+  {
+    "rank": 15,
+    "enabled": true,
+    "tmdbId": 19885,
+    "slug": "sherlock",
+    "title": "Sherlock",
+    "puzzleFile": "19885-sherlock.json"
+  },
+  {
+    "rank": 16,
+    "enabled": true,
+    "tmdbId": 1408,
+    "slug": "house",
+    "title": "House",
+    "puzzleFile": "1408-house.json"
+  },
+  {
+    "rank": 17,
+    "enabled": true,
+    "tmdbId": 76331,
+    "slug": "succession",
+    "title": "Succession",
+    "puzzleFile": "76331-succession.json"
+  },
+  {
+    "rank": 18,
+    "enabled": true,
+    "tmdbId": 2710,
+    "slug": "it's-always-sunny-in-philadelphia",
+    "title": "It's Always Sunny in Philadelphia",
+    "puzzleFile": "2710-it-s-always-sunny-in-philadelphia.json"
+  },
+  {
+    "rank": 19,
+    "enabled": true,
+    "tmdbId": 1405,
+    "slug": "dexter",
+    "title": "Dexter",
+    "puzzleFile": "1405-dexter.json"
+  },
+  {
+    "rank": 20,
+    "enabled": true,
+    "tmdbId": 70523,
+    "slug": "dark",
+    "title": "Dark",
+    "puzzleFile": "70523-dark.json"
+  },
+  {
+    "rank": 21,
+    "enabled": true,
+    "tmdbId": 60574,
+    "slug": "peaky-blinders",
+    "title": "Peaky Blinders",
+    "puzzleFile": "60574-peaky-blinders.json"
+  },
+  {
+    "rank": 22,
+    "enabled": false,
+    "tmdbId": 61889,
+    "slug": "marvel's-daredevil",
+    "title": "Daredevil",
+    "puzzleFile": "61889-marvel-s-daredevil.json"
+  },
+  {
+    "rank": 23,
+    "enabled": false,
+    "tmdbId": 124411,
+    "slug": "aspirants",
+    "title": "Aspirants",
+    "puzzleFile": "124411-aspirants.json"
+  },
+  {
+    "rank": 24,
+    "enabled": true,
+    "tmdbId": 60622,
+    "slug": "fargo",
+    "title": "Fargo",
+    "puzzleFile": "60622-fargo.json"
+  },
+  {
+    "rank": 25,
+    "enabled": true,
+    "tmdbId": 62560,
+    "slug": "mr.-robot",
+    "title": "Mr. Robot",
+    "puzzleFile": "62560-mr-robot.json"
+  },
+  {
+    "rank": 26,
+    "enabled": false,
+    "tmdbId": 13916,
+    "slug": "death-note",
+    "title": "Death Note",
+    "puzzleFile": "13916-death-note.json"
+  },
+  {
+    "rank": 27,
+    "enabled": true,
+    "tmdbId": 63351,
+    "slug": "narcos",
+    "title": "Narcos",
+    "puzzleFile": "63351-narcos.json"
+  },
+  {
+    "rank": 28,
+    "enabled": true,
+    "tmdbId": 61222,
+    "slug": "bojack-horseman",
+    "title": "BoJack Horseman",
+    "puzzleFile": "61222-bojack-horseman.json"
+  },
+  {
+    "rank": 29,
+    "enabled": true,
+    "tmdbId": 1104,
+    "slug": "mad-men",
+    "title": "Mad Men",
+    "puzzleFile": "1104-mad-men.json"
+  },
+  {
+    "rank": 30,
+    "enabled": false,
+    "tmdbId": 46298,
+    "slug": "hunter-x-hunter",
+    "title": "Hunter x Hunter",
+    "puzzleFile": "46298-hunter-x-hunter.json"
+  },
+  {
+    "rank": 31,
+    "enabled": true,
+    "tmdbId": 66732,
+    "slug": "stranger-things",
+    "title": "Stranger Things",
+    "puzzleFile": "66732-stranger-things.json"
+  },
+  {
+    "rank": 32,
+    "enabled": true,
+    "tmdbId": 97546,
+    "slug": "ted-lasso",
+    "title": "Ted Lasso",
+    "puzzleFile": "97546-ted-lasso.json"
+  },
+  {
+    "rank": 34,
+    "enabled": true,
+    "tmdbId": 1411,
+    "slug": "person-of-interest",
+    "title": "Person of Interest",
+    "puzzleFile": "1411-person-of-interest.json"
+  },
+  {
+    "rank": 35,
+    "enabled": false,
+    "tmdbId": 40075,
+    "slug": "gravity-falls",
+    "title": "Gravity Falls",
+    "puzzleFile": "40075-gravity-falls.json"
+  },
+  {
+    "rank": 36,
+    "enabled": true,
+    "tmdbId": 67136,
+    "slug": "this-is-us",
+    "title": "This Is Us",
+    "puzzleFile": "67136-this-is-us.json"
+  },
+  {
+    "rank": 37,
+    "enabled": true,
+    "tmdbId": 88803,
+    "slug": "vinland-saga",
+    "title": "Vinland Saga",
+    "puzzleFile": "88803-vinland-saga.json"
+  },
+  {
+    "rank": 38,
+    "enabled": true,
+    "tmdbId": 1409,
+    "slug": "sons-of-anarchy",
+    "title": "Sons of Anarchy",
+    "puzzleFile": "1409-sons-of-anarchy.json"
+  },
+  {
+    "rank": 39,
+    "enabled": false,
+    "tmdbId": 40417,
+    "slug": "leyla-and-mecnun",
+    "title": "Leyla and Mecnun",
+    "puzzleFile": "40417-leyla-and-mecnun.json"
+  },
+  {
+    "rank": 40,
+    "enabled": true,
+    "tmdbId": 2190,
+    "slug": "south-park",
+    "title": "South Park",
+    "puzzleFile": "2190-south-park.json"
+  },
+  {
+    "rank": 41,
+    "enabled": true,
+    "tmdbId": 1437,
+    "slug": "firefly",
+    "title": "Firefly",
+    "puzzleFile": "1437-firefly.json"
+  },
+  {
+    "rank": 42,
+    "enabled": true,
+    "tmdbId": 76479,
+    "slug": "the-boys",
+    "title": "The Boys",
+    "puzzleFile": "76479-the-boys.json"
+  },
+  {
+    "rank": 43,
+    "enabled": true,
+    "tmdbId": 85077,
+    "slug": "the-chosen",
+    "title": "The Chosen",
+    "puzzleFile": "85077-the-chosen.json"
+  },
+  {
+    "rank": 44,
+    "enabled": true,
+    "tmdbId": 4546,
+    "slug": "curb-your-enthusiasm",
+    "title": "Curb Your Enthusiasm",
+    "puzzleFile": "4546-curb-your-enthusiasm.json"
+  },
+  {
+    "rank": 45,
+    "enabled": true,
+    "tmdbId": 1622,
+    "slug": "supernatural",
+    "title": "Supernatural",
+    "puzzleFile": "1622-supernatural.json"
+  },
+  {
+    "rank": 46,
+    "enabled": true,
+    "tmdbId": 46648,
+    "slug": "true-detective",
+    "title": "True Detective",
+    "puzzleFile": "46648-true-detective.json"
+  },
+  {
+    "rank": 47,
+    "enabled": true,
+    "tmdbId": 95557,
+    "slug": "invincible",
+    "title": "Invincible",
+    "puzzleFile": "95557-invincible.json"
+  },
+  {
+    "rank": 48,
+    "enabled": true,
+    "tmdbId": 4607,
+    "slug": "lost",
+    "title": "Lost",
+    "puzzleFile": "4607-lost.json"
+  },
+  {
+    "rank": 49,
+    "enabled": true,
+    "tmdbId": 33907,
+    "slug": "downton-abbey",
+    "title": "Downton Abbey",
+    "puzzleFile": "33907-downton-abbey.json"
+  },
+  {
+    "rank": 50,
+    "enabled": true,
+    "tmdbId": 37680,
+    "slug": "suits",
+    "title": "Suits",
+    "puzzleFile": "37680-suits.json"
+  },
+  {
+    "rank": 51,
+    "enabled": true,
+    "tmdbId": 40008,
+    "slug": "hannibal",
+    "title": "Hannibal",
+    "puzzleFile": "40008-hannibal.json"
+  },
+  {
+    "rank": 52,
+    "enabled": false,
+    "tmdbId": 95479,
+    "slug": "jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "puzzleFile": "95479-jujutsu-kaisen.json"
+  },
+  {
+    "rank": 53,
+    "enabled": true,
+    "tmdbId": 259909,
+    "slug": "dexter:-resurrection",
+    "title": "Dexter: Resurrection",
+    "puzzleFile": "259909-dexter-resurrection.json"
+  },
+  {
+    "rank": 54,
+    "enabled": true,
+    "tmdbId": 1274,
+    "slug": "six-feet-under",
+    "title": "Six Feet Under",
+    "puzzleFile": "1274-six-feet-under.json"
+  },
+  {
+    "rank": 55,
+    "enabled": false,
+    "tmdbId": 101352,
+    "slug": "panchayat",
+    "title": "Panchayat",
+    "puzzleFile": "101352-panchayat.json"
+  },
+  {
+    "rank": 56,
+    "enabled": true,
+    "tmdbId": 82856,
+    "slug": "the-mandalorian",
+    "title": "The Mandalorian",
+    "puzzleFile": "82856-the-mandalorian.json"
+  },
+  {
+    "rank": 57,
+    "enabled": true,
+    "tmdbId": 1621,
+    "slug": "boardwalk-empire",
+    "title": "Boardwalk Empire",
+    "puzzleFile": "1621-boardwalk-empire.json"
+  },
+  {
+    "rank": 58,
+    "enabled": false,
+    "tmdbId": 117648,
+    "slug": "clarkson's-farm",
+    "title": "Clarkson's Farm",
+    "puzzleFile": "117648-clarkson-s-farm.json"
+  },
+  {
+    "rank": 59,
+    "enabled": true,
+    "tmdbId": 63333,
+    "slug": "the-last-kingdom",
+    "title": "The Last Kingdom",
+    "puzzleFile": "63333-the-last-kingdom.json"
+  },
+  {
+    "rank": 60,
+    "enabled": true,
+    "tmdbId": 65494,
+    "slug": "the-crown",
+    "title": "The Crown",
+    "puzzleFile": "65494-the-crown.json"
+  },
+  {
+    "rank": 61,
+    "enabled": false,
+    "tmdbId": 85937,
+    "slug": "demon-slayer:-kimetsu-no-yaiba",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "puzzleFile": "85937-demon-slayer-kimetsu-no-yaiba.json"
+  },
+  {
+    "rank": 62,
+    "enabled": true,
+    "tmdbId": 8592,
+    "slug": "parks-and-recreation",
+    "title": "Parks and Recreation",
+    "puzzleFile": "8592-parks-and-recreation.json"
+  },
+  {
+    "rank": 63,
+    "enabled": true,
+    "tmdbId": 34307,
+    "slug": "shameless",
+    "title": "Shameless",
+    "puzzleFile": "34307-shameless.json"
+  },
+  {
+    "rank": 64,
+    "enabled": true,
+    "tmdbId": 688,
+    "slug": "the-west-wing",
+    "title": "The West Wing",
+    "puzzleFile": "688-the-west-wing.json"
+  },
+  {
+    "rank": 65,
+    "enabled": true,
+    "tmdbId": 18347,
+    "slug": "community",
+    "title": "Community",
+    "puzzleFile": "18347-community.json"
+  },
+  {
+    "rank": 66,
+    "enabled": true,
+    "tmdbId": 1425,
+    "slug": "house-of-cards",
+    "title": "House of Cards",
+    "puzzleFile": "1425-house-of-cards.json"
+  },
+  {
+    "rank": 67,
+    "enabled": false,
+    "tmdbId": 2098,
+    "slug": "batman:-the-animated-series",
+    "title": "Batman: The Animated Series",
+    "puzzleFile": "2098-batman-the-animated-series.json"
+  },
+  {
+    "rank": 68,
+    "enabled": true,
+    "tmdbId": 2382,
+    "slug": "freaks-and-geeks",
+    "title": "Freaks and Geeks",
+    "puzzleFile": "2382-freaks-and-geeks.json"
+  },
+  {
+    "rank": 69,
+    "enabled": false,
+    "tmdbId": 30991,
+    "slug": "cowboy-bebop",
+    "title": "Cowboy Bebop",
+    "puzzleFile": "30991-cowboy-bebop.json"
+  },
+  {
+    "rank": 70,
+    "enabled": true,
+    "tmdbId": 4589,
+    "slug": "arrested-development",
+    "title": "Arrested Development",
+    "puzzleFile": "4589-arrested-development.json"
+  },
+  {
+    "rank": 71,
+    "enabled": true,
+    "tmdbId": 2288,
+    "slug": "prison-break",
+    "title": "Prison Break",
+    "puzzleFile": "2288-prison-break.json"
+  },
+  {
+    "rank": 72,
+    "enabled": true,
+    "tmdbId": 44217,
+    "slug": "vikings",
+    "title": "Vikings",
+    "puzzleFile": "44217-vikings.json"
+  },
+  {
+    "rank": 73,
+    "enabled": true,
+    "tmdbId": 250307,
+    "slug": "the-pitt",
+    "title": "The Pitt",
+    "puzzleFile": "250307-the-pitt.json"
+  },
+  {
+    "rank": 74,
+    "enabled": true,
+    "tmdbId": 83867,
+    "slug": "andor",
+    "title": "Andor",
+    "puzzleFile": "83867-andor.json"
+  },
+  {
+    "rank": 75,
+    "enabled": true,
+    "tmdbId": 1920,
+    "slug": "twin-peaks",
+    "title": "Twin Peaks",
+    "puzzleFile": "1920-twin-peaks.json"
+  },
+  {
+    "rank": 76,
+    "enabled": true,
+    "tmdbId": 1973,
+    "slug": "24",
+    "title": "24",
+    "puzzleFile": "1973-24.json"
+  },
+  {
+    "rank": 77,
+    "enabled": true,
+    "tmdbId": 73586,
+    "slug": "yellowstone",
+    "title": "Yellowstone",
+    "puzzleFile": "73586-yellowstone.json"
+  },
+  {
+    "rank": 78,
+    "enabled": true,
+    "tmdbId": 1891,
+    "slug": "rome",
+    "title": "Rome",
+    "puzzleFile": "1891-rome.json"
+  },
+  {
+    "rank": 79,
+    "enabled": true,
+    "tmdbId": 1972,
+    "slug": "battlestar-galactica",
+    "title": "Battlestar Galactica",
+    "puzzleFile": "1972-battlestar-galactica.json"
+  },
+  {
+    "rank": 80,
+    "enabled": true,
+    "tmdbId": 63247,
+    "slug": "westworld",
+    "title": "Westworld",
+    "puzzleFile": "63247-westworld.json"
+  },
+  {
+    "rank": 81,
+    "enabled": true,
+    "tmdbId": 95396,
+    "slug": "severance",
+    "title": "Severance",
+    "puzzleFile": "95396-severance.json"
+  },
+  {
+    "rank": 82,
+    "enabled": false,
+    "tmdbId": 46296,
+    "slug": "spartacus",
+    "title": "Spartacus",
+    "puzzleFile": "46296-spartacus.json"
+  },
+  {
+    "rank": 83,
+    "enabled": true,
+    "tmdbId": 1436,
+    "slug": "justified",
+    "title": "Justified",
+    "puzzleFile": "1436-justified.json"
+  },
+  {
+    "rank": 84,
+    "enabled": true,
+    "tmdbId": 63639,
+    "slug": "the-expanse",
+    "title": "The Expanse",
+    "puzzleFile": "63639-the-expanse.json"
+  },
+  {
+    "rank": 85,
+    "enabled": true,
+    "tmdbId": 67744,
+    "slug": "mindhunter",
+    "title": "Mindhunter",
+    "puzzleFile": "67744-mindhunter.json"
+  },
+  {
+    "rank": 87,
+    "enabled": true,
+    "tmdbId": 1705,
+    "slug": "fringe",
+    "title": "Fringe",
+    "puzzleFile": "1705-fringe.json"
+  },
+  {
+    "rank": 88,
+    "enabled": true,
+    "tmdbId": 136315,
+    "slug": "the-bear",
+    "title": "The Bear",
+    "puzzleFile": "136315-the-bear.json"
+  },
+  {
+    "rank": 89,
+    "enabled": true,
+    "tmdbId": 70796,
+    "slug": "the-marvelous-mrs.-maisel",
+    "title": "The Marvelous Mrs. Maisel",
+    "puzzleFile": "70796-the-marvelous-mrs-maisel.json"
+  },
+  {
+    "rank": 90,
+    "enabled": true,
+    "tmdbId": 3322,
+    "slug": "oz",
+    "title": "Oz",
+    "puzzleFile": "3322-oz.json"
+  },
+  {
+    "rank": 91,
+    "enabled": true,
+    "tmdbId": 42009,
+    "slug": "black-mirror",
+    "title": "Black Mirror",
+    "puzzleFile": "42009-black-mirror.json"
+  },
+  {
+    "rank": 92,
+    "enabled": false,
+    "tmdbId": 60694,
+    "slug": "last-week-tonight-with-john-oliver",
+    "title": "Last Week Tonight with John Oliver",
+    "puzzleFile": "60694-last-week-tonight-with-john-oliver.json"
+  },
+  {
+    "rank": 93,
+    "enabled": true,
+    "tmdbId": 69740,
+    "slug": "ozark",
+    "title": "Ozark",
+    "puzzleFile": "69740-ozark.json"
+  },
+  {
+    "rank": 94,
+    "enabled": true,
+    "tmdbId": 1100,
+    "slug": "how-i-met-your-mother",
+    "title": "How I Met Your Mother",
+    "puzzleFile": "1100-how-i-met-your-mother.json"
+  },
+  {
+    "rank": 95,
+    "enabled": false,
+    "tmdbId": 31724,
+    "slug": "code-geass:-lelouch-of-the-rebellion",
+    "title": "Code Geass",
+    "puzzleFile": "31724-code-geass-lelouch-of-the-rebellion.json"
+  },
+  {
+    "rank": 96,
+    "enabled": true,
+    "tmdbId": 48891,
+    "slug": "brooklyn-nine-nine",
+    "title": "Brooklyn Nine-Nine",
+    "puzzleFile": "48891-brooklyn-nine-nine.json"
+  },
+  {
+    "rank": 97,
+    "enabled": true,
+    "tmdbId": 77169,
+    "slug": "cobra-kai",
+    "title": "Cobra Kai",
+    "puzzleFile": "77169-cobra-kai.json"
+  },
+  {
+    "rank": 98,
+    "enabled": true,
+    "tmdbId": 1421,
+    "slug": "modern-family",
+    "title": "Modern Family",
+    "puzzleFile": "1421-modern-family.json"
+  },
+  {
+    "rank": 99,
+    "enabled": true,
+    "tmdbId": 1407,
+    "slug": "homeland",
+    "title": "Homeland",
+    "puzzleFile": "1407-homeland.json"
+  },
+  {
+    "rank": 100,
+    "enabled": true,
+    "tmdbId": 46896,
+    "slug": "the-originals",
+    "title": "The Originals",
+    "puzzleFile": "46896-the-originals.json"
+  },
+  {
+    "rank": 101,
+    "enabled": true,
+    "tmdbId": 224372,
+    "slug": "a-knight-of-the-seven-kingdoms",
+    "title": "A Knight of the Seven Kingdoms",
+    "puzzleFile": "224372-a-knight-of-the-seven-kingdoms.json"
+  },
+  {
+    "rank": 102,
+    "enabled": true,
+    "tmdbId": 56570,
+    "slug": "outlander",
+    "title": "Outlander",
+    "puzzleFile": "56570-outlander.json"
+  },
+  {
+    "rank": 103,
+    "enabled": false,
+    "tmdbId": 33217,
+    "slug": "young-justice",
+    "title": "Young Justice",
+    "puzzleFile": "33217-young-justice.json"
+  },
+  {
+    "rank": 104,
+    "enabled": false,
+    "tmdbId": 31132,
+    "slug": "regular-show",
+    "title": "Regular Show",
+    "puzzleFile": "31132-regular-show.json"
+  },
+  {
+    "rank": 105,
+    "enabled": false,
+    "tmdbId": 67178,
+    "slug": "marvel's-the-punisher",
+    "title": "The Punisher",
+    "puzzleFile": "67178-marvel-s-the-punisher.json"
+  },
+  {
+    "rank": 106,
+    "enabled": false,
+    "tmdbId": 89113,
+    "slug": "kota-factory",
+    "title": "Kota Factory",
+    "puzzleFile": "89113-kota-factory.json"
+  },
+  {
+    "rank": 107,
+    "enabled": false,
+    "tmdbId": 72,
+    "slug": "only-fools-and-horses",
+    "title": "Only Fools and Horses",
+    "puzzleFile": "72-only-fools-and-horses.json"
+  },
+  {
+    "rank": 108,
+    "enabled": true,
+    "tmdbId": 4087,
+    "slug": "the-x-files",
+    "title": "The X-Files",
+    "puzzleFile": "4087-the-x-files.json"
+  },
+  {
+    "rank": 109,
+    "enabled": true,
+    "tmdbId": 1414,
+    "slug": "the-shield",
+    "title": "The Shield",
+    "puzzleFile": "1414-the-shield.json"
+  },
+  {
+    "rank": 110,
+    "enabled": true,
+    "tmdbId": 67070,
+    "slug": "fleabag",
+    "title": "Fleabag",
+    "puzzleFile": "67070-fleabag.json"
+  },
+  {
+    "rank": 111,
+    "enabled": true,
+    "tmdbId": 4556,
+    "slug": "scrubs",
+    "title": "Scrubs",
+    "puzzleFile": "4556-scrubs.json"
+  },
+  {
+    "rank": 112,
+    "enabled": true,
+    "tmdbId": 1940,
+    "slug": "entourage",
+    "title": "Entourage",
+    "puzzleFile": "1940-entourage.json"
+  },
+  {
+    "rank": 113,
+    "enabled": true,
+    "tmdbId": 15621,
+    "slug": "the-newsroom",
+    "title": "The Newsroom",
+    "puzzleFile": "15621-the-newsroom.json"
+  },
+  {
+    "rank": 114,
+    "enabled": false,
+    "tmdbId": 209867,
+    "slug": "frieren:-beyond-journey's-end",
+    "title": "Frieren: Beyond Journey's End",
+    "puzzleFile": "209867-frieren-beyond-journey-s-end.json"
+  },
+  {
+    "rank": 115,
+    "enabled": true,
+    "tmdbId": 10283,
+    "slug": "archer",
+    "title": "Archer",
+    "puzzleFile": "10283-archer.json"
+  },
+  {
+    "rank": 116,
+    "enabled": false,
+    "tmdbId": 41727,
+    "slug": "banshee",
+    "title": "Banshee",
+    "puzzleFile": "41727-banshee.json"
+  },
+  {
+    "rank": 117,
+    "enabled": false,
+    "tmdbId": 67557,
+    "slug": "the-grand-tour",
+    "title": "The Grand Tour",
+    "puzzleFile": "67557-the-grand-tour.json"
+  },
+  {
+    "rank": 118,
+    "enabled": true,
+    "tmdbId": 1406,
+    "slug": "deadwood",
+    "title": "Deadwood",
+    "puzzleFile": "1406-deadwood.json"
+  },
+  {
+    "rank": 119,
+    "enabled": false,
+    "tmdbId": 275204,
+    "slug": "dhindora",
+    "title": "Dhindora",
+    "puzzleFile": "275204-dhindora.json"
+  },
+  {
+    "rank": 120,
+    "enabled": false,
+    "tmdbId": 42509,
+    "slug": "steins;gate",
+    "title": "Steins;Gate",
+    "puzzleFile": "42509-steins-gate.json"
+  },
+  {
+    "rank": 121,
+    "enabled": true,
+    "tmdbId": 60573,
+    "slug": "silicon-valley",
+    "title": "Silicon Valley",
+    "puzzleFile": "60573-silicon-valley.json"
+  },
+  {
+    "rank": 122,
+    "enabled": false,
+    "tmdbId": 126308,
+    "slug": "shōgun",
+    "title": "Shōgun",
+    "puzzleFile": "126308-sh-gun.json"
+  },
+  {
+    "rank": 123,
+    "enabled": true,
+    "tmdbId": 100088,
+    "slug": "the-last-of-us",
+    "title": "The Last of Us",
+    "puzzleFile": "100088-the-last-of-us.json"
+  },
+  {
+    "rank": 124,
+    "enabled": false,
+    "tmdbId": 2207,
+    "slug": "fawlty-towers",
+    "title": "Fawlty Towers",
+    "puzzleFile": "2207-fawlty-towers.json"
+  },
+  {
+    "rank": 125,
+    "enabled": false,
+    "tmdbId": 15260,
+    "slug": "adventure-time",
+    "title": "Adventure Time",
+    "puzzleFile": "15260-adventure-time.json"
+  },
+  {
+    "rank": 126,
+    "enabled": true,
+    "tmdbId": 60585,
+    "slug": "bosch",
+    "title": "Bosch",
+    "puzzleFile": "60585-bosch.json"
+  },
+  {
+    "rank": 127,
+    "enabled": false,
+    "tmdbId": 63180,
+    "slug": "tvf-pitchers",
+    "title": "TVF Pitchers",
+    "puzzleFile": "63180-tvf-pitchers.json"
+  },
+  {
+    "rank": 128,
+    "enabled": false,
+    "tmdbId": 83880,
+    "slug": "our-planet",
+    "title": "Our Planet",
+    "puzzleFile": "83880-our-planet.json"
+  },
+  {
+    "rank": 129,
+    "enabled": false,
+    "tmdbId": 127532,
+    "slug": "solo-leveling",
+    "title": "Solo Leveling",
+    "puzzleFile": "127532-solo-leveling.json"
+  },
+  {
+    "rank": 130,
+    "enabled": false,
+    "tmdbId": 65495,
+    "slug": "atlanta",
+    "title": "Atlanta",
+    "puzzleFile": "65495-atlanta.json"
+  },
+  {
+    "rank": 131,
+    "enabled": false,
+    "tmdbId": 4327,
+    "slug": "mr.-bean",
+    "title": "Mr. Bean",
+    "puzzleFile": "4327-mr-bean.json"
+  },
+  {
+    "rank": 132,
+    "enabled": true,
+    "tmdbId": 1447,
+    "slug": "psych",
+    "title": "Psych",
+    "puzzleFile": "1447-psych.json"
+  },
+  {
+    "rank": 133,
+    "enabled": false,
+    "tmdbId": 240983,
+    "slug": "sapne-vs-everyone",
+    "title": "Sapne Vs Everyone",
+    "puzzleFile": "240983-sapne-vs-everyone.json"
+  },
+  {
+    "rank": 134,
+    "enabled": false,
+    "tmdbId": 60863,
+    "slug": "haikyu!!",
+    "title": "Haikyu!!",
+    "puzzleFile": "60863-haikyu.json"
+  },
+  {
+    "rank": 135,
+    "enabled": false,
+    "tmdbId": 61662,
+    "slug": "schitt's-creek",
+    "title": "Schitt's Creek",
+    "puzzleFile": "61662-schitt-s-creek.json"
+  },
+  {
+    "rank": 136,
+    "enabled": false,
+    "tmdbId": 93352,
+    "slug": "the-family-man",
+    "title": "The Family Man",
+    "puzzleFile": "93352-the-family-man.json"
+  },
+  {
+    "rank": 137,
+    "enabled": false,
+    "tmdbId": 30981,
+    "slug": "monster",
+    "title": "Monster",
+    "puzzleFile": "30981-monster.json"
+  },
+  {
+    "rank": 138,
+    "enabled": true,
+    "tmdbId": 4278,
+    "slug": "friday-night-lights",
+    "title": "Friday Night Lights",
+    "puzzleFile": "4278-friday-night-lights.json"
+  },
+  {
+    "rank": 139,
+    "enabled": true,
+    "tmdbId": 63174,
+    "slug": "lucifer",
+    "title": "Lucifer",
+    "puzzleFile": "63174-lucifer.json"
+  },
+  {
+    "rank": 140,
+    "enabled": false,
+    "tmdbId": 70785,
+    "slug": "anne-with-an-e",
+    "title": "Anne with an E",
+    "puzzleFile": "70785-anne-with-an-e.json"
+  },
+  {
+    "rank": 141,
+    "enabled": true,
+    "tmdbId": 1404,
+    "slug": "chuck",
+    "title": "Chuck",
+    "puzzleFile": "1404-chuck.json"
+  },
+  {
+    "rank": 142,
+    "enabled": false,
+    "tmdbId": 33880,
+    "slug": "the-legend-of-korra",
+    "title": "The Legend of Korra",
+    "puzzleFile": "33880-the-legend-of-korra.json"
+  },
+  {
+    "rank": 143,
+    "enabled": true,
+    "tmdbId": 46533,
+    "slug": "the-americans",
+    "title": "The Americans",
+    "puzzleFile": "46533-the-americans.json"
+  },
+  {
+    "rank": 144,
+    "enabled": false,
+    "tmdbId": 43982,
+    "slug": "line-of-duty",
+    "title": "Line of Duty",
+    "puzzleFile": "43982-line-of-duty.json"
+  },
+  {
+    "rank": 145,
+    "enabled": true,
+    "tmdbId": 301507,
+    "slug": "heated-rivalry",
+    "title": "Heated Rivalry",
+    "puzzleFile": "301507-heated-rivalry.json"
+  },
+  {
+    "rank": 146,
+    "enabled": true,
+    "tmdbId": 69478,
+    "slug": "the-handmaid's-tale",
+    "title": "The Handmaid's Tale",
+    "puzzleFile": "69478-the-handmaid-s-tale.json"
+  },
+  {
+    "rank": 147,
+    "enabled": false,
+    "tmdbId": 124834,
+    "slug": "heartstopper",
+    "title": "Heartstopper",
+    "puzzleFile": "124834-heartstopper.json"
+  },
+  {
+    "rank": 148,
+    "enabled": true,
+    "tmdbId": 94997,
+    "slug": "house-of-the-dragon",
+    "title": "House of the Dragon",
+    "puzzleFile": "94997-house-of-the-dragon.json"
+  },
+  {
+    "rank": 149,
+    "enabled": true,
+    "tmdbId": 54344,
+    "slug": "the-leftovers",
+    "title": "The Leftovers",
+    "puzzleFile": "54344-the-leftovers.json"
+  },
+  {
+    "rank": 150,
+    "enabled": true,
+    "tmdbId": 615,
+    "slug": "futurama",
+    "title": "Futurama",
+    "puzzleFile": "615-futurama.json"
+  },
+  {
+    "rank": 151,
+    "enabled": true,
+    "tmdbId": 57243,
+    "slug": "doctor-who",
+    "title": "Doctor Who",
+    "puzzleFile": "57243-doctor-who.json"
+  },
+  {
+    "rank": 152,
+    "enabled": false,
+    "tmdbId": 229429,
+    "slug": "sandeep-bhaiya",
+    "title": "Sandeep Bhaiya",
+    "puzzleFile": "229429-sandeep-bhaiya.json"
+  },
+  {
+    "rank": 153,
+    "enabled": true,
+    "tmdbId": 73107,
+    "slug": "barry",
+    "title": "Barry",
+    "puzzleFile": "73107-barry.json"
+  },
+  {
+    "rank": 154,
+    "enabled": false,
+    "tmdbId": 83631,
+    "slug": "what-we-do-in-the-shadows",
+    "title": "What We Do in the Shadows",
+    "puzzleFile": "83631-what-we-do-in-the-shadows.json"
+  },
+  {
+    "rank": 155,
+    "enabled": true,
+    "tmdbId": 6357,
+    "slug": "the-twilight-zone",
+    "title": "The Twilight Zone",
+    "puzzleFile": "6357-the-twilight-zone.json"
+  },
+  {
+    "rank": 156,
+    "enabled": false,
+    "tmdbId": 2723,
+    "slug": "samurai-jack",
+    "title": "Samurai Jack",
+    "puzzleFile": "2723-samurai-jack.json"
+  },
+  {
+    "rank": 157,
+    "enabled": true,
+    "tmdbId": 1402,
+    "slug": "the-walking-dead",
+    "title": "The Walking Dead",
+    "puzzleFile": "1402-the-walking-dead.json"
+  },
+  {
+    "rank": 158,
+    "enabled": true,
+    "tmdbId": 95,
+    "slug": "buffy-the-vampire-slayer",
+    "title": "Buffy the Vampire Slayer",
+    "puzzleFile": "95-buffy-the-vampire-slayer.json"
+  },
+  {
+    "rank": 159,
+    "enabled": false,
+    "tmdbId": 2490,
+    "slug": "the-it-crowd",
+    "title": "The IT Crowd",
+    "puzzleFile": "2490-the-it-crowd.json"
+  },
+  {
+    "rank": 160,
+    "enabled": true,
+    "tmdbId": 56296,
+    "slug": "orphan-black",
+    "title": "Orphan Black",
+    "puzzleFile": "56296-orphan-black.json"
+  },
+  {
+    "rank": 161,
+    "enabled": false,
+    "tmdbId": 61056,
+    "slug": "how-to-get-away-with-murder",
+    "title": "How to Get Away with Murder",
+    "puzzleFile": "61056-how-to-get-away-with-murder.json"
+  },
+  {
+    "rank": 162,
+    "enabled": false,
+    "tmdbId": 65930,
+    "slug": "my-hero-academia",
+    "title": "My Hero Academia",
+    "puzzleFile": "65930-my-hero-academia.json"
+  },
+  {
+    "rank": 163,
+    "enabled": false,
+    "tmdbId": 849,
+    "slug": "monty-python's-flying-circus",
+    "title": "Monty Python's Flying Circus",
+    "puzzleFile": "849-monty-python-s-flying-circus.json"
+  },
+  {
+    "rank": 164,
+    "enabled": true,
+    "tmdbId": 66292,
+    "slug": "big-little-lies",
+    "title": "Big Little Lies",
+    "puzzleFile": "66292-big-little-lies.json"
+  },
+  {
+    "rank": 165,
+    "enabled": false,
+    "tmdbId": 71446,
+    "slug": "money-heist",
+    "title": "Money Heist",
+    "puzzleFile": "71446-money-heist.json"
+  },
+  {
+    "rank": 166,
+    "enabled": false,
+    "tmdbId": 815,
+    "slug": "peep-show",
+    "title": "Peep Show",
+    "puzzleFile": "815-peep-show.json"
+  },
+  {
+    "rank": 167,
+    "enabled": false,
+    "tmdbId": 4194,
+    "slug": "star-wars:-the-clone-wars",
+    "title": "Star Wars: The Clone Wars",
+    "puzzleFile": "4194-star-wars-the-clone-wars.json"
+  },
+  {
+    "rank": 168,
+    "enabled": false,
+    "tmdbId": 31910,
+    "slug": "naruto-shippūden",
+    "title": "Naruto: Shippuden",
+    "puzzleFile": "31910-naruto-shipp-den.json"
+  },
+  {
+    "rank": 169,
+    "enabled": false,
+    "tmdbId": 5920,
+    "slug": "the-mentalist",
+    "title": "The Mentalist",
+    "puzzleFile": "5920-the-mentalist.json"
+  },
+  {
+    "rank": 170,
+    "enabled": false,
+    "tmdbId": 32962,
+    "slug": "louie",
+    "title": "Louie",
+    "puzzleFile": "32962-louie.json"
+  },
+  {
+    "rank": 171,
+    "enabled": false,
+    "tmdbId": 61664,
+    "slug": "sense8",
+    "title": "Sense8",
+    "puzzleFile": "61664-sense8.json"
+  },
+  {
+    "rank": 172,
+    "enabled": false,
+    "tmdbId": 67075,
+    "slug": "mob-psycho-100",
+    "title": "Mob Psycho 100",
+    "puzzleFile": "67075-mob-psycho-100.json"
+  },
+  {
+    "rank": 173,
+    "enabled": false,
+    "tmdbId": 12971,
+    "slug": "dragon-ball-z",
+    "title": "Dragon Ball Z",
+    "puzzleFile": "12971-dragon-ball-z.json"
+  },
+  {
+    "rank": 174,
+    "enabled": false,
+    "tmdbId": 1418,
+    "slug": "the-big-bang-theory",
+    "title": "The Big Bang Theory",
+    "puzzleFile": "1418-the-big-bang-theory.json"
+  },
+  {
+    "rank": 175,
+    "enabled": false,
+    "tmdbId": 106379,
+    "slug": "fallout",
+    "title": "Fallout",
+    "puzzleFile": "106379-fallout.json"
+  },
+  {
+    "rank": 176,
+    "enabled": false,
+    "tmdbId": 1426,
+    "slug": "luther",
+    "title": "Luther",
+    "puzzleFile": "1426-luther.json"
+  },
+  {
+    "rank": 177,
+    "enabled": false,
+    "tmdbId": 45790,
+    "slug": "jojo's-bizarre-adventure",
+    "title": "JoJo's Bizarre Adventure",
+    "puzzleFile": "45790-jojo-s-bizarre-adventure.json"
+  },
+  {
+    "rank": 178,
+    "enabled": false,
+    "tmdbId": 85552,
+    "slug": "euphoria",
+    "title": "Euphoria",
+    "puzzleFile": "85552-euphoria.json"
+  },
+  {
+    "rank": 179,
+    "enabled": false,
+    "tmdbId": 456,
+    "slug": "the-simpsons",
+    "title": "The Simpsons",
+    "puzzleFile": "456-the-simpsons.json"
+  },
+  {
+    "rank": 180,
+    "enabled": false,
+    "tmdbId": 4586,
+    "slug": "gilmore-girls",
+    "title": "Gilmore Girls",
+    "puzzleFile": "4586-gilmore-girls.json"
+  },
+  {
+    "rank": 181,
+    "enabled": false,
+    "tmdbId": 35935,
+    "slug": "berserk",
+    "title": "Berserk",
+    "puzzleFile": "35935-berserk.json"
+  },
+  {
+    "rank": 182,
+    "enabled": false,
+    "tmdbId": 1419,
+    "slug": "castle",
+    "title": "Castle",
+    "puzzleFile": "1419-castle.json"
+  },
+  {
+    "rank": 183,
+    "enabled": false,
+    "tmdbId": 1423,
+    "slug": "ray-donovan",
+    "title": "Ray Donovan",
+    "puzzleFile": "1423-ray-donovan.json"
+  },
+  {
+    "rank": 184,
+    "enabled": false,
+    "tmdbId": 47665,
+    "slug": "black-sails",
+    "title": "Black Sails",
+    "puzzleFile": "47665-black-sails.json"
+  },
+  {
+    "rank": 185,
+    "enabled": false,
+    "tmdbId": 66573,
+    "slug": "the-good-place",
+    "title": "The Good Place",
+    "puzzleFile": "66573-the-good-place.json"
+  },
+  {
+    "rank": 186,
+    "enabled": false,
+    "tmdbId": 713,
+    "slug": "chappelle's-show",
+    "title": "Chappelle's Show",
+    "puzzleFile": "713-chappelle-s-show.json"
+  },
+  {
+    "rank": 187,
+    "enabled": false,
+    "tmdbId": 4608,
+    "slug": "30-rock",
+    "title": "30 Rock",
+    "puzzleFile": "4608-30-rock.json"
+  },
+  {
+    "rank": 188,
+    "enabled": false,
+    "tmdbId": 1215,
+    "slug": "californication",
+    "title": "Californication",
+    "puzzleFile": "1215-californication.json"
+  },
+  {
+    "rank": 189,
+    "enabled": false,
+    "tmdbId": 225180,
+    "slug": "blue-eye-samurai",
+    "title": "Blue Eye Samurai",
+    "puzzleFile": "225180-blue-eye-samurai.json"
+  },
+  {
+    "rank": 190,
+    "enabled": false,
+    "tmdbId": 45016,
+    "slug": "the-bridge",
+    "title": "The Bridge",
+    "puzzleFile": "45016-the-bridge.json"
+  },
+  {
+    "rank": 192,
+    "enabled": false,
+    "tmdbId": 84958,
+    "slug": "loki",
+    "title": "Loki",
+    "puzzleFile": "84958-loki.json"
+  },
+  {
+    "rank": 193,
+    "enabled": false,
+    "tmdbId": 890,
+    "slug": "neon-genesis-evangelion",
+    "title": "Neon Genesis Evangelion",
+    "puzzleFile": "890-neon-genesis-evangelion.json"
+  },
+  {
+    "rank": 194,
+    "enabled": false,
+    "tmdbId": 2996,
+    "slug": "the-office",
+    "title": "The Office",
+    "puzzleFile": "2996-the-office.json"
+  },
+  {
+    "rank": 195,
+    "enabled": false,
+    "tmdbId": 3796,
+    "slug": "trailer-park-boys",
+    "title": "Trailer Park Boys",
+    "puzzleFile": "3796-trailer-park-boys.json"
+  },
+  {
+    "rank": 196,
+    "enabled": false,
+    "tmdbId": 34415,
+    "slug": "the-killing",
+    "title": "The Killing",
+    "puzzleFile": "34415-the-killing.json"
+  },
+  {
+    "rank": 197,
+    "enabled": false,
+    "tmdbId": 46786,
+    "slug": "bates-motel",
+    "title": "Bates Motel",
+    "puzzleFile": "46786-bates-motel.json"
+  },
+  {
+    "rank": 198,
+    "enabled": false,
+    "tmdbId": 64439,
+    "slug": "making-a-murderer",
+    "title": "Making a Murderer",
+    "puzzleFile": "64439-making-a-murderer.json"
+  },
+  {
+    "rank": 199,
+    "enabled": false,
+    "tmdbId": 95480,
+    "slug": "slow-horses",
+    "title": "Slow Horses",
+    "puzzleFile": "95480-slow-horses.json"
+  },
+  {
+    "rank": 200,
+    "enabled": false,
+    "tmdbId": 45,
+    "slug": "top-gear",
+    "title": "Top Gear",
+    "puzzleFile": "45-top-gear.json"
+  },
+  {
+    "rank": 201,
+    "enabled": false,
+    "tmdbId": 1424,
+    "slug": "orange-is-the-new-black",
+    "title": "Orange Is the New Black",
+    "puzzleFile": "1424-orange-is-the-new-black.json"
+  },
+  {
+    "rank": 202,
+    "enabled": false,
+    "tmdbId": 81356,
+    "slug": "sex-education",
+    "title": "Sex Education",
+    "puzzleFile": "81356-sex-education.json"
+  },
+  {
+    "rank": 203,
+    "enabled": false,
+    "tmdbId": 655,
+    "slug": "star-trek:-the-next-generation",
+    "title": "Star Trek: The Next Generation",
+    "puzzleFile": "655-star-trek-the-next-generation.json"
+  },
+  {
+    "rank": 204,
+    "enabled": false,
+    "tmdbId": 21510,
+    "slug": "white-collar",
+    "title": "White Collar",
+    "puzzleFile": "21510-white-collar.json"
+  },
+  {
+    "rank": 205,
+    "enabled": false,
+    "tmdbId": 2947,
+    "slug": "veep",
+    "title": "Veep",
+    "puzzleFile": "2947-veep.json"
+  },
+  {
+    "rank": 206,
+    "enabled": false,
+    "tmdbId": 62264,
+    "slug": "ash-vs-evil-dead",
+    "title": "Ash vs Evil Dead",
+    "puzzleFile": "62264-ash-vs-evil-dead.json"
+  },
+  {
+    "rank": 207,
+    "enabled": false,
+    "tmdbId": 2734,
+    "slug": "law-&-order:-special-victims-unit",
+    "title": "Law & Order: Special Victims Unit",
+    "puzzleFile": "2734-law-order-special-victims-unit.json"
+  },
+  {
+    "rank": 208,
+    "enabled": false,
+    "tmdbId": 37863,
+    "slug": "fullmetal-alchemist",
+    "title": "Fullmetal Alchemist",
+    "puzzleFile": "37863-fullmetal-alchemist.json"
+  },
+  {
+    "rank": 209,
+    "enabled": false,
+    "tmdbId": 1435,
+    "slug": "the-good-wife",
+    "title": "The Good Wife",
+    "puzzleFile": "1435-the-good-wife.json"
+  },
+  {
+    "rank": 210,
+    "enabled": false,
+    "tmdbId": 54671,
+    "slug": "penny-dreadful",
+    "title": "Penny Dreadful",
+    "puzzleFile": "54671-penny-dreadful.json"
+  },
+  {
+    "rank": 211,
+    "enabled": false,
+    "tmdbId": 64513,
+    "slug": "american-crime-story",
+    "title": "American Crime Story",
+    "puzzleFile": "64513-american-crime-story.json"
+  },
+  {
+    "rank": 212,
+    "enabled": false,
+    "tmdbId": 79410,
+    "slug": "after-life",
+    "title": "After Life",
+    "puzzleFile": "79410-after-life.json"
+  },
+  {
+    "rank": 213,
+    "enabled": false,
+    "tmdbId": 135934,
+    "slug": "the-legend-of-vox-machina",
+    "title": "The Legend of Vox Machina",
+    "puzzleFile": "135934-the-legend-of-vox-machina.json"
+  },
+  {
+    "rank": 214,
+    "enabled": false,
+    "tmdbId": 59186,
+    "slug": "impractical-jokers",
+    "title": "Impractical Jokers",
+    "puzzleFile": "59186-impractical-jokers.json"
+  },
+  {
+    "rank": 215,
+    "enabled": false,
+    "tmdbId": 4629,
+    "slug": "stargate-sg-1",
+    "title": "Stargate SG-1",
+    "puzzleFile": "4629-stargate-sg-1.json"
+  },
+  {
+    "rank": 216,
+    "enabled": false,
+    "tmdbId": 2004,
+    "slug": "malcolm-in-the-middle",
+    "title": "Malcolm in the Middle",
+    "puzzleFile": "2004-malcolm-in-the-middle.json"
+  },
+  {
+    "rank": 217,
+    "enabled": false,
+    "tmdbId": 37606,
+    "slug": "the-amazing-world-of-gumball",
+    "title": "The Amazing World of Gumball",
+    "puzzleFile": "37606-the-amazing-world-of-gumball.json"
+  },
+  {
+    "rank": 218,
+    "enabled": false,
+    "tmdbId": 1427,
+    "slug": "broadchurch",
+    "title": "Broadchurch",
+    "puzzleFile": "1427-broadchurch.json"
+  },
+  {
+    "rank": 219,
+    "enabled": false,
+    "tmdbId": 918,
+    "slug": "m*a*s*h",
+    "title": "M*A*S*H",
+    "puzzleFile": "918-m-a-s-h.json"
+  },
+  {
+    "rank": 220,
+    "enabled": false,
+    "tmdbId": 3452,
+    "slug": "frasier",
+    "title": "Frasier",
+    "puzzleFile": "3452-frasier.json"
+  },
+  {
+    "rank": 221,
+    "enabled": false,
+    "tmdbId": 4598,
+    "slug": "boston-legal",
+    "title": "Boston Legal",
+    "puzzleFile": "4598-boston-legal.json"
+  },
+  {
+    "rank": 222,
+    "enabled": false,
+    "tmdbId": 18165,
+    "slug": "the-vampire-diaries",
+    "title": "The Vampire Diaries",
+    "puzzleFile": "18165-the-vampire-diaries.json"
+  },
+  {
+    "rank": 223,
+    "enabled": false,
+    "tmdbId": 34524,
+    "slug": "teen-wolf",
+    "title": "Teen Wolf",
+    "puzzleFile": "34524-teen-wolf.json"
+  },
+  {
+    "rank": 224,
+    "enabled": false,
+    "tmdbId": 39351,
+    "slug": "grimm",
+    "title": "Grimm",
+    "puzzleFile": "39351-grimm.json"
+  },
+  {
+    "rank": 225,
+    "enabled": false,
+    "tmdbId": 79352,
+    "slug": "sacred-games",
+    "title": "Sacred Games",
+    "puzzleFile": "79352-sacred-games.json"
+  },
+  {
+    "rank": 226,
+    "enabled": false,
+    "tmdbId": 71024,
+    "slug": "castlevania",
+    "title": "Castlevania",
+    "puzzleFile": "71024-castlevania.json"
+  },
+  {
+    "rank": 227,
+    "enabled": false,
+    "tmdbId": 77994,
+    "slug": "persona",
+    "title": "Persona",
+    "puzzleFile": "77994-persona.json"
+  },
+  {
+    "rank": 228,
+    "enabled": false,
+    "tmdbId": 7317,
+    "slug": "the-inbetweeners",
+    "title": "The Inbetweeners",
+    "puzzleFile": "7317-the-inbetweeners.json"
+  },
+  {
+    "rank": 229,
+    "enabled": false,
+    "tmdbId": 110492,
+    "slug": "peacemaker",
+    "title": "Peacemaker",
+    "puzzleFile": "110492-peacemaker.json"
+  },
+  {
+    "rank": 230,
+    "enabled": false,
+    "tmdbId": 61244,
+    "slug": "happy-valley",
+    "title": "Happy Valley",
+    "puzzleFile": "61244-happy-valley.json"
+  },
+  {
+    "rank": 231,
+    "enabled": false,
+    "tmdbId": 62852,
+    "slug": "billions",
+    "title": "Billions",
+    "puzzleFile": "62852-billions.json"
+  },
+  {
+    "rank": 232,
+    "enabled": false,
+    "tmdbId": 80968,
+    "slug": "narcos:-mexico",
+    "title": "Narcos: Mexico",
+    "puzzleFile": "80968-narcos-mexico.json"
+  },
+  {
+    "rank": 233,
+    "enabled": false,
+    "tmdbId": 100911,
+    "slug": "asur",
+    "title": "Asur: Welcome to Your Dark Side",
+    "puzzleFile": "100911-asur.json"
+  },
+  {
+    "rank": 234,
+    "enabled": false,
+    "tmdbId": 60708,
+    "slug": "gotham",
+    "title": "Gotham",
+    "puzzleFile": "60708-gotham.json"
+  },
+  {
+    "rank": 235,
+    "enabled": false,
+    "tmdbId": 71578,
+    "slug": "atypical",
+    "title": "Atypical",
+    "puzzleFile": "71578-atypical.json"
+  },
+  {
+    "rank": 236,
+    "enabled": false,
+    "tmdbId": 2719,
+    "slug": "coupling",
+    "title": "Coupling",
+    "puzzleFile": "2719-coupling.json"
+  },
+  {
+    "rank": 237,
+    "enabled": false,
+    "tmdbId": 4057,
+    "slug": "criminal-minds",
+    "title": "Criminal Minds",
+    "puzzleFile": "4057-criminal-minds.json"
+  },
+  {
+    "rank": 238,
+    "enabled": false,
+    "tmdbId": 111110,
+    "slug": "one-piece",
+    "title": "One Piece",
+    "puzzleFile": "111110-one-piece.json"
+  },
+  {
+    "rank": 239,
+    "enabled": false,
+    "tmdbId": 1401,
+    "slug": "hell-on-wheels",
+    "title": "Hell on Wheels",
+    "puzzleFile": "1401-hell-on-wheels.json"
+  },
+  {
+    "rank": 240,
+    "enabled": false,
+    "tmdbId": 1618,
+    "slug": "justice-league",
+    "title": "Justice League",
+    "puzzleFile": "1618-justice-league.json"
+  },
+  {
+    "rank": 241,
+    "enabled": false,
+    "tmdbId": 1877,
+    "slug": "phineas-and-ferb",
+    "title": "Phineas and Ferb",
+    "puzzleFile": "1877-phineas-and-ferb.json"
+  },
+  {
+    "rank": 242,
+    "enabled": false,
+    "tmdbId": 2742,
+    "slug": "flight-of-the-conchords",
+    "title": "Flight of the Conchords",
+    "puzzleFile": "2742-flight-of-the-conchords.json"
+  },
+  {
+    "rank": 243,
+    "enabled": false,
+    "tmdbId": 65708,
+    "slug": "taboo",
+    "title": "Taboo",
+    "puzzleFile": "65708-taboo.json"
+  },
+  {
+    "rank": 244,
+    "enabled": false,
+    "tmdbId": 67195,
+    "slug": "legion",
+    "title": "Legion",
+    "puzzleFile": "67195-legion.json"
+  },
+  {
+    "rank": 245,
+    "enabled": false,
+    "tmdbId": 73544,
+    "slug": "warrior",
+    "title": "Warrior",
+    "puzzleFile": "73544-warrior.json"
+  },
+  {
+    "rank": 246,
+    "enabled": false,
+    "tmdbId": 76148,
+    "slug": "derry-girls",
+    "title": "Derry Girls",
+    "puzzleFile": "76148-derry-girls.json"
+  },
+  {
+    "rank": 247,
+    "enabled": false,
+    "tmdbId": 1695,
+    "slug": "monk",
+    "title": "Monk",
+    "puzzleFile": "1695-monk.json"
+  },
+  {
+    "rank": 250,
+    "enabled": false,
+    "tmdbId": 1063,
+    "slug": "samurai-champloo",
+    "title": "Samurai Champloo",
+    "puzzleFile": "1063-samurai-champloo.json"
+  }
+]

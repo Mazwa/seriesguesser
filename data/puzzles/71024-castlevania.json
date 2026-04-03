@@ -1,0 +1,191 @@
+{
+  "id": "71024-castlevania",
+  "rank": 226,
+  "answer": "Castlevania",
+  "sourceUrl": "https://seriesgraph.com/show/71024-castlevania",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/71024",
+    "seasonRatings": "https://seriesgraph.com/api/shows/71024/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "The Endings",
+    "season": 4,
+    "episode": 9,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Witchbottle",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Necropolis",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Labyrinth",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Monument",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "War Council",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Old Homes",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Shadow Battles",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Broken Mast",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Last Spell",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The River",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "For Love",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "End Times",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bless Your Dead Little Hearts",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Reparation of My Heart",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Investigators",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "I Have a Scheme",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "A Seat of Civilisation and Refinement",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Good Dream",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Worse Things Than Betrayal",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "What the Night Brings",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Harvest",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Abandon All Hope",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Murder Wakes It Up",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Having the World",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Walk Away",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "You Must Sacrifice",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Back in the World",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "You Don't Deserve My Blood",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "The Great Work",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Death Magic",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Endings",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "It's Been a Strange Ride",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

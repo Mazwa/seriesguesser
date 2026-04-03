@@ -1,0 +1,789 @@
+{
+  "id": "1877-phineas-and-ferb",
+  "rank": 241,
+  "answer": "Phineas and Ferb",
+  "sourceUrl": "https://seriesgraph.com/show/1877-phineas-and-ferb",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1877",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1877/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Act Your Age",
+    "season": 4,
+    "episode": 29,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Rollercoaster/Candace Loses Her Head",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Fast and the Phineas/Lawn Gnome Beach Party of Terror",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Magnificent Few/S'Winter",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Are You My Mummy?/Flop Starz",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Raging Bully/Lights, Candace, Action!",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Get That Bigfoot Outa My Face!/Tree to Get Ready",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "It's About Time!",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Jerk De Soleil/Toy to the World",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "One Good Scare Ought To Do It!",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "A Hard Day's Knight/I, Brobot",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Mom's Birthday/Journey to the Center of Candace",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Run Away Runway/I Scream, You Scream",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "It's a Mud, Mud, Mud, Mud World/The Ballad of Badbeard",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Dude, We're Getting the Band Back Together",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Ready for the Bettys/The Flying Fishmonger",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Phineas and Ferb Get Busted!",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Greece Lightning/Leave the Busting to Us!",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Crack That Whip/The Best Lazy Day Ever",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Boyfriend from 27,000 B.C./Voyage to the Bottom of Buford",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Does This Duckbill Make Me Look Fat?/Put That Putter Away",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Traffic Cam Caper/Bowl-R-Rama Drama",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "The Monster of Phineas-n-Ferbenstein/Oil on Candace",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Unfair Science Fair/Unfair Science Fair Redux",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Out to Launch",
+        "rating": 8.5
+      },
+      {
+        "episode": 25,
+        "name": "Got Game?/Comet Kermilian",
+        "rating": 8.2
+      },
+      {
+        "episode": 26,
+        "name": "Out of Toon/Hail Doofania!",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Lake Nose Monster",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Interview with a Platypus/Tip of the Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Attack of the 50-Foot Sister/Backyard Aquarium",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Day of the Living Gelatin!/Elementary, My Dear Stacy",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Don't Even Blink/Chez Platypus",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Perry Lays an Egg/Gaming the System",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Chronicles of Meap",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Thaddeus and Thor/De Plane! De Plane!",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Let's Take a Quiz/At the Car Wash",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Oh, There You Are, Perry/Swiss Family Phineas",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Hide and Seek/That Sinking Feeling",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Baljeatles/Vanessassary Roughness",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "No More Bunny Business/Spa Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Phineas and Ferb's Quantum Boogaloo",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "Phineas and Ferb's Musical Cliptastic Countdown",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Bubble Boys/Isabella and the Temple of Sap",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Cheer Up, Candace/Fireside Girl Jamboree",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "The Bully Code/Finding Mary McGuffin",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Picture This/Nerdy Dancin'",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "What Do It Do?/Atlantis",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Phineas and Ferb Christmas Vacation!",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Just Passing Through/Candace's Big Day",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "I Was a Middle-Aged Robot/Suddenly Suzy",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Undercover Carl/Hip Hip Parade",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "Invasion of the Ferb Snatchers/Ain't No Kiddie Ride",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Not Phineas and Ferb/Phineas and Ferb-Busters",
+        "rating": 7.8
+      },
+      {
+        "episode": 27,
+        "name": "The Lizard Whisperer/Robot Rodeo",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "The Beak",
+        "rating": 8.4
+      },
+      {
+        "episode": 29,
+        "name": "She's the Mayor/The Lemonade Stand",
+        "rating": 8.1
+      },
+      {
+        "episode": 30,
+        "name": "Phineas and Ferb Hawaiian Vacation",
+        "rating": 8.2
+      },
+      {
+        "episode": 31,
+        "name": "Phineas and Ferb: Summer Belongs to You!",
+        "rating": 9.2
+      },
+      {
+        "episode": 32,
+        "name": "Nerds of a Feather",
+        "rating": 8.3
+      },
+      {
+        "episode": 33,
+        "name": "Wizard of Odd",
+        "rating": 8.5
+      },
+      {
+        "episode": 34,
+        "name": "We Call It Maze/Ladies and Gentlemen, Meet Max Modem!",
+        "rating": 8.4
+      },
+      {
+        "episode": 35,
+        "name": "The Secret of Success/The Doof Side of the Moon",
+        "rating": 7.9
+      },
+      {
+        "episode": 36,
+        "name": "Split Personality/Brain Drain",
+        "rating": 8.4
+      },
+      {
+        "episode": 37,
+        "name": "Rollercoaster: The Musical!",
+        "rating": 8.6
+      },
+      {
+        "episode": 38,
+        "name": "Make Play/Candace Gets Busted",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Great Indoors/Canderemy",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Run, Candace, Run/Last Train to Bustville",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Phineas' Birthday Clip-O-Rama!",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Belly of the Beast/Moon Farm",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Ask a Foolish Question/Misperceived Monotreme",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Candace Disconnected/Magic Carpet Ride",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Bad Hair Day/Meatloaf Surprise",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Phineas and Ferb Interrupted/A Real Boy",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Mommy Can You Hear Me?/Road Trip",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Skiddley Whiffers/Tour de Ferb",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "My Fair Goalie",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "That's the Spirit/The Curse of Candace",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Ferb Latin/Lotsa Latkes",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "A Phineas and Ferb Family Christmas",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Tri-Stone Area/Doof Dynasty",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Excaliferb!",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "Monster from the Id/Gi-Ants",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Escape from Phineas Tower/The Remains of the Platypus",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Perry the Actorpus/Bullseye!",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Quietest Day Ever/Bully Bromance Breakup",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Meapless in Seattle",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Delivery of Destiny/Let's Bounce",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "The Doonkelberry Imperative/Buford Confidential",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "The Mom Attractor/Cranius Maximus",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "Agent Doof/Phineas and Ferb and the Temple of Juatchadoon",
+        "rating": 8.2
+      },
+      {
+        "episode": 26,
+        "name": "Mom's in the House/Minor Monogram",
+        "rating": 8.1
+      },
+      {
+        "episode": 27,
+        "name": "Sleepwalk Surprise/Sci-Fi Pie Fly",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "Sipping with the Enemy/Tri-State Treasure: Boot of Secrets",
+        "rating": 8
+      },
+      {
+        "episode": 29,
+        "name": "Doofapus/Norm Unleashed",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Where's Perry? Part I",
+        "rating": 8.5
+      },
+      {
+        "episode": 31,
+        "name": "Where's Perry? Part II",
+        "rating": 8.5
+      },
+      {
+        "episode": 32,
+        "name": "What a Croc!/Ferb TV",
+        "rating": 7.8
+      },
+      {
+        "episode": 33,
+        "name": "When Worlds Collide/Road to Danville",
+        "rating": 8.2
+      },
+      {
+        "episode": 34,
+        "name": "This Is Your Backstory",
+        "rating": 8.1
+      },
+      {
+        "episode": 35,
+        "name": "Blackout!/What'd I Miss?",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "For Your Ice Only/Happy New Year!",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Fly on the Wall/My Sweet Ride",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Sidetracked",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Primal Perry",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Bully Bust/Backyard Hodge Podge",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Bee Day/Bee Story",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Great Balls of Water/Where's Pinky?",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Phineas and Ferb Musical Cliptastic Countdown Hosted by Kelly Osbourne",
+        "rating": 6.7
+      },
+      {
+        "episode": 9,
+        "name": "Der Kinderlumper/Just Desserts",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Knot My Problem/Mind Share",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "La Candace-Cabra/Happy Birthday, Isabella",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Love at First Byte/One Good Turn",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Phineas and Ferb: Mission Marvel",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Thanks But No Thanks/Troy Story",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Terrifying Tri-State Trilogy of Terror",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Druselsteinoween/Face Your Fear",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Cheers for Fears/Just Our Luck",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Return Policy/Imperfect Storm",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Phineas and Ferb Save Summer",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "The Return of the Rogue Rabbit/Live and Let Drive",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Steampunx/It's No Picnic",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "The Klimpaloon Ultimatum",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Operation Crumb Cake/Mandace",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Phineas and Ferb: Star Wars",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Lost in Danville/The Inator Method",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Night of the Living Pharmacists",
+        "rating": 9
+      },
+      {
+        "episode": 27,
+        "name": "Tales from the Resistance: Back to the 2nd Dimension",
+        "rating": 8.3
+      },
+      {
+        "episode": 28,
+        "name": "Doof 101/Father's Day",
+        "rating": 8.2
+      },
+      {
+        "episode": 29,
+        "name": "Act Your Age",
+        "rating": 9.5
+      },
+      {
+        "episode": 30,
+        "name": "Last Day of Summer",
+        "rating": 9.4
+      },
+      {
+        "episode": 31,
+        "name": "The O.W.C.A. Files",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Summer Block Buster/Cloudy with a Chance of Mom",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Submarine Sandwich Submarine/License to Bust",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Dry Another Day/Deconstructing Doof",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Tropey McTropeface/Biblio-Blast",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "A Chip to the Vet/More Than an Intern",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Aurora Perry-Alis/Lord of the Firesides",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Candace Suit/Agent T (for Teen)",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "The Haberdasher/Out of Character",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Meap Me in St. Louis",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "No Slumber Party/The Ballad of Bubba Doof",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Attack of the Candace Suit/Book Flub",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Bad Old Days/Mantis Fact!",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Nightmare-Inator/Doof in Retrograde",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Bend It Like Doof/Dooflicated",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Space Adventure/Droogenfest",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "Doofercise/Croquet Y-8",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Dinner Reservations/Bread Bowl Hot Tub",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Entrance Exam/Dungeons & Dating",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Elevator Irritator/Master of Fate",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "Vendpocalypse: The Musical",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #6.1"
+      }
+    ]
+  ]
+}

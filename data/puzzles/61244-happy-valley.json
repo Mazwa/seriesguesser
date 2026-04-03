@@ -1,0 +1,119 @@
+{
+  "id": "61244-happy-valley",
+  "rank": 230,
+  "answer": "Happy Valley",
+  "sourceUrl": "https://seriesgraph.com/show/61244-happy-valley",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61244",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61244/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Episode #1.4",
+    "season": 1,
+    "episode": 4,
+    "rating": 9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Episode #1.1",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Episode #1.2",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Episode #1.3",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Episode #1.4",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Episode #1.5",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Episode #1.6",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Episode #2.6",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

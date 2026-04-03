@@ -1,0 +1,152 @@
+{
+  "id": "127532-solo-leveling",
+  "rank": 129,
+  "answer": "Solo Leveling",
+  "sourceUrl": "https://seriesgraph.com/show/127532-solo-leveling",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/127532",
+    "seasonRatings": "https://seriesgraph.com/api/shows/127532/season-ratings"
+  },
+  "years": {
+    "first": 2024,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Are You the King of Humans",
+    "season": 2,
+    "episode": 12,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "I'm Used to It",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "If I Had One More Chance",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "It's Like a Game",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "I've Gotta Get Stronger",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "A Pretty Good Deal",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Real Hunt Begins",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Let's See How Far I Can Go",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "This Is Frustrating",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "You've Been Hiding Your Skills",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "What Is This, a Picnic?",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "A Knight Who Defends an Empty Throne",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Arise",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "You Aren't E-Rank, Are You?",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "I Suppose You Aren't Aware",
+        "rating": 9.4
+      },
+      {
+        "episode": 3,
+        "name": "Still a Long Way to Go",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "I Need to Stop Faking",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "This Is What We're Trained to Do",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Don't Look Down on My Guys",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "The 10th S-Rank Hunter",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Looking Up Was Tiring Me Out",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "It Was All Worth It",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "We Need a Hero",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "It's Going to Get Even More Intense",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Are You the King of Humans",
+        "rating": 9.6
+      },
+      {
+        "episode": 13,
+        "name": "On to the Next Target",
+        "rating": 9
+      }
+    ]
+  ]
+}

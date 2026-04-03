@@ -1,0 +1,3041 @@
+{
+  "id": "2734-law-order-special-victims-unit",
+  "rank": 207,
+  "answer": "Law & Order: Special Victims Unit",
+  "sourceUrl": "https://seriesgraph.com/show/2734-law-&-order:-special-victims-unit",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2734",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2734/season-ratings"
+  },
+  "years": {
+    "first": 1999,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "911",
+    "season": 7,
+    "episode": 3,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Payback",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "A Single Life",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "...Or Just Look Like One",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Hysteria",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Wanderlust",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Sophomore Jinx",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Uncivilized",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Stalked",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Stocks & Bondage",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Closure",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Bad Blood",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Russian Love Poem",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Disrobed",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Limitations",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Entitled",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "The Third Guy",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Misleader",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Chat Room",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Contact",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Remorse",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Nocturne",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Slaves",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wrong Is Right",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Honor",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Closure: Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Legacy",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Baby Killer",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Noncompliance",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Asunder",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Taken",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Pixies",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Consent",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Abuse",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Secrets",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Victims",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Paranoia",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Countdown",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Runaway",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Folly",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Manhunt",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "Parasites",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Pique",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Scourge",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Repression",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Wrath",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Stolen",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Rooftop",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Tangled",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Redemption",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Sacrifice",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Inheritance",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Care",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Ridicule",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Monogamy",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Protection",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Prodigy",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Counterfeit",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Execution",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Popular",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Surveillance",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Guilt",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Justice",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Greed",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Denial",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Competence",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Silence",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chameleon",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Deception",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Vulnerable",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Lust",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Disappearing Acts",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Angels",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Dolls",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Waste",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Juvenile",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Resilience",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Damaged",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Risk",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Rotten",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Mercy",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Pandora",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Tortured",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Privilege",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Desperate",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Appearances",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Dominance",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Fallacy",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Futility",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Grief",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "Perfect",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Soulless",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tragedy",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Manic",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Mother",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Loss",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Serendipity",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Coerced",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Choice",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Abomination",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Control",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Shaken",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Escape",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Brotherhood",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Hate",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Ritual",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Families",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Home",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Mean",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Careless",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Sick",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Lowdown",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Criminal",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Painless",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Bound",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Poison",
+        "rating": 8.7
+      },
+      {
+        "episode": 25,
+        "name": "Head",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Birthright",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Debt",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Obscene",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Scavenger",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Outcry",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Conscience",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Charisma",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Doubt",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Weak",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Haunted",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Contagious",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Identity",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Quarry",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Game",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Hooked",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Ghost",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Rage",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Pure",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Intoxicated",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Night",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Blood",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "Parts",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Goliath",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Demons",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Design",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "911",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Ripped",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Strain",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Raw",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Name",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Starved",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Rockabye",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Storm",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Alien",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Infected",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Blast",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Taboo",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Manipulated",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Gone",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Class",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Venom",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Fault",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Fat",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Web",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Influence",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Informed",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Clock",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Recall",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Uncle",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Confrontation",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Infiltrated",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Underbelly",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Cage",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Choreographed",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Scheherazade",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Burned",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Outsider",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Loophole",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Dependent",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Haystack",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Philadelphia",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Sin",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Responsible",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Florida",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Annihilated",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Pretend",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Screwed",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Alternate",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Avatar",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Impulsive",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Savant",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Harm",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Svengali",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Blinded",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Fight",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Paternity",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Snitch",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Streetwise",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Signature",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Unorthodox",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Inconceivable",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Undercover",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "Closet",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Authority",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Trade",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Cold",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Trials",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Confession",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Swing",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Lunacy",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Retro",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Babes",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Wildlife",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Persona",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "PTSD",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Smut",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Stranger",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Hothouse",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Snatched",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Transitions",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Lead",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Ballerina",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Hell",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Baggage",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Selfish",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Crush",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Liberties",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Zebras",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Unstable",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Sugar",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Solitary",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Hammered",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Hardwired",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Spooked",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Users",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Turmoil",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Perverted",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Anchor",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Quickie",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Shadow",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "P.C.",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Savior",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Confidential",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Witness",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Disabled",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Bedtime",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Conned",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Beef",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Torch",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Ace",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Wannabe",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Shattered",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Locum",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Bullseye",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Behave",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Merchandise",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Wet",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Branded",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Trophy",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Penetration",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Gray",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Rescue",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Pop",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Possessed",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Mask",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Dirty",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Flight",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Spectacle",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Pursuit",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Bully",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Bombshell",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Totem",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Reparations",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Bang",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Delinquent",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "Smoked",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Scorched Earth",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Personal Fouls",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Blood Brothers",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Double Strands",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Missing Pieces",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "True Believers",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Russian Brides",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Educated Guess",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Lost Traveller",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Spiraling Down",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Theatre Tricks",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Official Story",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Father's Shadow",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Home Invasions",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Hunting Ground",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Child's Welfare",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Justice Denied",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Valentine's Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Street Revenge",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Father Dearest",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Learning Curve",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Strange Beauty",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "Rhodium Nights",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Lost Reputation",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Above Suspicion",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Twenty-Five Acts",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Acceptable Loss",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Manhattan Vigil",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Friending Emily",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Vanity's Bonfire",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Lessons Learned",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Dreams Deferred",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Presumed Guilty",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Beautiful Frame",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Criminal Hatred",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Monster's Legacy",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Secrets Exhumed",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Deadly Ambition",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Funny Valentine",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Undercover Blue",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Legitimate Rape",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Born Psychopath",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Girl Dishonored",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Traumatic Wound",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Poisoned Motive",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "Brief Interlude",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "Her Negotiation",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Surrender Benson",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Imprisoned Lives",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "American Tragedy",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Internal Affairs",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Wonderland Story",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "October Surprise",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Dissonant Voices",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Military Justice",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Rapist Anonymous",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Psycho/Therapist",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Amaro's One-Eighty",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Jersey Breakdown",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Betrayal's Climax",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Wednesday's Child",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Comic Perversion",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Gridiron Soldier",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Gambler's Fallacy",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Criminal Stories",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Downloaded Child",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Beast's Obsession",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Post-Mortem Blues",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Reasonable Doubt",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Thought Criminal",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Spring Awakening",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Girls Disappeared",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "American Disgrace",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Producer's Backend",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Holden's Manifesto",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Pornstar's Requiem",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Glasgowman's Wrath",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Chicago Crossover",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Spousal Privilege",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Pattern Seventeen",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Forgiving Rollins",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Agent Provocateur",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Padre Sandunguero",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Decaying Morality",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Intimidation Game",
+        "rating": 4.7
+      },
+      {
+        "episode": 15,
+        "name": "Undercover Mother",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "December Solstice",
+        "rating": 6.9
+      },
+      {
+        "episode": 17,
+        "name": "Parole Violations",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Devastating Story",
+        "rating": 6.7
+      },
+      {
+        "episode": 19,
+        "name": "Granting Immunity",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Daydream Believer",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Perverted Justice",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "Parents' Nightmare",
+        "rating": 7.3
+      },
+      {
+        "episode": 23,
+        "name": "Surrendering Noah",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Devil's Dissections",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Criminal Pathology",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Transgender Bridge",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Institutional Fail",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Community Policing",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Maternal Instincts",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Patrimonial Burden",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Melancholy Pursuit",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Depravity Standard",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Catfishing Teacher",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Townhouse Incident",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "A Misunderstanding",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Forty-One Witnesses",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Nationwide Manhunt",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Collateral Damages",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Star-Struck Victims",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Manhattan Transfer",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "Unholiest Alliance",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Sheltered Outcasts",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Fashionable Crimes",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Assaulting Reality",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Intersecting Lives",
+        "rating": 8.5
+      },
+      {
+        "episode": 23,
+        "name": "Heartfelt Passages",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Terrorized",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Making a Rapist",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Imposter",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "Heightened Emotions",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Rape Interrupted",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Broken Rhymes",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Next Chapter",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Chasing Theo",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Decline and Fall",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Motherly Love",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Great Expectations",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "No Surrender",
+        "rating": 7
+      },
+      {
+        "episode": 13,
+        "name": "Genes",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Net Worth",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Know It All",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Newsroom",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Real Fake News",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Spellbound",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Conversion",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "American Dream",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Sanctuary",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gone Fishin'",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Mood",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Contrapasso",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "No Good Reason",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Complicated",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Unintended Consequences",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Something Happened",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Intent",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Gone Baby Gone",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Pathological",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Flight Risk",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Info Wars",
+        "rating": 6.2
+      },
+      {
+        "episode": 13,
+        "name": "The Undiscovered Country",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Chasing Demons",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "In Loco Parentis",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "Dare",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Send in the Clowns",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Service",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Sunk Cost Fallacy",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "The Book of Esther",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Guardian",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Mama",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Remember Me",
+        "rating": 7.3
+      },
+      {
+        "episode": 24,
+        "name": "Remember Me Too",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Man Up",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Man Down",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Zero Tolerance",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Revenge",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Accredo",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Exile",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Caretaker",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Hell's Kitchen",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Mea Culpa",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Alta Kockers",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Plastic",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Dear Ben",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "A Story of More Woe",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Part 33",
+        "rating": 6.1
+      },
+      {
+        "episode": 15,
+        "name": "Brothel",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Facing Demons",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Missing",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Blackout",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Dearly Beloved",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The Good Girl",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Exchange",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Diss",
+        "rating": 7.1
+      },
+      {
+        "episode": 23,
+        "name": "Assumptions",
+        "rating": 6.9
+      },
+      {
+        "episode": 24,
+        "name": "End Game",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I'm Going To Make You a Star",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Darkest Journey Home",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Down Low in Hell's Kitchen",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Burden of Our Choices",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "At Midnight in Manhattan",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Murdered at a Bad Address",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Counselor, It's Chinatown",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "We Dream of Machine Elves",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Can't Be Held Accountable",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Must Be Held Accountable",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "She Paints for Vengeance",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "The Longest Night of Rain",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Redemption in Her Corner",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "I Deserve Some Loving Too",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Swimming with the Sharks",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Eternal Relief from Pain",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Dance, Lies and Videotape",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Garland's Baptism by Fire",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Solving for the Unknowns",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Things We Have to Lose",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Guardians and Gladiators",
+        "rating": 5.9
+      },
+      {
+        "episode": 2,
+        "name": "Ballad of Dwight and Irena",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Remember Me in Quarantine",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Sightless in a Savage Land",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Turn Me on Take Me Private",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Long Arm of the Witness",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Hunt, Trap, Rape, and Release",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Only Way Out Is Through",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Return of the Prodigal Son",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Welcome to the Pedo Motel",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Our Words Will Not Be Heard",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "In the Year We All Fell Down",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Trick-Rolled at the Moulin",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Post-Graduate Psychopath",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "What Can Happen in the Dark",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Wolves in Sheep's Clothing",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "And the Empire Strikes Back",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Never Turn Your Back on Them",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "I Thought You Were on My Side",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "One More Tale of Two Victims",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Fast Times @TheWheelhouse",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Five Hundredth Episode",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "They'd Already Disappeared",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Nightmares in Drill City",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "People vs. Richard Wheatley",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Silent Night, Hateful Night",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Burning with Rage Forever",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Tommy Baker's Hardest Fight",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "If I Knew Then What I Know Now",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Video Killed the Radio Star",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Promising Young Gentlemen",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Sorry If It Got Weird for You",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Once Upon a Time in El Barrio",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Eighteen Wheels a Predator",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Tangled Strands of Justice",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Did You Believe in Miracles?",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Confess Your Sins to Be Free",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "A Final Call at Forlini's Bar",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gimme Shelter - Part Two",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The One You Feed",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Mirror Effect",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "The Steps We Cannot Take",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Breakwater",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Controlled Burn",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Dead Ball",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "A Better Person",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "And a Trauma in a Pear Tree",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Jumped In",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Soldier Up",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Blood Out",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Intersection",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Dutch Tears",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "King of the Moon",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "The Presence of Absence",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "Lime Chaser",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Bubble Wrap",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Bend the Law",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Debatable",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Bad Things",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "All Pain Is One Malady",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tunnel Blind",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Truth Embargo",
+        "rating": 4.4
+      },
+      {
+        "episode": 3,
+        "name": "The Punch List",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Duty to Report",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Zone Rouge",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Carousel",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Probability of Doom",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Third Man Syndrome",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Children of Wolves",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Combat Fatigue",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Prima Nocta",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Marauder",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Duty to Hope",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fractured",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Excavation",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Divide and Conquer",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Constricted",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Economics of Shame",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Rorschach",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Tenfold",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Cornered",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "First Light",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Master Key",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Deductible",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Calculated",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Extinguished",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Grid Plan",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Undertow",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "Let Me Bring Pardon",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Accomplice Liability",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Accuser",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Play with Fire Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Shock Collar",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Aperture",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Post-Rage",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In the Wind",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "A Waiver of Consent",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "A Vicious Circle",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Clickbait",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Feed the Craving",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Under the Influence",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "False Idols",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Showdown",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Purity",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Fidelis Ad Mortem",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Career Psychopath",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Hubris",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Corrosive",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Frequency",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Thirsty",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Vivid"
+      },
+      {
+        "episode": 17,
+        "name": "Deep Under"
+      },
+      {
+        "episode": 18,
+        "name": "Episode #27.18"
+      },
+      {
+        "episode": 19,
+        "name": "Episode #27.19"
+      },
+      {
+        "episode": 20,
+        "name": "Episode #27.20"
+      },
+      {
+        "episode": 21,
+        "name": "Episode #27.21"
+      }
+    ]
+  ]
+}

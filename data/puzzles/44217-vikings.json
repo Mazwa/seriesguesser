@@ -1,0 +1,480 @@
+{
+  "id": "44217-vikings",
+  "rank": 72,
+  "answer": "Vikings",
+  "sourceUrl": "https://seriesgraph.com/show/44217-vikings",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/44217",
+    "seasonRatings": "https://seriesgraph.com/api/shows/44217/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "All His Angels",
+    "season": 4,
+    "episode": 15,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Rites of Passage",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Wrath of the Northmen",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Dispossessed",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Trial",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Raid",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Burial of the Dead",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "A King's Ransom",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Sacrifice",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "All Change",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Brother's War",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Invasion",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Treachery",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Eye for an Eye",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Answers in Blood",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Unforgiven",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Blood Eagle",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Boneless",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Choice",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Lord's Prayer",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mercenary",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Wanderer",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Warrior's Fate",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Scarred",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Usurper",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Born Again",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Paris",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "To the Gates!",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "Breaking Point",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Dead",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Good Treason",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Kill the Queen",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Mercy",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Yol",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Promised",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "What Might Have Been",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Profit and the Loss",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Portage",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Death All 'Round",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Last Ship",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "The Outsider",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Vision",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Two Journeys",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "In the Uncertain Hour Before the Morning",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "All His Angels",
+        "rating": 9.6
+      },
+      {
+        "episode": 16,
+        "name": "Crossings",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "The Great Army",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Revenge",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "On the Eve",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "The Reckoning",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Departed Part 1",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Departed, Part 2",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Homeland",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Plan",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Prisoner",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Message",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Full Moon",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "The Joke",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "A Simple Story",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Moments of Vision",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Revelation",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Murder Most Foul",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "A New God",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "The Lost Moment",
+        "rating": 7.1
+      },
+      {
+        "episode": 15,
+        "name": "Hell",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "The Buddha",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Most Terrible Thing",
+        "rating": 6.8
+      },
+      {
+        "episode": 18,
+        "name": "Baldur",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "What Happens in the Cave",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Ragnarok",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Beginnings",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "The Prophet",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Ghosts, Gods and Running Dogs",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "All the Prisoners",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Key",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Death and the Serpent",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Ice Maiden",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Valhalla Can Wait",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Resurrection",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "The Best Laid Plans",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "King of Kings",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "All Change",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "The Signal",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Lost Souls",
+        "rating": 7
+      },
+      {
+        "episode": 15,
+        "name": "All at Sea",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "The Final Straw",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "The Raft of Medusa",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "It's Only Magic",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "The Lord Giveth...",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "The Last Act",
+        "rating": 7.8
+      }
+    ]
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "136315-the-bear",
+  "rank": 88,
+  "answer": "The Bear",
+  "sourceUrl": "https://seriesgraph.com/show/136315-the-bear",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/136315",
+    "seasonRatings": "https://seriesgraph.com/api/shows/136315/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Forks",
+    "season": 2,
+    "episode": 7,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "System",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Hands",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Brigade",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Dogs",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Sheridan",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Ceres",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Review",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Braciole",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Beef",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Pasta",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Sundae",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Honeydew",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Pop",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Fishes",
+        "rating": 9.6
+      },
+      {
+        "episode": 7,
+        "name": "Forks",
+        "rating": 9.7
+      },
+      {
+        "episode": 8,
+        "name": "Bolognese",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Omelette",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Bear",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tomorrow",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Next",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Doors",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Violet",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Children",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Napkins",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Legacy",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Ice Chips",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Apologies",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Forever",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Groundhogs",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Soubise",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Scallop",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Worms",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Replicants",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Sophie",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Bears",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Green",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Tonnato",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Goodbye",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

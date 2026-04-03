@@ -1,0 +1,194 @@
+{
+  "id": "46296-spartacus",
+  "rank": 82,
+  "answer": "Spartacus",
+  "sourceUrl": "https://seriesgraph.com/show/46296-spartacus",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46296",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46296/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2013
+  },
+  "highestRatedEpisode": {
+    "name": "Victory",
+    "season": 3,
+    "episode": 10,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Red Serpent",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Sacramentum Gladiatorum",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Legends",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Thing in the Pit",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Shadow Games",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Delicate Things",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Great and Unfortunate Things",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Mark of the Brotherhood",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Whore",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Party Favors",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Old Wounds",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Revelations",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Kill Them All",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fugitivus",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "A Place in This World",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Greater Good",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Empty Hands",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Libertus",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Chosen Path",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Sacramentum",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Balance",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Monsters",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Wrath of the Gods",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Enemies of Rome",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Wolves at the Gate",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Men of Honor",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Decimation",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Blood Brothers",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Spoils of War",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Mors Indecepta",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Separate Paths",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The Dead and the Dying",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Victory",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

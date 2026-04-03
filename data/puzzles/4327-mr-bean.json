@@ -1,0 +1,100 @@
+{
+  "id": "4327-mr-bean",
+  "rank": 131,
+  "answer": "Mr. Bean",
+  "sourceUrl": "https://seriesgraph.com/show/4327-mr.-bean",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4327",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4327/season-ratings"
+  },
+  "years": {
+    "first": 1990,
+    "last": 1995
+  },
+  "highestRatedEpisode": {
+    "name": "Merry Christmas Mr Bean",
+    "season": 1,
+    "episode": 7,
+    "rating": 8.9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Mr. Bean",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Return of Mr. Bean",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "The Curse of Mr. Bean",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Mr. Bean Goes to Town",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Trouble with Mr. Bean",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Mr. Bean Rides Again",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Merry Christmas Mr Bean",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Mr. Bean in Room 426",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Do-It-Yourself Mr. Bean",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Mind the Baby, Mr. Bean",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Back to School Mr. Bean",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Tee Off, Mr. Bean",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Goodnight Mr. Bean",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Hair by Mr. Bean of London",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "The Best Bits of Mr. Bean",
+        "rating": 8.3
+      }
+    ]
+  ]
+}

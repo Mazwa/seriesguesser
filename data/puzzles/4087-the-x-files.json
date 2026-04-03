@@ -1,0 +1,1135 @@
+{
+  "id": "4087-the-x-files",
+  "rank": 108,
+  "answer": "The X-Files",
+  "sourceUrl": "https://seriesgraph.com/show/4087-the-x-files",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4087",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4087/season-ratings"
+  },
+  "years": {
+    "first": 1993,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "Clyde Bruckman's Final Repose",
+    "season": 3,
+    "episode": 4,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Deep Throat",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Squeeze",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Conduit",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "The Jersey Devil",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "Shadows",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Ghost in the Machine",
+        "rating": 6.7
+      },
+      {
+        "episode": 8,
+        "name": "Ice",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Space",
+        "rating": 6.2
+      },
+      {
+        "episode": 10,
+        "name": "Fallen Angel",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Eve",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Fire",
+        "rating": 7.2
+      },
+      {
+        "episode": 13,
+        "name": "Beyond the Sea",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Gender Bender",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Lazarus",
+        "rating": 7
+      },
+      {
+        "episode": 16,
+        "name": "Young at Heart",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "E.B.E.",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Miracle Man",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Shapes",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Darkness Falls",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Tooms",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Born Again",
+        "rating": 7.1
+      },
+      {
+        "episode": 23,
+        "name": "Roland",
+        "rating": 7.2
+      },
+      {
+        "episode": 24,
+        "name": "The Erlenmeyer Flask",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Little Green Men",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Host",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Blood",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Sleepless",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Duane Barry",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Ascension",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "3",
+        "rating": 6.3
+      },
+      {
+        "episode": 8,
+        "name": "One Breath",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Firewalker",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Red Museum",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Excelsis Dei",
+        "rating": 6.9
+      },
+      {
+        "episode": 12,
+        "name": "Aubrey",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Irresistible",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Die Hand Die Verletzt",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Fresh Bones",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "Colony",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "End Game",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Fearful Symmetry",
+        "rating": 6.4
+      },
+      {
+        "episode": 19,
+        "name": "Død Kalm",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "Humbug",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "The Calusari",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "F. Emasculata",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Soft Light",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Our Town",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "Anasazi",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Blessing Way",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Paper Clip",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "D.P.O.",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Clyde Bruckman's Final Repose",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "The List",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "2Shy",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "The Walk",
+        "rating": 7.1
+      },
+      {
+        "episode": 8,
+        "name": "Oubliette",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Nisei",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "731",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Revelations",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "War of the Coprophages",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Syzygy",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Grotesque",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Piper Maru",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Apocrypha",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Pusher",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Teso dos Bichos",
+        "rating": 5.9
+      },
+      {
+        "episode": 19,
+        "name": "Hell Money",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Jose Chung's 'From Outer Space'",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Avatar",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Quagmire",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Wetwired",
+        "rating": 8.3
+      },
+      {
+        "episode": 24,
+        "name": "Talitha Cumi",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Herrenvolk",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Home",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Teliko",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "Unruhe",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Field Where I Died",
+        "rating": 6.6
+      },
+      {
+        "episode": 6,
+        "name": "Sanguinarium",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Musings of a Cigarette Smoking Man",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Tunguska",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Terma",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Paper Hearts",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "El Mundo Gira",
+        "rating": 6.7
+      },
+      {
+        "episode": 12,
+        "name": "Leonard Betts",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Never Again",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Memento Mori",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Kaddish",
+        "rating": 6.9
+      },
+      {
+        "episode": 16,
+        "name": "Unrequited",
+        "rating": 7.2
+      },
+      {
+        "episode": 17,
+        "name": "Tempus Fugit",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Max",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Synchrony",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Small Potatoes",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "Zero Sum",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Elegy",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Demons",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Gethsemane",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Redux",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Redux II",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Unusual Suspects",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Detour",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Post-Modern Prometheus",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Christmas Carol",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Emily",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Kitsunegari",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Schizogeny",
+        "rating": 6.9
+      },
+      {
+        "episode": 10,
+        "name": "Chinga",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Kill Switch",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Bad Blood",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Patient X",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "The Red and the Black",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Travelers",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Mind's Eye",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "All Souls",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "The Pine Bluff Variant",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Folie a Deux",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "The End",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Beginning",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Drive",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Triangle",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Dreamland",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Dreamland II",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "How the Ghosts Stole Christmas",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Terms of Endearment",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Rain King",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "S.R. 819",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Tithonus",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Two Fathers",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "One Son",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Agua Mala",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Monday",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Arcadia",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Alpha",
+        "rating": 6.4
+      },
+      {
+        "episode": 17,
+        "name": "Trevor",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Milagro",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "The Unnatural",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Three of a Kind",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Field Trip",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Biogenesis",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Sixth Extinction",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Sixth Extinction II: Amor Fati",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Hungry",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Millennium",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Rush",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Goldberg Variation",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Orison",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "The Amazing Maleeni",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Signs & Wonders",
+        "rating": 6.5
+      },
+      {
+        "episode": 10,
+        "name": "Sein und Zeit",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Closure",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "X-Cops",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "First Person Shooter",
+        "rating": 6
+      },
+      {
+        "episode": 14,
+        "name": "Theef",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "En Ami",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Chimera",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "All Things",
+        "rating": 7
+      },
+      {
+        "episode": 18,
+        "name": "Brand X",
+        "rating": 7.5
+      },
+      {
+        "episode": 19,
+        "name": "Hollywood A.D.",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "Fight Club",
+        "rating": 5.9
+      },
+      {
+        "episode": 21,
+        "name": "Je Souhaite",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Requiem",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Within",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Without",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Patience",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Roadrunners",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Invocation",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Redrum",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Via Negativa",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Surekill",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Salvage",
+        "rating": 6.7
+      },
+      {
+        "episode": 10,
+        "name": "Badlaa",
+        "rating": 6.7
+      },
+      {
+        "episode": 11,
+        "name": "The Gift",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Medusa",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Per Manum",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "This Is Not Happening",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Deadalive",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Three Words",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Empedocles",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "Vienen",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Alone",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Essence",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Existence",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nothing Important Happened Today",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Nothing Important Happened Today II",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Dæmonicus",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "4-D",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Lord of the Flies",
+        "rating": 6.8
+      },
+      {
+        "episode": 6,
+        "name": "Trust No 1",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "John Doe",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Hellbound",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Provenance",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Providence",
+        "rating": 7.2
+      },
+      {
+        "episode": 11,
+        "name": "Audrey Pauley",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Underneath",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Improbable",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Scary Monsters",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Jump the Shark",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "William",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Release",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Sunshine Days",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "The Truth",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Truth: Part 2",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Struggle",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Founder's Mutation",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Mulder & Scully Meet the Were-Monster",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Home Again",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Babylon",
+        "rating": 6.4
+      },
+      {
+        "episode": 6,
+        "name": "My Struggle II",
+        "rating": 7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Struggle III",
+        "rating": 6.4
+      },
+      {
+        "episode": 2,
+        "name": "This",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Plus One",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Lost Art of Forehead Sweat",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Ghouli",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Kitten",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Rm9sbG93ZXJz",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Familiar",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Nothing Lasts Forever",
+        "rating": 6.6
+      },
+      {
+        "episode": 10,
+        "name": "My Struggle IV",
+        "rating": 7.2
+      }
+    ]
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "54344-the-leftovers",
+  "rank": 149,
+  "answer": "The Leftovers",
+  "sourceUrl": "https://seriesgraph.com/show/54344-the-leftovers",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/54344",
+    "seasonRatings": "https://seriesgraph.com/api/shows/54344/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "International Assassin",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Penguin One, Us Zero",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Two Boats and a Helicopter",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "B.J. and the A.C.",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Gladys",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Guest",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Solace for Tired Feet",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Cairo",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Garveys at Their Best",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "The Prodigal Son Returns",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Axis Mundi",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "A Matter of Geography",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Off Ramp",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Orange Sticker",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "No Room at the Inn",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Lens",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "A Most Powerful Adversary",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "International Assassin",
+        "rating": 9.6
+      },
+      {
+        "episode": 9,
+        "name": "Ten Thirteen",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "I Live Here Now",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Book of Kevin",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Don't Be Ridiculous",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Crazy Whitefella Thinking",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "G'Day Melbourne",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "It's a Matt, Matt, Matt, Matt World",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Certified",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Most Powerful Man in the World (and His Identical Twin Brother)",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "The Book of Nora",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "version": 1,
+  "season": 1,
+  "seed": "seriesguesser-season-1",
+  "timezone": "America/Chicago",
+  "startDate": "2026-04-02",
+  "eligibleCount": 108,
+  "generatedAt": "2026-04-03T01:25:37.738Z",
+  "order": [
+    {
+      "day": 1,
+      "rank": 17,
+      "tmdbId": 76331,
+      "title": "Succession",
+      "puzzleFile": "76331-succession.json"
+    },
+    {
+      "day": 2,
+      "rank": 15,
+      "tmdbId": 19885,
+      "title": "Sherlock",
+      "puzzleFile": "19885-sherlock.json"
+    },
+    {
+      "day": 3,
+      "rank": 9,
+      "tmdbId": 2316,
+      "title": "The Office",
+      "puzzleFile": "2316-the-office.json"
+    },
+    {
+      "day": 4,
+      "rank": 47,
+      "tmdbId": 95557,
+      "title": "Invincible",
+      "puzzleFile": "95557-invincible.json"
+    },
+    {
+      "day": 5,
+      "rank": 77,
+      "tmdbId": 73586,
+      "title": "Yellowstone",
+      "puzzleFile": "73586-yellowstone.json"
+    },
+    {
+      "day": 6,
+      "rank": 65,
+      "tmdbId": 18347,
+      "title": "Community",
+      "puzzleFile": "18347-community.json"
+    },
+    {
+      "day": 7,
+      "rank": 111,
+      "tmdbId": 4556,
+      "title": "Scrubs",
+      "puzzleFile": "4556-scrubs.json"
+    },
+    {
+      "day": 8,
+      "rank": 27,
+      "tmdbId": 63351,
+      "title": "Narcos",
+      "puzzleFile": "63351-narcos.json"
+    },
+    {
+      "day": 9,
+      "rank": 110,
+      "tmdbId": 67070,
+      "title": "Fleabag",
+      "puzzleFile": "67070-fleabag.json"
+    },
+    {
+      "day": 10,
+      "rank": 56,
+      "tmdbId": 82856,
+      "title": "The Mandalorian",
+      "puzzleFile": "82856-the-mandalorian.json"
+    },
+    {
+      "day": 11,
+      "rank": 76,
+      "tmdbId": 1973,
+      "title": "24",
+      "puzzleFile": "1973-24.json"
+    },
+    {
+      "day": 12,
+      "rank": 115,
+      "tmdbId": 10283,
+      "title": "Archer",
+      "puzzleFile": "10283-archer.json"
+    },
+    {
+      "day": 13,
+      "rank": 108,
+      "tmdbId": 4087,
+      "title": "The X-Files",
+      "puzzleFile": "4087-the-x-files.json"
+    },
+    {
+      "day": 14,
+      "rank": 112,
+      "tmdbId": 1940,
+      "title": "Entourage",
+      "puzzleFile": "1940-entourage.json"
+    },
+    {
+      "day": 15,
+      "rank": 40,
+      "tmdbId": 2190,
+      "title": "South Park",
+      "puzzleFile": "2190-south-park.json"
+    },
+    {
+      "day": 16,
+      "rank": 72,
+      "tmdbId": 44217,
+      "title": "Vikings",
+      "puzzleFile": "44217-vikings.json"
+    },
+    {
+      "day": 17,
+      "rank": 3,
+      "tmdbId": 1399,
+      "title": "Game of Thrones",
+      "puzzleFile": "1399-game-of-thrones.json"
+    },
+    {
+      "day": 18,
+      "rank": 32,
+      "tmdbId": 97546,
+      "title": "Ted Lasso",
+      "puzzleFile": "97546-ted-lasso.json"
+    },
+    {
+      "day": 19,
+      "rank": 98,
+      "tmdbId": 1421,
+      "title": "Modern Family",
+      "puzzleFile": "1421-modern-family.json"
+    },
+    {
+      "day": 20,
+      "rank": 143,
+      "tmdbId": 46533,
+      "title": "The Americans",
+      "puzzleFile": "46533-the-americans.json"
+    },
+    {
+      "day": 21,
+      "rank": 126,
+      "tmdbId": 60585,
+      "title": "Bosch",
+      "puzzleFile": "60585-bosch.json"
+    },
+    {
+      "day": 22,
+      "rank": 25,
+      "tmdbId": 62560,
+      "title": "Mr. Robot",
+      "puzzleFile": "62560-mr-robot.json"
+    },
+    {
+      "day": 23,
+      "rank": 6,
+      "tmdbId": 1438,
+      "title": "The Wire",
+      "puzzleFile": "1438-the-wire.json"
+    },
+    {
+      "day": 24,
+      "rank": 148,
+      "tmdbId": 94997,
+      "title": "House of the Dragon",
+      "puzzleFile": "94997-house-of-the-dragon.json"
+    },
+    {
+      "day": 25,
+      "rank": 85,
+      "tmdbId": 67744,
+      "title": "Mindhunter",
+      "puzzleFile": "67744-mindhunter.json"
+    },
+    {
+      "day": 26,
+      "rank": 100,
+      "tmdbId": 46896,
+      "title": "The Originals",
+      "puzzleFile": "46896-the-originals.json"
+    },
+    {
+      "day": 27,
+      "rank": 146,
+      "tmdbId": 69478,
+      "title": "The Handmaid's Tale",
+      "puzzleFile": "69478-the-handmaid-s-tale.json"
+    },
+    {
+      "day": 28,
+      "rank": 14,
+      "tmdbId": 1400,
+      "title": "Seinfeld",
+      "puzzleFile": "1400-seinfeld.json"
+    },
+    {
+      "day": 29,
+      "rank": 68,
+      "tmdbId": 2382,
+      "title": "Freaks and Geeks",
+      "puzzleFile": "2382-freaks-and-geeks.json"
+    },
+    {
+      "day": 30,
+      "rank": 118,
+      "tmdbId": 1406,
+      "title": "Deadwood",
+      "puzzleFile": "1406-deadwood.json"
+    },
+    {
+      "day": 31,
+      "rank": 57,
+      "tmdbId": 1621,
+      "title": "Boardwalk Empire",
+      "puzzleFile": "1621-boardwalk-empire.json"
+    },
+    {
+      "day": 32,
+      "rank": 28,
+      "tmdbId": 61222,
+      "title": "BoJack Horseman",
+      "puzzleFile": "61222-bojack-horseman.json"
+    },
+    {
+      "day": 33,
+      "rank": 64,
+      "tmdbId": 688,
+      "title": "The West Wing",
+      "puzzleFile": "688-the-west-wing.json"
+    },
+    {
+      "day": 34,
+      "rank": 97,
+      "tmdbId": 77169,
+      "title": "Cobra Kai",
+      "puzzleFile": "77169-cobra-kai.json"
+    },
+    {
+      "day": 35,
+      "rank": 87,
+      "tmdbId": 1705,
+      "title": "Fringe",
+      "puzzleFile": "1705-fringe.json"
+    },
+    {
+      "day": 36,
+      "rank": 75,
+      "tmdbId": 1920,
+      "title": "Twin Peaks",
+      "puzzleFile": "1920-twin-peaks.json"
+    },
+    {
+      "day": 37,
+      "rank": 90,
+      "tmdbId": 3322,
+      "title": "Oz",
+      "puzzleFile": "3322-oz.json"
+    },
+    {
+      "day": 38,
+      "rank": 145,
+      "tmdbId": 301507,
+      "title": "Heated Rivalry",
+      "puzzleFile": "301507-heated-rivalry.json"
+    },
+    {
+      "day": 39,
+      "rank": 54,
+      "tmdbId": 1274,
+      "title": "Six Feet Under",
+      "puzzleFile": "1274-six-feet-under.json"
+    },
+    {
+      "day": 40,
+      "rank": 74,
+      "tmdbId": 83867,
+      "title": "Andor",
+      "puzzleFile": "83867-andor.json"
+    },
+    {
+      "day": 41,
+      "rank": 88,
+      "tmdbId": 136315,
+      "title": "The Bear",
+      "puzzleFile": "136315-the-bear.json"
+    },
+    {
+      "day": 42,
+      "rank": 151,
+      "tmdbId": 57243,
+      "title": "Doctor Who",
+      "puzzleFile": "57243-doctor-who.json"
+    },
+    {
+      "day": 43,
+      "rank": 70,
+      "tmdbId": 4589,
+      "title": "Arrested Development",
+      "puzzleFile": "4589-arrested-development.json"
+    },
+    {
+      "day": 44,
+      "rank": 102,
+      "tmdbId": 56570,
+      "title": "Outlander",
+      "puzzleFile": "56570-outlander.json"
+    },
+    {
+      "day": 45,
+      "rank": 80,
+      "tmdbId": 63247,
+      "title": "Westworld",
+      "puzzleFile": "63247-westworld.json"
+    },
+    {
+      "day": 46,
+      "rank": 42,
+      "tmdbId": 76479,
+      "title": "The Boys",
+      "puzzleFile": "76479-the-boys.json"
+    },
+    {
+      "day": 47,
+      "rank": 53,
+      "tmdbId": 259909,
+      "title": "Dexter: Resurrection",
+      "puzzleFile": "259909-dexter-resurrection.json"
+    },
+    {
+      "day": 48,
+      "rank": 16,
+      "tmdbId": 1408,
+      "title": "House",
+      "puzzleFile": "1408-house.json"
+    },
+    {
+      "day": 49,
+      "rank": 36,
+      "tmdbId": 67136,
+      "title": "This Is Us",
+      "puzzleFile": "67136-this-is-us.json"
+    },
+    {
+      "day": 50,
+      "rank": 99,
+      "tmdbId": 1407,
+      "title": "Homeland",
+      "puzzleFile": "1407-homeland.json"
+    },
+    {
+      "day": 51,
+      "rank": 93,
+      "tmdbId": 69740,
+      "title": "Ozark",
+      "puzzleFile": "69740-ozark.json"
+    },
+    {
+      "day": 52,
+      "rank": 78,
+      "tmdbId": 1891,
+      "title": "Rome",
+      "puzzleFile": "1891-rome.json"
+    },
+    {
+      "day": 53,
+      "rank": 123,
+      "tmdbId": 100088,
+      "title": "The Last of Us",
+      "puzzleFile": "100088-the-last-of-us.json"
+    },
+    {
+      "day": 54,
+      "rank": 43,
+      "tmdbId": 85077,
+      "title": "The Chosen",
+      "puzzleFile": "85077-the-chosen.json"
+    },
+    {
+      "day": 55,
+      "rank": 94,
+      "tmdbId": 1100,
+      "title": "How I Met Your Mother",
+      "puzzleFile": "1100-how-i-met-your-mother.json"
+    },
+    {
+      "day": 56,
+      "rank": 41,
+      "tmdbId": 1437,
+      "title": "Firefly",
+      "puzzleFile": "1437-firefly.json"
+    },
+    {
+      "day": 57,
+      "rank": 66,
+      "tmdbId": 1425,
+      "title": "House of Cards",
+      "puzzleFile": "1425-house-of-cards.json"
+    },
+    {
+      "day": 58,
+      "rank": 79,
+      "tmdbId": 1972,
+      "title": "Battlestar Galactica",
+      "puzzleFile": "1972-battlestar-galactica.json"
+    },
+    {
+      "day": 59,
+      "rank": 46,
+      "tmdbId": 46648,
+      "title": "True Detective",
+      "puzzleFile": "46648-true-detective.json"
+    },
+    {
+      "day": 60,
+      "rank": 121,
+      "tmdbId": 60573,
+      "title": "Silicon Valley",
+      "puzzleFile": "60573-silicon-valley.json"
+    },
+    {
+      "day": 61,
+      "rank": 155,
+      "tmdbId": 6357,
+      "title": "The Twilight Zone",
+      "puzzleFile": "6357-the-twilight-zone.json"
+    },
+    {
+      "day": 62,
+      "rank": 83,
+      "tmdbId": 1436,
+      "title": "Justified",
+      "puzzleFile": "1436-justified.json"
+    },
+    {
+      "day": 63,
+      "rank": 139,
+      "tmdbId": 63174,
+      "title": "Lucifer",
+      "puzzleFile": "63174-lucifer.json"
+    },
+    {
+      "day": 64,
+      "rank": 132,
+      "tmdbId": 1447,
+      "title": "Psych",
+      "puzzleFile": "1447-psych.json"
+    },
+    {
+      "day": 65,
+      "rank": 84,
+      "tmdbId": 63639,
+      "title": "The Expanse",
+      "puzzleFile": "63639-the-expanse.json"
+    },
+    {
+      "day": 66,
+      "rank": 37,
+      "tmdbId": 88803,
+      "title": "Vinland Saga",
+      "puzzleFile": "88803-vinland-saga.json"
+    },
+    {
+      "day": 67,
+      "rank": 138,
+      "tmdbId": 4278,
+      "title": "Friday Night Lights",
+      "puzzleFile": "4278-friday-night-lights.json"
+    },
+    {
+      "day": 68,
+      "rank": 1,
+      "tmdbId": 1396,
+      "title": "Breaking Bad",
+      "puzzleFile": "1396-breaking-bad.json"
+    },
+    {
+      "day": 69,
+      "rank": 48,
+      "tmdbId": 4607,
+      "title": "Lost",
+      "puzzleFile": "4607-lost.json"
+    },
+    {
+      "day": 70,
+      "rank": 50,
+      "tmdbId": 37680,
+      "title": "Suits",
+      "puzzleFile": "37680-suits.json"
+    },
+    {
+      "day": 71,
+      "rank": 89,
+      "tmdbId": 70796,
+      "title": "The Marvelous Mrs. Maisel",
+      "puzzleFile": "70796-the-marvelous-mrs-maisel.json"
+    },
+    {
+      "day": 72,
+      "rank": 34,
+      "tmdbId": 1411,
+      "title": "Person of Interest",
+      "puzzleFile": "1411-person-of-interest.json"
+    },
+    {
+      "day": 73,
+      "rank": 49,
+      "tmdbId": 33907,
+      "title": "Downton Abbey",
+      "puzzleFile": "33907-downton-abbey.json"
+    },
+    {
+      "day": 74,
+      "rank": 7,
+      "tmdbId": 60059,
+      "title": "Better Call Saul",
+      "puzzleFile": "60059-better-call-saul.json"
+    },
+    {
+      "day": 75,
+      "rank": 81,
+      "tmdbId": 95396,
+      "title": "Severance",
+      "puzzleFile": "95396-severance.json"
+    },
+    {
+      "day": 76,
+      "rank": 18,
+      "tmdbId": 2710,
+      "title": "It's Always Sunny in Philadelphia",
+      "puzzleFile": "2710-it-s-always-sunny-in-philadelphia.json"
+    },
+    {
+      "day": 77,
+      "rank": 10,
+      "tmdbId": 1668,
+      "title": "Friends",
+      "puzzleFile": "1668-friends.json"
+    },
+    {
+      "day": 78,
+      "rank": 150,
+      "tmdbId": 615,
+      "title": "Futurama",
+      "puzzleFile": "615-futurama.json"
+    },
+    {
+      "day": 79,
+      "rank": 24,
+      "tmdbId": 60622,
+      "title": "Fargo",
+      "puzzleFile": "60622-fargo.json"
+    },
+    {
+      "day": 80,
+      "rank": 60,
+      "tmdbId": 65494,
+      "title": "The Crown",
+      "puzzleFile": "65494-the-crown.json"
+    },
+    {
+      "day": 81,
+      "rank": 20,
+      "tmdbId": 70523,
+      "title": "Dark",
+      "puzzleFile": "70523-dark.json"
+    },
+    {
+      "day": 82,
+      "rank": 45,
+      "tmdbId": 1622,
+      "title": "Supernatural",
+      "puzzleFile": "1622-supernatural.json"
+    },
+    {
+      "day": 83,
+      "rank": 153,
+      "tmdbId": 73107,
+      "title": "Barry",
+      "puzzleFile": "73107-barry.json"
+    },
+    {
+      "day": 84,
+      "rank": 59,
+      "tmdbId": 63333,
+      "title": "The Last Kingdom",
+      "puzzleFile": "63333-the-last-kingdom.json"
+    },
+    {
+      "day": 85,
+      "rank": 157,
+      "tmdbId": 1402,
+      "title": "The Walking Dead",
+      "puzzleFile": "1402-the-walking-dead.json"
+    },
+    {
+      "day": 86,
+      "rank": 12,
+      "tmdbId": 60625,
+      "title": "Rick and Morty",
+      "puzzleFile": "60625-rick-and-morty.json"
+    },
+    {
+      "day": 87,
+      "rank": 73,
+      "tmdbId": 250307,
+      "title": "The Pitt",
+      "puzzleFile": "250307-the-pitt.json"
+    },
+    {
+      "day": 88,
+      "rank": 158,
+      "tmdbId": 95,
+      "title": "Buffy the Vampire Slayer",
+      "puzzleFile": "95-buffy-the-vampire-slayer.json"
+    },
+    {
+      "day": 89,
+      "rank": 29,
+      "tmdbId": 1104,
+      "title": "Mad Men",
+      "puzzleFile": "1104-mad-men.json"
+    },
+    {
+      "day": 90,
+      "rank": 19,
+      "tmdbId": 1405,
+      "title": "Dexter",
+      "puzzleFile": "1405-dexter.json"
+    },
+    {
+      "day": 91,
+      "rank": 21,
+      "tmdbId": 60574,
+      "title": "Peaky Blinders",
+      "puzzleFile": "60574-peaky-blinders.json"
+    },
+    {
+      "day": 92,
+      "rank": 91,
+      "tmdbId": 42009,
+      "title": "Black Mirror",
+      "puzzleFile": "42009-black-mirror.json"
+    },
+    {
+      "day": 93,
+      "rank": 149,
+      "tmdbId": 54344,
+      "title": "The Leftovers",
+      "puzzleFile": "54344-the-leftovers.json"
+    },
+    {
+      "day": 94,
+      "rank": 31,
+      "tmdbId": 66732,
+      "title": "Stranger Things",
+      "puzzleFile": "66732-stranger-things.json"
+    },
+    {
+      "day": 95,
+      "rank": 113,
+      "tmdbId": 15621,
+      "title": "The Newsroom",
+      "puzzleFile": "15621-the-newsroom.json"
+    },
+    {
+      "day": 96,
+      "rank": 160,
+      "tmdbId": 56296,
+      "title": "Orphan Black",
+      "puzzleFile": "56296-orphan-black.json"
+    },
+    {
+      "day": 97,
+      "rank": 62,
+      "tmdbId": 8592,
+      "title": "Parks and Recreation",
+      "puzzleFile": "8592-parks-and-recreation.json"
+    },
+    {
+      "day": 98,
+      "rank": 44,
+      "tmdbId": 4546,
+      "title": "Curb Your Enthusiasm",
+      "puzzleFile": "4546-curb-your-enthusiasm.json"
+    },
+    {
+      "day": 99,
+      "rank": 38,
+      "tmdbId": 1409,
+      "title": "Sons of Anarchy",
+      "puzzleFile": "1409-sons-of-anarchy.json"
+    },
+    {
+      "day": 100,
+      "rank": 71,
+      "tmdbId": 2288,
+      "title": "Prison Break",
+      "puzzleFile": "2288-prison-break.json"
+    },
+    {
+      "day": 101,
+      "rank": 109,
+      "tmdbId": 1414,
+      "title": "The Shield",
+      "puzzleFile": "1414-the-shield.json"
+    },
+    {
+      "day": 102,
+      "rank": 4,
+      "tmdbId": 1398,
+      "title": "The Sopranos",
+      "puzzleFile": "1398-the-sopranos.json"
+    },
+    {
+      "day": 103,
+      "rank": 63,
+      "tmdbId": 34307,
+      "title": "Shameless",
+      "puzzleFile": "34307-shameless.json"
+    },
+    {
+      "day": 104,
+      "rank": 51,
+      "tmdbId": 40008,
+      "title": "Hannibal",
+      "puzzleFile": "40008-hannibal.json"
+    },
+    {
+      "day": 105,
+      "rank": 101,
+      "tmdbId": 224372,
+      "title": "A Knight of the Seven Kingdoms",
+      "puzzleFile": "224372-a-knight-of-the-seven-kingdoms.json"
+    },
+    {
+      "day": 106,
+      "rank": 96,
+      "tmdbId": 48891,
+      "title": "Brooklyn Nine-Nine",
+      "puzzleFile": "48891-brooklyn-nine-nine.json"
+    },
+    {
+      "day": 107,
+      "rank": 141,
+      "tmdbId": 1404,
+      "title": "Chuck",
+      "puzzleFile": "1404-chuck.json"
+    },
+    {
+      "day": 108,
+      "rank": 164,
+      "tmdbId": 66292,
+      "title": "Big Little Lies",
+      "puzzleFile": "66292-big-little-lies.json"
+    }
+  ]
+}

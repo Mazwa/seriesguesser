@@ -1,0 +1,519 @@
+{
+  "id": "1940-entourage",
+  "rank": 112,
+  "answer": "Entourage",
+  "sourceUrl": "https://seriesgraph.com/show/1940-entourage",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1940",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1940/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2011
+  },
+  "highestRatedEpisode": {
+    "name": "Give a Little Bit",
+    "season": 6,
+    "episode": 12,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Entourage",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Review",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Talk Show",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Date Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Script and the Sherpa",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Busey and the Beach",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Scene",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "New York",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Boys Are Back in Town",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "My Maserati Does 185",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Aquamansion",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "An Offer Refused",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Neighbors",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Chinatown",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Sundance Kids",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Oh, Mandy",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "I Love You Too",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Bat Mitzvah",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Blue Balls Lagoon",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Good Morning Saigon",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Exodus",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "The Abyss",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Aquamom",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "One Day in the Valley",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Dominated",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Guys and Doll",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Crash and Burn",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Three's Company",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Strange Days",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Release",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Vegas Baby, Vegas!",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "I Wanna Be Sedated",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "What About Bob?",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Sorry, Ari",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Less Than 30",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Dog Day Afternoon",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Manic Monday",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Gotcha!",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "The Return of the King",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "The Resurrection",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "The Prince's Bride",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Adios, Amigos",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to the Jungle",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The First Cut Is the Deepest",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Malibooty",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Sorry, Harvey",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "The Dream Team",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The WeHo Ho",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Day Fuckers",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Gary's Desk",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Young and the Stoned",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Snow Job",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "No Cannes Do",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "The Cannes Kids",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fantasy Island",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Unlike a Virgin",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The All Out Fall Out",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Fire Sale",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Tree Trippers",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Redomption",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Gotta Look Up to Get Down",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "First Class Jerk",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Pie",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Seth Green Day",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Play'n with Fire",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Return to Queens Blvd",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Drive",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Amongst Friends",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "One Car, Two Car, Red Car, Blue Car",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Running on E",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Fore",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Murphy's Lie",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "No More Drama",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Sorkin Notes",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Security Briefs",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Berried Alive",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Scared Straight",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Give a Little Bit",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stunted",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Buzzed",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Dramedy",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Tequila Sunrise",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Bottoms Up",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Hair",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Tequila and Coke",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Sniff Sniff Gang Bang",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Porn Scenes from an Italian Restaurant",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Lose Yourself",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Home Sweet Home",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Out with a Bang",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "One Last Shot",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Whiz Kid",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Motherfucker",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Big Bang",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Second to Last",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The End",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

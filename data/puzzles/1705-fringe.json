@@ -1,0 +1,533 @@
+{
+  "id": "1705-fringe",
+  "rank": 87,
+  "answer": "Fringe",
+  "sourceUrl": "https://seriesgraph.com/show/1705-fringe",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1705",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1705/season-ratings"
+  },
+  "years": {
+    "first": 2008,
+    "last": 2013
+  },
+  "highestRatedEpisode": {
+    "name": "Peter",
+    "season": 2,
+    "episode": 16,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Same Old Story",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Ghost Network",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Arrival",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Power Hungry",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "The Cure",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "In Which We Meet Mr. Jones",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Equation",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Dreamscape",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Safe",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Bound",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The No-Brainer",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Transformation",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Ability",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Inner Child",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Unleashed",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Bad Dreams",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Midnight",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "The Road Not Taken",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "There's More Than One of Everything",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A New Day in the Old Town",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Night of Desirable Objects",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Fracture",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Momentum Deferred",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Dream Logic",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Earthling",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Of Human Action",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "August",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Snakehead",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Grey Matters",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Unearthed",
+        "rating": 7
+      },
+      {
+        "episode": 12,
+        "name": "Johari Window",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "What Lies Below",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Bishop Revival",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Jacksonville",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Peter",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "Olivia. In the Lab. With the Revolver",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "White Tulip",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "The Man from the Other Side",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "Brown Betty",
+        "rating": 6.8
+      },
+      {
+        "episode": 21,
+        "name": "Northwest Passage",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Over There: Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "Over There: Part 2",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Olivia",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Box",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Plateau",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Do Shapeshifters Dream of Electric Sheep?",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Amber 31422",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "6955 kHz",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Abducted",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Entrada",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Marionette",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Firefly",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Reciprocity",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Concentrate and Ask Again",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Immortality",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "6B",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Subject 13",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Os",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Stowaway",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Bloodline",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Lysergic Acid Diethylamide",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "6:02 AM EST",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "The Last Sam Weiss",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "The Day We Died",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Neither Here Nor There",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "One Night in October",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Alone in the World",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Subject 9",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Novation",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "And Those We've Left Behind",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Wallflower",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Back to Where You've Never Been",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Enemy of My Enemy",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Forced Perspective",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Making Angels",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Welcome to Westfield",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "A Better Human Being",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "The End of All Things",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "A Short Story About Love",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Nothing As It Seems",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Everything in Its Right Place",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "The Consultant",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Letters of Transit",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "Worlds Apart",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Brave New World: Part 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Brave New World: Part 2",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Transilience Thought Unifier Model-11",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "In Absentia",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Recordist",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Bullet That Saved the World",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "An Origin Story",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Through the Looking Glass and What Walter Found There",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Five-Twenty-Ten",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Human Kind",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Black Blotter",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Anomaly XB-6783746",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "The Boy Must Live",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Liberty",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "An Enemy of Fate",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

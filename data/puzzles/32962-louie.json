@@ -1,0 +1,338 @@
+{
+  "id": "32962-louie",
+  "rank": 170,
+  "answer": "Louie",
+  "sourceUrl": "https://seriesgraph.com/show/32962-louie",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/32962",
+    "seasonRatings": "https://seriesgraph.com/api/shows/32962/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "In the Woods: Part 2",
+    "season": 4,
+    "episode": 12,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Poker/Divorce",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Dr. Ben/Nick",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "So Old/Playdate",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Travel Day/South",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Heckler/Cop Movie",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Double Date/Mom",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Dogpound",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Bully",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Dentist/Tarese",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "God",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Gym",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Night Out",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pregnant",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Bummer/Blueberries",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Moving",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Joan",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Country Drive",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Subway/Pamela",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Oh Louie/Tickets",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Come On, God",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Eddie",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Halloween/Ellie",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Duckling",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Niece",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "New Jersey/Airport",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Something Is Wrong",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Telling Jokes/Set Up",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Miami",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Daddy's Girlfriend: Part 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Daddy's Girlfriend: Part 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Barney/Never",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Ikea/Piano Lesson",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Dad",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Looking for Liz/Lilly Changes",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Late Show: Part 1",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Late Show: Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Late Show: Part 3",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "New Year's Eve",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Back",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Model",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "So Did the Fat Lady",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "Elevator: Part 1",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Elevator: Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Elevator: Part 3",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Elevator: Part 4",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Elevator: Part 5",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Elevator: Part 6",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Pamela: Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "In the Woods: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "In the Woods: Part 2",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "Pamela: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Pamela: Part 3",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pot Luck",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "A La Carte",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Cop Story",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Bobby's House",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Untitled",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Sleepover",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Road: Part 1",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Road: Part 2",
+        "rating": 8.2
+      }
+    ]
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "41727-banshee",
+  "rank": 116,
+  "answer": "Banshee",
+  "sourceUrl": "https://seriesgraph.com/show/41727-banshee",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/41727",
+    "seasonRatings": "https://seriesgraph.com/api/shows/41727/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "A Fixer of Sorts",
+    "season": 3,
+    "episode": 3,
+    "rating": 9.5,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Rave",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Meet the New Boss",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Half Deaf Is Better Than All Dead",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Kindred",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Wicks",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Behold a Pale Rider",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "We Shall Live Forever",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Always the Cowboy",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "A Mixture of Madness",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Little Fish",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Thunder Man",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Warrior Class",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Bloodlines",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Truth About Unicorns",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Armies of One",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Ways to Bury a Man",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Evil for Evil",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Homecoming",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Bullets and Tears",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Fire Trials",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Snakes and Whatnot",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "A Fixer of Sorts",
+        "rating": 9.5
+      },
+      {
+        "episode": 4,
+        "name": "Real Life Is the Nightmare",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Tribal",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "We Were All Someone Else Yesterday",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "You Can't Hide from the Dead",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "All the Wisdom I Got Left",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Even God Doesn't Know What to Make of You",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "We All Pay Eventually",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Something Out of the Bible",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Burden of Beauty",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Book of Job",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Innocent Might Be a Bit of a Stretch",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "A Little Late to Grow a Pair",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Only One Way a Dogfight Ends",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Truths Other Than the Ones You Tell Yourself",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Requiem",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

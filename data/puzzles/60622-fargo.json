@@ -1,0 +1,288 @@
+{
+  "id": "60622-fargo",
+  "rank": 24,
+  "answer": "Fargo",
+  "sourceUrl": "https://seriesgraph.com/show/60622-fargo",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60622",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60622/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "The Castle",
+    "season": 2,
+    "episode": 9,
+    "rating": 9.4,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Crocodile's Dilemma",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "The Rooster Prince",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "A Muddy Road",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Eating the Blame",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "The Six Ungraspables",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Buridan's Ass",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Who Shaves the Barber?",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "The Heap",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "A Fox, a Rabbit, and a Cabbage",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Morton's Fork",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Waiting for Dutch",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Before the Law",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Myth of Sisyphus",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Fear and Trembling",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Gift of the Magi",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Rhinoceros",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Did You Do This? No, You Did It!",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Loplop",
+        "rating": 9.4
+      },
+      {
+        "episode": 9,
+        "name": "The Castle",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Palindrome",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Law of Vacant Places",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Principle of Restricted Choice",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Law of Non-Contradiction",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "The Narrow Escape Problem",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The House of Special Purpose",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Lord of No Mercy",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Law of Inevitability",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Who Rules the Land of Denial?",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Aporia",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Somebody to Love",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to the Alternate Economy",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "The Land of Taking and Killing",
+        "rating": 7.1
+      },
+      {
+        "episode": 3,
+        "name": "Raddoppiarlo",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "The Pretend War",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "The Birthplace of Civilization",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Camp Elegance",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Lay Away",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "The Nadir",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "East/West",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Happy",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Storia Americana",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Tragedy of the Commons",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Trials and Tribulations",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Paradox of Intermediate Transactions",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Insolubilia",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Tiger",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Tender Trap",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Linda",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Blanket",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Useless Hand",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Bisquik",
+        "rating": 8.3
+      }
+    ]
+  ]
+}

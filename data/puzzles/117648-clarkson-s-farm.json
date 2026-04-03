@@ -1,0 +1,197 @@
+{
+  "id": "117648-clarkson-s-farm",
+  "rank": 58,
+  "answer": "Clarkson's Farm",
+  "sourceUrl": "https://seriesgraph.com/show/117648-clarkson's-farm",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/117648",
+    "seasonRatings": "https://seriesgraph.com/api/shows/117648/season-ratings"
+  },
+  "years": {
+    "first": 2021,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Climaxing",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Tractoring",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Sheeping",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Shopping",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Wilding",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Pan (dem) icking",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Melting",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Fluffing",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Harvesting",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Surviving",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Cowering",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Schmoozing",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Badgering",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Council-ing",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Counselling",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Scheming",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Climaxing",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Unfarming",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Porking",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Jobbing",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Harrowing",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Healing",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Mushrooming",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Parking",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Calculating",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Solo-ing",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Pubbing",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Crawling",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Cottaging",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Endgaming",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Splurging",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Hurrying",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Landlording",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

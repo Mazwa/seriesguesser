@@ -1,0 +1,277 @@
+{
+  "id": "31724-code-geass-lelouch-of-the-rebellion",
+  "rank": 95,
+  "answer": "Code Geass",
+  "sourceUrl": "https://seriesgraph.com/show/31724-code-geass:-lelouch-of-the-rebellion",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/31724",
+    "seasonRatings": "https://seriesgraph.com/api/shows/31724/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2008
+  },
+  "highestRatedEpisode": {
+    "name": "Re;",
+    "season": 2,
+    "episode": 25,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Majin ga umareta hi",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Kakusei no shiroki kishi",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Itsuwari no kurasumeito",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Sono na wa zero",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Kôjo to majo",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Ubawareta kamen",
+        "rating": 7.1
+      },
+      {
+        "episode": 7,
+        "name": "Kôneria wo ute",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Kuro no kishidan",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Rifurein",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Guren mau",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Narita kôbôsen",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Kyôto kara no shisha",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Shârî to jûkô",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Giasu tai giasu",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Kassai no mao",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Toraware no nanari",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Kishi",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Kururugi suzaku ni meijiru",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Kami no shima",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Kyûshû seneki",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Gakuensai sengen!",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Chizome no euphie",
+        "rating": 9.5
+      },
+      {
+        "episode": 23,
+        "name": "Semete kanashi mi totomo ni",
+        "rating": 9.2
+      },
+      {
+        "episode": 24,
+        "name": "Tsuiraku no sutêji",
+        "rating": 8.8
+      },
+      {
+        "episode": 25,
+        "name": "Zero",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Majin ga mezameru hi",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Nihon dokuritsu keikaku",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Toraware no gakuen",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Gyakushû no shokeidai",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Naito obu raunzu",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Taiheiyô kishû sakusen",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Suterareta kamen",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Hyakuman no kiseki",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Kinshijô no hanayome",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Shinko kagayaku koku",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Omoi no chikara",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Rabu atakku!",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Kako kara no kikaku",
+        "rating": 9.4
+      },
+      {
+        "episode": 14,
+        "name": "Giasu gari",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "C no sekai",
+        "rating": 9.1
+      },
+      {
+        "episode": 16,
+        "name": "Chôgasshûkoku ketsugi daiichigô",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Tsuchi no aji",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Dainiji Tôkyô taisen",
+        "rating": 9.3
+      },
+      {
+        "episode": 19,
+        "name": "Uragiri",
+        "rating": 9.5
+      },
+      {
+        "episode": 20,
+        "name": "Kôtei shikkaku",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Ragunareku no setsuzoku",
+        "rating": 9.4
+      },
+      {
+        "episode": 22,
+        "name": "Kôtei Rurûshu",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Shunaizeru no kamen",
+        "rating": 9.1
+      },
+      {
+        "episode": 24,
+        "name": "Damokuresu no sora",
+        "rating": 9.4
+      },
+      {
+        "episode": 25,
+        "name": "Re;",
+        "rating": 9.9
+      }
+    ]
+  ]
+}

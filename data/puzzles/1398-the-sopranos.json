@@ -1,0 +1,465 @@
+{
+  "id": "1398-the-sopranos",
+  "rank": 4,
+  "answer": "The Sopranos",
+  "sourceUrl": "https://seriesgraph.com/show/1398-the-sopranos",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1398",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1398/season-ratings"
+  },
+  "years": {
+    "first": 1999,
+    "last": 2007
+  },
+  "highestRatedEpisode": {
+    "name": "Pine Barrens",
+    "season": 3,
+    "episode": 11,
+    "rating": 9.7,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "46 Long",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Denial, Anger, Acceptance",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Meadowlands",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "College",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Pax Soprana",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Down Neck",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Legend of Tennessee Moltisanti",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Boca",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "A Hit Is a Hit",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Nobody Knows Anything",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Isabella",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "I Dream of Jeannie Cusamano",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Guy Walks Into a Psychiatrist's Office",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Do Not Resuscitate",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Toodle-Fucking-Oo",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Commendatori",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Big Girls Don't Cry",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Happy Wanderer",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "D-Girl",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Full Leather Jacket",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "From Where to Eternity",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Bust-Out",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "House Arrest",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "The Knight in White Satin Armor",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Funhouse",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mr. Ruggerio's Neighborhood",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Proshai, Livushka",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Fortunate Son",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Employee of the Month",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Another Toothpick",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "University",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Second Opinion",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "He Is Risen",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Telltale Moozadell",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "To Save Us All from Satan's Power",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Pine Barrens",
+        "rating": 9.7
+      },
+      {
+        "episode": 12,
+        "name": "Amour Fou",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Army of One",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "For All Debts Public and Private",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "No Show",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Christopher",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Weight",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Pie-O-My",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Everybody Hurts",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Watching Too Much Television",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Mergers and Acquisitions",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Whoever Did This",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "The Strong, Silent Type",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Calling All Cars",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Eloise",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Whitecaps",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Two Tonys",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Rat Pack",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Where's Johnny?",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "All Happy Families",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Irregular Around the Margins",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Sentimental Education",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "In Camelot",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Marco Polo",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Unidentified Black Males",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Cold Cuts",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "The Test Dream",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Long Term Parking",
+        "rating": 9.7
+      },
+      {
+        "episode": 13,
+        "name": "All Due Respect",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Members Only",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Join the Club",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Mayham",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "The Fleshy Part of the Thigh",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Mr. & Mrs. John Sacrimoni Request",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Live Free or Die",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Luxury Lounge",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Johnny Cakes",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Ride",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Moe n' Joe",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Cold Stones",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Kaisha",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Soprano Home Movies",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Stage 5",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Remember When",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Chasing It",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Walk Like a Man",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Kennedy and Heidi",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "The Second Coming",
+        "rating": 9.3
+      },
+      {
+        "episode": 20,
+        "name": "The Blue Comet",
+        "rating": 9.7
+      },
+      {
+        "episode": 21,
+        "name": "Made in America",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "id": "4607-lost",
+  "rank": 48,
+  "answer": "Lost",
+  "sourceUrl": "https://seriesgraph.com/show/4607-lost",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4607",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4607/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2010
+  },
+  "highestRatedEpisode": {
+    "name": "The Constant",
+    "season": 4,
+    "episode": 5,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Pilot: Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Tabula Rasa",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Walkabout",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "White Rabbit",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "House of the Rising Sun",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "The Moth",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Confidence Man",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Solitary",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Raised by Another",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "All the Best Cowboys Have Daddy Issues",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Whatever the Case May Be",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Hearts and Minds",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Special",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Homecoming",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Outlaws",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "...In Translation",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Numbers",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Deus Ex Machina",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "Do No Harm",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "The Greater Good",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Born to Run",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Exodus: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 24,
+        "name": "Exodus: Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 25,
+        "name": "Exodus: Part 3",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Man of Science, Man of Faith",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Adrift",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Orientation",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Everybody Hates Hugo",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "...And Found",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Abandoned",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Other 48 Days",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Collision",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "What Kate Did",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The 23rd Psalm",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "The Hunting Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Fire + Water",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "The Long Con",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "One of Them",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Maternity Leave",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "The Whole Truth",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Lockdown",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Dave",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "S.O.S.",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Two for the Road",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "?",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Three Minutes",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Live Together, Die Alone: Part 1",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "Live Together, Die Alone: Part 2",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Tale of Two Cities",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Glass Ballerina",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Further Instructions",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Every Man for Himself",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Cost of Living",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "I Do",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Not in Portland",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Flashes Before Your Eyes",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Stranger in a Strange Land",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "Tricia Tanaka Is Dead",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Enter 77",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Par Avion",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Man from Tallahassee",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Exposé",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Left Behind",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "One of Us",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "Catch-22",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "D.O.C.",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "The Brig",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "The Man Behind the Curtain",
+        "rating": 9.2
+      },
+      {
+        "episode": 21,
+        "name": "Greatest Hits",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "Through the Looking Glass: Part 1",
+        "rating": 9.6
+      },
+      {
+        "episode": 23,
+        "name": "Through the Looking Glass: Part 2",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Beginning of the End",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Confirmed Dead",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Economist",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Eggtown",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Constant",
+        "rating": 9.7
+      },
+      {
+        "episode": 6,
+        "name": "The Other Woman",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Ji Yeon",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Meet Kevin Johnson",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Shape of Things to Come",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Something Nice Back Home",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Cabin Fever",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "There's No Place Like Home: Part 1",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "There's No Place Like Home: Part 2",
+        "rating": 9.2
+      },
+      {
+        "episode": 14,
+        "name": "There's No Place Like Home: Part 3",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Because You Left",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Lie",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Jughead",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Little Prince",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "This Place Is Death",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "316",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Life and Death of Jeremy Bentham",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "LaFleur",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Namaste",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "He's Our You",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Whatever Happened, Happened",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Dead Is Dead",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Some Like It Hoth",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Variable",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Follow the Leader",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "The Incident: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 17,
+        "name": "The Incident: Part 2",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "LA X: Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "LA X: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "What Kate Does",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "The Substitute",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Lighthouse",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Sundown",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Dr. Linus",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Recon",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Ab Aeterno",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "The Package",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Happily Ever After",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Everybody Loves Hugo",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Last Recruit",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "The Candidate",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "Across the Sea",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "What They Died For",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "The End: Part 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "The End: Part 2",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

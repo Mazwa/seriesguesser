@@ -1,0 +1,91 @@
+{
+  "id": "19885-sherlock",
+  "rank": 15,
+  "answer": "Sherlock",
+  "sourceUrl": "https://seriesgraph.com/show/19885-sherlock",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/19885",
+    "seasonRatings": "https://seriesgraph.com/api/shows/19885/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "The Reichenbach Fall",
+    "season": 2,
+    "episode": 3,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "A Study in Pink",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "The Blind Banker",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Great Game",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Scandal in Belgravia",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "The Hounds of Baskerville",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Reichenbach Fall",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Empty Hearse",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "The Sign of Three",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "His Last Vow",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Six Thatchers",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Lying Detective",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "The Final Problem",
+        "rating": 8.2
+      }
+    ]
+  ]
+}

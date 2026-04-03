@@ -1,0 +1,334 @@
+{
+  "id": "246-avatar:-the-last-airbender",
+  "rank": 5,
+  "answer": "Avatar: The Last Airbender",
+  "sourceUrl": "https://seriesgraph.com/show/246-avatar:-the-last-airbender",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/246",
+    "seasonRatings": "https://seriesgraph.com/api/shows/246/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2008
+  },
+  "highestRatedEpisode": {
+    "name": "Sozin's Comet, Part 4: Avatar Aang",
+    "season": 3,
+    "episode": 21,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Boy in the Iceberg",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "The Avatar Returns",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Southern Air Temple",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Warriors of Kyoshi",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The King of Omashu",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Imprisoned",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Spirit World (Winter Solstice, Part 1)",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Avatar Roku (Winter Solstice, Part 2)",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Waterbending Scroll",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Jet",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Great Divide",
+        "rating": 6.8
+      },
+      {
+        "episode": 12,
+        "name": "The Storm",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Blue Spirit",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "The Fortuneteller",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Bato of the Water Tribe",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Deserter",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "The Northern Air Temple",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Waterbending Master",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "The Siege of the North, Part 1",
+        "rating": 9.3
+      },
+      {
+        "episode": 20,
+        "name": "The Siege of the North, Part 2",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Avatar State",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Cave of Two Lovers",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Return to Omashu",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Swamp",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Avatar Day",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "The Blind Bandit",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Zuko Alone",
+        "rating": 9.6
+      },
+      {
+        "episode": 8,
+        "name": "The Chase",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Bitter Work",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Library",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "The Desert",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Serpent's Pass",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Drill",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "City of Walls and Secrets",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "The Tales of Ba Sing Se",
+        "rating": 9.3
+      },
+      {
+        "episode": 16,
+        "name": "Appa's Lost Days",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "Lake Laogai",
+        "rating": 9.1
+      },
+      {
+        "episode": 18,
+        "name": "The Earth King",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "The Guru",
+        "rating": 9
+      },
+      {
+        "episode": 20,
+        "name": "The Crossroads of Destiny",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Awakening",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Headband",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Painted Lady",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Sokka's Master",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "The Beach",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Avatar and the Fire Lord",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "The Runaway",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Puppetmaster",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Nightmares and Daydreams",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "The Day of Black Sun",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "The Day of Black Sun, Part 2: The Eclipse",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "The Western Air Temple",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "The Firebending Masters",
+        "rating": 9.3
+      },
+      {
+        "episode": 14,
+        "name": "The Boiling Rock: Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "The Boiling Rock, Part 2",
+        "rating": 9.2
+      },
+      {
+        "episode": 16,
+        "name": "The Southern Raiders",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "The Ember Island Players",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Sozin's Comet, Part 1: The Phoenix King",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "Sozin's Comet, Part 2: The Old Masters",
+        "rating": 9.5
+      },
+      {
+        "episode": 20,
+        "name": "Sozin's Comet, Part 3: Into the Inferno",
+        "rating": 9.8
+      },
+      {
+        "episode": 21,
+        "name": "Sozin's Comet, Part 4: Avatar Aang",
+        "rating": 9.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "id": "1423-ray-donovan",
+  "rank": 183,
+  "answer": "Ray Donovan",
+  "sourceUrl": "https://seriesgraph.com/show/1423-ray-donovan",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1423",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1423/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Walk This Way",
+    "season": 2,
+    "episode": 7,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Bag or the Bat",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "A Mouth Is a Mouth",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Twerk",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Black Cadillac",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Golem",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Housewarming",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "New Birthday",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Bridget",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Road Trip",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Fite Nite",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Bucky Fuckin' Dent",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Same Exactly",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Yo Soy Capitan",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Uber Ray",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Gem and Loan",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "S U C K",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Irish Spring",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Viagra",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Walk This Way",
+        "rating": 9.3
+      },
+      {
+        "episode": 8,
+        "name": "Sunny",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Snowflake",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Volcheck",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Rodef",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Captain",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Kalamazoo",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Ding",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Come and Knock on Our Door",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Breakfast of Champions",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Handshake Deal",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Swing Vote",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "All Must Be Loved",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Tulip",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Octopus",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "One Night in Yerevan",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Poker",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Exsuscito",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Girl, with Guitar",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Marisol",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Little Bill Primm's Big Green Horseshoe",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Federal Boobie Inspector",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Get Even Before Leavin'",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Fish and Bird",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Norman Saves the World",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Texan",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Goodbye, Beautiful",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Lake Hollywood",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Chinese Algebra",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Rattus Rattus",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Abby",
+        "rating": 7
+      },
+      {
+        "episode": 2,
+        "name": "Las Vegas",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Dogwalker",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Sold",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Shabbos Goy",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Shelley Duvall",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "If I Should Fall from Grace with God",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Horses",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Mister Lucky",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Bob the Builder",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Michael",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Time Takes a Cigarette",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Staten Island: Part 1",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Staten Island: Part 2",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "He Be Tight. He Be Mean.",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Pudge",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Ellis Island",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "A Girl Named Maria",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The 1-3-2",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Who Once Was Dead",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Dream On",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Baby",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Never Gonna Give You Up",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "The Dead",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Faith. Hope. Love. Luck.",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "A Good Man Is Hard to Find",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Family Pictures",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Hispes",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "An Irish Lullaby",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Inside Guy",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Transfer Agent",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Passport and a Gun",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Bugs",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "You'll Never Walk Alone",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

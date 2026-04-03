@@ -1,0 +1,813 @@
+{
+  "id": "6357-the-twilight-zone",
+  "rank": 155,
+  "answer": "The Twilight Zone",
+  "sourceUrl": "https://seriesgraph.com/show/6357-the-twilight-zone",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/6357",
+    "seasonRatings": "https://seriesgraph.com/api/shows/6357/season-ratings"
+  },
+  "years": {
+    "first": 1959,
+    "last": 1964
+  },
+  "highestRatedEpisode": {
+    "name": "Eye of the Beholder",
+    "season": 2,
+    "episode": 6,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Where Is Everybody?",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "One for the Angels",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Mr. Denton on Doomsday",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "The Sixteen-Millimeter Shrine",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Walking Distance",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Escape Clause",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "The Lonely",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Time Enough at Last",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Perchance to Dream",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Judgment Night",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "And When the Sky Was Opened",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "What You Need",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "The Four of Us Are Dying",
+        "rating": 7.1
+      },
+      {
+        "episode": 14,
+        "name": "Third from the Sun",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "I Shot an Arrow into the Air",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "The Hitch-Hiker",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "The Fever",
+        "rating": 6.6
+      },
+      {
+        "episode": 18,
+        "name": "The Last Flight",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "The Purple Testament",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Elegy",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Mirror Image",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "The Monsters Are Due on Maple Street",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "A World of Difference",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Long Live Walter Jameson",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "People Are Alike All Over",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Execution",
+        "rating": 7.2
+      },
+      {
+        "episode": 27,
+        "name": "The Big Tall Wish",
+        "rating": 6.6
+      },
+      {
+        "episode": 28,
+        "name": "A Nice Place to Visit",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "Nightmare as a Child",
+        "rating": 7.3
+      },
+      {
+        "episode": 30,
+        "name": "A Stop at Willoughby",
+        "rating": 8.5
+      },
+      {
+        "episode": 31,
+        "name": "The Chaser",
+        "rating": 6.9
+      },
+      {
+        "episode": 32,
+        "name": "A Passage for Trumpet",
+        "rating": 7.2
+      },
+      {
+        "episode": 33,
+        "name": "Mr. Bevis",
+        "rating": 6.7
+      },
+      {
+        "episode": 34,
+        "name": "The After Hours",
+        "rating": 8.4
+      },
+      {
+        "episode": 35,
+        "name": "The Mighty Casey",
+        "rating": 6.1
+      },
+      {
+        "episode": 36,
+        "name": "A World of His Own",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "King Nine Will Not Return",
+        "rating": 6.5
+      },
+      {
+        "episode": 2,
+        "name": "The Man in the Bottle",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Nervous Man in a Four Dollar Room",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "A Thing About Machines",
+        "rating": 6.4
+      },
+      {
+        "episode": 5,
+        "name": "The Howling Man",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Eye of the Beholder",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Nick of Time",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Lateness of the Hour",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "The Trouble with Templeton",
+        "rating": 7.1
+      },
+      {
+        "episode": 10,
+        "name": "A Most Unusual Camera",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "The Night of the Meek",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Dust",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Back There",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "The Whole Truth",
+        "rating": 6.4
+      },
+      {
+        "episode": 15,
+        "name": "The Invaders",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "A Penny for Your Thoughts",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Twenty Two",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "The Odyssey of Flight 33",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Mr. Dingle, the Strong",
+        "rating": 6.5
+      },
+      {
+        "episode": 20,
+        "name": "Static",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "The Prime Mover",
+        "rating": 7
+      },
+      {
+        "episode": 22,
+        "name": "Long Distance Call",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "A Hundred Yards Over the Rim",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "The Rip Van Winkle Caper",
+        "rating": 7.6
+      },
+      {
+        "episode": 25,
+        "name": "The Silence",
+        "rating": 8.3
+      },
+      {
+        "episode": 26,
+        "name": "Shadow Play",
+        "rating": 8.1
+      },
+      {
+        "episode": 27,
+        "name": "The Mind and the Matter",
+        "rating": 6.4
+      },
+      {
+        "episode": 28,
+        "name": "Will the Real Martian Please Stand Up?",
+        "rating": 8.7
+      },
+      {
+        "episode": 29,
+        "name": "The Obsolete Man",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Two",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Arrival",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "The Shelter",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Passersby",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "A Game of Pool",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Mirror",
+        "rating": 6.5
+      },
+      {
+        "episode": 7,
+        "name": "The Grave",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "It's a Good Life",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Deaths-Head Revisited",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Midnight Sun",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Still Valley",
+        "rating": 6.5
+      },
+      {
+        "episode": 12,
+        "name": "The Jungle",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Once Upon a Time",
+        "rating": 7.2
+      },
+      {
+        "episode": 14,
+        "name": "Five Characters in Search of an Exit",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "A Quality of Mercy",
+        "rating": 7.2
+      },
+      {
+        "episode": 16,
+        "name": "Nothing in the Dark",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "One More Pallbearer",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "Dead Man's Shoes",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "The Hunt",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Showdown with Rance McGrew",
+        "rating": 6.2
+      },
+      {
+        "episode": 21,
+        "name": "Kick the Can",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "A Piano in the House",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "The Last Rites of Jeff Myrtlebank",
+        "rating": 7.1
+      },
+      {
+        "episode": 24,
+        "name": "To Serve Man",
+        "rating": 9
+      },
+      {
+        "episode": 25,
+        "name": "The Fugitive",
+        "rating": 7.5
+      },
+      {
+        "episode": 26,
+        "name": "Little Girl Lost",
+        "rating": 8
+      },
+      {
+        "episode": 27,
+        "name": "Person or Persons Unknown",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "The Little People",
+        "rating": 7.9
+      },
+      {
+        "episode": 29,
+        "name": "Four O'Clock",
+        "rating": 6.4
+      },
+      {
+        "episode": 30,
+        "name": "Hocus-Pocus and Frisby",
+        "rating": 7.4
+      },
+      {
+        "episode": 31,
+        "name": "The Trade-Ins",
+        "rating": 7.6
+      },
+      {
+        "episode": 32,
+        "name": "The Gift",
+        "rating": 6.6
+      },
+      {
+        "episode": 33,
+        "name": "The Dummy",
+        "rating": 7.7
+      },
+      {
+        "episode": 34,
+        "name": "Young Man's Fancy",
+        "rating": 6.5
+      },
+      {
+        "episode": 35,
+        "name": "I Sing the Body Electric",
+        "rating": 7.1
+      },
+      {
+        "episode": 36,
+        "name": "Cavender Is Coming",
+        "rating": 5.9
+      },
+      {
+        "episode": 37,
+        "name": "The Changing of the Guard",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In His Image",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "The Thirty-Fathom Grave",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Valley of the Shadow",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "He's Alive",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Mute",
+        "rating": 6.5
+      },
+      {
+        "episode": 6,
+        "name": "Death Ship",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Jess-Belle",
+        "rating": 6.9
+      },
+      {
+        "episode": 8,
+        "name": "Miniature",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Printer's Devil",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "No Time Like the Past",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Parallel",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "I Dream of Genie",
+        "rating": 6.2
+      },
+      {
+        "episode": 13,
+        "name": "The New Exhibit",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Of Late I Think of Cliffordville",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "The Incredible World of Horace Ford",
+        "rating": 6.1
+      },
+      {
+        "episode": 16,
+        "name": "On Thursday We Leave for Home",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Passage on the Lady Anne",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "The Bard",
+        "rating": 5.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In Praise of Pip",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Steel",
+        "rating": 6.9
+      },
+      {
+        "episode": 3,
+        "name": "Nightmare at 20,000 Feet",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "A Kind of a Stopwatch",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Last Night of a Jockey",
+        "rating": 6.3
+      },
+      {
+        "episode": 6,
+        "name": "Living Doll",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "The Old Man in the Cave",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Uncle Simon",
+        "rating": 6.8
+      },
+      {
+        "episode": 9,
+        "name": "Probe 7, Over and Out",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "The 7th Is Made Up of Phantoms",
+        "rating": 7
+      },
+      {
+        "episode": 11,
+        "name": "A Short Drink from a Certain Fountain",
+        "rating": 7
+      },
+      {
+        "episode": 12,
+        "name": "Ninety Years Without Slumbering",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Ring-A-Ding Girl",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "You Drive",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Long Morrow",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "The Self-Improvement of Salvadore Ross",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Number 12 Looks Just Like You",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Black Leather Jackets",
+        "rating": 6.4
+      },
+      {
+        "episode": 19,
+        "name": "Night Call",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "From Agnes - with Love",
+        "rating": 6.3
+      },
+      {
+        "episode": 21,
+        "name": "Spur of the Moment",
+        "rating": 6.9
+      },
+      {
+        "episode": 22,
+        "name": "An Occurrence at Owl Creek Bridge",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Queen of the Nile",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "What's in the Box",
+        "rating": 7.1
+      },
+      {
+        "episode": 25,
+        "name": "The Masks",
+        "rating": 8.6
+      },
+      {
+        "episode": 26,
+        "name": "I Am the Night - Color Me Black",
+        "rating": 7.4
+      },
+      {
+        "episode": 27,
+        "name": "Sounds and Silences",
+        "rating": 5.6
+      },
+      {
+        "episode": 28,
+        "name": "Caesar and Me",
+        "rating": 6.5
+      },
+      {
+        "episode": 29,
+        "name": "The Jeopardy Room",
+        "rating": 7.5
+      },
+      {
+        "episode": 30,
+        "name": "Stopover in a Quiet Town",
+        "rating": 8.1
+      },
+      {
+        "episode": 31,
+        "name": "The Encounter",
+        "rating": 7.1
+      },
+      {
+        "episode": 32,
+        "name": "Mr. Garrity and the Graves",
+        "rating": 7.5
+      },
+      {
+        "episode": 33,
+        "name": "The Brain Center at Whipple's",
+        "rating": 6.6
+      },
+      {
+        "episode": 34,
+        "name": "Come Wander with Me",
+        "rating": 6.2
+      },
+      {
+        "episode": 35,
+        "name": "The Fear",
+        "rating": 7.1
+      },
+      {
+        "episode": 36,
+        "name": "The Bewitchin' Pool",
+        "rating": 6.5
+      }
+    ]
+  ]
+}

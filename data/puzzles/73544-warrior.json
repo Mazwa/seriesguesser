@@ -1,0 +1,179 @@
+{
+  "id": "73544-warrior",
+  "rank": 245,
+  "answer": "Warrior",
+  "sourceUrl": "https://seriesgraph.com/show/73544-warrior",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/73544",
+    "seasonRatings": "https://seriesgraph.com/api/shows/73544/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Enter the Dragon",
+    "season": 2,
+    "episode": 9,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Itchy Onion",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "There's No China in the Bible",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "John Chinaman",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The White Mountain",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Blood and the Sh*t",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Chewed Up, Spit Out, and Stepped On",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Tiger and the Fox",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "They Don't Pay Us Enough to Think",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Chinese Boxing",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "If You're Going to Bow, Bow Low",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Learn to Endure, or Hire a Bodyguard",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Chinese Connection",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Not How We Do Business",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "If You Don't See Blood, You Didn't Come to Play",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Not for a Drink, a F*ck, or a G**damn Prayer",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "To a Man With a Hammer, Everything Looks Like a Nail",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "If You Wait by the River Long Enough...",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "All Enemies, Foreign and Domestic",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Enter the Dragon",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "Man on the Wall",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exactly the Wrong Time to Get Proud",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Anything Short of a Blow to the Head",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "No Time for F*cking Chemistry",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "In Chinatown, No One Thinks About Forever",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Whiskey and Sticky and All the Rest Can Wait",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "A Soft Heart Won't Do You No Favors",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Gotta Be Crooked to Get Along in a Crooked World",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "You Know When You're Losing a Fight",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "All of Death Is Going Home",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "A Window of F*cking Opportunity",
+        "rating": 9.1
+      }
+    ]
+  ]
+}

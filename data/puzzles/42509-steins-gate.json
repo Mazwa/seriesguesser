@@ -1,0 +1,150 @@
+{
+  "id": "42509-steins-gate",
+  "rank": 120,
+  "answer": "Steins;Gate",
+  "sourceUrl": "https://seriesgraph.com/show/42509-steins;gate",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/42509",
+    "seasonRatings": "https://seriesgraph.com/api/shows/42509/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2011
+  },
+  "highestRatedEpisode": {
+    "name": "Being Meltdown",
+    "season": 1,
+    "episode": 22,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Turning Point",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Time Travel Paranoia",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Parallel World Paranoia",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Interpreter Rendezvous",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Starmine Rendezvous",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Butterfly Effect's Divergence",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Divergence Singularity",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Chaos Theory Homeostasis I",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Chaos Theory Homeostasis II",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Chaos Theory Homeostasis III",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Dogma in Event Horizon",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Dogma in Ergosphere",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Metaphysics Necrosis",
+        "rating": 9.2
+      },
+      {
+        "episode": 14,
+        "name": "Physically Necrosis",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Missing Link Necrosis",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Sacrificial Necrosis",
+        "rating": 9.4
+      },
+      {
+        "episode": 17,
+        "name": "Made in Complex",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Fractal Androgynous",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Endless Apoptosis",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Finalize Apoptosis",
+        "rating": 9.2
+      },
+      {
+        "episode": 21,
+        "name": "Paradox Meltdown",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Being Meltdown",
+        "rating": 9.6
+      },
+      {
+        "episode": 23,
+        "name": "Open the Steins Gate",
+        "rating": 9.5
+      },
+      {
+        "episode": 24,
+        "name": "Achievement Point",
+        "rating": 9.6
+      },
+      {
+        "episode": 25,
+        "name": "Egoistic Poriomania",
+        "rating": 8.4
+      }
+    ]
+  ]
+}

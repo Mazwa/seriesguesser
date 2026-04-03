@@ -1,0 +1,315 @@
+{
+  "id": "3322-oz",
+  "rank": 90,
+  "answer": "Oz",
+  "sourceUrl": "https://seriesgraph.com/show/3322-oz",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/3322",
+    "seasonRatings": "https://seriesgraph.com/api/shows/3322/season-ratings"
+  },
+  "years": {
+    "first": 1997,
+    "last": 2003
+  },
+  "highestRatedEpisode": {
+    "name": "A Game of Checkers",
+    "season": 1,
+    "episode": 8,
+    "rating": 9.2,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Routine",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Visits, Conjugal and Otherwise",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "God's Chillin'",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Capital P",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Straight Life",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "To Your Health",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Plan B",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "A Game of Checkers",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Tip",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Ancient Tribes",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Great Men",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Losing Your Appeal",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Family Bizness",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Strange Bedfellows",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Animal Farm",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Escape from Oz",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Truth and Nothing But...",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Napoleon's Boney Parts",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Legs",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Unnatural Disasters",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "U.S. Male",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Cruel and Unusual Punishments",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Secret Identities",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Out o' Time",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Cock and Balls Story",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Obituaries",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Bill of Wrongs",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Works of Mercy",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Gray Matter",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "A Word to the Wise",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "A Town Without Pity",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "You Bet Your Life",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Medium Rare",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Conversions",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Revenge Is Sweet",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Cuts Like a Knife",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Blizzard of '01",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Orpheus Descending",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Even the Score",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Famous Last Words",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Visitation",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Laws of Gravity",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Dream a Little Dream of Me",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Next Stop, Valhalla",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Wheel of Fortune",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Variety",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Good Intentions",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Impotence",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dead Man Talking",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "See No Evil, Hear No Evil, Smell No Evil",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Sonata da Oz",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "A Failure to Communicate",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "4giveness",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "A Day in the Death...",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Junkyard Dawgs",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Exeunt Omnes",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

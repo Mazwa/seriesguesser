@@ -1,0 +1,1553 @@
+{
+  "id": "59186-impractical-jokers",
+  "rank": 214,
+  "answer": "Impractical Jokers",
+  "sourceUrl": "https://seriesgraph.com/show/59186-impractical-jokers",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/59186",
+    "seasonRatings": "https://seriesgraph.com/api/shows/59186/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "The Permanent Punishment",
+    "season": 3,
+    "episode": 27,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pay It Forward",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Butterfly Crime Scene",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Unmotivational Speaker",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Boardwalk of Shame",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Drawing a Blank",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Panty Raid",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Out of TP",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Who Arted",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "A Loser Presents",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Joker's Choice",
+        "rating": 7.1
+      },
+      {
+        "episode": 11,
+        "name": "What'd I Eat",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Starfart",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Belly Dancer",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Charity Case",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Theater del Absurdo",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Pick a Loser",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Supercuts",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Elephant in the Room",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Stoop Sessions: Part 1",
+        "rating": 6.9
+      },
+      {
+        "episode": 3,
+        "name": "Art Attack",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Stoop Sessions, Part 2",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Birds and the Bees",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Strip High Five",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Sound EffeXXX",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Do Something to My Face",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Psychotic Not-line",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Truth Hurts",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Get Out of Dodge",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Love Expert",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Out of Fashion",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Scaredy Cat",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Joker vs. Joker",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Down in the Dump",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Human Pinata",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Sweat the Small Things",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Film Fail",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Not Safe for Work",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "The Alliance",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Everything's Just Rosie",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "Enter the Dragons",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "Dog Days of Bummer",
+        "rating": 8.5
+      },
+      {
+        "episode": 25,
+        "name": "Sorry for Your Loss",
+        "rating": 8.4
+      },
+      {
+        "episode": 26,
+        "name": "All the Wrong Moves",
+        "rating": 8.3
+      },
+      {
+        "episode": 27,
+        "name": "Cyber Buddies",
+        "rating": 8.7
+      },
+      {
+        "episode": 28,
+        "name": "Trouble Shoot",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Look Out Below",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "The Great Escape",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Field of Screams",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Nationals Disaster",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Bonus Footage",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Toasted",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Scarytales",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Inside the Vault",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Bigger in Texas",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Snow Way Out",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Takes the Cake",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Anniversary Edition",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Jokers Playhouse",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Make Womb for Daddy",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Puncture Perfect",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Junk in the Trunk",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Happy Father's Day",
+        "rating": 7
+      },
+      {
+        "episode": 18,
+        "name": "The Good, the Bad, and the Uncomfortable",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Baggage Shame",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Quantum Mock-anics",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Clash of the Jokers",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Tooth & Consequences",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Fe-Mail",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "The Lost Boy",
+        "rating": 8.4
+      },
+      {
+        "episode": 25,
+        "name": "Up Loser's Creek",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "In Poor Taste Buds",
+        "rating": 8.8
+      },
+      {
+        "episode": 27,
+        "name": "The Permanent Punishment",
+        "rating": 9.4
+      },
+      {
+        "episode": 28,
+        "name": "Parks & Wreck",
+        "rating": 8.4
+      },
+      {
+        "episode": 29,
+        "name": "A Legendary Fail",
+        "rating": 8.1
+      },
+      {
+        "episode": 30,
+        "name": "B-I-N-G-NO",
+        "rating": 9
+      },
+      {
+        "episode": 31,
+        "name": "Just Say No",
+        "rating": 8.3
+      },
+      {
+        "episode": 32,
+        "name": "Brother-in-Loss",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to Miami",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Below the Belt",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Uncool and the Gang",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Wrong Playwright",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Elevating the Game",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Blunder Years",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Deal with the Devils",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Damned If You Do",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Dream Crusher",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Joke & Dagger",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Pseudo-Sumo",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Car Sick",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Cruisin' for a Bruisin'",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Bathroom Break",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Kill the Centaur",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Captain Fatbelly",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Sneaking Number Twos, Going Number One",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Blind Justice",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Tied and Feathered",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Smushed",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Anatomy of a Challenge",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Unseen Scenes",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "Fan-tastic Countdown",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Live Punishment Special",
+        "rating": 7.7
+      },
+      {
+        "episode": 25,
+        "name": "The Big Uneasy",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Hopeless and Changeless",
+        "rating": 8.2
+      },
+      {
+        "episode": 27,
+        "name": "Stripped of Dignity",
+        "rating": 8.2
+      },
+      {
+        "episode": 28,
+        "name": "The Taunted House",
+        "rating": 8.4
+      },
+      {
+        "episode": 29,
+        "name": "Doomed",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "HellCopter",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "You're Cut Off",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Ruffled Feathers",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Stare Master",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Bidder Loser",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Good, the Bad and the Punished",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Putting the P in Pool",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Statue of Limitations",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Brother of the Sisterhood",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Dark Side of the Moon",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Whose Phone Is Ringing?",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Centaur of Attention",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Browbeaten",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "The Coward",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Virtual Insanity",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Laundry Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Water Torture",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Hitting the Wrong Note",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Heckle and Hide",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Chairman",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Wrapper's Delight",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Ash Clown",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Spider Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Stage Fright",
+        "rating": 8.2
+      },
+      {
+        "episode": 25,
+        "name": "Training Day",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "Nitro Circus Spectacular",
+        "rating": 6.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Swim Shady",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Lady and the Tramp",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Parent Trap",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Catastrophe",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Vampire Weakened",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Footloose",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "X-Man",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Medium, Well Done",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Drum and Drummer",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Butt of the Joker",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Stuffed Turkey",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Crickets",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Universal Appeal",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Paradise Lost",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Mime and Punishment",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Three Men and Your Baby",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "The Q-Pay",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Rubbed the Wrong Way",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "Flatfoot the Pirate",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Remember the Pact",
+        "rating": 7.9
+      },
+      {
+        "episode": 21,
+        "name": "Silence of the Lame",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "The Walking Dread",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Take Me Out at the Ballgame",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "The Party Crasher",
+        "rating": 8.3
+      },
+      {
+        "episode": 25,
+        "name": "Dover and Out",
+        "rating": 8
+      },
+      {
+        "episode": 26,
+        "name": "G.I. Jokers",
+        "rating": 7.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Marathon Man",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Guilty as Charged",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "No Good Deed",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Stripteased",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Indecent Proposal",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Turning the Tables",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Lords of the Ring",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "No Child Left Behind",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Pulling the Rug",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Speech Impediment",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Card Against Humanity",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Bull Shiatsu",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Running of the Bullies",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Needy and the Greedy",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Washed Up",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "To Hatch a Predator",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Like a Boss",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Chick Magnet",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Dropping Knowledge",
+        "rating": 7.2
+      },
+      {
+        "episode": 20,
+        "name": "Hump Day",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Out of Left Field",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Autograph Corrector",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "The Bogey Man",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Hell on Wheels",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "Pantsing with the Stars",
+        "rating": 7.8
+      },
+      {
+        "episode": 26,
+        "name": "Staten Island Holiday Spectacular",
+        "rating": 6.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Crash Test Dummies",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Closer",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Tipping Point",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Full Mental Jacket",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Blue Man Dupe",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Dumbbell",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Eggman",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Cake Loss",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Antisocial Network",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Off the Reservation",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Fraudway",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "The Show Stopper",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Sucks for You",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Well...",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "The Prize Fighter",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Sun-Fan Lotion",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Urine Trouble",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Irritable Vowel Syndrome",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Bad Carma",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "Fast Feud",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Toll Booth Corrector",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "The Paternity Test",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Hollywood",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "The Shame of Water",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "Rock Bottom",
+        "rating": 7.9
+      },
+      {
+        "episode": 26,
+        "name": "It's Electric",
+        "rating": 8
+      },
+      {
+        "episode": 27,
+        "name": "Slam Dunks",
+        "rating": 4.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "You Dirty Dog",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Bachelor Party",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Drive, Drive, Drive",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Poetry Slammed",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Bleach for America",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Smashing Success",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Pity in Pink",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Space Oddity",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "OK Zoomer",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Prince and Me",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Breaking Wind Beneath My Wings",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Prince + Charming",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "I'm Having the Best Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "Documentary No!",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Food, Air, Toilet",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "A Tasteful Episode",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Moist Richard",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Eric André",
+        "rating": 6.1
+      },
+      {
+        "episode": 19,
+        "name": "Jillian Bell",
+        "rating": 6.5
+      },
+      {
+        "episode": 20,
+        "name": "Colin Jost",
+        "rating": 6.7
+      },
+      {
+        "episode": 21,
+        "name": "Rob Riggle",
+        "rating": 7.1
+      },
+      {
+        "episode": 22,
+        "name": "Chris Jericho",
+        "rating": 7.2
+      },
+      {
+        "episode": 23,
+        "name": "Adam Pally and Jon Gabrus",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "David Cross",
+        "rating": 7.6
+      },
+      {
+        "episode": 25,
+        "name": "Method Man",
+        "rating": 7.5
+      },
+      {
+        "episode": 26,
+        "name": "Brooke Shields",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bret Michaels",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Post Malone",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Anthony Davis",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "John Mayer",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Kesha",
+        "rating": 6.9
+      },
+      {
+        "episode": 6,
+        "name": "Sideline Smack Talk",
+        "rating": 3.7
+      },
+      {
+        "episode": 7,
+        "name": "Paul Scheer",
+        "rating": 6.7
+      },
+      {
+        "episode": 8,
+        "name": "Kal Penn",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Bruce Campbell",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Blake Anderson",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Bobby Moynihan",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Kim Fields",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Paula Abdul",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Eric Andre Returns",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "ALF",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Michael Ian Black",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Harvey Guillen",
+        "rating": 7.1
+      },
+      {
+        "episode": 18,
+        "name": "Joey Fatone",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Roy Wood Jr.",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Outtakes and Chill",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Servin' Up Laughs",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tournament of Losers",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Cell Block",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Bowling for Dollars",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Planetarium Prowler",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Check Yourself",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The F Bomber",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Let It Roll",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Personal Be-Wrongings",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Shake What Daddy Gave Ya",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "One for the Books",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Couple's Therapy",
+        "rating": 6.1
+      },
+      {
+        "episode": 12,
+        "name": "Bad News Bares",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "When You Gotta Go",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Cross the Line",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Bullion Beggar",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Hung in There",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Thanks for Nothing",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Lactose Intolerables",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Recut Gems",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Off the Wheels",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Trolling for Friends",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Endless Esophagus",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Call of the Wild",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Facial Awareness",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Customer Disservice",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Rage Baiter",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Mind, Body, Swole",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Meat Cute",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Dopamine Denier",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Hoop! There It Is!",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Behind Closed Doors",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Haunting of the Joker House",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Revenge of the Joker",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Vac Attack",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Subscribe to Survive",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Cold Hard FAQs",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Me, My Selfie and Eye",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "The Founding Joker",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "A Tight Spot",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Leftovers",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Let's Get Crackin'",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Happily Never After",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #13.1"
+      }
+    ]
+  ]
+}

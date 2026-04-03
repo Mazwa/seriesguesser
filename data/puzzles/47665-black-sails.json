@@ -1,0 +1,221 @@
+{
+  "id": "47665-black-sails",
+  "rank": 184,
+  "answer": "Black Sails",
+  "sourceUrl": "https://seriesgraph.com/show/47665-black-sails",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/47665",
+    "seasonRatings": "https://seriesgraph.com/api/shows/47665/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "XVIII.",
+    "season": 2,
+    "episode": 10,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "I.",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "II.",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "III.",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "IV.",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "V.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "VI.",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "VII.",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "VIII.",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "IX.",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "X.",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "XI.",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "XII.",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "XIII.",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "XIV.",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "XV.",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "XVI.",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "XVII.",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "XVIII.",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "XIX.",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "XX.",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "XXI.",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "XXII.",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "XXIII.",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "XXIV.",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "XXV.",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "XXVI.",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "XXVII.",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "XXVIII.",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "XXIX.",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "XXX.",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "XXXI.",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "XXXII.",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "XXXIII.",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "XXXIV.",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "XXXV.",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "XXXVI.",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "XXXVII.",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "XXXVIII.",
+        "rating": 8.6
+      }
+    ]
+  ]
+}

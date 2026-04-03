@@ -1,0 +1,232 @@
+{
+  "id": "40075-gravity-falls",
+  "rank": 35,
+  "answer": "Gravity Falls",
+  "sourceUrl": "https://seriesgraph.com/show/40075-gravity-falls",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/40075",
+    "seasonRatings": "https://seriesgraph.com/api/shows/40075/season-ratings"
+  },
+  "years": {
+    "first": 2012,
+    "last": 2016
+  },
+  "highestRatedEpisode": {
+    "name": "Not What He Seems",
+    "season": 2,
+    "episode": 11,
+    "rating": 9.8,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Tourist Trapped",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "The Legend of the Gobblewonker",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Headhunters",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "The Hand That Rocks the Mabel",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "The Inconveniencing",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Dipper vs. Manliness",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Double Dipper",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Irrational Treasure",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Time Traveler's Pig",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Fight Fighters",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Little Dipper",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Summerween",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Boss Mabel",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Bottomless Pit!",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Deep End",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "Carpet Diem",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Boyz Crazy",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Land Before Swine",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Dreamscaperers",
+        "rating": 9.3
+      },
+      {
+        "episode": 20,
+        "name": "Gideon Rises",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Scary-oke",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Into the Bunker",
+        "rating": 9.3
+      },
+      {
+        "episode": 3,
+        "name": "The Golf War",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Sock Opera",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Soos and the Real Girl",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Little Gift Shop of Horrors",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Society of the Blind Eye",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Blendin's Game",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "The Love God",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Northwest Mansion Mystery",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Not What He Seems",
+        "rating": 9.8
+      },
+      {
+        "episode": 12,
+        "name": "A Tale of Two Stans",
+        "rating": 9.6
+      },
+      {
+        "episode": 13,
+        "name": "Dungeons, Dungeons, and More Dungeons",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "The Stanchurian Candidate",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Last Mabelcorn",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Roadside Attraction",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Dipper and Mabel vs. the Future",
+        "rating": 9.3
+      },
+      {
+        "episode": 18,
+        "name": "Weirdmageddon Part 1",
+        "rating": 9.5
+      },
+      {
+        "episode": 19,
+        "name": "Weirdmageddon 2: Escape from Reality",
+        "rating": 9.4
+      },
+      {
+        "episode": 20,
+        "name": "Weirdmageddon 3: Take Back the Falls",
+        "rating": 9.8
+      },
+      {
+        "episode": 21,
+        "name": "Weirdmageddon 4: Somewhere in the Woods",
+        "rating": 9.8
+      }
+    ]
+  ]
+}

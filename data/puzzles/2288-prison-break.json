@@ -1,0 +1,483 @@
+{
+  "id": "2288-prison-break",
+  "rank": 71,
+  "answer": "Prison Break",
+  "sourceUrl": "https://seriesgraph.com/show/2288-prison-break",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2288",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2288/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Go",
+    "season": 1,
+    "episode": 21,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Allen",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Cell Test",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Cute Poison",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "English, Fitz or Percy",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Riots, Drills and the Devil: Part 1",
+        "rating": 9.3
+      },
+      {
+        "episode": 7,
+        "name": "Riots, Drills and the Devil: Part 2",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "The Old Head",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Tweener",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Sleight of Hand",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "And Then There Were 7",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Odd Man Out",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "End of the Tunnel",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "The Rat",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "By the Skin and the Teeth",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Brother's Keeper",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "J-Cat",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Bluff",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "The Key",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Tonight",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Go",
+        "rating": 9.6
+      },
+      {
+        "episode": 22,
+        "name": "Flight",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Manhunt",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Otis",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Scan",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "First Down",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Map 1213",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Subdivision",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Buried",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Dead Fall",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Unearthed",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Rendezvous",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Bolshoi Booze",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Disconnect",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "The Killing Box",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "John Doe",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "The Message",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Chicago",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Bad Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "Wash",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Sweet Caroline",
+        "rating": 8.8
+      },
+      {
+        "episode": 20,
+        "name": "Panama",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Fin del camino",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Sona",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Orientación",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Fire/Water",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Call Waiting",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Good Fences",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Interference",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Photo Finish",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Vamonos",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Bang and Burn",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Boxed In",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Dirt Nap",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Under & Out",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Hell or High Water",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "The Art of the Deal",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Scylla",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Breaking and Entering",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Shut Down",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Eagles and Angels",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Safe and Sound",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Blow Out",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Five the Hard Way",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Price",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Greatness Achieved",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Legend",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Quiet Riot",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Selfless",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Deal or No Deal",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Just Business",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Going Under",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Sunshine State",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Mother Lode",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "VS.",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "S.O.B.",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Cowboys and Indians",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Rate of Exchange",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Killing Your Number",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "The Old Ball and Chain",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Free",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ogygia",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Kaniel Outis",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Liar",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Prisoner's Dilemma",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Contingency",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Phaecia",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Wine Dark Sea",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Progeny",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Behind the Eyes",
+        "rating": 8.4
+      }
+    ]
+  ]
+}

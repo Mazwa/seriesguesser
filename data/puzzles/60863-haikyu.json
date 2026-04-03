@@ -1,0 +1,456 @@
+{
+  "id": "60863-haikyu",
+  "rank": 134,
+  "answer": "Haikyu!!",
+  "sourceUrl": "https://seriesgraph.com/show/60863-haikyu!!",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60863",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60863/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "The Absolute Limit Switch",
+    "season": 2,
+    "episode": 24,
+    "rating": 9.6,
+    "tieCount": 5
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The End & the Beginning",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Karasuno High School Volleyball Club",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "The Formidable Ally",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The View from the Summit",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "A Coward's Anxiety",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "An Interesting Team",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Versus the Great King",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "He Who Is Called \"Ace\"",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "A Toss to the Ace",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Yearning",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Decision",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "The Neko-Karasu Reunion",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Rival",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Formidable Opponents",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Revival",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Winners and Losers",
+        "rating": 8.6
+      },
+      {
+        "episode": 17,
+        "name": "The Iron Wall",
+        "rating": 9.2
+      },
+      {
+        "episode": 18,
+        "name": "Guarding Your Back",
+        "rating": 9.1
+      },
+      {
+        "episode": 19,
+        "name": "Conductors",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Oikawa Toru is not a Genius",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Senpai's True Abilities",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Evolution",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "The Point That Changes the Momentum",
+        "rating": 9.1
+      },
+      {
+        "episode": 24,
+        "name": "Removing the \"Solitary King\"",
+        "rating": 9.3
+      },
+      {
+        "episode": 25,
+        "name": "The Third Day",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Let's Go to Tokyo!!",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Direct Sunlight",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Townsperson B",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Center Ace",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Greed",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Tempo",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Moonrise",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Illusionary Hero",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "VS. \"Umbrella\"",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Cogs",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Above",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Let the Games Begin!",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "A Simple and Pure Strength",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Still Growing",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Place to Play",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Next",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "The Battle Without Will Power",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "The Losers",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "The Iron Wall Can Be Rebuilt Again and Again",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Wiping Out",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "The Destroyer",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "The Former Coward's Fight",
+        "rating": 9.2
+      },
+      {
+        "episode": 23,
+        "name": "Team",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "The Absolute Limit Switch",
+        "rating": 9.6
+      },
+      {
+        "episode": 25,
+        "name": "Declaration of War",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Greetings",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Threat of 'Left'",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Guess-Monster",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "The Halo Around the Moon",
+        "rating": 9.6
+      },
+      {
+        "episode": 5,
+        "name": "Individual VS Numbers",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Chemical Change of Encounters",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Obsession",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "An Annoying Guy",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "The Volleyball Idiots",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "The Battle of Concepts",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Introductions",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Lost",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Perspective",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Take It Easy",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Hunger",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Enhancements",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Return",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Challenger",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Everyone's Night",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Battle Lines",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "A Chance to Connect",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Vivid",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "The Second Day",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Rhythm",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Found",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Broken Heart",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "Cats vs. Monkeys",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Trap",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "The Ultimate Challengers",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Leader",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Hero",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Pitons",
+        "rating": 9.5
+      },
+      {
+        "episode": 23,
+        "name": "The Birth of the Serene King",
+        "rating": 9.1
+      },
+      {
+        "episode": 24,
+        "name": "Monsters' Ball",
+        "rating": 9.6
+      },
+      {
+        "episode": 25,
+        "name": "The Promised Land",
+        "rating": 8.8
+      }
+    ]
+  ]
+}

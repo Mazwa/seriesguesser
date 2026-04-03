@@ -1,0 +1,345 @@
+{
+  "id": "31911-fullmetal-alchemist-brotherhood",
+  "rank": 11,
+  "answer": "Fullmetal Alchemist: Brotherhood",
+  "sourceUrl": "https://seriesgraph.com/show/31911-fullmetal-alchemist:-brotherhood",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/31911",
+    "seasonRatings": "https://seriesgraph.com/api/shows/31911/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2010
+  },
+  "highestRatedEpisode": {
+    "name": "Tobira no mukougawa",
+    "season": 1,
+    "episode": 63,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Hagane no renkinjutsushi",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Hajimari no hi",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Jakyô no machi",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "An Alchemist's Distress",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Rain of Sorrow",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Kibou no michi",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Kakusareta shinjitsu",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Daigo kenkyuujo",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Tsukurareta omoi",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Sorezore no yukusaki",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Rasshubarê no kiseki",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Ichi wa zen, Zen wa ichi",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Daburisu no kemono tachi",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Chika ni hisomu mono tachi",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "Touhou no shisha",
+        "rating": 7.5
+      },
+      {
+        "episode": 16,
+        "name": "Tomo no ashiato",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Reitetsu na honoo",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Chiisana ningen no gouman na tenohira",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Shinazaru mono no shi",
+        "rating": 9.6
+      },
+      {
+        "episode": 20,
+        "name": "Bozen no chichi",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Gusha no zenshin",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Tooku no senaka",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "Ikusaba no shoujo",
+        "rating": 8.6
+      },
+      {
+        "episode": 24,
+        "name": "Hara no naka",
+        "rating": 8.6
+      },
+      {
+        "episode": 25,
+        "name": "Yami no tobira",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Saikai",
+        "rating": 9.1
+      },
+      {
+        "episode": 27,
+        "name": "Hazama no utage",
+        "rating": 6.4
+      },
+      {
+        "episode": 28,
+        "name": "Otousama",
+        "rating": 8.5
+      },
+      {
+        "episode": 29,
+        "name": "Gusha no agaki",
+        "rating": 7.7
+      },
+      {
+        "episode": 30,
+        "name": "Ishuvâru senmetsusen",
+        "rating": 8
+      },
+      {
+        "episode": 31,
+        "name": "520 senzu no yakusoku",
+        "rating": 7.6
+      },
+      {
+        "episode": 32,
+        "name": "Daisoutou no musuko",
+        "rating": 7.4
+      },
+      {
+        "episode": 33,
+        "name": "Burigguzu no hokuheki",
+        "rating": 7.7
+      },
+      {
+        "episode": 34,
+        "name": "Koori no joou",
+        "rating": 7.7
+      },
+      {
+        "episode": 35,
+        "name": "Kono kuni no katachi",
+        "rating": 8.2
+      },
+      {
+        "episode": 36,
+        "name": "Kazoku no shouzou",
+        "rating": 8.3
+      },
+      {
+        "episode": 37,
+        "name": "Hajimari no homunkurusu",
+        "rating": 8.2
+      },
+      {
+        "episode": 38,
+        "name": "Bazukûru no gekitou",
+        "rating": 7.8
+      },
+      {
+        "episode": 39,
+        "name": "Hakuchuu no yume",
+        "rating": 7.9
+      },
+      {
+        "episode": 40,
+        "name": "Homunkurusu",
+        "rating": 9.2
+      },
+      {
+        "episode": 41,
+        "name": "Naraku",
+        "rating": 8.5
+      },
+      {
+        "episode": 42,
+        "name": "Hangeki no kizashi",
+        "rating": 8.1
+      },
+      {
+        "episode": 43,
+        "name": "Ari no hitokami",
+        "rating": 8.6
+      },
+      {
+        "episode": 44,
+        "name": "Barin barin no zenkai",
+        "rating": 8.2
+      },
+      {
+        "episode": 45,
+        "name": "Yakusoku no hi",
+        "rating": 8
+      },
+      {
+        "episode": 46,
+        "name": "Semaru kage",
+        "rating": 8.1
+      },
+      {
+        "episode": 47,
+        "name": "Yami no shisha",
+        "rating": 8.6
+      },
+      {
+        "episode": 48,
+        "name": "Chikadou no chikai",
+        "rating": 8.7
+      },
+      {
+        "episode": 49,
+        "name": "Oyako no jou",
+        "rating": 8.3
+      },
+      {
+        "episode": 50,
+        "name": "Sentoraru douran",
+        "rating": 8.6
+      },
+      {
+        "episode": 51,
+        "name": "Fushi no gundan",
+        "rating": 8.8
+      },
+      {
+        "episode": 52,
+        "name": "Minna no chikara",
+        "rating": 8.8
+      },
+      {
+        "episode": 53,
+        "name": "Fukushuu no honoo",
+        "rating": 9.3
+      },
+      {
+        "episode": 54,
+        "name": "Rekka no saki ni",
+        "rating": 9.5
+      },
+      {
+        "episode": 55,
+        "name": "Otonatachi no ikizama",
+        "rating": 8.6
+      },
+      {
+        "episode": 56,
+        "name": "Daisoutou no kikan",
+        "rating": 8.8
+      },
+      {
+        "episode": 57,
+        "name": "Eien no itoma",
+        "rating": 9.2
+      },
+      {
+        "episode": 58,
+        "name": "Hitobashira",
+        "rating": 8.9
+      },
+      {
+        "episode": 59,
+        "name": "Ushinawareta hikari",
+        "rating": 9.1
+      },
+      {
+        "episode": 60,
+        "name": "Ten no hitomi, shi no tobira",
+        "rating": 9.4
+      },
+      {
+        "episode": 61,
+        "name": "Kami o nomikomishi mono",
+        "rating": 9.3
+      },
+      {
+        "episode": 62,
+        "name": "Seizetsunaru hangeki",
+        "rating": 9.6
+      },
+      {
+        "episode": 63,
+        "name": "Tobira no mukougawa",
+        "rating": 9.7
+      },
+      {
+        "episode": 64,
+        "name": "Tabiji no hate",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

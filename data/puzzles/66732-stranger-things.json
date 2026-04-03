@@ -1,0 +1,243 @@
+{
+  "id": "66732-stranger-things",
+  "rank": 31,
+  "answer": "Stranger Things",
+  "sourceUrl": "https://seriesgraph.com/show/66732-stranger-things",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/66732",
+    "seasonRatings": "https://seriesgraph.com/api/shows/66732/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Chapter Seven: The Massacre at Hawkins Lab",
+    "season": 4,
+    "episode": 7,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: The Vanishing of Will Byers",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: The Weirdo on Maple Street",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: Holly, Jolly",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: The Body",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: The Flea and the Acrobat",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: The Monster",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: The Bathtub",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: The Upside Down",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: MADMAX",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: Trick or Treat, Freak",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: The Pollywog",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: Will the Wise",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: Dig Dug",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: The Spy",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: The Lost Sister",
+        "rating": 6
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: The Mind Flayer",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "Chapter Nine: The Gate",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: Suzie, Do You Copy?",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: The Mall Rats",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: The Case of the Missing Lifeguard",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: The Sauna Test",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: The Flayed",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: E Pluribus Unum",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: The Bite",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: The Battle of Starcourt",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: The Hellfire Club",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: Vecna's Curse",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: The Monster and the Superhero",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: Dear Billy",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: The Nina Project",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: The Dive",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: The Massacre at Hawkins Lab",
+        "rating": 9.6
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: Papa",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Chapter Nine: The Piggyback",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter One: The Crawl",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Chapter Two: The Vanishing of Holly Wheeler",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Chapter Three: The Turnbow Trap",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Chapter Four: Sorcerer",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "Chapter Five: Shock Jock",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Chapter Six: Escape from Camazotz",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Chapter Seven: The Bridge",
+        "rating": 5.6
+      },
+      {
+        "episode": 8,
+        "name": "Chapter Eight: The Rightside Up",
+        "rating": 7.5
+      }
+    ]
+  ]
+}

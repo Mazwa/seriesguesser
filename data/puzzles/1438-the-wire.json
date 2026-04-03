@@ -1,0 +1,333 @@
+{
+  "id": "1438-the-wire",
+  "rank": 6,
+  "answer": "The Wire",
+  "sourceUrl": "https://seriesgraph.com/show/1438-the-wire",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1438",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1438/season-ratings"
+  },
+  "years": {
+    "first": 2002,
+    "last": 2008
+  },
+  "highestRatedEpisode": {
+    "name": "Middle Ground",
+    "season": 3,
+    "episode": 11,
+    "rating": 9.6,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Target",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Detail",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The Buys",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Old Cases",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Pager",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Wire",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "One Arrest",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Lessons",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Game Day",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Cost",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "The Hunt",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Cleaning Up",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Sentencing",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ebb Tide",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Collateral Damage",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Hot Shots",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Hard Cases",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Undertow",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "All Prologue",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Backwash",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Duck and Cover",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Stray Rounds",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Storm Warnings",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Bad Dreams",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Port in a Storm",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Time After Time",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "All Due Respect",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Dead Soldiers",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Amsterdam",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Straight and True",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Homecoming",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Back Burners",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Moral Midgetry",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Slapstick",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Reformation",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Middle Ground",
+        "rating": 9.6
+      },
+      {
+        "episode": 12,
+        "name": "Mission Accomplished",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Boys of Summer",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Soft Eyes",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Home Rooms",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Refugees",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Alliances",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Margin of Error",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Unto Others",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Corner Boys",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Know Your Place",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Misgivings",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "A New Day",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "That's Got His Own",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Final Grades",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "More with Less",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Unconfirmed Reports",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Not for Attribution",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Transitions",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "React Quotes",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Dickensian Aspect",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Took",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Clarifications",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Late Editions",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "-30-",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

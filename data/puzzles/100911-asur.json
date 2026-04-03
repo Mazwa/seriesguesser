@@ -1,0 +1,107 @@
+{
+  "id": "100911-asur",
+  "rank": 233,
+  "answer": "Asur: Welcome to Your Dark Side",
+  "sourceUrl": "https://seriesgraph.com/show/100911-asur",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/100911",
+    "seasonRatings": "https://seriesgraph.com/api/shows/100911/season-ratings"
+  },
+  "years": {
+    "first": 2020,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "The God's Dilemma",
+    "season": 2,
+    "episode": 8,
+    "rating": 9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Dead Can Talk",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Rabbit Hole",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Peek - a - boo",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Ashes from the past",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The devil has a face",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The firewall",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Let there be darkness",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "End is the beginning",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Dance of Death",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Past, the Present and the Future",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Burning the Forest",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Designing the Future",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Countdown begins",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Domino Effect",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Birth of the New God",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The God's Dilemma",
+        "rating": 9
+      }
+    ]
+  ]
+}

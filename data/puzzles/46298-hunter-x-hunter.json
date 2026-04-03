@@ -1,0 +1,765 @@
+{
+  "id": "46298-hunter-x-hunter",
+  "rank": 30,
+  "answer": "Hunter x Hunter",
+  "sourceUrl": "https://seriesgraph.com/show/46298-hunter-x-hunter",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46298",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46298/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Anger × and × Light",
+    "season": 1,
+    "episode": 131,
+    "rating": 9.8,
+    "tieCount": 3
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Departure × and × Friends",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Test × of × Tests",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Rivals × for × Survival",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Hope × and × Ambition",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Hisoka × is × Sneaky",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "A × Surprising × Challenge",
+        "rating": 7.2
+      },
+      {
+        "episode": 7,
+        "name": "Showdown × on × the Airship",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Solution × Is × Majority Rules?",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Beware × of × Prisoners",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Trick × to the × Trick",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Trouble × with the × Gamble",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Last x Test of x Resolve!",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Letter × From × Gon",
+        "rating": 4
+      },
+      {
+        "episode": 14,
+        "name": "Hit × the × Target",
+        "rating": 7.3
+      },
+      {
+        "episode": 15,
+        "name": "Explosion × of × Deception",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Defeat × and × Disgrace",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Trap × in × the Hole",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Big × Time × Interview",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Can't Win × But × Can't Lose",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Baffling Turn × of × Events",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "Some × Brother × Trouble",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "A × Dangerous × Watchdog",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "The × Guard's × Duty",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "The × Zoldyck × Family",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Can't See × If × You're Blind",
+        "rating": 7.7
+      },
+      {
+        "episode": 26,
+        "name": "Then × and × After",
+        "rating": 4
+      },
+      {
+        "episode": 27,
+        "name": "Arrival × at × the Arena",
+        "rating": 8
+      },
+      {
+        "episode": 28,
+        "name": "Nen × and × Nen",
+        "rating": 7.8
+      },
+      {
+        "episode": 29,
+        "name": "Awakening × and × Potential",
+        "rating": 7.7
+      },
+      {
+        "episode": 30,
+        "name": "Fierce × and × Ferocious",
+        "rating": 7.8
+      },
+      {
+        "episode": 31,
+        "name": "Destiny × and × Tenacity",
+        "rating": 8.1
+      },
+      {
+        "episode": 32,
+        "name": "A × Surprising × Win",
+        "rating": 8.7
+      },
+      {
+        "episode": 33,
+        "name": "An × Empty × Threat",
+        "rating": 8
+      },
+      {
+        "episode": 34,
+        "name": "Power × to × Avenge",
+        "rating": 8.4
+      },
+      {
+        "episode": 35,
+        "name": "The × True × Pass",
+        "rating": 9.3
+      },
+      {
+        "episode": 36,
+        "name": "A Big Debt × and × a Small Kick",
+        "rating": 9
+      },
+      {
+        "episode": 37,
+        "name": "Ging × and × Gon",
+        "rating": 7.9
+      },
+      {
+        "episode": 38,
+        "name": "Reply × from × Dad",
+        "rating": 7.5
+      },
+      {
+        "episode": 39,
+        "name": "Wish × and × Promise",
+        "rating": 7.5
+      },
+      {
+        "episode": 40,
+        "name": "Nen × Users × Unite?",
+        "rating": 7.6
+      },
+      {
+        "episode": 41,
+        "name": "Gathering × of × Heroes",
+        "rating": 7.8
+      },
+      {
+        "episode": 42,
+        "name": "Defend × and × Attack",
+        "rating": 7.7
+      },
+      {
+        "episode": 43,
+        "name": "A × Shocking × Tragedy",
+        "rating": 8.6
+      },
+      {
+        "episode": 44,
+        "name": "Buildup × to a × Fierce Battle",
+        "rating": 9.1
+      },
+      {
+        "episode": 45,
+        "name": "Restraint × and × Vow",
+        "rating": 8.6
+      },
+      {
+        "episode": 46,
+        "name": "Chasing × and × Waiting",
+        "rating": 8
+      },
+      {
+        "episode": 47,
+        "name": "Condition × and × Condition",
+        "rating": 9.7
+      },
+      {
+        "episode": 48,
+        "name": "Very × Sharp × Eye",
+        "rating": 7.2
+      },
+      {
+        "episode": 49,
+        "name": "Pursuit × and × Analysis",
+        "rating": 8.5
+      },
+      {
+        "episode": 50,
+        "name": "Ally × and × Sword",
+        "rating": 8.5
+      },
+      {
+        "episode": 51,
+        "name": "A × Brutal × Battlefield",
+        "rating": 9.4
+      },
+      {
+        "episode": 52,
+        "name": "Assault × and × Impact",
+        "rating": 9.4
+      },
+      {
+        "episode": 53,
+        "name": "Fake × and × Psyche",
+        "rating": 8.4
+      },
+      {
+        "episode": 54,
+        "name": "Fortunes × Aren't × Right?",
+        "rating": 8.1
+      },
+      {
+        "episode": 55,
+        "name": "Allies × and × Lies",
+        "rating": 7.9
+      },
+      {
+        "episode": 56,
+        "name": "Beloved × and × Beleaguered",
+        "rating": 8.3
+      },
+      {
+        "episode": 57,
+        "name": "Initiative × and × Law",
+        "rating": 8.9
+      },
+      {
+        "episode": 58,
+        "name": "Signal × to × Retreat",
+        "rating": 9.1
+      },
+      {
+        "episode": 59,
+        "name": "Bid × and × Haste",
+        "rating": 7.6
+      },
+      {
+        "episode": 60,
+        "name": "End × and × Beginning",
+        "rating": 7.6
+      },
+      {
+        "episode": 61,
+        "name": "Invitation × and × Friend",
+        "rating": 7.4
+      },
+      {
+        "episode": 62,
+        "name": "Reality? × and × Raw",
+        "rating": 7.4
+      },
+      {
+        "episode": 63,
+        "name": "A × Hard × Master?",
+        "rating": 7.9
+      },
+      {
+        "episode": 64,
+        "name": "Strengthen × and × Threaten",
+        "rating": 7.5
+      },
+      {
+        "episode": 65,
+        "name": "Evil Fist × and × Rock-Paper-Scissors",
+        "rating": 7.5
+      },
+      {
+        "episode": 66,
+        "name": "Strategy × and × Scheme",
+        "rating": 7.4
+      },
+      {
+        "episode": 67,
+        "name": "15 × 15",
+        "rating": 7.2
+      },
+      {
+        "episode": 68,
+        "name": "Pirates × and × Guesses",
+        "rating": 7.9
+      },
+      {
+        "episode": 69,
+        "name": "A × Heated × Showdown",
+        "rating": 8.5
+      },
+      {
+        "episode": 70,
+        "name": "Guts × and × Courage",
+        "rating": 9.1
+      },
+      {
+        "episode": 71,
+        "name": "Bargain × and × Deal",
+        "rating": 9
+      },
+      {
+        "episode": 72,
+        "name": "Chase × and × Chance",
+        "rating": 7.3
+      },
+      {
+        "episode": 73,
+        "name": "Insanity × and × Sanity",
+        "rating": 8.3
+      },
+      {
+        "episode": 74,
+        "name": "Victor × and × Loser",
+        "rating": 8.9
+      },
+      {
+        "episode": 75,
+        "name": "Ging's Friends × and × True Friends",
+        "rating": 8.3
+      },
+      {
+        "episode": 76,
+        "name": "Reunion × and × Understanding",
+        "rating": 7.4
+      },
+      {
+        "episode": 77,
+        "name": "Unease × and × Sighting",
+        "rating": 7.4
+      },
+      {
+        "episode": 78,
+        "name": "Very × Rapid × Reproduction",
+        "rating": 7.2
+      },
+      {
+        "episode": 79,
+        "name": "No × Good × NGL",
+        "rating": 7.3
+      },
+      {
+        "episode": 80,
+        "name": "Evil × and × Terrible",
+        "rating": 8.3
+      },
+      {
+        "episode": 81,
+        "name": "The × Fight × Begins",
+        "rating": 7.6
+      },
+      {
+        "episode": 82,
+        "name": "Kite × and × Slots",
+        "rating": 8.3
+      },
+      {
+        "episode": 83,
+        "name": "Inspiration × to × Evolve",
+        "rating": 8.3
+      },
+      {
+        "episode": 84,
+        "name": "A × Fated × Awakening",
+        "rating": 8.3
+      },
+      {
+        "episode": 85,
+        "name": "Light × and × Darkness",
+        "rating": 9.4
+      },
+      {
+        "episode": 86,
+        "name": "Promise × and × Reunion",
+        "rating": 7.7
+      },
+      {
+        "episode": 87,
+        "name": "Duel × and × Escape",
+        "rating": 7.5
+      },
+      {
+        "episode": 88,
+        "name": "Rock-Paper-Scissors × and × Weakness",
+        "rating": 7.6
+      },
+      {
+        "episode": 89,
+        "name": "Compassion × and × Strength",
+        "rating": 7.8
+      },
+      {
+        "episode": 90,
+        "name": "Interest × and × Curse",
+        "rating": 7.6
+      },
+      {
+        "episode": 91,
+        "name": "The Strong × and × the Weak",
+        "rating": 8.8
+      },
+      {
+        "episode": 92,
+        "name": "One Wish × and × Two Promises",
+        "rating": 7.8
+      },
+      {
+        "episode": 93,
+        "name": "Date × with × Palm",
+        "rating": 7.4
+      },
+      {
+        "episode": 94,
+        "name": "Friend × and × Journey",
+        "rating": 8.3
+      },
+      {
+        "episode": 95,
+        "name": "Grudge × and × Dread",
+        "rating": 8.4
+      },
+      {
+        "episode": 96,
+        "name": "A × Lawless × Home",
+        "rating": 8.3
+      },
+      {
+        "episode": 97,
+        "name": "Carnage × and × Devastation",
+        "rating": 8.9
+      },
+      {
+        "episode": 98,
+        "name": "Infiltration × and × Selection",
+        "rating": 7.3
+      },
+      {
+        "episode": 99,
+        "name": "Combination × and × Evolution",
+        "rating": 7.4
+      },
+      {
+        "episode": 100,
+        "name": "Tracking × and × Pursuit",
+        "rating": 7.8
+      },
+      {
+        "episode": 101,
+        "name": "Ikalgo × and × Lightning",
+        "rating": 8.4
+      },
+      {
+        "episode": 102,
+        "name": "Power × and × Games",
+        "rating": 7.7
+      },
+      {
+        "episode": 103,
+        "name": "Check × and × Mate",
+        "rating": 7.9
+      },
+      {
+        "episode": 104,
+        "name": "Doubt × and × Hesitation",
+        "rating": 8.1
+      },
+      {
+        "episode": 105,
+        "name": "Resolve × and × Awakening",
+        "rating": 8.1
+      },
+      {
+        "episode": 106,
+        "name": "Knov × and × Morel",
+        "rating": 8.3
+      },
+      {
+        "episode": 107,
+        "name": "Return × and × Retire",
+        "rating": 8
+      },
+      {
+        "episode": 108,
+        "name": "Gungi × of × Komugi",
+        "rating": 9
+      },
+      {
+        "episode": 109,
+        "name": "Taking Stock × and × Taking Action",
+        "rating": 7.7
+      },
+      {
+        "episode": 110,
+        "name": "Confusion × and × Expectation",
+        "rating": 7.5
+      },
+      {
+        "episode": 111,
+        "name": "Charge × and × Invade",
+        "rating": 9.5
+      },
+      {
+        "episode": 112,
+        "name": "Monster × and × Monster",
+        "rating": 9.4
+      },
+      {
+        "episode": 113,
+        "name": "An × Indebted × Insect",
+        "rating": 8.5
+      },
+      {
+        "episode": 114,
+        "name": "Divide × and × Conquer",
+        "rating": 8.4
+      },
+      {
+        "episode": 115,
+        "name": "Duty × and × Question",
+        "rating": 7.7
+      },
+      {
+        "episode": 116,
+        "name": "Revenge × and × Recovery",
+        "rating": 9.5
+      },
+      {
+        "episode": 117,
+        "name": "Insult × and × Payback",
+        "rating": 8.1
+      },
+      {
+        "episode": 118,
+        "name": "A × False × Rage",
+        "rating": 8.6
+      },
+      {
+        "episode": 119,
+        "name": "Strong × or × Weak",
+        "rating": 8.3
+      },
+      {
+        "episode": 120,
+        "name": "Fake × and × Real",
+        "rating": 8.1
+      },
+      {
+        "episode": 121,
+        "name": "Defeat × and × Dignity",
+        "rating": 8.2
+      },
+      {
+        "episode": 122,
+        "name": "Pose × and × Name",
+        "rating": 8.9
+      },
+      {
+        "episode": 123,
+        "name": "Centipede × and × Memory",
+        "rating": 7.7
+      },
+      {
+        "episode": 124,
+        "name": "Breakdown × and × Awakening",
+        "rating": 8.4
+      },
+      {
+        "episode": 125,
+        "name": "Great Power × and × Ultimate Power",
+        "rating": 9.2
+      },
+      {
+        "episode": 126,
+        "name": "Zero × and × Rose",
+        "rating": 9.8
+      },
+      {
+        "episode": 127,
+        "name": "Hostility × and × Determination",
+        "rating": 8.9
+      },
+      {
+        "episode": 128,
+        "name": "Unparalleled Joy × and × Unconditional Love",
+        "rating": 7.1
+      },
+      {
+        "episode": 129,
+        "name": "Formidable Enemy × and × Clear Objective",
+        "rating": 8
+      },
+      {
+        "episode": 130,
+        "name": "Magic × to × Destroy",
+        "rating": 8.8
+      },
+      {
+        "episode": 131,
+        "name": "Anger × and × Light",
+        "rating": 9.8
+      },
+      {
+        "episode": 132,
+        "name": "Flash × and × Start",
+        "rating": 7.9
+      },
+      {
+        "episode": 133,
+        "name": "Deadline × to × Live",
+        "rating": 7.9
+      },
+      {
+        "episode": 134,
+        "name": "The Word × Is × You",
+        "rating": 9
+      },
+      {
+        "episode": 135,
+        "name": "This Person × and × This Moment",
+        "rating": 9.8
+      },
+      {
+        "episode": 136,
+        "name": "Homecoming × and × Real Name",
+        "rating": 8.9
+      },
+      {
+        "episode": 137,
+        "name": "Debate × Among × Zodiacs",
+        "rating": 7.8
+      },
+      {
+        "episode": 138,
+        "name": "Plea X and X Favor",
+        "rating": 8.5
+      },
+      {
+        "episode": 139,
+        "name": "Alluka X and X That Thing",
+        "rating": 8.3
+      },
+      {
+        "episode": 140,
+        "name": "Join Battle X and X Open Battle",
+        "rating": 8.6
+      },
+      {
+        "episode": 141,
+        "name": "Magician × and × Butler",
+        "rating": 8.4
+      },
+      {
+        "episode": 142,
+        "name": "Needle × and × Debt",
+        "rating": 8.1
+      },
+      {
+        "episode": 143,
+        "name": "Sin × and × Claw",
+        "rating": 7.9
+      },
+      {
+        "episode": 144,
+        "name": "Approval × and × Coalition",
+        "rating": 7.5
+      },
+      {
+        "episode": 145,
+        "name": "Defeat × and × Reunion",
+        "rating": 8.8
+      },
+      {
+        "episode": 146,
+        "name": "Chairman × and × Release",
+        "rating": 9.1
+      },
+      {
+        "episode": 147,
+        "name": "Salvation × and × Future",
+        "rating": 8.8
+      },
+      {
+        "episode": 148,
+        "name": "Past X and X Future",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

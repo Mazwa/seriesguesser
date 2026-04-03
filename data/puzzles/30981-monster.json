@@ -1,0 +1,395 @@
+{
+  "id": "30981-monster",
+  "rank": 137,
+  "answer": "Monster",
+  "sourceUrl": "https://seriesgraph.com/show/30981-monster",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/30981",
+    "seasonRatings": "https://seriesgraph.com/api/shows/30981/season-ratings"
+  },
+  "years": {
+    "first": 2004,
+    "last": 2005
+  },
+  "highestRatedEpisode": {
+    "name": "The Landscape of the End",
+    "season": 1,
+    "episode": 73,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Herr Doktor Tenma",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Downfall",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Murder Case",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Night of Punishment",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "The Girl from Heidelberg",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Reported Disappearance",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Mansion of Tragedy",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Fugitive",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Rouhei to shoujo",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Past That Was Erased",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Kinderheim 511",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "A Meaker Little Experiment",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Petra and Schumann",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Only Man Left, the Only Woman Left",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Be My Baby",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Wolf's Confession",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Reunion",
+        "rating": 8.5
+      },
+      {
+        "episode": 18,
+        "name": "The Fifth Spoonful of Sugar",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Abyss of the Monster",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Journey to Freiham",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Happy Holidays",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Lunge's Trap",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "Eva's Confession",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Of Men and Dining",
+        "rating": 8
+      },
+      {
+        "episode": 25,
+        "name": "Thursday's Boy",
+        "rating": 7.4
+      },
+      {
+        "episode": 26,
+        "name": "The Secret Woods",
+        "rating": 7.7
+      },
+      {
+        "episode": 27,
+        "name": "Proof",
+        "rating": 8
+      },
+      {
+        "episode": 28,
+        "name": "Just One Case",
+        "rating": 8.5
+      },
+      {
+        "episode": 29,
+        "name": "Execution",
+        "rating": 9.5
+      },
+      {
+        "episode": 30,
+        "name": "Decision",
+        "rating": 9.1
+      },
+      {
+        "episode": 31,
+        "name": "In Broad Daylight",
+        "rating": 8
+      },
+      {
+        "episode": 32,
+        "name": "Sanctuary",
+        "rating": 7.6
+      },
+      {
+        "episode": 33,
+        "name": "A Child's View",
+        "rating": 8.1
+      },
+      {
+        "episode": 34,
+        "name": "At the Edge of Darkness",
+        "rating": 7.9
+      },
+      {
+        "episode": 35,
+        "name": "My Nameless Hero",
+        "rating": 7.6
+      },
+      {
+        "episode": 36,
+        "name": "The Monster of Chaos",
+        "rating": 8.4
+      },
+      {
+        "episode": 37,
+        "name": "Namae no nai kaibutsu",
+        "rating": 9.6
+      },
+      {
+        "episode": 38,
+        "name": "The Demon in My Eyes",
+        "rating": 9
+      },
+      {
+        "episode": 39,
+        "name": "The Hell in His Eyes",
+        "rating": 8.1
+      },
+      {
+        "episode": 40,
+        "name": "Grimmer",
+        "rating": 7.9
+      },
+      {
+        "episode": 41,
+        "name": "Ghosts of 511",
+        "rating": 8.1
+      },
+      {
+        "episode": 42,
+        "name": "The Adventures of the Magnificent Steiner",
+        "rating": 8.3
+      },
+      {
+        "episode": 43,
+        "name": "Jan Suk",
+        "rating": 7.7
+      },
+      {
+        "episode": 44,
+        "name": "Two Darknesses",
+        "rating": 8.8
+      },
+      {
+        "episode": 45,
+        "name": "The Monster Afterimage",
+        "rating": 8.3
+      },
+      {
+        "episode": 46,
+        "name": "Point of Contact",
+        "rating": 8.8
+      },
+      {
+        "episode": 47,
+        "name": "The Door to Nightmares",
+        "rating": 8.4
+      },
+      {
+        "episode": 48,
+        "name": "The Scariest Thing",
+        "rating": 8.2
+      },
+      {
+        "episode": 49,
+        "name": "The Cruelest Thing",
+        "rating": 9.4
+      },
+      {
+        "episode": 50,
+        "name": "Mansion of Roses",
+        "rating": 8.1
+      },
+      {
+        "episode": 51,
+        "name": "Monster's Love Letter",
+        "rating": 8.2
+      },
+      {
+        "episode": 52,
+        "name": "Lawyer",
+        "rating": 7.8
+      },
+      {
+        "episode": 53,
+        "name": "Determination",
+        "rating": 7.7
+      },
+      {
+        "episode": 54,
+        "name": "Escape",
+        "rating": 8.1
+      },
+      {
+        "episode": 55,
+        "name": "Room 402",
+        "rating": 7.9
+      },
+      {
+        "episode": 56,
+        "name": "The Unending Journey",
+        "rating": 8.4
+      },
+      {
+        "episode": 57,
+        "name": "That Night",
+        "rating": 8.4
+      },
+      {
+        "episode": 58,
+        "name": "Unwanted Job",
+        "rating": 7.7
+      },
+      {
+        "episode": 59,
+        "name": "The Man Who Saw the Devil",
+        "rating": 8.6
+      },
+      {
+        "episode": 60,
+        "name": "The Man Who Knew Too Much",
+        "rating": 8.9
+      },
+      {
+        "episode": 61,
+        "name": "The Door of Memory",
+        "rating": 8
+      },
+      {
+        "episode": 62,
+        "name": "A Fun Meal",
+        "rating": 7.8
+      },
+      {
+        "episode": 63,
+        "name": "Unrelated Murders",
+        "rating": 8.1
+      },
+      {
+        "episode": 64,
+        "name": "The Baby's Depression",
+        "rating": 8.4
+      },
+      {
+        "episode": 65,
+        "name": "Johan's Footprints",
+        "rating": 8.2
+      },
+      {
+        "episode": 66,
+        "name": "Welcome Back",
+        "rating": 8.9
+      },
+      {
+        "episode": 67,
+        "name": "I'm Home",
+        "rating": 9.2
+      },
+      {
+        "episode": 68,
+        "name": "Ruhenheim",
+        "rating": 7.8
+      },
+      {
+        "episode": 69,
+        "name": "A Peaceful Home",
+        "rating": 8.6
+      },
+      {
+        "episode": 70,
+        "name": "The Town of Slaughter",
+        "rating": 8.9
+      },
+      {
+        "episode": 71,
+        "name": "The Magnificent Steiner's Rage",
+        "rating": 9.7
+      },
+      {
+        "episode": 72,
+        "name": "Man Without a Name",
+        "rating": 9.2
+      },
+      {
+        "episode": 73,
+        "name": "The Landscape of the End",
+        "rating": 9.7
+      },
+      {
+        "episode": 74,
+        "name": "The Real Monster",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

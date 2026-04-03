@@ -1,0 +1,251 @@
+{
+  "id": "34415-the-killing",
+  "rank": 196,
+  "answer": "The Killing",
+  "sourceUrl": "https://seriesgraph.com/show/34415-the-killing",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/34415",
+    "seasonRatings": "https://seriesgraph.com/api/shows/34415/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "What I Know",
+    "season": 2,
+    "episode": 13,
+    "rating": 9.1,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Cage",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "El Diablo",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "A Soundless Echo",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Super 8",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "What You Have Left",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Vengeance",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Stonewalled",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Undertow",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "I'll Let You Know When I Get There",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Missing",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Beau Soleil",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Orpheus Descending",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Reflections",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "My Lucky Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Numb",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Ogi Jun",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Ghosts of the Past",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Openings",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Keylela",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Off the Reservation",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Sayonara, Hiawatha",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "72 Hours",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Bulldog",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Donnie or Marie",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "What I Know",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Jungle",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "That You Fear the Most",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Seventeen",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Head Shots",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Scared and Running",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Eminent Domain",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Hope Kills",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Try",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Reckoning",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Six Minutes",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "From Up Here",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "The Road to Hamelin",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Blood in the Water",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Unraveling",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Good Soldier",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Dream Baby Dream",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Truth Asunder",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Eden",
+        "rating": 9
+      }
+    ]
+  ]
+}

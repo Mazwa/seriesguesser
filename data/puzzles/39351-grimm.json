@@ -1,0 +1,650 @@
+{
+  "id": "39351-grimm",
+  "rank": 224,
+  "answer": "Grimm",
+  "sourceUrl": "https://seriesgraph.com/show/39351-grimm",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/39351",
+    "seasonRatings": "https://seriesgraph.com/api/shows/39351/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Beginning of the End: Part 2",
+    "season": 5,
+    "episode": 22,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Bears Will Be Bears",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "BeeWare",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Lonelyhearts",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Danse Macabre",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Three Bad Wolves",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Let Your Hair Down",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Game Ogre",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Of Mouse and Man",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Organ Grinder",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Tarantella",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Last Grimm Standing",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Three Coins in a Fuchsbau",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Plumed Serpent",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Island of Dreams",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "The Thing with Feathers",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Love Sick",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Cat and Mouse",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Leave It to Beavers",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Happily Ever Aftermath",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Big Feet",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Woman in Black",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bad Teeth",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Kiss",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Bad Moon Rising",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Quill",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Good Shepherd",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Over My Dead Body",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Bottle Imp",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Other Side",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "La Llorona",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Hour of Death",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "To Protect and Serve Man",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Season of the Hexenbiest",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Face Off",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Natural Born Wesen",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Mr. Sandman",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Nameless",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "One Angry Fuchsbau",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Volcanalis",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Endangered",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Kiss of the Muse",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "The Waking Dead",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Goodnight, Sweet Grimm",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ungrateful Dead",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "PTZD",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "A Dish Best Served Cold",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "One Night Stand",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "El Cucuy",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Stories We Tell Our Young",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Cold Blooded",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Twelve Days of Krampus",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Red Menace",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Eyes of the Beholder",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Good Soldier",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "The Wild Hunt",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Revelation",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Mommy Dearest",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Once We Were Gods",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "The Show Must Go On",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Synchronicity",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "The Law of Sacrifice",
+        "rating": 8.9
+      },
+      {
+        "episode": 19,
+        "name": "Nobody Knows the Trubel I've Seen",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "My Fair Wesen",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "The Inheritance",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Blond Ambition",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Thanks for the Memories",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Octopus Head",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Last Fight",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Dyin' on a Prayer",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Cry Luison",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Highway of Tears",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Grimm Who Stole Christmas",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Chupacabra",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Wesenrein",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Tribunal",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Death Do Us Part",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Maréchaussée",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Trial by Fire",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Bad Luck",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Double Date",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Heartbreaker",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Hibernaculum",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Mishipeshu",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Iron Hans",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "You Don't Know Jack",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Headache",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Cry Havoc",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Grimm Identity",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Clear and Wesen Danger",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Lost Boys",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Maiden Quest",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Rat King",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Wesen Nacht",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Eve of Destruction",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "A Reptile Dysfunction",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Star-Crossed",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Map of the Seven Knights",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Key Move",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Into the Schwarzwald",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Silence of the Slams",
+        "rating": 7.4
+      },
+      {
+        "episode": 14,
+        "name": "Lycanthropia",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Skin Deep",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Believer",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Inugami",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Good to the Bone",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "The Taming of the Wu",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Bad Night",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Beginning of the End: Part 1",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Beginning of the End: Part 2",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fugitive",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Trust Me Knot",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Oh Captain, My Captain",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "El Cuegle",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Seven Year Itch",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Breakfast in Bed",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Blind Love",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Son Also Rises",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Tree People",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Blood Magic",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Where the Wild Things Were",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Zerstörer Shrugged",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The End",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

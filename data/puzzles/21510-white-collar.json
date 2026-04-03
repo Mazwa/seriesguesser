@@ -1,0 +1,440 @@
+{
+  "id": "21510-white-collar",
+  "rank": 204,
+  "answer": "White Collar",
+  "sourceUrl": "https://seriesgraph.com/show/21510-white-collar",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/21510",
+    "seasonRatings": "https://seriesgraph.com/api/shows/21510/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Au Revoir",
+    "season": 6,
+    "episode": 6,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Threads",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Book of Hours",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Flip of the Coin",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "The Portrait",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "All In",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Free Fall",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Hard Sell",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Bad Judgment",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Vital Signs",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Home Invasion",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Bottlenecked",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Front Man",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Out of the Box",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Withdrawal",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Need to Know",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Copycat Caffrey",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "By the Book",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Unfinished Business",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "In the Red",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Prisoner's Dilemma",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Company Man",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Point Blank",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Burke's Seven",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Forging Bonds",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "What Happens in Burma",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "Countermeasures",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Payback",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Power Play",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Under the Radar",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "On Guard",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Where There's a Will",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Deadline",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Dentist of Detroit",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Veiled Threat",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Scott Free",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Taking Account",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "As You Were",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "On the Fence",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Countdown",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Checkmate",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Upper West Side Story",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Neighborhood Watch",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Pulling Strings",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Stealing Home",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Judgment Day",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wanted",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Most Wanted",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Diminishing Returns",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Parting Shots",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Honor Among Thieves",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Identity Crisis",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Compromising Positions",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Ancient History",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Gloves Off",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Vested Interest",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Family Business",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Brass Tacks",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Empire City",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Shoot the Moon",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Original",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "In the Wind",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "At What Price",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Out of the Frying Pan",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "One Last Stakeout",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Controlling Interest",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Master Plan",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Ice Breaker",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Quantico Closure",
+        "rating": 7.3
+      },
+      {
+        "episode": 8,
+        "name": "Digging Deeper",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "No Good Deed",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Live Feed",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Shot Through the Heart",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Taking Stock",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Diamond Exchange",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Borrowed Time",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Return to Sender",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Uncontrolled Variables",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "All's Fair",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Whack-A-Mole",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Au Revoir",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

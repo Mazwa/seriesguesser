@@ -1,0 +1,71 @@
+{
+  "id": "225180-blue-eye-samurai",
+  "rank": 189,
+  "answer": "Blue Eye Samurai",
+  "sourceUrl": "https://seriesgraph.com/show/225180-blue-eye-samurai",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/225180",
+    "seasonRatings": "https://seriesgraph.com/api/shows/225180/season-ratings"
+  },
+  "years": {
+    "first": 2023,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "The Tale of the Ronin and the Bride",
+    "season": 1,
+    "episode": 5,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Hammerscale",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "An Unexpected Element",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "A Fixed Number of Paths",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Peculiarities",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "The Tale of the Ronin and the Bride",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "All Evil Dreams and Angry Words",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Nothing Broken",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "The Great Fire of 1657",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      }
+    ]
+  ]
+}

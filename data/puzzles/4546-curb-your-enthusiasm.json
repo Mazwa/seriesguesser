@@ -1,0 +1,647 @@
+{
+  "id": "4546-curb-your-enthusiasm",
+  "rank": 44,
+  "answer": "Curb Your Enthusiasm",
+  "sourceUrl": "https://seriesgraph.com/show/4546-curb-your-enthusiasm",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/4546",
+    "seasonRatings": "https://seriesgraph.com/api/shows/4546/season-ratings"
+  },
+  "years": {
+    "first": 2000,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Palestinian Chicken",
+    "season": 8,
+    "episode": 3,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Pants Tent",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Ted and Mary",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Porno Gil",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Bracelet",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Interior Decorator",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Wire",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "AAMCO",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Beloved Aunt",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Affirmative Action",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Group",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Car Salesman",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Thor",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Trick or Treat",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Shrimp Incident",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Thong",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Acupuncturist",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Doll",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "Shaq",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Baptism",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Massage",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chet's Shirt",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Benadryl Brownie",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Club Soda and Salt",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "The Nanny from Hell",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Terrorist Attack",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "The Special Section",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "The Corpse-Sniffing Dog",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Krazee-Eyez Killa",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Mary, Joseph and Larry",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Grand Opening",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mel's Offer",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Ben's Birthday Party",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Blind Date",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Weatherman",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The 5 Wood",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Car Pool Lane",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "The Surrogate",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Wandering Bear",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "The Survivor",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Opening Night",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Larry David Sandwich",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Bowtie",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Christ Nail",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Kamikaze Bingo",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Lewis Needs a Kidney",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Smoking Jacket",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Seder",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Ski Lift",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "The Korean Bookie",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The End",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Meet the Blacks",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Anonymous Donor",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Ida Funkhouser Roadside Memorial",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Lefty Call",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Freak Book",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Rat Dog",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The TiVo Guy",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The N Word",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Therapists",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Bat Mitzvah",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Funkhouser's Crazy Sister",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Vehicular Fellatio",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "The Reunion",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Hot Towel",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Denise Handicap",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "The Bare Midriff",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Black Swan",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Officer Krupke",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Table Read",
+        "rating": 9.2
+      },
+      {
+        "episode": 10,
+        "name": "Seinfeld",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Divorce",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Safe House",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Palestinian Chicken",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "The Smiley Face",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Vow of Silence",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "The Hero",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "The Bi-Sexual",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Car Periscope",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Mister Softee",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Larry vs. Michael J. Fox",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Foisted!",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Pickle Gambit",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "A Disturbance in the Kitchen",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Running with the Bulls",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Thank You for Your Service",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Accidental Text on Purpose",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Namaste",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Never Wait for Seconds!",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Shucker",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Fatwa!",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Happy New Year",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Side Sitting",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Artificial Fruit",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "You're Not Going to Get Me to Say Anything Bad About Mickey",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Insufficient Praise",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Surprise Party",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Ugly Section",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Elizabeth, Margaret and Larry",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Beep Panic",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Spite Store",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Five-Foot Fence",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Angel Muffin",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "The Mini Bar",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Watermelon",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "IRASSHAIMASE!",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Man Fights Tiny Woman",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Irma Kostroski",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "What Have I Done?",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Igor, Gregor, & Timor",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "The Mormon Advantage",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Atlanta",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "The Lawn Jockey",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Vertical Drop, Horizontal Tug",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Disgruntled",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Fish Stuck",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Gettysburg Address",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Dream Scheme",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "The Colostomy Bag",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Ken/Kendra",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "No Lessons Learned",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "849-monty-python-s-flying-circus",
+  "rank": 163,
+  "answer": "Monty Python's Flying Circus",
+  "sourceUrl": "https://seriesgraph.com/show/849-monty-python's-flying-circus",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/849",
+    "seasonRatings": "https://seriesgraph.com/api/shows/849/season-ratings"
+  },
+  "years": {
+    "first": 1969,
+    "last": 1974
+  },
+  "highestRatedEpisode": {
+    "name": "The Spanish Inquisition",
+    "season": 2,
+    "episode": 2,
+    "rating": 8.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Whither Canada?",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Sex and Violence",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "How to Recognise Different Types of Trees from Quite a Long Way Away",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Owl Stretching Time",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Man's Crisis of Identity in the Latter Half of the 20th Century",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The BBC Entry for the Zinc Stoat of Budapest (or, It's the Arts)",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "You're No Fun Any More",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Full Frontal Nudity",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Ant: An Introduction",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Untitled",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "The Royal Philharmonic Orchestra Goes to the Bathroom",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "The Naked Ant",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Intermission",
+        "rating": 7.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dinsdale!",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Spanish Inquisition",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Déjà Vu",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "The Buzz Aldrin Show",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Live from the Grill-o-Mat",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "It's a Living",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Attila the Hun Show",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Archaeology Today",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "How to Recognise Different Parts of the Body",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Scott of the Antarctic",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "How Not to Be Seen",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Spam",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Royal Episode Thirteen",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Whicker's World",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Mr. and Mrs. Brian Norris' Ford Popular",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Money Programme",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Blood, Devastation, Death, War and Horror",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The All England Summarise Proust Competition",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "The War Against Pornography",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Salad Days",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Cycling Tour",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Nude Man",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "E. Henry Thripshaw's Disease",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Dennis Moore",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "A Book at Bedtime",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Grandstand",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Golden Age of Ballooning",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Michael Ellis",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Light Entertainment War",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Hamlet",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Mr. Neutron",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Party Political Broadcast",
+        "rating": 7.3
+      }
+    ]
+  ]
+}

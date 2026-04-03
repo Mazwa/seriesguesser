@@ -1,0 +1,1480 @@
+{
+  "id": "12971-dragon-ball-z",
+  "rank": 173,
+  "answer": "Dragon Ball Z",
+  "sourceUrl": "https://seriesgraph.com/show/12971-dragon-ball-z",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/12971",
+    "seasonRatings": "https://seriesgraph.com/api/shows/12971/season-ratings"
+  },
+  "years": {
+    "first": 1989,
+    "last": 1996
+  },
+  "highestRatedEpisode": {
+    "name": "Ai suru mono no tame ni... Bejîta chiru!!",
+    "season": 1,
+    "episode": 237,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Mini Gokû wa obotchama! Boku Gohan desu.",
+        "rating": 7.3
+      },
+      {
+        "episode": 2,
+        "name": "Shijô saikyô no senshi wa Gokû no ani datta!",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Yatta! Kore ga chijô saikyô no konbi da!",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Pikkoro no kirifuda! Gohan wa nakimushi-kun",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Gokû shisu! Rasuto chansu wa ichido dake",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Enma-sama mo bikkuri Ano yo de faito",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Kyôryû to sabaibaru! Gohan no tsurai shugyô",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Tsuki no kagayaku yoru ni dai henshin! Gohan pawâ no himitsu",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Gomen ne robotto-san Sabaku ni kieta namida.",
+        "rating": 7
+      },
+      {
+        "episode": 10,
+        "name": "Naku na Gohan! Hajimete no tatakai",
+        "rating": 7
+      },
+      {
+        "episode": 11,
+        "name": "Uchû ichi no kyô senshi Saiya-jin mezameru!",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Hebi no michi de inemuri Gokû ga okkochiru",
+        "rating": 6.9
+      },
+      {
+        "episode": 13,
+        "name": "Te o dasu na! Enma-sama no himitsu no kudamono.",
+        "rating": 6.9
+      },
+      {
+        "episode": 14,
+        "name": "Ama~i yûwaku! Hebi-hime-sama no omotenashi",
+        "rating": 6.8
+      },
+      {
+        "episode": 15,
+        "name": "Pikkoro kara no dasshutsu! Arashi o yobu Gohan",
+        "rating": 6.7
+      },
+      {
+        "episode": 16,
+        "name": "Hashire Gohan! Chichi no matsu natsukashi no Paozu-yama",
+        "rating": 6.6
+      },
+      {
+        "episode": 17,
+        "name": "Asu naki machi! Shôri e no tôi michinori",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Shûte~n hebi no michi! Omê Kaiô-sama ka?",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Jûryoku to no tatakai! Baburusu-kun o tsukamaero",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "Yomigaeru Saiya-jin densetsu! Gokû no rûtsu",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Ide yo Shenron! Saiya-jin tsui ni chikyû tôchaku",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "N'na baka na! Tsuchi kara umareta Saibaiman",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Yamucha shisu! Osoru beshi Saibaiman",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Sayonara Ten-san! Chaozu no sutemi no senpô",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Tenshinhan zekkyô!! Kore ga saigo no Kikôhô da",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Hitasura matte 3 jikan! Dangan hikô no Kinto'un",
+        "rating": 7.4
+      },
+      {
+        "episode": 27,
+        "name": "Boku ni makasete! Gohan · ikari no dai bakuhatsu",
+        "rating": 8.1
+      },
+      {
+        "episode": 28,
+        "name": "Saiya-jin no môi! Kami-sama mo Pikkoro mo shinda",
+        "rating": 8.6
+      },
+      {
+        "episode": 29,
+        "name": "Tôsan sugê ya! Kyûkyoku no hissatsuwaza · Kaiô-ken",
+        "rating": 8.2
+      },
+      {
+        "episode": 30,
+        "name": "Genkai o koeta atsui tatakai! Gokû tai Bejîta",
+        "rating": 8.2
+      },
+      {
+        "episode": 31,
+        "name": "Ima da Gokû! Subete o kaketa saigo no ôwaza",
+        "rating": 8.5
+      },
+      {
+        "episode": 32,
+        "name": "Sentô-ryoku 10-bai!! Bejîta dai henshin",
+        "rating": 8
+      },
+      {
+        "episode": 33,
+        "name": "Shinanaide tôsan!! Kore ga Gohan no sokojikara",
+        "rating": 7.9
+      },
+      {
+        "episode": 34,
+        "name": "Ute Kuririn! Negai o kometa Genki-dama",
+        "rating": 8.1
+      },
+      {
+        "episode": 35,
+        "name": "Kiseki o okose! Sûpâ Saiya-jin Son Gohan",
+        "rating": 8.3
+      },
+      {
+        "episode": 36,
+        "name": "Tobidase uchû e! Kibô no hoshi wa Pikkoro no furusato",
+        "rating": 7.6
+      },
+      {
+        "episode": 37,
+        "name": "Nazo no yunzabitto! Kami-Sama no uchûsen o sagase",
+        "rating": 7.3
+      },
+      {
+        "episode": 38,
+        "name": "Namekku-sei iki hasshin! Gohan-tachi o matsu kyôfu",
+        "rating": 7
+      },
+      {
+        "episode": 39,
+        "name": "Teki ka mikata ka? Nazo no kyodai uchûsen no kodomo-tachi",
+        "rating": 6.8
+      },
+      {
+        "episode": 40,
+        "name": "Honto ni honto? Are ga kibô no Namekku-sei",
+        "rating": 6.8
+      },
+      {
+        "episode": 41,
+        "name": "Shinsetsu na uchû-jin ikinari atta Ûshinchuu",
+        "rating": 6.9
+      },
+      {
+        "episode": 42,
+        "name": "Wasusei Furîza No. 79 Fukkatsu no Bejîta!!",
+        "rating": 7.2
+      },
+      {
+        "episode": 43,
+        "name": "Sorotta zo Doragon Bôru! Pikkoro-san mo ikikaeru",
+        "rating": 7
+      },
+      {
+        "episode": 44,
+        "name": "Arata na kyôteki! Uchû no teiyô Furîza",
+        "rating": 7.5
+      },
+      {
+        "episode": 45,
+        "name": "Yabô no Bejîta! Uchû ichi no senshi wa ore da!!",
+        "rating": 7.9
+      },
+      {
+        "episode": 46,
+        "name": "Gokû pawâ zenkai!! Ginga no hate made 6-kakan",
+        "rating": 7.6
+      },
+      {
+        "episode": 47,
+        "name": "Ihyô o tsuita kôgeki!! Chôrô no nerai wa sukautâ",
+        "rating": 7.8
+      },
+      {
+        "episode": 48,
+        "name": "Gohan ayaushi! Shi o yobu tsuisekisha Dodoria",
+        "rating": 7.9
+      },
+      {
+        "episode": 49,
+        "name": "Bakushi Dodoria! Bejîta no osoru beki shôgekiha",
+        "rating": 7.9
+      },
+      {
+        "episode": 50,
+        "name": "Moeru wakusei kara no dasshutsu!! Inochigake no Kamehameha",
+        "rating": 7.6
+      },
+      {
+        "episode": 51,
+        "name": "Yûki hyakubai! Kaiô no moto ni shûketsu suru senshi-tachi",
+        "rating": 7.9
+      },
+      {
+        "episode": 52,
+        "name": "Kike Gokû yo! Furîza ni wa te o dasu na",
+        "rating": 8
+      },
+      {
+        "episode": 53,
+        "name": "Hotondo torihada! Bisenshi Zâbon no akuma no henshin",
+        "rating": 7.8
+      },
+      {
+        "episode": 54,
+        "name": "Kibô no hoshi o mamore!! Kuririn kyôi no pâwa UP",
+        "rating": 7.8
+      },
+      {
+        "episode": 55,
+        "name": "Shi no fuchi kara yomigaetta kiseki no otoko - Bejîta",
+        "rating": 7.7
+      },
+      {
+        "episode": 56,
+        "name": "Dodekai sentô-ryoku!! Kudakechiru Furîza no inbô",
+        "rating": 7.9
+      },
+      {
+        "episode": 57,
+        "name": "Genki ga modotta zo!! 100-bai chô jûryoku no naka no Gokû",
+        "rating": 7.9
+      },
+      {
+        "episode": 58,
+        "name": "Furîza no himitsu heiki! Akuma no Ginyû tokusentai",
+        "rating": 7.7
+      },
+      {
+        "episode": 59,
+        "name": "Buruma ga abunai!! Sûshinchû wa Furîza no te ni",
+        "rating": 7
+      },
+      {
+        "episode": 60,
+        "name": "Gekitotsu da!! Fukutsu no tôshi no Kaiô-Ken to Kamehameha",
+        "rating": 7
+      },
+      {
+        "episode": 61,
+        "name": "Semaru chô kessen! Ginyû tokusentai tadaima sanjô!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 62,
+        "name": "Gokû ga dai sekkin! Furîza hôi mô o buchi yarube",
+        "rating": 7.7
+      },
+      {
+        "episode": 63,
+        "name": "Chô majutsu ka torikku ka!? Mr. Gurudo ga okkota zo!",
+        "rating": 7.7
+      },
+      {
+        "episode": 64,
+        "name": "Môi Rikûmu!! Warukute tsuyokute tondemonai yatsu",
+        "rating": 7.9
+      },
+      {
+        "episode": 65,
+        "name": "Shinu na Gohan! Gokû, tsui ni kessen-jô ni tôchaku da",
+        "rating": 8
+      },
+      {
+        "episode": 66,
+        "name": "Keta hazure no tsuyo-sa!! Densetsu no Sûpâ Saija-jin Son Gokû",
+        "rating": 8.3
+      },
+      {
+        "episode": 67,
+        "name": "Aka to ao no raitoningu bôru! Jîsu to bâta ga Gokû o osou",
+        "rating": 7.9
+      },
+      {
+        "episode": 68,
+        "name": "Tsui ni chokusetsu taiketsu!! Ginyû taichô no odemashi da",
+        "rating": 7.8
+      },
+      {
+        "episode": 69,
+        "name": "Susamajî hakuryoku!! Mita ka, Gokû no furu pâwâ",
+        "rating": 7.9
+      },
+      {
+        "episode": 70,
+        "name": "Tatakai no yukue!? Sai chôrô ni semaru Furîza no ma no te",
+        "rating": 7.9
+      },
+      {
+        "episode": 71,
+        "name": "Bikkuri!! Gokû ga Ginyû de Ginyû ga Gokû",
+        "rating": 7.6
+      },
+      {
+        "episode": 72,
+        "name": "Ide yo Sûpâ Shenron!! Boku no negai o kanaetamae",
+        "rating": 7.7
+      },
+      {
+        "episode": 73,
+        "name": "Yatsu wa ora ja ne~e! Gohan bibiru na chichi o ute!!",
+        "rating": 8.1
+      },
+      {
+        "episode": 74,
+        "name": "Dai gosan!! Ginyû ga kaeru ni natchatta",
+        "rating": 7.8
+      },
+      {
+        "episode": 75,
+        "name": "Nanatsu no tama o soroeshi mono yo... Sâ aikotoba o ie!",
+        "rating": 7.7
+      },
+      {
+        "episode": 76,
+        "name": "Kami-Sama mo ikikaetta! Sûpâ Shenron de Pikkoro ga fukkatsu",
+        "rating": 8
+      },
+      {
+        "episode": 77,
+        "name": "Saikyô senchi no tanjô ka!? Neiru to Pikkoro ga gattai",
+        "rating": 7.9
+      },
+      {
+        "episode": 78,
+        "name": "Akumu no chô henshin!! Sentô-ryoku 100 man no Furîza",
+        "rating": 8
+      },
+      {
+        "episode": 79,
+        "name": "Koko made ka!? Kyôaku chôzetsu pawâ ga Gohan o osou",
+        "rating": 7.9
+      },
+      {
+        "episode": 80,
+        "name": "Ikki ni keisei gyakuten!! Okurete kita senshi, Pikkoro",
+        "rating": 7.9
+      },
+      {
+        "episode": 81,
+        "name": "Pikkoro no jishin! Furîza o taosu no wa ore da",
+        "rating": 7.9
+      },
+      {
+        "episode": 82,
+        "name": "Shutsugeki da Gokû!! Gekido no Furîza ga dai 2 no henshin",
+        "rating": 7.9
+      },
+      {
+        "episode": 83,
+        "name": "Kyôfu shiro!! Furîza wa 3-do no henshin de shôbu suru",
+        "rating": 7.9
+      },
+      {
+        "episode": 84,
+        "name": "Dende no shi... Dete koi! Tobikiri Zenkai pâwâ",
+        "rating": 7.7
+      },
+      {
+        "episode": 85,
+        "name": "Machi ni matta ze, kono shunkan!!! Son Gokû ga fukkatsu da",
+        "rating": 7.8
+      },
+      {
+        "episode": 86,
+        "name": "Munen...!! Hokori takaki Saiyajin - Bejîta shisu",
+        "rating": 8.3
+      },
+      {
+        "episode": 87,
+        "name": "Chô kessen no makuake da!! Omee dake wa ora ga taosu",
+        "rating": 7.8
+      },
+      {
+        "episode": 88,
+        "name": "Gekitotsu no 2 dai sûpâ pâwâ! Honki dôshi no nikudansen!!!",
+        "rating": 7.8
+      },
+      {
+        "episode": 89,
+        "name": "Furîza kyôfu no sengen! Te o tsukawazu omae o taosu",
+        "rating": 7.6
+      },
+      {
+        "episode": 90,
+        "name": "Hattari ja nê zo!! Daitan suteki na Yatsu - Son Gokû",
+        "rating": 7.6
+      },
+      {
+        "episode": 91,
+        "name": "Ketchaku da!! Honô no keshin 20-ban Kaiô Ken no Kamehameha",
+        "rating": 7.7
+      },
+      {
+        "episode": 92,
+        "name": "Chô tokudai no Genki-Dama Kore ga saigo no kirifuda da!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 93,
+        "name": "Chansu o ikase!! Pikkoro sutemi no engo shageki",
+        "rating": 7.6
+      },
+      {
+        "episode": 94,
+        "name": "Genki-Dama no chô hakai-ryoku!! Ikinokotta no wa dare da!?",
+        "rating": 8
+      },
+      {
+        "episode": 95,
+        "name": "Tsui ni henshin!! Densetsu no Sûpâ Saiya-jin: Son Gokû",
+        "rating": 8.8
+      },
+      {
+        "episode": 96,
+        "name": "Ikari bakuhatsu!! Gokû yo, min'na no kataki o utte kure",
+        "rating": 8.7
+      },
+      {
+        "episode": 97,
+        "name": "Namekku-sei shômetsu ka!? Daichi o tsuranuku ma no senkô",
+        "rating": 8.2
+      },
+      {
+        "episode": 98,
+        "name": "Katsu no wa ore da... Ikinokori o kaketa saishû kôgeki",
+        "rating": 7.9
+      },
+      {
+        "episode": 99,
+        "name": "Shenron yo ushû o hashire!! Semaru Namekku-sei shômetsu no toki",
+        "rating": 7.9
+      },
+      {
+        "episode": 100,
+        "name": "Boku wa Son Gokû no musuko da!! Gohan, futatabi kessenjô e",
+        "rating": 7.8
+      },
+      {
+        "episode": 101,
+        "name": "Ore wa Kono Hoshi ni Nokoru!! Shori e no Saigo no Negai",
+        "rating": 8
+      },
+      {
+        "episode": 102,
+        "name": "Tokoton yarô ze!! Kieyuku hoshi ni nokotta futari",
+        "rating": 7.7
+      },
+      {
+        "episode": 103,
+        "name": "Aware Furîza!! Furuedashitara tomoranai!!",
+        "rating": 8
+      },
+      {
+        "episode": 104,
+        "name": "Gokû no shôri sengen da!! Furîza ga jimetsu suru toki...",
+        "rating": 8.2
+      },
+      {
+        "episode": 105,
+        "name": "Furîza yabureru!! Subete no ikari o kometa ichigeki",
+        "rating": 7.6
+      },
+      {
+        "episode": 106,
+        "name": "Namekku-sei dai bakuhatsu!! Uchû ni kieta Gokû",
+        "rating": 7.7
+      },
+      {
+        "episode": 107,
+        "name": "Ikite ita Son Gokû Z senchi ga zen'nin fukkatsu da!!",
+        "rating": 7.9
+      },
+      {
+        "episode": 108,
+        "name": "Tenkai ga taihen da!! Gârikku Jr ga Kami ni naru!?",
+        "rating": 7.1
+      },
+      {
+        "episode": 109,
+        "name": "Kyôfu no kuroi kiri...!! Min'na mazoku ni natchatta",
+        "rating": 7.1
+      },
+      {
+        "episode": 110,
+        "name": "Tenkai ga senjô da!! Pikkoro ga mazoku ni gyakumodori...",
+        "rating": 7
+      },
+      {
+        "episode": 111,
+        "name": "Pikkoro to chokusetsu taiketsu! Tenkai ni ikari no Masenkô",
+        "rating": 7
+      },
+      {
+        "episode": 112,
+        "name": "Min'na no kokoro o torimodose!! Shinden ni nemuru chô shinzui",
+        "rating": 7.1
+      },
+      {
+        "episode": 113,
+        "name": "Asa made matenai!! Kami-Sama no kakugo o kimeta kesshikô",
+        "rating": 7.1
+      },
+      {
+        "episode": 114,
+        "name": "Chô kageki ni shôbu da!! Okite yaburi no Kami-Sama",
+        "rating": 6.9
+      },
+      {
+        "episode": 115,
+        "name": "Kîta ze chô-shinsui!! Sekai ga akumu kara sameta",
+        "rating": 7
+      },
+      {
+        "episode": 116,
+        "name": "Gohan ni isshun no shôki!! Ano Makyô-sei o ute...",
+        "rating": 7.2
+      },
+      {
+        "episode": 117,
+        "name": "Otoko da nê... Kuririn 101-kaime no puropôzu",
+        "rating": 6.6
+      },
+      {
+        "episode": 118,
+        "name": "Are ga chikyû da yo papa... Furîza oyako no gyakushû",
+        "rating": 7.6
+      },
+      {
+        "episode": 119,
+        "name": "Furîza wa boku ga taosu... Gokû o matsu nazo no shônen",
+        "rating": 8
+      },
+      {
+        "episode": 120,
+        "name": "Furîza o ittô ryôdan!! Mô hitori no Sûpâ Saiya-jin",
+        "rating": 8.7
+      },
+      {
+        "episode": 121,
+        "name": "Ossu!! Hisashiburi... Kaette kita Son Gokû",
+        "rating": 8.3
+      },
+      {
+        "episode": 122,
+        "name": "Boku no chichi wa Bejîta desu... Nazo no shônen no kokuhaku",
+        "rating": 8.4
+      },
+      {
+        "episode": 123,
+        "name": "Gokû no shin hissatsuwaza!? Mite kure, ore no Shunkanidô",
+        "rating": 7.6
+      },
+      {
+        "episode": 124,
+        "name": "Koete yaru... Gokû o!! Sentô minzoku Saiya-jin no Ô",
+        "rating": 7.4
+      },
+      {
+        "episode": 125,
+        "name": "Menkyo kaiden? Gokû no arata naru shiren",
+        "rating": 7.2
+      },
+      {
+        "episode": 126,
+        "name": "Kehai o motanu satsujinki Doitsu ga jinzôningen da!?",
+        "rating": 7.9
+      },
+      {
+        "episode": 127,
+        "name": "Reiketsu 20-gô no akugyaku hidô!! Gokû · ikari no chô-henshin",
+        "rating": 7.8
+      },
+      {
+        "episode": 128,
+        "name": "Gokû, daburu shokku!! Yamai to teki no hasamiuchi",
+        "rating": 7.8
+      },
+      {
+        "episode": 129,
+        "name": "Bejîta tsuyoshi!! Mezameru Sûpâ Saiya-jin no chi",
+        "rating": 8.1
+      },
+      {
+        "episode": 130,
+        "name": "20-gô no futeki na warai... Dokutâ Gero no himitsu",
+        "rating": 8.1
+      },
+      {
+        "episode": 131,
+        "name": "Jijitsu wa mirai yori osoroshî!? Torankusu no giwaku",
+        "rating": 7.9
+      },
+      {
+        "episode": 132,
+        "name": "Tsuigeki!! Dokutâ Gero nazo no kenkyûjo o sagashidase",
+        "rating": 7.5
+      },
+      {
+        "episode": 133,
+        "name": "Soshite kyôfu ga genjitsu ni... Mezameru 17-gô to 18-gô!!",
+        "rating": 7.5
+      },
+      {
+        "episode": 134,
+        "name": "Subete ga teokure ka!? Gokû o korosu saishû heiki",
+        "rating": 7.5
+      },
+      {
+        "episode": 135,
+        "name": "Kawaî kao de chô pâwâ!? 18-gô ni shikaku nashi",
+        "rating": 7.7
+      },
+      {
+        "episode": 136,
+        "name": "Darenimo yatsura o tomerarenai... Z Senshi zenmetsu ka!?",
+        "rating": 7.6
+      },
+      {
+        "episode": 137,
+        "name": "Pikkoro no ketsui!! Totte oki no saigo no shudan",
+        "rating": 7.2
+      },
+      {
+        "episode": 138,
+        "name": "Aruku chô hakai heiki!! Jinzôningen ga Gokû ni semaru",
+        "rating": 7.1
+      },
+      {
+        "episode": 139,
+        "name": "Fukitsu na yokan! Buruma ga shiraseta misuterî",
+        "rating": 7.3
+      },
+      {
+        "episode": 140,
+        "name": "Jâku no tamago o hakken!! Kyôfu suru Torankusu",
+        "rating": 7.5
+      },
+      {
+        "episode": 141,
+        "name": "Katsute nai teki ni mukete... Sûpâ Namekku-seijin tanjô!!",
+        "rating": 7.4
+      },
+      {
+        "episode": 142,
+        "name": "Kamehameha!? Gokû no Ki o motsu monsutâ",
+        "rating": 7.7
+      },
+      {
+        "episode": 143,
+        "name": "Zôo to hakai no seimei-tai!! Yatsu no na wa Jinzôningen Seru",
+        "rating": 7.8
+      },
+      {
+        "episode": 144,
+        "name": "Pikkoro tsûkon no dai shippai! Seru ga machi ni hanatareta!",
+        "rating": 7.5
+      },
+      {
+        "episode": 145,
+        "name": "Seru tanjô no himitsu! Kenkyûjo no chika ni nani ga aru!?",
+        "rating": 7.5
+      },
+      {
+        "episode": 146,
+        "name": "Gokû tatakai e no mezame! Sûpa Saiya-jin o koero!!",
+        "rating": 7.2
+      },
+      {
+        "episode": 147,
+        "name": "Shugyô o isoge Saiya-jin! Seishin to toki no heya de...",
+        "rating": 7.7
+      },
+      {
+        "episode": 148,
+        "name": "Ten o saku gekiretsu kôdan!! Pikkoro VS Jinzôningen 17-gô",
+        "rating": 7.9
+      },
+      {
+        "episode": 149,
+        "name": "Kono hi o matte ita!! Seru · kanzentai e no jokyoku",
+        "rating": 7.7
+      },
+      {
+        "episode": 150,
+        "name": "Sutemi no hangeki oyobazu! Pikkoro moetsukiru!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 151,
+        "name": "Nokosareta yuîtsu no nozomi... Mugon no senshi 16-gô tatsu!!",
+        "rating": 7.6
+      },
+      {
+        "episode": 152,
+        "name": "17-gô o nomikonda... Henshin Seru wa chô gurume",
+        "rating": 7.8
+      },
+      {
+        "episode": 153,
+        "name": "Ashita wa omê o tatakinomesu!! Gokû no chôsenjô",
+        "rating": 7.9
+      },
+      {
+        "episode": 154,
+        "name": "Subete ore ga katazukeru!! Shinsei Bejîta oyako shutsugen",
+        "rating": 7.5
+      },
+      {
+        "episode": 155,
+        "name": "Ikinari zenkai!! Hikari kagayaku Bejîta no chô pâwâ",
+        "rating": 7.7
+      },
+      {
+        "episode": 156,
+        "name": "Seru yo hizamazuke! Ore wa Sûpâ Bejîta da!!",
+        "rating": 7.6
+      },
+      {
+        "episode": 157,
+        "name": "Kiken'na puraido!! Kanzentai Seru e no chôsen",
+        "rating": 7.7
+      },
+      {
+        "episode": 158,
+        "name": "Ore nayanjau!! Kuririn no 18-gô hakai kôsaku",
+        "rating": 7.5
+      },
+      {
+        "episode": 159,
+        "name": "Zen uchû ni shôgeki!! Seru, kanzentai e kyôi no shinka",
+        "rating": 7.7
+      },
+      {
+        "episode": 160,
+        "name": "Sentô-ryoku mugendai!! Seru to iu na no hakaishin tanjô",
+        "rating": 7.7
+      },
+      {
+        "episode": 161,
+        "name": "Sûpâ Bejîta ayaushi!! Kanzen muketsu no kyôfu ga semaru!!",
+        "rating": 7.1
+      },
+      {
+        "episode": 162,
+        "name": "Sûpâ Saiya-jin no genkai toppa!! Arashi o yobu Torankusu",
+        "rating": 7.4
+      },
+      {
+        "episode": 163,
+        "name": "Chichi o sukue!! Ten o mo kogasu Torankusu no ikari",
+        "rating": 7.2
+      },
+      {
+        "episode": 164,
+        "name": "Zetsubô no mirai!! Jigoku o ikinuita otoko Torankusu",
+        "rating": 7.2
+      },
+      {
+        "episode": 165,
+        "name": "Sûpâ Torankusu ni jakuten!! Seru, shôgeki no bakudan hatsugen",
+        "rating": 7.4
+      },
+      {
+        "episode": 166,
+        "name": "Gokû ni semaru daikessen!! Shin Tenka'ichi Budôkai no nazo",
+        "rating": 7.1
+      },
+      {
+        "episode": 167,
+        "name": "Shichô-ritsu 100%!! Shi o yobe Seru Gêmu dokusen namahôsô",
+        "rating": 6.9
+      },
+      {
+        "episode": 168,
+        "name": "Gokû to Gohan... Hîrô oyako kyûkyoku reberu appu",
+        "rating": 7.2
+      },
+      {
+        "episode": 169,
+        "name": "Gokû no yoyû!? Yasunde matou Seru Gêmu",
+        "rating": 7.5
+      },
+      {
+        "episode": 170,
+        "name": "Senshi no kyûsoku... Shôjo to uso to Gohan no ketsui",
+        "rating": 6.8
+      },
+      {
+        "episode": 171,
+        "name": "Himerareta chikara!! Gohan ga akanbô datta koro",
+        "rating": 7
+      },
+      {
+        "episode": 172,
+        "name": "Kami-Sama o sagashidase!! Gokû, dai shunkanidô",
+        "rating": 7
+      },
+      {
+        "episode": 173,
+        "name": "Dende no hatsu shigoto!! Doragon Bôru fukkatsu da",
+        "rating": 7.2
+      },
+      {
+        "episode": 174,
+        "name": "Gokû ni nanmon!? Doragon Bôru o tori modose",
+        "rating": 6.9
+      },
+      {
+        "episode": 175,
+        "name": "Seru ni idomo mono-tachi!! Kessen no makuake",
+        "rating": 6.9
+      },
+      {
+        "episode": 176,
+        "name": "Chotto matta!! Satan gundan oabare",
+        "rating": 6.8
+      },
+      {
+        "episode": 177,
+        "name": "Shôbuda Gokû!! Chô kinpaku Seru Gêmu",
+        "rating": 7.6
+      },
+      {
+        "episode": 178,
+        "name": "Chikyû chokugeki!! Seru no tokudai Kamehameha",
+        "rating": 7.7
+      },
+      {
+        "episode": 179,
+        "name": "Haiboku ka shi ka!? Gokû, gyakuten no hisaku",
+        "rating": 7.8
+      },
+      {
+        "episode": 180,
+        "name": "Shitô ni ketchaku!! Gokû no kôsan sengen!?",
+        "rating": 7.6
+      },
+      {
+        "episode": 181,
+        "name": "Saikyô o tsugu mono... Sono na wa Gohan",
+        "rating": 7.5
+      },
+      {
+        "episode": 182,
+        "name": "Ikare Gohan nemureru chikara o yobi okose",
+        "rating": 7.3
+      },
+      {
+        "episode": 183,
+        "name": "Chitcha na kyôi!! Seru Junia raishû",
+        "rating": 7.9
+      },
+      {
+        "episode": 184,
+        "name": "16-gô muzan!! Ugokidasu ikari no Sûpâ Gohan",
+        "rating": 8.1
+      },
+      {
+        "episode": 185,
+        "name": "Fukiareru shin no chikara!! Seru Junia funsai",
+        "rating": 8.2
+      },
+      {
+        "episode": 186,
+        "name": "Seru o KO!! Tatta 2-hatsu no chô tekken",
+        "rating": 8
+      },
+      {
+        "episode": 187,
+        "name": "Seru ni ihen!! Kuzusareta kansentai",
+        "rating": 8.1
+      },
+      {
+        "episode": 188,
+        "name": "Bai bai min'na!! Gokû saigo no shinkanidô",
+        "rating": 8.2
+      },
+      {
+        "episode": 189,
+        "name": "Hakuchû no akumu!! Kyôfu wa yori kanpeki ni",
+        "rating": 7.3
+      },
+      {
+        "episode": 190,
+        "name": "Gokû kara Gohan e... Chichi no tamashî wa tsutawatta",
+        "rating": 7.1
+      },
+      {
+        "episode": 191,
+        "name": "Tataki wa owatta... Arigatô Son Gokû",
+        "rating": 7.7
+      },
+      {
+        "episode": 192,
+        "name": "Ora ano yo de shûgyô suru!! Egao no wakare",
+        "rating": 7.9
+      },
+      {
+        "episode": 193,
+        "name": "Atarashî hibi... Tôsan! Boku ganbaru",
+        "rating": 7.6
+      },
+      {
+        "episode": 194,
+        "name": "Môhitotsu no ketsumatsu!! Mirai wa ore ga mamoru",
+        "rating": 8.1
+      },
+      {
+        "episode": 195,
+        "name": "Dai kangeki!! Ita zo! Ano yo no sugê yatsu",
+        "rating": 7.6
+      },
+      {
+        "episode": 196,
+        "name": "Anoyo ichi wa ora da!! Rekidai no yûsha dai shûgô",
+        "rating": 7.3
+      },
+      {
+        "episode": 197,
+        "name": "Dai Kaiô-sei nekkyô!! Makiokose Gokû senpû",
+        "rating": 7.3
+      },
+      {
+        "episode": 198,
+        "name": "Honô no kesshô!! Gokû ka Paikûhan ka!?",
+        "rating": 7.4
+      },
+      {
+        "episode": 199,
+        "name": "Nogasu na shôri!! Kimero chôsoku Kamehameha",
+        "rating": 7.8
+      },
+      {
+        "episode": 200,
+        "name": "Are kara 7-nen! Kyô kara boku wa kôkôsei",
+        "rating": 7.3
+      },
+      {
+        "episode": 201,
+        "name": "Ai to seigi no Gurêto Saiyaman sanjô",
+        "rating": 7
+      },
+      {
+        "episode": 202,
+        "name": "Gohan no hachamecha hatsu dêto!?",
+        "rating": 6.5
+      },
+      {
+        "episode": 203,
+        "name": "Gohan, kinkyû shutsudô! Bîderu o sukue!!",
+        "rating": 6.8
+      },
+      {
+        "episode": 204,
+        "name": "Tônan jiken hassei!! Han'nin wa Saiyaman!?",
+        "rating": 6.5
+      },
+      {
+        "episode": 205,
+        "name": "Gokû mo fukkatsu!? Tenka'ichi Budôkai shitsujô da!!",
+        "rating": 7
+      },
+      {
+        "episode": 206,
+        "name": "Gohan mo bikkuri! Goten no bakuhatsu pawâ",
+        "rating": 7.1
+      },
+      {
+        "episode": 207,
+        "name": "A tobeta!! Bîderu no bukujutsu nyûmon",
+        "rating": 7.4
+      },
+      {
+        "episode": 208,
+        "name": "Okaeri Gokû! Zetto chîmu zen'in shûgô!!",
+        "rating": 7.7
+      },
+      {
+        "episode": 209,
+        "name": "Ayaushi Saiyaman! Gekisha ni goyôjin!?",
+        "rating": 7.3
+      },
+      {
+        "episode": 210,
+        "name": "Hanpa janai ze!! Chibi Torankusu",
+        "rating": 7.1
+      },
+      {
+        "episode": 211,
+        "name": "Boku no deban da!! Goten, kinchô no daîssen",
+        "rating": 7.2
+      },
+      {
+        "episode": 212,
+        "name": "Ureshisa hyakumanbai! Shônen chanpion kettei!!",
+        "rating": 7.2
+      },
+      {
+        "episode": 213,
+        "name": "Dô suru Satan!? Shijô saidai no pinchi",
+        "rating": 7.2
+      },
+      {
+        "episode": 214,
+        "name": "Taisen aite kettei!! Hayaku yarô ze ikkaisen",
+        "rating": 7.3
+      },
+      {
+        "episode": 215,
+        "name": "Dô shita Pikkoro!! Masa ka no fusenpai",
+        "rating": 7.4
+      },
+      {
+        "episode": 216,
+        "name": "Fujimi de bukimi!? Supopobitchi no nazo",
+        "rating": 7.5
+      },
+      {
+        "episode": 217,
+        "name": "Bîderu muzan!! Deru ka ikari no sûpâ Gohan",
+        "rating": 7.7
+      },
+      {
+        "episode": 218,
+        "name": "Barechatta!! Saiyaman wa Son Gohan",
+        "rating": 7.3
+      },
+      {
+        "episode": 219,
+        "name": "Ugomeku inbô!! Gohan no pawâ ga ubawareta",
+        "rating": 7.7
+      },
+      {
+        "episode": 220,
+        "name": "Kuromaku tôjô!! Aku no madôshi Babidi",
+        "rating": 7.7
+      },
+      {
+        "episode": 221,
+        "name": "Machiukeru wana!! Makai kara no chôsenjô",
+        "rating": 7.7
+      },
+      {
+        "episode": 222,
+        "name": "Nameru na!! Bejîta ikari no shosen toppa",
+        "rating": 7.7
+      },
+      {
+        "episode": 223,
+        "name": "Gokû pawâ zenkai!! Buttobe Yakon",
+        "rating": 7.6
+      },
+      {
+        "episode": 224,
+        "name": "Dai gosan!! Satan VS 3-nin no chô senshi!?",
+        "rating": 7.1
+      },
+      {
+        "episode": 225,
+        "name": "Tsuyoi ze chibikko!! 18-gô dai kusen!?",
+        "rating": 7.2
+      },
+      {
+        "episode": 226,
+        "name": "Tachihadakaru Maô! Deban da Gohan!!",
+        "rating": 7.3
+      },
+      {
+        "episode": 227,
+        "name": "Mitsukerareta jashin!! Dâbura no meian",
+        "rating": 7.5
+      },
+      {
+        "episode": 228,
+        "name": "Hakai Ôji Bejîta fukkatsu!! Butô-kai ran'nyû",
+        "rating": 8
+      },
+      {
+        "episode": 229,
+        "name": "Shukumei no chô taiketsu!! Gekitotsu Gokû VS Bejîta",
+        "rating": 8
+      },
+      {
+        "episode": 230,
+        "name": "Mattero Babidi!! Yabô wa yurusanai",
+        "rating": 7.9
+      },
+      {
+        "episode": 231,
+        "name": "Toketa fûin! Deru zo kyôaku Majin Bû!!",
+        "rating": 7.9
+      },
+      {
+        "episode": 232,
+        "name": "Fukkatsu sasenai!! Teikô no Kamehameha",
+        "rating": 7.6
+      },
+      {
+        "episode": 233,
+        "name": "Zetsubô e itchokusen!? Nageki no Kaiôshin",
+        "rating": 7.7
+      },
+      {
+        "episode": 234,
+        "name": "Majin osorubeshi!! Gohan ni semaru shi no kyôfu",
+        "rating": 7.6
+      },
+      {
+        "episode": 235,
+        "name": "Tabechauzo!! Harapeko Majin no chô nôryoku",
+        "rating": 7.8
+      },
+      {
+        "episode": 236,
+        "name": "Senshi no ketsui!! Majin wa ore ga shimatsu suru",
+        "rating": 7.9
+      },
+      {
+        "episode": 237,
+        "name": "Ai suru mono no tame ni... Bejîta chiru!!",
+        "rating": 9.1
+      },
+      {
+        "episode": 238,
+        "name": "Akumu futatabi! Ikiteita Majin Bû",
+        "rating": 7.4
+      },
+      {
+        "episode": 239,
+        "name": "Bîderu-tachi no funtô! Sagase Doragon Bôru",
+        "rating": 7.1
+      },
+      {
+        "episode": 240,
+        "name": "Dekkai kibô!! Chibi-tachi no shin hissatsuwaza",
+        "rating": 7
+      },
+      {
+        "episode": 241,
+        "name": "Goten Torankusu zensekai ni shimei tehai",
+        "rating": 7.1
+      },
+      {
+        "episode": 242,
+        "name": "Gohan fukkatsu Kaiôshin no himitsu heiki!?",
+        "rating": 7.2
+      },
+      {
+        "episode": 243,
+        "name": "Nuketaa~!! Densetsu no zetto sôdo",
+        "rating": 7.1
+      },
+      {
+        "episode": 244,
+        "name": "Nerewareta nishi no miyako! Tomare Majin Bû!!",
+        "rating": 7.3
+      },
+      {
+        "episode": 245,
+        "name": "Atto odoroku dai henshin!! Sûpâ Saiya-jin 3",
+        "rating": 7.9
+      },
+      {
+        "episode": 246,
+        "name": "Bai Bai, Babidi!! Majin Bû hangyaku",
+        "rating": 7.8
+      },
+      {
+        "episode": 247,
+        "name": "Mecha kakko warui!? Tokkun henshin pôzu",
+        "rating": 7
+      },
+      {
+        "episode": 248,
+        "name": "Jâ na min'na!! Gokû ano-yo ni kaeru",
+        "rating": 7.3
+      },
+      {
+        "episode": 249,
+        "name": "Gohan wa dokoda!? Kaiôshin-kai no môtokkun",
+        "rating": 7.2
+      },
+      {
+        "episode": 250,
+        "name": "Uso daro!? Zetto sôdo ga orechatta",
+        "rating": 7.2
+      },
+      {
+        "episode": 251,
+        "name": "Gattai chôjin tanjô!! Sono na wa Gotenkusu",
+        "rating": 7
+      },
+      {
+        "episode": 252,
+        "name": "Saishû heiki shidô!? Satan wa chikyû o sukû",
+        "rating": 7.3
+      },
+      {
+        "episode": 253,
+        "name": "Korosu no yameta!! Majin Bû yoi ko sengen",
+        "rating": 7.6
+      },
+      {
+        "episode": 254,
+        "name": "Nigero Satan!! Ikari no Majin Bû shutsugen",
+        "rating": 7.8
+      },
+      {
+        "episode": 255,
+        "name": "Dotchi ga katsu no!? Zen'aku Bû-Bû taiketsu",
+        "rating": 7.9
+      },
+      {
+        "episode": 256,
+        "name": "Matta nashi no hakyoku!! Chikyû jinrui zetsumetsu",
+        "rating": 7.5
+      },
+      {
+        "episode": 257,
+        "name": "Tokkun seikô!! Kore de owari da Majin Bû",
+        "rating": 7.1
+      },
+      {
+        "episode": 258,
+        "name": "Honki de ikuze!! Sûpâ Gotenkusu zenkai",
+        "rating": 7
+      },
+      {
+        "episode": 259,
+        "name": "Yatta ze!! Obake de seikô Bû taiji!?",
+        "rating": 7.1
+      },
+      {
+        "episode": 260,
+        "name": "Ijigen kara no dasshutsu!! Sûpâ Gotenkusu 3",
+        "rating": 7.2
+      },
+      {
+        "episode": 261,
+        "name": "Norisugi!? Bû Bû Barêbôru",
+        "rating": 7
+      },
+      {
+        "episode": 262,
+        "name": "Masani gurêto!! Shinsei Gohan chikyû e",
+        "rating": 7.2
+      },
+      {
+        "episode": 263,
+        "name": "Bû o attô!! Gohan no mirakuru pawâ",
+        "rating": 7.4
+      },
+      {
+        "episode": 264,
+        "name": "Yatta ka!? Majin Bû dai bakuhatsu",
+        "rating": 7.3
+      },
+      {
+        "episode": 265,
+        "name": "Bû saiaku no hansoku!! Gotenkusu kyûshû!?",
+        "rating": 7.2
+      },
+      {
+        "episode": 266,
+        "name": "Zen uchû no tame ni... Yomigaere Son Gokû",
+        "rating": 7.6
+      },
+      {
+        "episode": 267,
+        "name": "Kiseki wa ishido... Naru ka Gohan to no chô gattai",
+        "rating": 7.5
+      },
+      {
+        "episode": 268,
+        "name": "Gattai!! Bejîta no hokori to Gokû no ikari",
+        "rating": 7.2
+      },
+      {
+        "episode": 269,
+        "name": "Sôzetsu pawâ!! Kyûkoku o koeru Bejitto",
+        "rating": 7.2
+      },
+      {
+        "episode": 270,
+        "name": "Jigen ni keretsu!! Bû ga kirechatta!?",
+        "rating": 7.2
+      },
+      {
+        "episode": 271,
+        "name": "Bû no oku no te!! Amedama ni natchae",
+        "rating": 6.9
+      },
+      {
+        "episode": 272,
+        "name": "Hîrô sôshitsu!? Kyûshû sareta Bejitto",
+        "rating": 6.8
+      },
+      {
+        "episode": 273,
+        "name": "Ma no meikyû!! Bû no onaka ni nani ga aru!?",
+        "rating": 6.8
+      },
+      {
+        "episode": 274,
+        "name": "Akumu ka maboroshi ka!? Gokû to Gohan no oyako taiketsu",
+        "rating": 6.7
+      },
+      {
+        "episode": 275,
+        "name": "Majin no himitsu!! Bû no naka ni 2-ri no Bû",
+        "rating": 7
+      },
+      {
+        "episode": 276,
+        "name": "Deguchi wa doko da!? Kusureru Bû kara dasshutsu",
+        "rating": 7.2
+      },
+      {
+        "episode": 277,
+        "name": "Chikyû shômetsu!! Bû jâku e no gyaku henshin",
+        "rating": 7.8
+      },
+      {
+        "episode": 278,
+        "name": "Bû raishû!! Kaiôshin-kai de ketchaku da",
+        "rating": 7.4
+      },
+      {
+        "episode": 279,
+        "name": "Mirai o tsukame!! Uchû o kaketa daikessen",
+        "rating": 7.6
+      },
+      {
+        "episode": 280,
+        "name": "Bejîta datsubô!! Gokû omae ga No. 1 da",
+        "rating": 8.2
+      },
+      {
+        "episode": 281,
+        "name": "Taenuke Bejîta!! Inochigake no 1-punkan",
+        "rating": 7.9
+      },
+      {
+        "episode": 282,
+        "name": "Satan o ijimeru na!! Ganzo Bû fukkatsu",
+        "rating": 7.7
+      },
+      {
+        "episode": 283,
+        "name": "Bejîta no hisaku!! Porunga to 2-tsu no negai",
+        "rating": 7.8
+      },
+      {
+        "episode": 284,
+        "name": "Saigo no kibô!! Tsukuru ze dekkai Genki-Dama",
+        "rating": 7.8
+      },
+      {
+        "episode": 285,
+        "name": "Chô kangeki!! Dekita ze min'na no Genki-Dama",
+        "rating": 8
+      },
+      {
+        "episode": 286,
+        "name": "Yappari saikyô Son Gokû!! Majin Bû shômetsu",
+        "rating": 8.3
+      },
+      {
+        "episode": 287,
+        "name": "Modotta heiwa!! Seigi no mikata Majin Bû!?",
+        "rating": 7.6
+      },
+      {
+        "episode": 288,
+        "name": "Ozoi ze Gokû! Min'na de pâti!!",
+        "rating": 7.1
+      },
+      {
+        "episode": 289,
+        "name": "Gokû ojî-chan! Watashi ga Pan yo!!",
+        "rating": 7.1
+      },
+      {
+        "episode": 290,
+        "name": "Oura wa Ûbu! Ima 10-sai de moto Majin!?",
+        "rating": 6.9
+      },
+      {
+        "episode": 291,
+        "name": "Motto tsuyoku!! Gokû no yume wa chô dekkê",
+        "rating": 6.9
+      }
+    ]
+  ]
+}

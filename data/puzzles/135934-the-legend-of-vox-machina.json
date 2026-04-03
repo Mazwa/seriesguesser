@@ -1,0 +1,221 @@
+{
+  "id": "135934-the-legend-of-vox-machina",
+  "rank": 213,
+  "answer": "The Legend of Vox Machina",
+  "sourceUrl": "https://seriesgraph.com/show/135934-the-legend-of-vox-machina",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/135934",
+    "seasonRatings": "https://seriesgraph.com/api/shows/135934/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Thordak",
+    "season": 3,
+    "episode": 9,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Terror of Tal'Dorei - Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Terror of Tal'Dorei - Part 2",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Feast of Realms",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Shadows at the Gates",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Fate's Journey",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Spark of Rebellion",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Scanbo",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "A Silver Tongue",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "The Tide of Bone",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Depths of Deceit",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Whispers at the Ziggurat",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "The Darkness Within",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rise of the Chroma Conclave",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "The Trials of Vasselheim",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Sunken Tomb",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Those Who Walk Away",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Pass Through Fire",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Into Rimecleft",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Fey Realm",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Echo Tree",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "A Test of Pride",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "The Killbox",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Belly of the Beast",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Hope Devourer",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Deadly Bargain",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Prisoners of Ank'Harel",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Vexations",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Hell to Pay",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Frigid Doom",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Coming Storm",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Cloak and Dagger",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "The Siege of Emon",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Thordak",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "To the Ends of the World",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Deadly Echoes",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Souls in Darkness",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #4.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

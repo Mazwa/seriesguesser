@@ -1,0 +1,87 @@
+{
+  "id": "126308-sh-gun",
+  "rank": 122,
+  "answer": "Shōgun",
+  "sourceUrl": "https://seriesgraph.com/show/126308-shōgun",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/126308",
+    "seasonRatings": "https://seriesgraph.com/api/shows/126308/season-ratings"
+  },
+  "years": {
+    "first": 2024,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Crimson Sky",
+    "season": 1,
+    "episode": 9,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Anjin",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Servants of Two Masters",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Tomorrow Is Tomorrow",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "The Eightfold Fence",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Broken to the Fist",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Ladies of the Willow World",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "A Stick of Time",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Abyss of Life",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Crimson Sky",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "A Dream of a Dream",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      }
+    ]
+  ]
+}

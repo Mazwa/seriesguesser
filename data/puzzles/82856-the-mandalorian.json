@@ -1,0 +1,155 @@
+{
+  "id": "82856-the-mandalorian",
+  "rank": 56,
+  "answer": "The Mandalorian",
+  "sourceUrl": "https://seriesgraph.com/show/82856-the-mandalorian",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/82856",
+    "seasonRatings": "https://seriesgraph.com/api/shows/82856/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "Chapter 16: The Rescue",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 1: The Mandalorian",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 2: The Child",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 3: The Sin",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 4: Sanctuary",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 5: The Gunslinger",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 6: The Prisoner",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 7: The Reckoning",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 8: Redemption",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 9: The Marshal",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 10: The Passenger",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 11: The Heiress",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 12: The Siege",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 13: The Jedi",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 14: The Tragedy",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 15: The Believer",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 16: The Rescue",
+        "rating": 9.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Chapter 17: The Apostate",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Chapter 18: The Mines of Mandalore",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Chapter 19: The Convert",
+        "rating": 7
+      },
+      {
+        "episode": 4,
+        "name": "Chapter 20: The Foundling",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Chapter 21: The Pirate",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Chapter 22: Guns for Hire",
+        "rating": 6.4
+      },
+      {
+        "episode": 7,
+        "name": "Chapter 23: The Spies",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Chapter 24: The Return",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #4.1"
+      }
+    ]
+  ]
+}

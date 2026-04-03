@@ -1,0 +1,155 @@
+{
+  "id": "30991-cowboy-bebop",
+  "rank": 69,
+  "answer": "Cowboy Bebop",
+  "sourceUrl": "https://seriesgraph.com/show/30991-cowboy-bebop",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/30991",
+    "seasonRatings": "https://seriesgraph.com/api/shows/30991/season-ratings"
+  },
+  "years": {
+    "first": 1998,
+    "last": 1999
+  },
+  "highestRatedEpisode": {
+    "name": "The Real Folk Blues: Part 2",
+    "season": 1,
+    "episode": 26,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Asteroid Blues",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Stray Dog Strut",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Honky Tonk Women",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Gateway Shuffle",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Ballad of Fallen Angels",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Sympathy for the Devil",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Heavy Metal Queen",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Waltz for Venus",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Jamming with Edward",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Ganymede Elegy",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Toys in the Attic",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Jupiter Jazz: Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Jupiter Jazz: Part 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Bohemian Rhapsody",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "My Funny Valentine",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Black Dog Serenade",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Mushroom Samba",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Speak Like a Child",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "Wild Horses",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "Pierrot le Fou",
+        "rating": 9
+      },
+      {
+        "episode": 21,
+        "name": "Boogie Woogie Feng Shui",
+        "rating": 7.1
+      },
+      {
+        "episode": 22,
+        "name": "Cowboy Funk",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Brain Scratch",
+        "rating": 8.4
+      },
+      {
+        "episode": 24,
+        "name": "Hard Luck Woman",
+        "rating": 9
+      },
+      {
+        "episode": 25,
+        "name": "The Real Folk Blues: Part 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 26,
+        "name": "The Real Folk Blues: Part 2",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

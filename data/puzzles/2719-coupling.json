@@ -1,0 +1,171 @@
+{
+  "id": "2719-coupling",
+  "rank": 236,
+  "answer": "Coupling",
+  "sourceUrl": "https://seriesgraph.com/show/2719-coupling",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2719",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2719/season-ratings"
+  },
+  "years": {
+    "first": 2000,
+    "last": 2004
+  },
+  "highestRatedEpisode": {
+    "name": "Naked",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Flushed",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Size Matters",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Sex, Death & Nudity",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Inferno",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "The Girl with Two Breasts",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "The Cupboard of Patrick's Love",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Man with Two Legs",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "My Dinner in Hell",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Her Best Friend's Bottom",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Melty Man Cometh",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Jane and the Truth Snake",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Gotcha",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Dressed",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Naked",
+        "rating": 9.2
+      },
+      {
+        "episode": 9,
+        "name": "The End of the Line",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Split",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Faithless",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Unconditional Sex",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Remember This",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "The Freckle, the Key and the Couple Who Weren't",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "The Girl with One Heart",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Perhaps, Perhaps, Perhaps",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "9½ Minutes",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Nightlines",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Bed Time",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Circus of the Epidurals",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Naked Living Room",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "9½ Months",
+        "rating": 7.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "713-chappelle-s-show",
+  "rank": 186,
+  "answer": "Chappelle's Show",
+  "sourceUrl": "https://seriesgraph.com/show/713-chappelle's-show",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/713",
+    "seasonRatings": "https://seriesgraph.com/api/shows/713/season-ratings"
+  },
+  "years": {
+    "first": 2003,
+    "last": 2006
+  },
+  "highestRatedEpisode": {
+    "name": "The Love Contract & True Hollywood Stories: Rick James",
+    "season": 2,
+    "episode": 4,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Popcopy & Clayton Bigsby",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Tyrone Biggums At School & Wrap It Up Box",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Zapped & It's A Wonderful Chest",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Reparations & NY Boobs",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Great Moments In Hookup History & Ask A Black Dude",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Mad Real World & Ask A Gay Dude",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Real Movies & Wu-Tang Financial",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Tyrone Biggums's Intervention & Racist Hollywood Animals",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Blackzilla & Playa Haters' Ball",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Piss On You & The World's Greatest Wars",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Make-A-Wish & Fisticuff",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "O'Dweeds & Trading Spouses",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "The Best of Chappelle's Show: Volume 1 Mixtape",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Best of Chappelle's Show: Volume 2 Mixtape",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Samuel Jackson Beer & Racial Draft",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Negrodamus & The Niggar Family",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "White People Can't Dance & The Three Daves",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "The Love Contract & True Hollywood Stories: Rick James",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "True Hollywood Stories: Prince & Red Balls Energy Drink",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Internet & Moment In The Life Of Lil Jon",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "World Series Of Dice & Mooney On Movies",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "I Know Black People & Keeping It Real Goes Wrong",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Oprah's Baby Daddy & Jury Duty",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Kneehigh Park & Making Da Band",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Mandela Boot Camp & The Time Haters",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Wayne Brady & Tyrone Biggums's Fear Factor",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Lil Jon On Lil Jon & Black Bush",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Best of Chappelle's Show: Season 2, Volume 1",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Music Jump-Off",
+        "rating": 7.1
+      },
+      {
+        "episode": 16,
+        "name": "The Best of Chappelle's Show: Season 2, Volume 2 (except Rick James)",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "$55 Million & Getting Revenge",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Black Howard Dean & Stereotype Pixies",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Show Business & Lil Jon In Love",
+        "rating": 7.3
+      }
+    ]
+  ]
+}

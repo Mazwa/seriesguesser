@@ -1,0 +1,533 @@
+{
+  "id": "60708-gotham",
+  "rank": 234,
+  "answer": "Gotham",
+  "sourceUrl": "https://seriesgraph.com/show/60708-gotham",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/60708",
+    "seasonRatings": "https://seriesgraph.com/api/shows/60708/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "A Dark Knight: No Man's Land",
+    "season": 4,
+    "episode": 22,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Selina Kyle",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Balloonman",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Arkham",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Viper",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Spirit of the Goat",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Penguin's Umbrella",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "The Mask",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Harvey Dent",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "Lovecraft",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Rogues' Gallery",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "What the Little Bird Told Him",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Welcome Back, Jim Gordon",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Fearsome Dr. Crane",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Scarecrow",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Blind Fortune Teller",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Red Hood",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Everyone Has a Cobblepot",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Beasts of Prey",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Under the Knife",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "The Anvil or the Hammer",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "All Happy Families Are Alike",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rise of the Villains: Damned If You Do...",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Rise of the Villains: Knock, Knock",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Rise of the Villains: The Last Laugh",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Rise of the Villains: Strike Force",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Rise of the Villains: Scarification",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Rise of the Villains: By Fire",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Rise of the Villains: Mommy's Little Monster",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Rise of the Villains: Tonight's the Night",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Rise of the Villains: A Bitter Pill to Swallow",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Rise of the Villains: The Son of Gotham",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Rise of the Villains: Worse Than a Crime",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Wrath of the Villains: Mr. Freeze",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Wrath of the Villains: A Dead Man Feels No Cold",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Wrath of the Villains: This Ball of Mud and Meanness",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Wrath of the Villains: Mad Grey Dawn",
+        "rating": 8.4
+      },
+      {
+        "episode": 16,
+        "name": "Wrath of the Villains: Prisoners",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Wrath of the Villains: Into the Woods",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Wrath of the Villains: Pinewood",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Wrath of the Villains: Azrael",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "Wrath of the Villains: Unleashed",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Wrath of the Villains: A Legion of Horribles",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Wrath of the Villains: Transference",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Mad City: Better to Reign in Hell",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Mad City: Burn the Witch",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Mad City: Look Into My Eyes",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Mad City: New Day Rising",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Mad City: Anything for You",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Mad City: Follow the White Rabbit",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Mad City: Red Queen",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Mad City: Blood Rush",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Mad City: The Executioner",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Mad City: Time Bomb",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Mad City: Beware the Green-Eyed Monster",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Mad City: Ghosts",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Mad City: Smile Like You Mean It",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Mad City: The Gentle Art of Making Enemies",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "Heroes Rise: How the Riddler Got His Name",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Heroes Rise: These Delicate and Dark Obsessions",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Heroes Rise: The Primal Riddle",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Heroes Rise: Light the Wick",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Heroes Rise: All Will Be Judged",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Heroes Rise: Pretty Hate Machine",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Heroes Rise: Destiny Calling",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Heroes Rise: Heavydirtysoul",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Dark Knight: Pax Penguina",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "A Dark Knight: The Fear Reaper",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "A Dark Knight: They Who Hide Behind Masks",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "A Dark Knight: The Demon's Head",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "A Dark Knight: The Blade's Path",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "A Dark Knight: Hog Day Afternoon",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "A Dark Knight: A Day in the Narrows",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "A Dark Knight: Stop Hitting Yourself",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "A Dark Knight: Let Them Eat Pie",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "A Dark Knight: Things That Go Boom",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "A Dark Knight: Queen Takes Knight",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "A Dark Knight: Pieces of a Broken Mirror",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "A Dark Knight: A Beautiful Darkness",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "A Dark Knight: Reunion",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "A Dark Knight: The Sinking Ship the Grand Applause",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "A Dark Knight: One of My Three Soups",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "A Dark Knight: Mandatory Brunch Meeting",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "A Dark Knight: That's Entertainment",
+        "rating": 8.7
+      },
+      {
+        "episode": 19,
+        "name": "A Dark Knight: To Our Deaths and Beyond",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "A Dark Knight: That Old Corpse",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "A Dark Knight: One Bad Day",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "A Dark Knight: No Man's Land",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Legend of the Dark Knight: Year Zero",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Legend of the Dark Knight: Trespassers",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Legend of the Dark Knight: Penguin, Our Hero",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Legend of the Dark Knight: Ruin",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Legend of the Dark Knight: Pena Dura",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Legend of the Dark Knight: 13 Stitches",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Legend of the Dark Knight: Ace Chemicals",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Legend of the Dark Knight: Nothing's Shocking",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Legend of the Dark Knight: The Trial of Jim Gordon",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Legend of the Dark Knight: I Am Bane",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Legend of the Dark Knight: They Did What?",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Legend of the Dark Knight: The Beginning...",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "15621-the-newsroom",
+  "rank": 113,
+  "answer": "The Newsroom",
+  "sourceUrl": "https://seriesgraph.com/show/15621-the-newsroom",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/15621",
+    "seasonRatings": "https://seriesgraph.com/api/shows/15621/season-ratings"
+  },
+  "years": {
+    "first": 2012,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "Oh Shenandoah",
+    "season": 3,
+    "episode": 5,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "We Just Decided To",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "News Night 2.0",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The 112th Congress",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "I'll Try to Fix You",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Amen",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Bullies",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "5/1",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Blackout, Part 1: Tragedy Porn",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Blackout, Part 2: Mock Debate",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Greater Fool",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "First Thing We Do, Let's Kill All the Lawyers",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Genoa Tip",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Willie Pete",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Unintended Consequences",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "News Night with Will McAvoy",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "One Step Too Many",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Red Team III",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Election Night: Part I",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Election Night: Part II",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Boston",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Run",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Main Justice",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Contempt",
+        "rating": 9
+      },
+      {
+        "episode": 5,
+        "name": "Oh Shenandoah",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "What Kind of Day Has It Been",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

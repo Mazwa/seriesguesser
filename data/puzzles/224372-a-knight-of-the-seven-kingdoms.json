@@ -1,0 +1,81 @@
+{
+  "id": "224372-a-knight-of-the-seven-kingdoms",
+  "rank": 101,
+  "answer": "A Knight of the Seven Kingdoms",
+  "sourceUrl": "https://seriesgraph.com/show/224372-a-knight-of-the-seven-kingdoms",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/224372",
+    "seasonRatings": "https://seriesgraph.com/api/shows/224372/season-ratings"
+  },
+  "years": {
+    "first": 2026,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "In the Name of the Mother",
+    "season": 1,
+    "episode": 5,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Hedge Knight",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Hard Salt Beef",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "The Squire",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Seven",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "In the Name of the Mother",
+        "rating": 9.5
+      },
+      {
+        "episode": 6,
+        "name": "The Morrow",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #2.6"
+      }
+    ]
+  ]
+}

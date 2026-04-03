@@ -1,0 +1,224 @@
+{
+  "id": "61889-marvel-s-daredevil",
+  "rank": 22,
+  "answer": "Daredevil",
+  "sourceUrl": "https://seriesgraph.com/show/61889-marvel's-daredevil",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61889",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61889/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "A New Napkin",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Into the Ring",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Cut Man",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Rabbit in a Snowstorm",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "In the Blood",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "World on Fire",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Condemned",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Stick",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Shadows in the Glass",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Speak of the Devil",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Nelson v. Murdock",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Path of the Righteous",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Ones We Leave Behind",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Daredevil",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bang",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Dogs to a Gunfight",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "New York's Finest",
+        "rating": 9.4
+      },
+      {
+        "episode": 4,
+        "name": "Penny and Dime",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "Kinbaku",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Regrets Only",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Semper Fidelis",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Guilty as Sin",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Seven Minutes in Heaven",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "The Man in the Box",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": ".380",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Dark at the End of the Tunnel",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "A Cold Day in Hell's Kitchen",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Resurrection",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Please",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "No Good Deed",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Blindsided",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "The Perfect Game",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Devil You Know",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "Aftermath",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Upstairs/Downstairs",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Revelations",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Karen",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Reunion",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "One Last Shot",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "A New Napkin",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

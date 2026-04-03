@@ -1,0 +1,348 @@
+{
+  "id": "1274-six-feet-under",
+  "rank": 54,
+  "answer": "Six Feet Under",
+  "sourceUrl": "https://seriesgraph.com/show/1274-six-feet-under",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1274",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1274/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2005
+  },
+  "highestRatedEpisode": {
+    "name": "Everyone's Waiting",
+    "season": 5,
+    "episode": 12,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Will",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Foot",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Familia",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "An Open Book",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "The Room",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Brotherhood",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Crossroads",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Life's Too Short",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The New Person",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Trip",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "A Private Life",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "Knock, Knock",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "In the Game",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Out, Out, Brief Candle",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Plan",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Driving Mr. Mossback",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "The Invisible Woman",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "In Place of Anger",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Back to the Garden",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "It's the Most Wonderful Time of the Year",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Someone Else's Eyes",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Secret",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "The Liar and the Whore",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "I'll Take You",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "The Last Time",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Perfect Circles",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "You Never Know",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Eye Inside",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Nobody Sleeps",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "The Trap",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Making Love Work",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Timing & Space",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Tears, Bones and Desire",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "The Opening",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Everyone Leaves",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Death Works Overtime",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Twilight",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "I'm Sorry, I'm Lost",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Falling into Place",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "In Case of Rapture",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Parallel Play",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Can I Come Up Now?",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "That's My Dog",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Terror Starts at Home",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Dare",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Coming and Going",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Grinding the Corn",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "The Black Forest",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Bomb Shelter",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Untitled",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Coat of White Primer",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Dancing for Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Hold My Hand",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Time Flies",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Eat a Peach",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Rainbow of Her Reasons",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "The Silence",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Singing for Our Lives",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Ecotone",
+        "rating": 9.5
+      },
+      {
+        "episode": 10,
+        "name": "All Alone",
+        "rating": 9.7
+      },
+      {
+        "episode": 11,
+        "name": "Static",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Everyone's Waiting",
+        "rating": 9.9
+      }
+    ]
+  ]
+}

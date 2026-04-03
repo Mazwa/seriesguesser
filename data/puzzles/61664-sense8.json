@@ -1,0 +1,147 @@
+{
+  "id": "61664-sense8",
+  "rank": 171,
+  "answer": "Sense8",
+  "sourceUrl": "https://seriesgraph.com/show/61664-sense8",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/61664",
+    "seasonRatings": "https://seriesgraph.com/api/shows/61664/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "You Want a War?",
+    "season": 2,
+    "episode": 11,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Limbic Resonance",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "I Am Also A We",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Smart Money's on the Skinny Bitch",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "What's Going On?",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Art Is Like Religion",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Demons",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "WWN Double-D?",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "We Will All Be Judged by the Courage of Our Hearts",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Death Doesn't Let You Say Goodbye",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "What Is Human?",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Just Turn the Wheel and the Future Changes",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "I Can't Leave Her",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Happy F*cking New Year.",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Who Am I?",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Obligate Mutualisms",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Polyphony",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Fear Never Fixed Anything",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Isolated Above, Connected Below",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "I Have No Room in My Heart for Hate",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "All I Want Right Now Is One More Bullet",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "What Family Actually Means",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "If All the World's a Stage, Identity Is Nothing But a Costume",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "You Want a War?",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "Amor Vincit Omnia",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

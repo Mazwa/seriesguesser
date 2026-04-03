@@ -1,0 +1,493 @@
+{
+  "id": "46896-the-originals",
+  "rank": 100,
+  "answer": "The Originals",
+  "sourceUrl": "https://seriesgraph.com/show/46896-the-originals",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/46896",
+    "seasonRatings": "https://seriesgraph.com/api/shows/46896/season-ratings"
+  },
+  "years": {
+    "first": 2013,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "From a Cradle to a Grave",
+    "season": 1,
+    "episode": 22,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Always and Forever",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "House of the Rising Son",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Tangled Up in Blue",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Girl in New Orleans",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Sinners and Saints",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Fruit of the Poisoned Tree",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Bloodletting",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The River in Reverse",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Reigning Pain in New Orleans",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "The Casket Girls",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Après Moi, Le Déluge",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Dance Back from the Grave",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Crescent City",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Long Way Back from Hell",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Le Grand Guignol",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Farewell to Storyville",
+        "rating": 9
+      },
+      {
+        "episode": 17,
+        "name": "Moon Over Bourbon Street",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "The Big Uneasy",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "An Unblinking Death",
+        "rating": 8.4
+      },
+      {
+        "episode": 20,
+        "name": "A Closer Walk with Thee",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "The Battle of New Orleans",
+        "rating": 9.3
+      },
+      {
+        "episode": 22,
+        "name": "From a Cradle to a Grave",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rebirth",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Alive and Kicking",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Every Mother's Son",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Live and Let Die",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Red Door",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Wheel Inside the Wheel",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Chasing the Devil's Tail",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Brothers That Care Forgot",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Map of Moments",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Gonna Set Your Flag on Fire",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Brotherhood of the Damned",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Sanctuary",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "The Devil Is Damned",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "I Love You, Goodbye",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "They All Asked for You",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Save My Soul",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Exquisite Corpse",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Night Has a Thousand Eyes",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "When the Levee Breaks",
+        "rating": 8.8
+      },
+      {
+        "episode": 20,
+        "name": "City Beneath the Sea",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Fire with Fire",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "Ashes to Ashes",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "For the Next Millennium",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "You Hung the Moon",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "I'll See You in Hell or New Orleans",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "A Walk on the Wild Side",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "The Axeman's Letter",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Beautiful Mistake",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Out of the Easy",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Other Girl in New Orleans",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Savior",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "A Ghost Along the Mississippi",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Wild at Heart",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Dead Angels",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Heart Shaped Box",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "A Streetcar Named Desire",
+        "rating": 9.1
+      },
+      {
+        "episode": 15,
+        "name": "An Old Friend Calls",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Alone with Everybody",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Behind the Black Horizon",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "The Devil Comes Here and Sighs",
+        "rating": 8.8
+      },
+      {
+        "episode": 19,
+        "name": "No More Heartbreaks",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "Where Nothing Stays Buried",
+        "rating": 9
+      },
+      {
+        "episode": 21,
+        "name": "Give 'Em Hell Kid",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "The Bloody Crown",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Gather Up the Killers",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "No Quarter",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Haunter of Ruins",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Keepers of the House",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "I Hear You Knocking",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Bag of Cobras",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "High Water and a Devil's Daughter",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Voodoo in My Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Queen Death",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Phantomesque",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "A Spirit Here That Won't Be Broken",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Voodoo Child",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Feast of All Sinners",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Where You Left Your Heart",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "One Wrong Turn on Bourbon",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Ne Me Quitte Pas",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Between the Devil and the Deep Blue Sea",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Don't It Just Break Your Heart",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "What, Will, I, Have, Left",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "God's Gonna Trouble the Water",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "The Kindness of Strangers",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "We Have Not Long to Love",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "There in the Disappearing Light",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "'Til the Day I Die",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Tale of Two Wolves",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "When the Saints Go Marching In",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

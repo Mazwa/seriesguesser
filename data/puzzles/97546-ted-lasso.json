@@ -1,0 +1,241 @@
+{
+  "id": "97546-ted-lasso",
+  "rank": 32,
+  "answer": "Ted Lasso",
+  "sourceUrl": "https://seriesgraph.com/show/97546-ted-lasso",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/97546",
+    "seasonRatings": "https://seriesgraph.com/api/shows/97546/season-ratings"
+  },
+  "years": {
+    "first": 2020,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "So Long, Farewell",
+    "season": 3,
+    "episode": 12,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Biscuits",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Trent Crimm: The Independent",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "For the Children",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Tan Lines",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Two Aces",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Make Rebecca Great Again",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "The Diamond Dogs",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "All Apologies",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Hope That Kills You",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Goodbye Earl",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Lavender",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Do the Right-est Thing",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Carol of the Bells",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Rainbow",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "The Signal",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Headspace",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Man City",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Beard After Hours",
+        "rating": 6.9
+      },
+      {
+        "episode": 10,
+        "name": "No Weddings and a Funeral",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Midnight Train to Royston",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Inverting the Pyramid of Success",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Smells Like Mean Spirit",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "(I Don't Want to Go to) Chelsea",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "4-5-1",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Big Week",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Signs",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Sunflowers",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "The Strings That Bind Us",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "We'll Never Have Paris",
+        "rating": 6.7
+      },
+      {
+        "episode": 9,
+        "name": "La Locker Room Aux Folles",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "International Break",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Mom City",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "So Long, Farewell",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #4.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #4.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #4.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #4.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #4.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #4.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #4.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #4.8"
+      },
+      {
+        "episode": 9,
+        "name": "Episode #4.9"
+      },
+      {
+        "episode": 10,
+        "name": "Episode #4.10"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "id": "8592-parks-and-recreation",
+  "rank": 62,
+  "answer": "Parks and Recreation",
+  "sourceUrl": "https://seriesgraph.com/show/8592-parks-and-recreation",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/8592",
+    "seasonRatings": "https://seriesgraph.com/api/shows/8592/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "One Last Ride",
+    "season": 7,
+    "episode": 12,
+    "rating": 9.5,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 6.9
+      },
+      {
+        "episode": 2,
+        "name": "Canvassing",
+        "rating": 7
+      },
+      {
+        "episode": 3,
+        "name": "The Reporter",
+        "rating": 7.1
+      },
+      {
+        "episode": 4,
+        "name": "Boys' Club",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Banquet",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Rock Show",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Pawnee Zoo",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "The Stakeout",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Beauty Pageant",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Practice Date",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Sister City",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Kaboom",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Greg Pikitis",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Ron and Tammy",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "The Camel",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Hunting Trip",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Tom's Divorce",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Christmas Scandal",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "The Set Up",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Leslie's House",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Sweetums",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Galentine's Day",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Woman of the Year",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "The Possum",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Park Safety",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Summer Catalog",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "94 Meetings",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Telethon",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "The Master Plan",
+        "rating": 8.4
+      },
+      {
+        "episode": 24,
+        "name": "Freddy Spaghetti",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Go Big or Go Home",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Flu Season",
+        "rating": 8.9
+      },
+      {
+        "episode": 3,
+        "name": "Time Capsule",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Ron & Tammy 2",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Media Blitz",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Indianapolis",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Harvest Festival",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Camping",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Andy and April's Fancy Party",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Soulmates",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Jerry's Painting",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Eagleton",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "The Fight",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Road Trip",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "The Bubble",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Li'l Sebastian",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I'm Leslie Knope",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Ron and Tammys",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Born and Raised",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Pawnee Rangers",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Meet 'N' Greet",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "End of the World",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "The Treaty",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Smallest Park",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Trial of Leslie Knope",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Citizen Knope",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "The Comeback Kid",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Campaign Ad",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Bowling for Votes",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Operation Ann",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Dave Returns",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Sweet Sixteen",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Campaign Shake-Up",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Lucky",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Live Ammo",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Debate",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "Bus Tour",
+        "rating": 8.2
+      },
+      {
+        "episode": 22,
+        "name": "Win, Lose or Draw",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ms. Knope Goes to Washington",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Soda Tax",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "How a Bill Becomes a Law",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Sex Education",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Halloween Surprise",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Ben's Parents",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Leslie vs. April",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Pawnee Commons",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Ron and Diane",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Two Parties",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Women in Garbage",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Ann's Decision",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Emergency Response",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Leslie and Ben",
+        "rating": 9.2
+      },
+      {
+        "episode": 15,
+        "name": "Correspondents' Lunch",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Bailout",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Partridge",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Animal Control",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Article Two",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Jerry's Retirement",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Swing Vote",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Are You Better Off?",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "London: Part 1",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "London: Part 2",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "The Pawnee-Eagleton Tip Off Classic",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Doppelgängers",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Gin It Up!",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Filibuster",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Recall Vote",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Fluoride",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "The Cones of Dunshire",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Second Chunce",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "New Beginnings",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Farmers Market",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Ann and Chris",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "Anniversaries",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "The Wall",
+        "rating": 7.6
+      },
+      {
+        "episode": 16,
+        "name": "New Slogan",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "Galentine's Day",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Prom",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Flu Season 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "One in 8,000",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Moving Up: Part 1",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Moving Up: Part 2",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "2017",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Ron & Jammy",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "William Henry Harrison",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Leslie and Ron",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Gryzzlbox",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Save JJ's",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Donna and Joe",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Ms. Ludgate-Dwyer Goes to Washington",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Pie-Mary",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "The Johnny Karate Super Awesome Musical Explosion Show",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Two Funerals",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "One Last Ride",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "id": "1409-sons-of-anarchy",
+  "rank": 38,
+  "answer": "Sons of Anarchy",
+  "sourceUrl": "https://seriesgraph.com/show/1409-sons-of-anarchy",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1409",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1409/season-ratings"
+  },
+  "years": {
+    "first": 2008,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "NS",
+    "season": 3,
+    "episode": 13,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Seeds",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Fun Town",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Patch Over",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Giving Back",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "AK-51",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Old Bones",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "The Pull",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Hell Followed",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Better Half",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Capybara",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "The Sleep of Babies",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "The Revelator",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Albification",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Small Tears",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Fix",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Eureka",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Smite",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Falx Cerebri",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Gilead",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Potlatch",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Fa Guan",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Balm",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Service",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "The Culling",
+        "rating": 9.1
+      },
+      {
+        "episode": 13,
+        "name": "Na Triobloidi",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "So",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Oiled",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Caregiver",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Home",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Turning and Turning",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The Push",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Widening Gyre",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Lochan Mor",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Turas",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Fírinne",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Bainne",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "June Wedding",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "NS",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Out",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Booster",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Dorylus",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Una Venta",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Brick",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "With an X",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Fruit for the Crows",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Family Recipe",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Kiss",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Hands",
+        "rating": 9.3
+      },
+      {
+        "episode": 11,
+        "name": "Call of Duty",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "Burnt and Purged Away",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "To Be, Act 1",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "To Be, Act 2",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Sovereign",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Authority Vested",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Laying Pipe",
+        "rating": 9.5
+      },
+      {
+        "episode": 4,
+        "name": "Stolen Huffy",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Orca Shrugged",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Small World",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Toad's Wild Ride",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Ablation",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Andare Pescare",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Crucifixed",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "To Thine Own Self",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Darthy",
+        "rating": 8.9
+      },
+      {
+        "episode": 13,
+        "name": "J'ai Obtenu Cette",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Straw",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "One One Six",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Poenitentia",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Wolfsangel",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "The Mad King",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Salvage",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Sweet and Vaded",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Los Fantasmas",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "John 8:32",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Huang Wu",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Aon Rud Persanta",
+        "rating": 9.4
+      },
+      {
+        "episode": 12,
+        "name": "You Are My Sunshine",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "A Mother's Work",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Black Widower",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Toil and Till",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Playing with Monsters",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Poor Little Lambs",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Some Strange Eruption",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Smoke 'em If You Got 'em",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Greensleeves",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Separation of Crows",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "What a Piece of Work Is Man",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Faith and Despondency",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Suits of Woe",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "Red Rose",
+        "rating": 9.4
+      },
+      {
+        "episode": 13,
+        "name": "Papa's Goods",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

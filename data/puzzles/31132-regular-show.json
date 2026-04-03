@@ -1,0 +1,1259 @@
+{
+  "id": "31132-regular-show",
+  "rank": 104,
+  "answer": "Regular Show",
+  "sourceUrl": "https://seriesgraph.com/show/31132-regular-show",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/31132",
+    "seasonRatings": "https://seriesgraph.com/api/shows/31132/season-ratings"
+  },
+  "years": {
+    "first": 2010,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "A Regular Epic Final Battle",
+    "season": 8,
+    "episode": 27,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Power",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Just Set Up the Chairs",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Caffeinated Concert Tickets",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Death Punchies",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Free Cake",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Meat Your Maker",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Grilled Cheese Deluxe",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "The Unicorns Have Got to Go",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Prank Callers",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Don",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Rigby's Body",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Mordecai and the Rigbys",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ello Gov'nor",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "It's Time",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Appreciation Day",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Peeps",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Dizzy",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "My Mom",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "High Score",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Rage Against the TV",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Party Pete",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Brain Eraser",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Benson Be Gone",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "But I Have a Receipt",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "This Is My Jam",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Muscle Woman",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "Temp Check",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "Jinx",
+        "rating": 8.8
+      },
+      {
+        "episode": 17,
+        "name": "See You There",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Do Me a Solid",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Grave Sights",
+        "rating": 9.3
+      },
+      {
+        "episode": 20,
+        "name": "Really Real Wrestling",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Over the Top",
+        "rating": 9.2
+      },
+      {
+        "episode": 22,
+        "name": "The Night Owl",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "A Bunch of Baby Ducks",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "More Smarter",
+        "rating": 8.9
+      },
+      {
+        "episode": 25,
+        "name": "First Day",
+        "rating": 8.7
+      },
+      {
+        "episode": 26,
+        "name": "Go Viral",
+        "rating": 8.8
+      },
+      {
+        "episode": 27,
+        "name": "Skunked",
+        "rating": 8.6
+      },
+      {
+        "episode": 28,
+        "name": "Karaoke Video",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Stick Hockey",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Bet to Be Blonde",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Skips Strikes",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Terror Tales of the Park",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Camping Can Be Cool",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Slam Dunk",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Cool Bikes",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "House Rules",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Rap It Up",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Cruisin",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "Under the Hood",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Weekend at Benson's",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Fortune Cookie",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Think Positive",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Skips vs. Technology",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "Butt Dial",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Eggscellent",
+        "rating": 9.6
+      },
+      {
+        "episode": 18,
+        "name": "Gut Model",
+        "rating": 7
+      },
+      {
+        "episode": 19,
+        "name": "Video Game Wizards",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "Big Winner",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "The Best Burger in the World",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "Replaced",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Trash Boat",
+        "rating": 8.8
+      },
+      {
+        "episode": 24,
+        "name": "Fists of Justice",
+        "rating": 8.7
+      },
+      {
+        "episode": 25,
+        "name": "Yes Dude Yes",
+        "rating": 8.4
+      },
+      {
+        "episode": 26,
+        "name": "Busted Cart",
+        "rating": 8.5
+      },
+      {
+        "episode": 27,
+        "name": "Dead at Eight",
+        "rating": 8.2
+      },
+      {
+        "episode": 28,
+        "name": "Access Denied",
+        "rating": 8.5
+      },
+      {
+        "episode": 29,
+        "name": "Trucker Hall of Fame",
+        "rating": 8.1
+      },
+      {
+        "episode": 30,
+        "name": "Out of Commission",
+        "rating": 7.8
+      },
+      {
+        "episode": 31,
+        "name": "Fancy Restaurant",
+        "rating": 7.7
+      },
+      {
+        "episode": 32,
+        "name": "Diary",
+        "rating": 9
+      },
+      {
+        "episode": 33,
+        "name": "The Best VHS in the World",
+        "rating": 7.7
+      },
+      {
+        "episode": 34,
+        "name": "Prankless",
+        "rating": 8.1
+      },
+      {
+        "episode": 35,
+        "name": "Death Bear",
+        "rating": 8.9
+      },
+      {
+        "episode": 36,
+        "name": "Fuzzy Dice",
+        "rating": 8.9
+      },
+      {
+        "episode": 37,
+        "name": "Sugar Rush",
+        "rating": 8.3
+      },
+      {
+        "episode": 38,
+        "name": "Muscle Mentor",
+        "rating": 7.7
+      },
+      {
+        "episode": 39,
+        "name": "Bad Kiss",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exit 9B",
+        "rating": 9.7
+      },
+      {
+        "episode": 2,
+        "name": "Starter Pack",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Terror Tales of the Park II",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Pie Contest",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "150-Piece Kit",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Bald Spot",
+        "rating": 6.8
+      },
+      {
+        "episode": 7,
+        "name": "Guy's Night",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "One Pull Up",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Christmas Special",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "TGI Tuesday",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Firework Run",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Longest Weekend",
+        "rating": 6.7
+      },
+      {
+        "episode": 13,
+        "name": "Sandwich of Death",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Ace Balthazar Lives",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "Do or Diaper",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Quips",
+        "rating": 7.1
+      },
+      {
+        "episode": 17,
+        "name": "Caveman",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "That's My Television",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "A Bunch of Full Grown Geese",
+        "rating": 9.4
+      },
+      {
+        "episode": 20,
+        "name": "Fool Me Twice",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Limousine Lunchtime",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Picking Up Margaret",
+        "rating": 9
+      },
+      {
+        "episode": 23,
+        "name": "K.I.L.I.T. Radio",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Carter and Briggs",
+        "rating": 7.9
+      },
+      {
+        "episode": 25,
+        "name": "Skips' Stress",
+        "rating": 8.8
+      },
+      {
+        "episode": 26,
+        "name": "Cool Cubed",
+        "rating": 7.5
+      },
+      {
+        "episode": 27,
+        "name": "Trailer Trashed",
+        "rating": 7.8
+      },
+      {
+        "episode": 28,
+        "name": "Meteor Moves",
+        "rating": 9.1
+      },
+      {
+        "episode": 29,
+        "name": "Family BBQ",
+        "rating": 8.9
+      },
+      {
+        "episode": 30,
+        "name": "The Last Laserdisc Player",
+        "rating": 9
+      },
+      {
+        "episode": 31,
+        "name": "Country Club",
+        "rating": 7.7
+      },
+      {
+        "episode": 32,
+        "name": "Blind Trust",
+        "rating": 8.3
+      },
+      {
+        "episode": 33,
+        "name": "World's Best Boss",
+        "rating": 7.9
+      },
+      {
+        "episode": 34,
+        "name": "Last Meal",
+        "rating": 7.3
+      },
+      {
+        "episode": 35,
+        "name": "Sleep Fighter",
+        "rating": 7.9
+      },
+      {
+        "episode": 36,
+        "name": "Party Re-Pete",
+        "rating": 7.9
+      },
+      {
+        "episode": 37,
+        "name": "Steak Me Amadeus",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Laundry Woes",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Silver Dude",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Benson's Car",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Every Meat Burritos",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Wall Buddy",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "A Skips in Time",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Survival Skills",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Terror Tales of the Park III",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Tants",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Bank Shot",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Power Tower",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "The Thanksgiving Special",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "The Heart of a Stuntman",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "New Year's Kiss",
+        "rating": 9.1
+      },
+      {
+        "episode": 15,
+        "name": "Dodge This",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Portable Toilet",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "The Postcard",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Rigby in the Sky with Burrito",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Journey to the Bottom of the Crash Pit",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Saving Time",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Guitar of Rock",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "Skips' Story",
+        "rating": 9.7
+      },
+      {
+        "episode": 23,
+        "name": "Return of Mordecai and the Rigbys",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Bad Portrait",
+        "rating": 7.8
+      },
+      {
+        "episode": 25,
+        "name": "Video 101",
+        "rating": 7.9
+      },
+      {
+        "episode": 26,
+        "name": "I Like You Hi",
+        "rating": 8.7
+      },
+      {
+        "episode": 27,
+        "name": "Play Date",
+        "rating": 8.7
+      },
+      {
+        "episode": 28,
+        "name": "Expert or Liar",
+        "rating": 8.1
+      },
+      {
+        "episode": 29,
+        "name": "Catching the Wave",
+        "rating": 7.5
+      },
+      {
+        "episode": 30,
+        "name": "Gold Watch",
+        "rating": 8.6
+      },
+      {
+        "episode": 31,
+        "name": "Paint Job",
+        "rating": 7.7
+      },
+      {
+        "episode": 32,
+        "name": "Take the Cake",
+        "rating": 7.9
+      },
+      {
+        "episode": 33,
+        "name": "Skips in the Saddle",
+        "rating": 7.8
+      },
+      {
+        "episode": 34,
+        "name": "Thomas Fights Back",
+        "rating": 8.6
+      },
+      {
+        "episode": 35,
+        "name": "Bachelor Party! Zingo!",
+        "rating": 7.5
+      },
+      {
+        "episode": 36,
+        "name": "Tent Trouble",
+        "rating": 7.4
+      },
+      {
+        "episode": 37,
+        "name": "Real Date",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Maxin' and Relaxin'",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "New Bro on Campus",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Daddy Issues",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Terror Tales of the Park IV",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The End of Muscle Man",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Lift with Your Back",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Eileen Flat Screen",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Real Thomas",
+        "rating": 9.5
+      },
+      {
+        "episode": 9,
+        "name": "White Elephant Gift Exchange",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Merry Christmas Mordecai",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Sad Sax",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Park Managers' Lunch",
+        "rating": 8
+      },
+      {
+        "episode": 14,
+        "name": "Mordecai and Rigby Down Under",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Married and Broke",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "I See Turtles",
+        "rating": 9
+      },
+      {
+        "episode": 17,
+        "name": "Format Wars II",
+        "rating": 9.2
+      },
+      {
+        "episode": 18,
+        "name": "Happy Birthday Song Contest",
+        "rating": 8.6
+      },
+      {
+        "episode": 19,
+        "name": "Benson's Suit",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Gamers Never Say Die",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "1000th Chopper Flight Party",
+        "rating": 8
+      },
+      {
+        "episode": 23,
+        "name": "Party Horse",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "Men in Uniform",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Garage Door",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Brilliant Century Duck Crisis Special",
+        "rating": 9.5
+      },
+      {
+        "episode": 27,
+        "name": "Not Great Double Date",
+        "rating": 8.4
+      },
+      {
+        "episode": 28,
+        "name": "Death Kwon Do-Livery",
+        "rating": 8.5
+      },
+      {
+        "episode": 29,
+        "name": "Lunch Break",
+        "rating": 8
+      },
+      {
+        "episode": 30,
+        "name": "Dumped at the Altar",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Dumptown USA",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Parkie Awards",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Lunch Club",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Local News Legend",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "The Dome Experiment Special",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Birthday Gift",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Cat Videos",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Struck by Lightning",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Terror Tales of the Park V",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Return of Party Horse",
+        "rating": 7.2
+      },
+      {
+        "episode": 11,
+        "name": "Sleep Cycle",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Just Friends",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Benson's Pig",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Eileen Plan",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Hello China",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Crazy Fake Plan",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Win That Prize",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Snow Tubing",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Chilli Cook-Off",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Donut Factory Holiday",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Gymblonski",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "Guys Night 2",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "Gary's Synthesizer",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "California King",
+        "rating": 8.5
+      },
+      {
+        "episode": 25,
+        "name": "Cube Bros",
+        "rating": 8.1
+      },
+      {
+        "episode": 26,
+        "name": "Maellard's Package",
+        "rating": 7.9
+      },
+      {
+        "episode": 27,
+        "name": "Rigby Goes to the Prom",
+        "rating": 8.9
+      },
+      {
+        "episode": 28,
+        "name": "The Button",
+        "rating": 8.3
+      },
+      {
+        "episode": 29,
+        "name": "Favorite Shirt",
+        "rating": 7.9
+      },
+      {
+        "episode": 30,
+        "name": "Marvolo the Wizard",
+        "rating": 8.2
+      },
+      {
+        "episode": 31,
+        "name": "Pop's Favorite Planet",
+        "rating": 8.6
+      },
+      {
+        "episode": 32,
+        "name": "Pam I Am",
+        "rating": 8.3
+      },
+      {
+        "episode": 33,
+        "name": "Lame Lockdown",
+        "rating": 8.2
+      },
+      {
+        "episode": 34,
+        "name": "VIP Members Only",
+        "rating": 8.1
+      },
+      {
+        "episode": 35,
+        "name": "Deez Keys",
+        "rating": 8.2
+      },
+      {
+        "episode": 36,
+        "name": "Rigby's Graduation Day Special",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "One Space Day at a Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Cool Bro Bots",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Welcome to Space",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Space Creds",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Lost and Found",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Ugly Moons",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Dream Warrior",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "The Brain of Evil",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Fries Night",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Spacey McSpaceTree",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "Can You Ear Me Now?",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Stuck in an Elevator",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "The Space Race",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "Operation Hear No Evil",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Space Escape",
+        "rating": 9.3
+      },
+      {
+        "episode": 16,
+        "name": "New Beds",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Mordeby and Rigbecai",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Alpha Dome",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Terror Tales of the Park VI",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "The Ice Tape",
+        "rating": 8.7
+      },
+      {
+        "episode": 21,
+        "name": "The Key to the Universe",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "No Train No Gain",
+        "rating": 9.5
+      },
+      {
+        "episode": 23,
+        "name": "Christmas in Space",
+        "rating": 8.4
+      },
+      {
+        "episode": 24,
+        "name": "Kill 'Em with Kindness",
+        "rating": 9.2
+      },
+      {
+        "episode": 25,
+        "name": "Meet the Seer",
+        "rating": 9.6
+      },
+      {
+        "episode": 26,
+        "name": "Cheer Up Pops",
+        "rating": 9.6
+      },
+      {
+        "episode": 27,
+        "name": "A Regular Epic Final Battle",
+        "rating": 9.9
+      }
+    ]
+  ]
+}

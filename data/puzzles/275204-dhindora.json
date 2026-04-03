@@ -1,0 +1,71 @@
+{
+  "id": "275204-dhindora",
+  "rank": 119,
+  "answer": "Dhindora",
+  "sourceUrl": "https://seriesgraph.com/show/275204-dhindora",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/275204",
+    "seasonRatings": "https://seriesgraph.com/api/shows/275204/season-ratings"
+  },
+  "years": {
+    "first": 2021,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Lag Gayi",
+    "season": 1,
+    "episode": 1,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Lag Gayi",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Baasi Roti",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "Nano Thug Lenge",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "Saste Sherlock",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Erection in progress",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "DTYDHTB",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Toota Ek Taara",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Samay Ka Pahiya",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      }
+    ]
+  ]
+}

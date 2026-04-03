@@ -1,0 +1,287 @@
+{
+  "id": "1618-justice-league",
+  "rank": 240,
+  "answer": "Justice League",
+  "sourceUrl": "https://seriesgraph.com/show/1618-justice-league",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1618",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1618/season-ratings"
+  },
+  "years": {
+    "first": 2001,
+    "last": 2004
+  },
+  "highestRatedEpisode": {
+    "name": "Starcrossed: Part III",
+    "season": 2,
+    "episode": 26,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Secret Origins",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Secret Origins: Part II",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Secret Origins: Part III",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "In Blackest Night",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "In Blackest Night: Part II",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "The Enemy Below",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "The Enemy Below: Part II",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Paradise Lost",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Paradise Lost: Part II",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "War World",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "War World: Part II",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "The Brave and the Bold",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "The Brave and the Bold: Part II",
+        "rating": 7.5
+      },
+      {
+        "episode": 14,
+        "name": "Fury",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Fury: Part II",
+        "rating": 7.4
+      },
+      {
+        "episode": 16,
+        "name": "Legends",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Legends: Part II",
+        "rating": 8.7
+      },
+      {
+        "episode": 18,
+        "name": "Injustice for All",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "Injustice for All: Part II",
+        "rating": 8.6
+      },
+      {
+        "episode": 20,
+        "name": "A Knight of Shadows",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "A Knight of Shadows: Part II",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Metamorphosis",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Metamorphosis: Part II",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "The Savage Time",
+        "rating": 8.4
+      },
+      {
+        "episode": 25,
+        "name": "The Savage Time: Part II",
+        "rating": 8.3
+      },
+      {
+        "episode": 26,
+        "name": "The Savage Time: Part III",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Twilight",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Twilight: Part II",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Tabula Rasa",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Tabula Rasa: Part II",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Only a Dream",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Only a Dream: Part II",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Maid of Honor",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Maid of Honor: Part II",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Hearts and Minds",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "Hearts and Minds: Part II",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "A Better World",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "A Better World: Part II",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Eclipsed",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Eclipsed: Part II",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "The Terror Beyond",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Terror Beyond: Part II",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "Secret Society",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Secret Society: Part II",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Hereafter",
+        "rating": 8.8
+      },
+      {
+        "episode": 20,
+        "name": "Hereafter: Part II",
+        "rating": 9.1
+      },
+      {
+        "episode": 21,
+        "name": "Wild Cards",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Wild Cards: Part II",
+        "rating": 8.9
+      },
+      {
+        "episode": 23,
+        "name": "Comfort and Joy",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Starcrossed",
+        "rating": 8.8
+      },
+      {
+        "episode": 25,
+        "name": "Starcrossed: Part II",
+        "rating": 9
+      },
+      {
+        "episode": 26,
+        "name": "Starcrossed: Part III",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

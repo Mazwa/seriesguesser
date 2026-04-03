@@ -1,0 +1,1360 @@
+{
+  "id": "3452-frasier",
+  "rank": 220,
+  "answer": "Frasier",
+  "sourceUrl": "https://seriesgraph.com/show/3452-frasier",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/3452",
+    "seasonRatings": "https://seriesgraph.com/api/shows/3452/season-ratings"
+  },
+  "years": {
+    "first": 1993,
+    "last": 2004
+  },
+  "highestRatedEpisode": {
+    "name": "The Ski Lodge",
+    "season": 5,
+    "episode": 14,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Good Son",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Space Quest",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Dinner at Eight",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "I Hate Frasier Crane",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Here's Looking at You",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Crucible",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Call Me Irresponsible",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Beloved Infidel",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Selling Out",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Oops",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Death Becomes Him",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "Miracle on Third or Fourth Street",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "Guess Who's Coming to Breakfast",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Can't Buy Me Love",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "You Can't Tell a Crook by His Cover",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Show Where Lilith Comes Back",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "A Mid-Winter Night's Dream",
+        "rating": 8.6
+      },
+      {
+        "episode": 18,
+        "name": "And the Whimper Is...",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Give Him the Chair!",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Fortysomething",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Travels with Martin",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Author, Author",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Frasier Crane's Day Off",
+        "rating": 8.5
+      },
+      {
+        "episode": 24,
+        "name": "My Coffee with Niles",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Slow Tango in South Seattle",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "The Unkindest Cut of All",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Matchmaker",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Flour Child",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Duke's, We Hardly Knew Ye",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Botched Language of Cranes",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "The Candidate",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Adventures in Paradise: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Adventures in Paradise: Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Burying a Grudge",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Seat of Power",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Roz in the Doghouse",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Retirement Is Murder",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Fool Me Once, Shame on You, Fool Me Twice...",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "You Scratch My Book...",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "The Show Where Sam Shows Up",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Daphne's Room",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "The Club",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Someone to Watch Over Me",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Breaking the Ice",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "An Affair to Forget",
+        "rating": 8.8
+      },
+      {
+        "episode": 22,
+        "name": "Agents in America: Part 3",
+        "rating": 8.3
+      },
+      {
+        "episode": 23,
+        "name": "The Innkeepers",
+        "rating": 8.9
+      },
+      {
+        "episode": 24,
+        "name": "Dark Victory",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "She's the Boss",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Shrink Rap",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Martin Does It His Way",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Leapin' Lizards",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Kisses Sweeter Than Wine",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Sleeping with the Enemy",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Adventures of Bad Boy and Dirty Girl",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Last Time I Saw Maris",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Frasier Grinch",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "It's Hard to Say Goodbye If You Won't Leave",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Friend",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Come Lie with Me",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Moon Dance",
+        "rating": 9.1
+      },
+      {
+        "episode": 14,
+        "name": "The Show Where Diane Comes Back",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "A Word to the Wiseguy",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Look Before You Leap",
+        "rating": 8.2
+      },
+      {
+        "episode": 17,
+        "name": "High Crane Drifter",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Chess Pains",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Crane vs. Crane",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "Police Story",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Where There's Smoke, There's Fired",
+        "rating": 8
+      },
+      {
+        "episode": 22,
+        "name": "Frasier Loves Roz",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "The Focus Group",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "You Can Go Home Again",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Two Mrs. Cranes",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Love Bites Dog",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Impossible Dream",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "A Crane's Critique",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Head Game",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Mixed Doubles",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "A Lilith Thanksgiving",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Our Father Whose Art Ain't Heaven",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Dad Loves Sherry, the Boys Just Whine",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Liar! Liar!",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Three Days of the Condo",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Death and the Dog",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Four for the Seesaw",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "To Kill a Talking Bird",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Roz's Krantz & Gouldenstein Are Dead",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "The Unnatural",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "Roz's Turn",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Ham Radio",
+        "rating": 9.4
+      },
+      {
+        "episode": 19,
+        "name": "Three Dates and a Breakup",
+        "rating": 8.1
+      },
+      {
+        "episode": 20,
+        "name": "Daphne Hates Sherry",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Are You Being Served?",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Ask Me No Questions",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Odd Man Out",
+        "rating": 7.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Frasier's Imaginary Friend",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Gift Horse",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Halloween",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "The Kid",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The 1000th Show",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Voyage of the Damned",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "My Fair Frasier",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Desperately Seeking Closure",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Perspectives on Christmas",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Where Every Bloke Knows Your Name",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Ain't Nobody's Business If I Do",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "The Zoo Story",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "The Maris Counselor",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "The Ski Lodge",
+        "rating": 9.5
+      },
+      {
+        "episode": 15,
+        "name": "Room Service",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "Beware of Greeks",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "The Perfect Guy",
+        "rating": 8
+      },
+      {
+        "episode": 18,
+        "name": "Bad Dog",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Frasier Gotta Have It",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "First Date",
+        "rating": 8.6
+      },
+      {
+        "episode": 21,
+        "name": "Roz and the Schnoz",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "The Life of the Party",
+        "rating": 8.2
+      },
+      {
+        "episode": 23,
+        "name": "Party, Party",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Sweet Dreams",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Good Grief",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Frasier's Curse",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Dial M for Martin",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Hot Ticket",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "First Do No Harm",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Secret Admirer",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "How to Bury a Millionaire",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "The Seal Who Came to Dinner",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Roz, a Loan",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Merry Christmas, Mrs. Moskowitz",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Good Samaritan",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Our Parents, Ourselves",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Show Where Woody Shows Up",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Three Valentines",
+        "rating": 8.9
+      },
+      {
+        "episode": 15,
+        "name": "To Tell the Truth",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Decoys",
+        "rating": 8.4
+      },
+      {
+        "episode": 17,
+        "name": "Dinner Party",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Taps at the Montana",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "IQ",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "Dr. Nora",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "When a Man Loves Two Women",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Visions of Daphne",
+        "rating": 8.3
+      },
+      {
+        "episode": 23,
+        "name": "Shutout in Seattle: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 24,
+        "name": "Shutout in Seattle: Part 2",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Momma Mia",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Father of the Bride",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Radio Wars",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Everyone's a Critic",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "The Dog That Rocks the Cradle",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Rivals",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "A Tsar Is Born",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Late Dr. Crane",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Apparent Trap",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Back Talk",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "The Fight Before Christmas",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "RDWRER",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "They're Playing Our Song",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Big Crane on Campus",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "Out with Dad",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "Something About Dr. Mary",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Whine Club",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "Hot Pursuit",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "Morning Becomes Entertainment",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "To Thine Old Self Be True",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "The Three Faces of Frasier",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Dark Side of the Moon",
+        "rating": 8.4
+      },
+      {
+        "episode": 23,
+        "name": "Something Borrowed, Someone Blue: Part 1",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "Something Borrowed, Someone Blue: Part 2",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "And the Dish Ran Away with the Spoon: Part 1",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "And the Dish Ran Away with the Spoon: Part 2",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Bad Son",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "The Great Crane Robbery",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Taking Liberties",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Legal Tender Love and Care",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "The New Friend",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Mary Christmas",
+        "rating": 7
+      },
+      {
+        "episode": 9,
+        "name": "Frasier's Edge",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Cranes Unplugged",
+        "rating": 7.2
+      },
+      {
+        "episode": 11,
+        "name": "Motor Skills",
+        "rating": 7.6
+      },
+      {
+        "episode": 12,
+        "name": "The Show Must Go Off",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Sliding Frasiers",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Hungry Heart",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "Hooping Cranes",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Docu.Drama",
+        "rating": 7.3
+      },
+      {
+        "episode": 17,
+        "name": "It Takes Two to Tangle",
+        "rating": 7.3
+      },
+      {
+        "episode": 18,
+        "name": "Forgotten But Not Gone",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Daphne Returns",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "The Wizard and Roz",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Semi-Decent Proposal",
+        "rating": 7.4
+      },
+      {
+        "episode": 22,
+        "name": "A Passing Fancy",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "A Day in May",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "Cranes Go Caribbean",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Don Juan in Hell: Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Don Juan in Hell: Part 2",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The First Temptation of Daphne",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Return of Martin Crane",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Love Stinks",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Room Full of Heroes",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Bla-Z-Boy",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Two Hundredth",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Sharing Kirby",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Junior Agent",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Bully for Martin",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Mother Load: Part 1",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Mother Load: Part 2",
+        "rating": 6.8
+      },
+      {
+        "episode": 14,
+        "name": "Juvenilia",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Proposal",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Wheels of Fortune",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Three Blind Dates",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "War of the Words",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Deathtrap",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Love You Fake",
+        "rating": 8
+      },
+      {
+        "episode": 21,
+        "name": "Cheerful Goodbyes",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Frasier Has Spokane",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "The Guilt Trippers",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Moons Over Seattle",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ring Cycle",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Enemy at the Gate",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Proxy Prexy",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Kissing Cousin",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "Tales from the Crypt",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Star Mitzvah",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Bristle While You Work",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Rooms with a View",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Don't Go Breaking My Heart",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "We Two Kings",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Door Jam",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Harassed",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "Lilith Needs a Favor",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Daphne Does Dinner",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Trophy Girlfriend",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Fraternal Schwinns",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Kenny on the Couch",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Roe to Perdition",
+        "rating": 8.2
+      },
+      {
+        "episode": 19,
+        "name": "Some Assembly Required",
+        "rating": 7
+      },
+      {
+        "episode": 20,
+        "name": "Farewell, Nervosa",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "The Devil & Dr. Phil",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "Fathers and Sons",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Analyzed Kiss",
+        "rating": 7.3
+      },
+      {
+        "episode": 24,
+        "name": "A New Position for Roz",
+        "rating": 7.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "No Sex Please, We're Skittish",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "A Man, a Plan and a Gal: Julia",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Doctor Is Out",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "The Babysitter",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "The Placeholder",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "I'm Listening",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Maris Returns",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Murder Most Maris",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Guns 'N Neuroses",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Sea Bee Jeebies",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "High Holidays",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Frasier-Lite",
+        "rating": 7.5
+      },
+      {
+        "episode": 13,
+        "name": "The Ann Who Came to Dinner",
+        "rating": 6.8
+      },
+      {
+        "episode": 14,
+        "name": "Freudian Sleep",
+        "rating": 6.9
+      },
+      {
+        "episode": 15,
+        "name": "Caught in the Act",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Boo!",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Coots and Ladders",
+        "rating": 7.2
+      },
+      {
+        "episode": 18,
+        "name": "Match Game",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "Miss Right Now",
+        "rating": 8
+      },
+      {
+        "episode": 20,
+        "name": "And Frasier Makes Three",
+        "rating": 8.1
+      },
+      {
+        "episode": 21,
+        "name": "Detour",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Crock Tales",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "Goodnight, Seattle: Part 1",
+        "rating": 8.6
+      },
+      {
+        "episode": 24,
+        "name": "Goodnight, Seattle: Part 2",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "id": "18347-community",
+  "rank": 65,
+  "answer": "Community",
+  "sourceUrl": "https://seriesgraph.com/show/18347-community",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/18347",
+    "seasonRatings": "https://seriesgraph.com/api/shows/18347/season-ratings"
+  },
+  "years": {
+    "first": 2009,
+    "last": 2015
+  },
+  "highestRatedEpisode": {
+    "name": "Modern Warfare",
+    "season": 1,
+    "episode": 23,
+    "rating": 9.8,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Spanish 101",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Introduction to Film",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Social Psychology",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Advanced Criminal Law",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Football, Feminism and You",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Introduction to Statistics",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Home Economics",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Debate 109",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Environmental Science",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Politics of Human Sexuality",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Comparative Religion",
+        "rating": 8.3
+      },
+      {
+        "episode": 13,
+        "name": "Investigative Journalism",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Interpretive Dance",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Romantic Expressionism",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Communication Studies",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Physical Education",
+        "rating": 8.9
+      },
+      {
+        "episode": 18,
+        "name": "Basic Genealogy",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Beginner Pottery",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "The Science of Illusion",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Contemporary American Poultry",
+        "rating": 9.3
+      },
+      {
+        "episode": 22,
+        "name": "The Art of Discourse",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Modern Warfare",
+        "rating": 9.8
+      },
+      {
+        "episode": 24,
+        "name": "English as a Second Language",
+        "rating": 8.1
+      },
+      {
+        "episode": 25,
+        "name": "Pascal's Triangle Revisited",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Anthropology 101",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Accounting for Lawyers",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Psychology of Letting Go",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Basic Rocket Science",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Messianic Myths and Ancient Peoples",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Epidemiology",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Aerodynamics of Gender",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Cooperative Calligraphy",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Conspiracy Theories and Interior Design",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Mixology Certification",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Abed's Uncontrollable Christmas",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Asian Population Studies",
+        "rating": 7.9
+      },
+      {
+        "episode": 13,
+        "name": "Celebrity Pharmacology 212",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "Advanced Dungeons & Dragons",
+        "rating": 9.5
+      },
+      {
+        "episode": 15,
+        "name": "Early 21st Century Romanticism",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Intermediate Documentary Filmmaking",
+        "rating": 8.7
+      },
+      {
+        "episode": 17,
+        "name": "Intro to Political Science",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Custody Law and Eastern European Diplomacy",
+        "rating": 7.3
+      },
+      {
+        "episode": 19,
+        "name": "Critical Film Studies",
+        "rating": 8.9
+      },
+      {
+        "episode": 20,
+        "name": "Competitive Wine Tasting",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "Paradigms of Human Memory",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Applied Anthropology and Culinary Arts",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "A Fistful of Paintballs",
+        "rating": 9.6
+      },
+      {
+        "episode": 24,
+        "name": "For a Few Paintballs More",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Biology 101",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Geography of Global Conflict",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Competitive Ecology",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Remedial Chaos Theory",
+        "rating": 9.8
+      },
+      {
+        "episode": 5,
+        "name": "Horror Fiction in Seven Spooky Steps",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Advanced Gay",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Studies in Modern Movement",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Documentary Filmmaking: Redux",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Foosball and Nocturnal Vigilantism",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Regional Holiday Music",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Urban Matrimony and the Sandwich Arts",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Contemporary Impressionists",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Digital Exploration of Interior Design",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Pillows and Blankets",
+        "rating": 9.3
+      },
+      {
+        "episode": 15,
+        "name": "Origins of Vampire Mythology",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Virtual Systems Analysis",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Basic Lupine Urology",
+        "rating": 9.4
+      },
+      {
+        "episode": 18,
+        "name": "Course Listing Unavailable",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Curriculum Unavailable",
+        "rating": 9.1
+      },
+      {
+        "episode": 20,
+        "name": "Digital Estate Planning",
+        "rating": 9.4
+      },
+      {
+        "episode": 21,
+        "name": "The First Chang Dynasty",
+        "rating": 9
+      },
+      {
+        "episode": 22,
+        "name": "Introduction to Finality",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "History 101",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Paranormal Parentage",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Conventions of Space and Time",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Alternative History of the German Invasion",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "Cooperative Escapism in Familial Relations",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Advanced Documentary Filmmaking",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "Economics of Marine Biology",
+        "rating": 6.6
+      },
+      {
+        "episode": 8,
+        "name": "Herstory of Dance",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Intro to Felt Surrogacy",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "Intro to Knots",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Basic Human Anatomy",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Heroic Origins",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Advanced Introduction to Finality",
+        "rating": 7.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Repilot",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Introduction to Teaching",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Basic Intergluteal Numismatics",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Cooperative Polygraphy",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Geothermal Escapism",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Analysis of Cork-Based Networking",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Bondage and Beta Male Sexuality",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "App Development and Condiments",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "VCR Maintenance and Educational Publishing",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Advanced Advanced Dungeons & Dragons",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "G.I. Jeff",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Basic Story",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Basic Sandwich",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ladders",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Lawnmower Maintenance & Postnatal Care",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Basic Crisis Room Decorum",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Queer Studies & Advanced Waxing",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Laws of Robotics & Party Rights",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Basic Email Security",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Advanced Safety Features",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Intro to Recycled Cinema",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Grifting 101",
+        "rating": 7.5
+      },
+      {
+        "episode": 10,
+        "name": "Basic RV Repair and Palmistry",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "Modern Espionage",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Wedding Videography",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Emotional Consequences of Broadcast Television",
+        "rating": 9.4
+      }
+    ]
+  ]
+}

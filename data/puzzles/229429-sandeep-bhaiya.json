@@ -1,0 +1,56 @@
+{
+  "id": "229429-sandeep-bhaiya",
+  "rank": 152,
+  "answer": "Sandeep Bhaiya",
+  "sourceUrl": "https://seriesgraph.com/show/229429-sandeep-bhaiya",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/229429",
+    "seasonRatings": "https://seriesgraph.com/api/shows/229429/season-ratings"
+  },
+  "years": {
+    "first": 2023,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "All In",
+    "season": 1,
+    "episode": 3,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Mulyankan",
+        "rating": 9.2
+      },
+      {
+        "episode": 2,
+        "name": "Decision Making",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "All In",
+        "rating": 9.5
+      },
+      {
+        "episode": 4,
+        "name": "Comfort Zone",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Believe",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "id": "1405-dexter",
+  "rank": 19,
+  "answer": "Dexter",
+  "sourceUrl": "https://seriesgraph.com/show/1405-dexter",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1405",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1405/season-ratings"
+  },
+  "years": {
+    "first": 2006,
+    "last": 2013
+  },
+  "highestRatedEpisode": {
+    "name": "The Getaway",
+    "season": 4,
+    "episode": 12,
+    "rating": 9.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Dexter",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Crocodile",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Popping Cherry",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Let's Give the Boy a Hand",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Love American Style",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Return to Sender",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Circle of Friends",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Shrink Wrap",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Father Knows Best",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Seeing Red",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "Truth Be Told",
+        "rating": 9.3
+      },
+      {
+        "episode": 12,
+        "name": "Born Free",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "It's Alive!",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Waiting to Exhale",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "An Inconvenient Lie",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "See-Through",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Dark Defender",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Dex, Lies, and Videotape",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "That Night, a Forest Grew",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Morning Comes",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Resistance Is Futile",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "There's Something About Harry",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Left Turn Ahead",
+        "rating": 9
+      },
+      {
+        "episode": 12,
+        "name": "The British Invasion",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Our Father",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Finding Freebo",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Lion Sleeps Tonight",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "All in the Family",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Turning Biminese",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Sí Se Puede",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Easy as Pie",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Damage a Man Can Do",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "About Last Night",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "Go Your Own Way",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "I Had a Dream",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Do You Take Dexter Morgan?",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Living the Dream",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Remains to Be Seen",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Blinded by the Light",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Dex Takes a Holiday",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "Dirty Harry",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "If I Had a Hammer",
+        "rating": 8.6
+      },
+      {
+        "episode": 7,
+        "name": "Slack Tide",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Road Kill",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Hungry Man",
+        "rating": 9.5
+      },
+      {
+        "episode": 10,
+        "name": "Lost Boys",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Hello, Dexter Morgan",
+        "rating": 9.5
+      },
+      {
+        "episode": 12,
+        "name": "The Getaway",
+        "rating": 9.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "My Bad",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Hello, Bandit",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Practically Perfect",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Beauty and the Beast",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "First Blood",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Everything Is Illumenated",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Circle Us",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Take It!",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Teenage Wasteland",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "In the Beginning",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Hop a Freighter",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Big One",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Those Kinds of Things",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Once Upon a Time...",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Smokey and the Bandit",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "A Horse of a Different Color",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Angel of Death",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Just Let Go",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Nebraska",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Sin of Omission",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Get Gellar",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Ricochet Rabbit",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Talk to the Hand",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "This Is the Way the World Ends",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Are You...?",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "Sunshine and Frosty Swirl",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Buck the System",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Run",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Swim Deep",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Do the Wrong Thing",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Chemistry",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Argentina",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Helter Skelter",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "The Dark... Whatever",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Do You See What I See?",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Surprise, Motherf**ker!",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Beautiful Day",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Every Silver Lining...",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "What's Eating Dexter Morgan?",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Scar Tissue",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "This Little Piggy",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "A Little Reflection",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Dress Code",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Are We There Yet?",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "Make Your Own Kind of Music",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Goodbye Miami",
+        "rating": 6.9
+      },
+      {
+        "episode": 11,
+        "name": "Monkey in a Box",
+        "rating": 7.2
+      },
+      {
+        "episode": 12,
+        "name": "Remember the Monsters?",
+        "rating": 4.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "240983-sapne-vs-everyone",
+  "rank": 133,
+  "answer": "Sapne Vs Everyone",
+  "sourceUrl": "https://seriesgraph.com/show/240983-sapne-vs-everyone",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/240983",
+    "seasonRatings": "https://seriesgraph.com/api/shows/240983/season-ratings"
+  },
+  "years": {
+    "first": 2023,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "Sapne Vs Zamana",
+    "season": 1,
+    "episode": 5,
+    "rating": 9.6,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Sapne Vs Zimmedari",
+        "rating": 9.4
+      },
+      {
+        "episode": 2,
+        "name": "Sapne Vs Darr",
+        "rating": 9.5
+      },
+      {
+        "episode": 3,
+        "name": "Sapne Vs Imaandaari",
+        "rating": 9.6
+      },
+      {
+        "episode": 4,
+        "name": "Sapne Vs Kismat",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Sapne Vs Zamana",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "id": "1100-how-i-met-your-mother",
+  "rank": 94,
+  "answer": "How I Met Your Mother",
+  "sourceUrl": "https://seriesgraph.com/show/1100-how-i-met-your-mother",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1100",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1100/season-ratings"
+  },
+  "years": {
+    "first": 2005,
+    "last": 2014
+  },
+  "highestRatedEpisode": {
+    "name": "How Your Mother Met Me",
+    "season": 9,
+    "episode": 16,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Purple Giraffe",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Sweet Taste of Liberty",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Return of the Shirt",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Okay Awesome",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Slutty Pumpkin",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Matchmaker",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "The Duel",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Belly Full of Turkey",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "The Pineapple Incident",
+        "rating": 9.1
+      },
+      {
+        "episode": 11,
+        "name": "The Limo",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "The Wedding",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Drumroll, Please",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "Zip, Zip, Zip",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Game Night",
+        "rating": 9
+      },
+      {
+        "episode": 16,
+        "name": "Cupcake",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Life Among the Gorillas",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "Nothing Good Happens After 2 AM",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "Mary the Paralegal",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Best Prom Ever",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Milk",
+        "rating": 7.9
+      },
+      {
+        "episode": 22,
+        "name": "Come On",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Where Were We?",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "The Scorpion and the Toad",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Brunch",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Ted Mosby, Architect",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "World's Greatest Couple",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Aldrin Justice",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Swarley",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Atlantic City",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Slap Bet",
+        "rating": 9.4
+      },
+      {
+        "episode": 10,
+        "name": "Single Stamina",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "How Lily Stole Christmas",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "First Time in New York",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Columns",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Monday Night Football",
+        "rating": 8.3
+      },
+      {
+        "episode": 15,
+        "name": "Lucky Penny",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Stuff",
+        "rating": 8.3
+      },
+      {
+        "episode": 17,
+        "name": "Arrivederci, Fiero",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Moving Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Bachelor Party",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Showdown",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Something Borrowed",
+        "rating": 8.7
+      },
+      {
+        "episode": 22,
+        "name": "Something Blue",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Wait for It",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "We're Not from Here",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Third Wheel",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Little Boys",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "How I Met Everyone Else",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "I'm Not That Guy",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Dowisetrepla",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Spoiler Alert",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Slapsgiving",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Yips",
+        "rating": 7.8
+      },
+      {
+        "episode": 11,
+        "name": "The Platinum Rule",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "No Tomorrow",
+        "rating": 8
+      },
+      {
+        "episode": 13,
+        "name": "Ten Sessions",
+        "rating": 8.7
+      },
+      {
+        "episode": 14,
+        "name": "The Bracket",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "The Chain of Screaming",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Sandcastles in the Sand",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "The Goat",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Rebound Bro",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Everything Must Go",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Miracles",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Do I Know You?",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "The Best Burger in New York",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "I Heart NJ",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Intervention",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Shelter Island",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Happily Ever After",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Not a Father's Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Woooo!",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Naked Man",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "The Fight",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Little Minnesota",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Benefits",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Three Days of Snow",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "The Possimpible",
+        "rating": 8.2
+      },
+      {
+        "episode": 15,
+        "name": "The Stinsons",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Sorry, Bro",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Front Porch",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Old King Clancy",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "Murtaugh",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Mosbius Designs",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "The Three Days Rule",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Right Place Right Time",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "As Fast as She Can",
+        "rating": 7.5
+      },
+      {
+        "episode": 24,
+        "name": "The Leap",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Definitions",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Double Date",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Robin 101",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Sexless Innkeeper",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Duel Citizenship",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Bagpipes",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "The Rough Patch",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Playbook",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "Slapsgiving 2: Revenge of the Slap",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Window",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Last Cigarette Ever",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Girls vs. Suits",
+        "rating": 9
+      },
+      {
+        "episode": 13,
+        "name": "Jenkins",
+        "rating": 8.5
+      },
+      {
+        "episode": 14,
+        "name": "Perfect Week",
+        "rating": 8.7
+      },
+      {
+        "episode": 15,
+        "name": "Rabbit or Duck",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Hooked",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Of Course",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Say Cheese",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Zoo or False",
+        "rating": 7.4
+      },
+      {
+        "episode": 20,
+        "name": "Home Wreckers",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Twin Beds",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "Robots vs. Wrestlers",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "The Wedding Bride",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "Doppelgangers",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Big Days",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Cleaning House",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Unfinished",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Subway Wars",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Architect of Destruction",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Baby Talk",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Canning Randy",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Natural History",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Glitter",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Blitzgiving",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "The Mermaid Theory",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "False Positive",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Bad News",
+        "rating": 8.9
+      },
+      {
+        "episode": 14,
+        "name": "Last Words",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Oh Honey",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Desperation Day",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Garbage Island",
+        "rating": 7.5
+      },
+      {
+        "episode": 18,
+        "name": "A Change of Heart",
+        "rating": 8.1
+      },
+      {
+        "episode": 19,
+        "name": "Legendaddy",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "The Exploding Meatball Sub",
+        "rating": 7.5
+      },
+      {
+        "episode": 21,
+        "name": "Hopeless",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "The Perfect Cocktail",
+        "rating": 7.7
+      },
+      {
+        "episode": 23,
+        "name": "Landmarks",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Challenge Accepted",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Best Man",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Naked Truth",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Ducky Tie",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "The Stinson Missile Crisis",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Field Trip",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Mystery vs. History",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "Noretta",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Slutty Pumpkin Returns",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Disaster Averted",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Tick Tick Tick",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "The Rebound Girl",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Symphony of Illumination",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Tailgate",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "46 Minutes",
+        "rating": 7.5
+      },
+      {
+        "episode": 15,
+        "name": "The Burning Beekeeper",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "The Drunk Train",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "No Pressure",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Karma",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "The Broath",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Trilogy Time",
+        "rating": 8.5
+      },
+      {
+        "episode": 21,
+        "name": "Now We're Even",
+        "rating": 7.8
+      },
+      {
+        "episode": 22,
+        "name": "Good Crazy",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "The Magician's Code: Part 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 24,
+        "name": "The Magician's Code: Part 2",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Farhampton",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Pre-Nup",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Nannies",
+        "rating": 7.2
+      },
+      {
+        "episode": 4,
+        "name": "Who Wants to Be a Godparent",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "The Autumn of Breakups",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Splitsville",
+        "rating": 7.4
+      },
+      {
+        "episode": 7,
+        "name": "The Stamp Tramp",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "Twelve Horny Women",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "Lobster Crawl",
+        "rating": 7.3
+      },
+      {
+        "episode": 10,
+        "name": "The Over-Correction",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "The Final Page: Part One",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Final Page: Part Two",
+        "rating": 9.3
+      },
+      {
+        "episode": 13,
+        "name": "Band or DJ?",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Ring Up!",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "P.S. I Love You",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Bad Crazy",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "The Ashtray",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Weekend at Barney's",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "The Fortress",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "The Time Travelers",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Romeward Bound",
+        "rating": 7.2
+      },
+      {
+        "episode": 22,
+        "name": "The Bro Mitzvah",
+        "rating": 8.7
+      },
+      {
+        "episode": 23,
+        "name": "Something Old",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "Something New",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Locket",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Coming Back",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "Last Time in New York",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "The Broken Code",
+        "rating": 7.2
+      },
+      {
+        "episode": 5,
+        "name": "The Poker Game",
+        "rating": 7.1
+      },
+      {
+        "episode": 6,
+        "name": "Knight Vision",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "No Questions Asked",
+        "rating": 7.2
+      },
+      {
+        "episode": 8,
+        "name": "The Lighthouse",
+        "rating": 7.1
+      },
+      {
+        "episode": 9,
+        "name": "Platonish",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Mom and Dad",
+        "rating": 6.6
+      },
+      {
+        "episode": 11,
+        "name": "Bedtime Stories",
+        "rating": 5.8
+      },
+      {
+        "episode": 12,
+        "name": "The Rehearsal Dinner",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Bass Player Wanted",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Slapsgiving 3: Slappointment in Slapmarra",
+        "rating": 6
+      },
+      {
+        "episode": 15,
+        "name": "Unpause",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "How Your Mother Met Me",
+        "rating": 9.5
+      },
+      {
+        "episode": 17,
+        "name": "Sunrise",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Rally",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Vesuvius",
+        "rating": 7.5
+      },
+      {
+        "episode": 20,
+        "name": "Daisy",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "Gary Blauman",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "The End of the Aisle",
+        "rating": 8.8
+      },
+      {
+        "episode": 23,
+        "name": "Last Forever: Part One",
+        "rating": 6.6
+      },
+      {
+        "episode": 24,
+        "name": "Last Forever: Part Two",
+        "rating": 5.5
+      }
+    ]
+  ]
+}

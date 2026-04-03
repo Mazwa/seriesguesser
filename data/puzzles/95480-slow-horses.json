@@ -1,0 +1,235 @@
+{
+  "id": "95480-slow-horses",
+  "rank": 199,
+  "answer": "Slow Horses",
+  "sourceUrl": "https://seriesgraph.com/show/95480-slow-horses",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/95480",
+    "seasonRatings": "https://seriesgraph.com/api/shows/95480/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Hello Goodbye",
+    "season": 4,
+    "episode": 6,
+    "rating": 8.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Failure's Contagious",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Work Drinks",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Bad Tradecraft",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Visiting Hours",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Fiasco",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Follies",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Last Stop",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "From Upshott with Love",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Drinking Games",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Cicada",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Boardroom Politics",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Old Scores",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Strange Games",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Hard Lessons",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Negotiating with Tigers",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Uninvited Guests",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Cleaning Up",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Footprints",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Identity Theft",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "A Stranger Comes to Town",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Penny for Your Thoughts",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Returns",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Grave Danger",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Hello Goodbye",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bad Dates",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Incommunicado",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Tall Tales",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Missiles",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Circus",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Scars",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #6.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #6.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #6.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #6.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #6.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #6.6"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #7.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #7.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #7.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #7.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #7.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #7.6"
+      }
+    ]
+  ]
+}

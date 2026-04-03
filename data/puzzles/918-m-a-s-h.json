@@ -1,0 +1,1300 @@
+{
+  "id": "918-m-a-s-h",
+  "rank": 219,
+  "answer": "M*A*S*H",
+  "sourceUrl": "https://seriesgraph.com/show/918-m*a*s*h",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/918",
+    "seasonRatings": "https://seriesgraph.com/api/shows/918/season-ratings"
+  },
+  "years": {
+    "first": 1972,
+    "last": 1983
+  },
+  "highestRatedEpisode": {
+    "name": "Abyssinia, Henry",
+    "season": 3,
+    "episode": 24,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "To Market, to Market",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "Requiem for a Lightweight",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Chief Surgeon Who?",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "The Moose",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Yankee Doodle Doctor",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Bananas, Crackers and Nuts",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Cowboy",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Henry, Please Come Home",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "I Hate a Mystery",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Germ Warfare",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Dear Dad",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Edwina",
+        "rating": 7
+      },
+      {
+        "episode": 14,
+        "name": "Love Story",
+        "rating": 7.4
+      },
+      {
+        "episode": 15,
+        "name": "Tuttle",
+        "rating": 8.9
+      },
+      {
+        "episode": 16,
+        "name": "The Ringbanger",
+        "rating": 8
+      },
+      {
+        "episode": 17,
+        "name": "Sometimes You Hear the Bullet",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "Dear Dad, Again",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "The Longjohn Flap",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "The Army-Navy Game",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Sticky Wicket",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Major Fred C. Dobbs",
+        "rating": 7.5
+      },
+      {
+        "episode": 23,
+        "name": "Ceasefire",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Showtime",
+        "rating": 7.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Divided We Stand",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "5 O'Clock Charlie",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Radar's Report",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "For the Good of the Outfit",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Dr. Pierce and Mr. Hyde",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Kim",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "L.I.P. (Local Indigenous Personnel)",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "The Trial of Henry Blake",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Dear Dad... Three",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "The Sniper",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Carry On, Hawkeye",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Incubator",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Deal Me Out",
+        "rating": 8.6
+      },
+      {
+        "episode": 14,
+        "name": "Hot Lips and Empty Arms",
+        "rating": 7.9
+      },
+      {
+        "episode": 15,
+        "name": "Officers Only",
+        "rating": 7.8
+      },
+      {
+        "episode": 16,
+        "name": "Henry in Love",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "For Want of a Boot",
+        "rating": 8.1
+      },
+      {
+        "episode": 18,
+        "name": "Operation Noselift",
+        "rating": 7.4
+      },
+      {
+        "episode": 19,
+        "name": "The Chosen People",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "As You Were",
+        "rating": 7.8
+      },
+      {
+        "episode": 21,
+        "name": "Crisis",
+        "rating": 8.5
+      },
+      {
+        "episode": 22,
+        "name": "George",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "Mail Call",
+        "rating": 7.9
+      },
+      {
+        "episode": 24,
+        "name": "A Smattering of Intelligence",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The General Flipped at Dawn",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Rainbow Bridge",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Officer of the Day",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Iron Guts Kelly",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "O.R.",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Springtime",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Check-Up",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Life with Father",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Alcoholics Unanimous",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "There Is Nothing Like a Nurse",
+        "rating": 7.6
+      },
+      {
+        "episode": 11,
+        "name": "Adam's Ribs",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "A Full Rich Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Mad Dogs and Servicemen",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Private Charles Lamb",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Bombed",
+        "rating": 8
+      },
+      {
+        "episode": 16,
+        "name": "Bulletin Board",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "The Consultant",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "House Arrest",
+        "rating": 7.9
+      },
+      {
+        "episode": 19,
+        "name": "Aid Station",
+        "rating": 8.5
+      },
+      {
+        "episode": 20,
+        "name": "Love and Marriage",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Big Mac",
+        "rating": 8.1
+      },
+      {
+        "episode": 22,
+        "name": "Payday",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "White Gold",
+        "rating": 7.8
+      },
+      {
+        "episode": 24,
+        "name": "Abyssinia, Henry",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Welcome to Korea",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Change of Command",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "It Happened One Night",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The Late Captain Pierce",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Hey, Doc",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Bus",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Dear Mildred",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "The Kids",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Quo Vadis, Captain Chandler",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Dear Peggy",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Of Moose and Men",
+        "rating": 7.3
+      },
+      {
+        "episode": 12,
+        "name": "Soldier of the Month",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "The Gun",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Mail Call, Again",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "The Price of Tomato Juice",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Dear Ma",
+        "rating": 7.7
+      },
+      {
+        "episode": 17,
+        "name": "Der Tag",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Hawkeye",
+        "rating": 6.9
+      },
+      {
+        "episode": 19,
+        "name": "Some 38th Parallels",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The Novocaine Mutiny",
+        "rating": 8.2
+      },
+      {
+        "episode": 21,
+        "name": "Smilin' Jack",
+        "rating": 7.6
+      },
+      {
+        "episode": 22,
+        "name": "The More I See You",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Deluge",
+        "rating": 8.2
+      },
+      {
+        "episode": 24,
+        "name": "The Interview",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Bug Out",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Margaret's Engagement",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Out of Sight, Out of Mind",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Lt. Radar O'Reilly",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "The Nurses",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "The Abduction of Margaret Houlihan",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Dear Sigmund",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Mulcahy's War",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "The Korean Surgeon",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Hawkeye Get Your Gun",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "The Colonel's Horse",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Exorcism",
+        "rating": 7.1
+      },
+      {
+        "episode": 13,
+        "name": "Hawk's Nightmare",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "The Most Unforgettable Characters",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "38 Across",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "Ping Pong",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "End Run",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Hanky Panky",
+        "rating": 7.1
+      },
+      {
+        "episode": 19,
+        "name": "Hepatitis",
+        "rating": 7.6
+      },
+      {
+        "episode": 20,
+        "name": "The General's Practitioner",
+        "rating": 7.6
+      },
+      {
+        "episode": 21,
+        "name": "Movie Tonight",
+        "rating": 8.6
+      },
+      {
+        "episode": 22,
+        "name": "Souvenirs",
+        "rating": 7.4
+      },
+      {
+        "episode": 23,
+        "name": "Post Op",
+        "rating": 7.6
+      },
+      {
+        "episode": 24,
+        "name": "Margaret's Marriage",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fade Out, Fade In",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Fallen Idol",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Last Laugh",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "War of Nerves",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Winchester Tapes",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "The Light That Failed",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "In Love and War",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Change Day",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "Images",
+        "rating": 7.6
+      },
+      {
+        "episode": 10,
+        "name": "The M*A*S*H Olympics",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "The Grim Reaper",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "Comrades in Arms: Part 1",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Comrades in Arms: Part 2",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "The Merchant of Korea",
+        "rating": 7.7
+      },
+      {
+        "episode": 15,
+        "name": "The Smell of Music",
+        "rating": 8.1
+      },
+      {
+        "episode": 16,
+        "name": "Patent 4077",
+        "rating": 7.8
+      },
+      {
+        "episode": 17,
+        "name": "Tea and Empathy",
+        "rating": 7.6
+      },
+      {
+        "episode": 18,
+        "name": "Your Hit Parade",
+        "rating": 7.7
+      },
+      {
+        "episode": 19,
+        "name": "What's Up, Doc?",
+        "rating": 7.7
+      },
+      {
+        "episode": 20,
+        "name": "Mail Call Three",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "Temporary Duty",
+        "rating": 7.7
+      },
+      {
+        "episode": 22,
+        "name": "Potter's Retirement",
+        "rating": 8.1
+      },
+      {
+        "episode": 23,
+        "name": "Dr. Winchester and Mr. Hyde",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Major Topper",
+        "rating": 7.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Commander Pierce",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Peace on Us",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Lil",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Our Finest Hour",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "The Billfold Syndrome",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "None Like It Hot",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "They Call the Wind Korea",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Major Ego",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Baby, It's Cold Outside",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Point of View",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Dear Comrade",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Out of Gas",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "An Eye for a Tooth",
+        "rating": 8.1
+      },
+      {
+        "episode": 14,
+        "name": "Dear Sis",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "B. J. Papa San",
+        "rating": 7.3
+      },
+      {
+        "episode": 16,
+        "name": "Inga",
+        "rating": 7.4
+      },
+      {
+        "episode": 17,
+        "name": "The Price",
+        "rating": 7.8
+      },
+      {
+        "episode": 18,
+        "name": "The Young and the Restless",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Hot Lips Is Back in Town",
+        "rating": 7.8
+      },
+      {
+        "episode": 20,
+        "name": "C*A*V*E",
+        "rating": 7.7
+      },
+      {
+        "episode": 21,
+        "name": "Rally 'Round the Flagg, Boys",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Preventative Medicine",
+        "rating": 7.6
+      },
+      {
+        "episode": 23,
+        "name": "A Night at Rosie's",
+        "rating": 8
+      },
+      {
+        "episode": 24,
+        "name": "Ain't Love Grand",
+        "rating": 7.3
+      },
+      {
+        "episode": 25,
+        "name": "The Party",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Too Many Cooks",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Are You Now, Margaret?",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Guerilla My Dreams",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Good-Bye Radar: Part 1",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Good-Bye Radar: Part 2",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Period of Adjustment",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Nurse Doctor",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Private Finance",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Mr. and Mrs. Who?",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "The Yalu Brick Road",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Life Time",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Dear Uncle Abdul",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "Captains Outrageous",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Stars and Stripes",
+        "rating": 7.2
+      },
+      {
+        "episode": 15,
+        "name": "Yessir, That's Our Baby",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Bottle Fatigue",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Heal Thyself",
+        "rating": 8.3
+      },
+      {
+        "episode": 18,
+        "name": "Old Soldiers",
+        "rating": 8.5
+      },
+      {
+        "episode": 19,
+        "name": "Morale Victory",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Lend a Hand",
+        "rating": 7.3
+      },
+      {
+        "episode": 21,
+        "name": "Goodbye, Cruel World",
+        "rating": 7.5
+      },
+      {
+        "episode": 22,
+        "name": "Dreams",
+        "rating": 7.9
+      },
+      {
+        "episode": 23,
+        "name": "War Co-Respondent",
+        "rating": 7.4
+      },
+      {
+        "episode": 24,
+        "name": "Back Pay",
+        "rating": 7.5
+      },
+      {
+        "episode": 25,
+        "name": "April Fools",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Best of Enemies",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Letters",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Cementing Relationships",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Father's Day",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Death Takes a Holiday",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "A War for All Seasons",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Your Retention Please",
+        "rating": 7.4
+      },
+      {
+        "episode": 8,
+        "name": "Tell It to the Marines",
+        "rating": 7.4
+      },
+      {
+        "episode": 9,
+        "name": "Taking the Fifth",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "Operation Friendship",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "No Sweat",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Depressing News",
+        "rating": 7.7
+      },
+      {
+        "episode": 13,
+        "name": "No Laughing Matter",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Oh, How We Danced",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Bottoms Up",
+        "rating": 7.7
+      },
+      {
+        "episode": 16,
+        "name": "The Red/White Blues",
+        "rating": 7.6
+      },
+      {
+        "episode": 17,
+        "name": "Bless You Hawkeye",
+        "rating": 7.4
+      },
+      {
+        "episode": 18,
+        "name": "Blood Brothers",
+        "rating": 8.3
+      },
+      {
+        "episode": 19,
+        "name": "The Foresight Saga",
+        "rating": 7.3
+      },
+      {
+        "episode": 20,
+        "name": "The Life You Save",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "That's Show Biz",
+        "rating": 7.2
+      },
+      {
+        "episode": 2,
+        "name": "Identity Crisis",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Rumor at the Top",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Give 'Em Hell, Hawkeye",
+        "rating": 7.4
+      },
+      {
+        "episode": 5,
+        "name": "Wheelers and Dealers",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Communication Breakdown",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Snap Judgement",
+        "rating": 7.6
+      },
+      {
+        "episode": 8,
+        "name": "Snappier Judgement",
+        "rating": 7.6
+      },
+      {
+        "episode": 9,
+        "name": "'Twas the Day After Christmas",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Follies of the Living - Concerns of the Dead",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Birthday Girls",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "Blood and Guts",
+        "rating": 7.3
+      },
+      {
+        "episode": 13,
+        "name": "A Holy Mess",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "The Tooth Shall Set You Free",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Pressure Points",
+        "rating": 7.9
+      },
+      {
+        "episode": 16,
+        "name": "Where There's a Will, There's a War",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Promotion Commotion",
+        "rating": 7.7
+      },
+      {
+        "episode": 18,
+        "name": "Heroes",
+        "rating": 7.2
+      },
+      {
+        "episode": 19,
+        "name": "Sons and Bowlers",
+        "rating": 8.2
+      },
+      {
+        "episode": 20,
+        "name": "Picture This",
+        "rating": 7.4
+      },
+      {
+        "episode": 21,
+        "name": "That Darn Kid",
+        "rating": 7.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hey, Look Me Over",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Trick or Treatment",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Foreign Affairs",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "The Joker Is Wild",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Who Knew?",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Bombshells",
+        "rating": 7.5
+      },
+      {
+        "episode": 7,
+        "name": "Settling Debts",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "The Moon Is Not Blue",
+        "rating": 7.2
+      },
+      {
+        "episode": 9,
+        "name": "Run for the Money",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "U.N., the Night and the Music",
+        "rating": 7.5
+      },
+      {
+        "episode": 11,
+        "name": "Strange Bedfellows",
+        "rating": 7.1
+      },
+      {
+        "episode": 12,
+        "name": "Say No More",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "Friends and Enemies",
+        "rating": 7.3
+      },
+      {
+        "episode": 14,
+        "name": "Give and Take",
+        "rating": 7.6
+      },
+      {
+        "episode": 15,
+        "name": "As Time Goes By",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "Goodbye, Farewell and Amen",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

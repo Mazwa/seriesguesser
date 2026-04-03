@@ -1,0 +1,148 @@
+{
+  "id": "95396-severance",
+  "rank": 81,
+  "answer": "Severance",
+  "sourceUrl": "https://seriesgraph.com/show/95396-severance",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/95396",
+    "seasonRatings": "https://seriesgraph.com/api/shows/95396/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "The We We Are",
+    "season": 1,
+    "episode": 9,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Good News About Hell",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Half Loop",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "In Perpetuity",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "The You You Are",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Grim Barbarity of Optics and Design",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Hide and Seek",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Defiant Jazz",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "What's for Dinner?",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "The We We Are",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hello, Ms. Cobel",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Goodbye, Mrs. Selvig",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Who Is Alive?",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Woe's Hollow",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Trojan's Horse",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Attila",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Chikhai Bardo",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Sweet Vitriol",
+        "rating": 6.6
+      },
+      {
+        "episode": 9,
+        "name": "The After Hours",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Cold Harbor",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": "34524-teen-wolf",
+  "rank": 223,
+  "answer": "Teen Wolf",
+  "sourceUrl": "https://seriesgraph.com/show/34524-teen-wolf",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/34524",
+    "seasonRatings": "https://seriesgraph.com/api/shows/34524/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2017
+  },
+  "highestRatedEpisode": {
+    "name": "Radio Silence",
+    "season": 6,
+    "episode": 5,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Wolf Moon",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Second Chance at First Line",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Pack Mentality",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "Magic Bullet",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Tell",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Heart Monitor",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Night School",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Lunatic",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Wolf's Bane",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Co-Captain",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Formality",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Code Breaker",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Omega",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Shape Shifted",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Ice Pick",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Abomination",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Venomous",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Frenemy",
+        "rating": 8.4
+      },
+      {
+        "episode": 7,
+        "name": "Restraint",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Raving",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Party Guessed",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Fury",
+        "rating": 9
+      },
+      {
+        "episode": 11,
+        "name": "Battlefield",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "Master Plan",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Tattoo",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Chaos Rising",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Fireflies",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Unleashed",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Frayed",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Motel California",
+        "rating": 9.2
+      },
+      {
+        "episode": 7,
+        "name": "Currents",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Visionary",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Girl Who Knew Too Much",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "The Overlooked",
+        "rating": 8.9
+      },
+      {
+        "episode": 11,
+        "name": "Alpha Pact",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Lunar Ellipse",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Anchors",
+        "rating": 8.8
+      },
+      {
+        "episode": 14,
+        "name": "More Bad Than Good",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Galvanize",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Illuminated",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "Silverfinger",
+        "rating": 8.8
+      },
+      {
+        "episode": 18,
+        "name": "Riddled",
+        "rating": 9.3
+      },
+      {
+        "episode": 19,
+        "name": "Letharia Vulpina",
+        "rating": 8.8
+      },
+      {
+        "episode": 20,
+        "name": "Echo House",
+        "rating": 8.9
+      },
+      {
+        "episode": 21,
+        "name": "The Fox and the Wolf",
+        "rating": 8.3
+      },
+      {
+        "episode": 22,
+        "name": "De-Void",
+        "rating": 9.1
+      },
+      {
+        "episode": 23,
+        "name": "Insatiable",
+        "rating": 9.3
+      },
+      {
+        "episode": 24,
+        "name": "The Divine Move",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Dark Moon",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "117",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Muted",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Benefactor",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "I.E.D.",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Orphaned",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Weaponized",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Time of Death",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Perishable",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Monstrous",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "A Promise to the Dead",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Smoke and Mirrors",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Creatures of the Night",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Parasomnia",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Dreamcatchers",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Condition Terminal",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "A Novel Approach",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Required Reading",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Strange Frequencies",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Ouroboros",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Lies of Omission",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Status Asthmaticus",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "The Last Chimera",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Damnatio Memoriae",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Codominance",
+        "rating": 7.8
+      },
+      {
+        "episode": 14,
+        "name": "The Sword and the Spirit",
+        "rating": 8.4
+      },
+      {
+        "episode": 15,
+        "name": "Amplification",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Lie Ability",
+        "rating": 8.9
+      },
+      {
+        "episode": 17,
+        "name": "A Credible Threat",
+        "rating": 8.2
+      },
+      {
+        "episode": 18,
+        "name": "Maid of Gévaudan",
+        "rating": 8.4
+      },
+      {
+        "episode": 19,
+        "name": "The Beast of Beacon Hills",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Apotheosis",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Memory Lost",
+        "rating": 9.3
+      },
+      {
+        "episode": 2,
+        "name": "Superposition",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Sundowning",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Relics",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Radio Silence",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Ghosted",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Heartless",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Blitzkrieg",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "Memory Found",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Riders on the Storm",
+        "rating": 9.2
+      },
+      {
+        "episode": 11,
+        "name": "Said the Spider to the Fly",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Raw Talent",
+        "rating": 7.6
+      },
+      {
+        "episode": 13,
+        "name": "After Images",
+        "rating": 7.6
+      },
+      {
+        "episode": 14,
+        "name": "Face-to-Faceless",
+        "rating": 8
+      },
+      {
+        "episode": 15,
+        "name": "Pressure Test",
+        "rating": 8.2
+      },
+      {
+        "episode": 16,
+        "name": "Triggers",
+        "rating": 7.9
+      },
+      {
+        "episode": 17,
+        "name": "Werewolves of London",
+        "rating": 8.4
+      },
+      {
+        "episode": 18,
+        "name": "Genotype",
+        "rating": 8
+      },
+      {
+        "episode": 19,
+        "name": "Broken Glass",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "The Wolves of War",
+        "rating": 9
+      }
+    ]
+  ]
+}

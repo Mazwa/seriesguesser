@@ -1,0 +1,164 @@
+{
+  "id": "70785-anne-with-an-e",
+  "rank": 140,
+  "answer": "Anne with an E",
+  "sourceUrl": "https://seriesgraph.com/show/70785-anne-with-an-e",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/70785",
+    "seasonRatings": "https://seriesgraph.com/api/shows/70785/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2019
+  },
+  "highestRatedEpisode": {
+    "name": "The Better Feelings of My Heart",
+    "season": 3,
+    "episode": 10,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Your Will Shall Decide Your Destiny",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "I Am No Bird, and No Net Ensnares Me",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "But What Is So Headstrong as Youth?",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "An Inward Treasure Born",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Tightly Knotted to a Similar String",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Remorse Is the Poison of Life",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Wherever You Are Is My Home",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Youth Is the Season of Hope",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Signs Are Small Measurable Things, But Interpretations Are Illimitable",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "The True Seeing Is Within",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Painful Eagerness of Unfed Hope",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Determining Acts of Her Life",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "I Protest Against Any Absolute Conclusion",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Memory Has as Many Moods as the Temper",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Struggling Against the Perception of Facts",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "What We Have Been Makes Us What We Are",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Growing Good of the World",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Secret Which I Desired to Divine",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "There Is Something at Work in My Soul Which I Do Not Understand",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "What Can Stop the Determined Heart",
+        "rating": 9.1
+      },
+      {
+        "episode": 4,
+        "name": "A Hope of Meeting You in Another World",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "I Am Fearless and Therefore Powerful",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Summit of My Desires",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "A Strong Effort of the Spirit of Good",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "Great and Sudden Change",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "A Dense and Frightful Darkness",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "The Better Feelings of My Heart",
+        "rating": 9.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "94997-house-of-the-dragon",
+  "rank": 148,
+  "answer": "House of the Dragon",
+  "sourceUrl": "https://seriesgraph.com/show/94997-house-of-the-dragon",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/94997",
+    "seasonRatings": "https://seriesgraph.com/api/shows/94997/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2024
+  },
+  "highestRatedEpisode": {
+    "name": "The Red Dragon and the Gold",
+    "season": 2,
+    "episode": 4,
+    "rating": 9.4,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The Heirs of the Dragon",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "The Rogue Prince",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Second of His Name",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "King of the Narrow Sea",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "We Light the Way",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "The Princess and the Queen",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Driftmark",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "The Lord of the Tides",
+        "rating": 9.3
+      },
+      {
+        "episode": 9,
+        "name": "The Green Council",
+        "rating": 8.7
+      },
+      {
+        "episode": 10,
+        "name": "The Black Queen",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Son for a Son",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Rhaenyra the Cruel",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Burning Mill",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "The Red Dragon and the Gold",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "Regent",
+        "rating": 7.3
+      },
+      {
+        "episode": 6,
+        "name": "Smallfolk",
+        "rating": 6.3
+      },
+      {
+        "episode": 7,
+        "name": "The Red Sowing",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "The Queen Who Ever Was",
+        "rating": 6.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #3.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #3.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #3.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #3.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #3.6"
+      },
+      {
+        "episode": 7,
+        "name": "Episode #3.7"
+      },
+      {
+        "episode": 8,
+        "name": "Episode #3.8"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #4.1"
+      }
+    ]
+  ]
+}

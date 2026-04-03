@@ -1,0 +1,715 @@
+{
+  "id": "34307-shameless",
+  "rank": 63,
+  "answer": "Shameless",
+  "sourceUrl": "https://seriesgraph.com/show/34307-shameless",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/34307",
+    "seasonRatings": "https://seriesgraph.com/api/shows/34307/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2021
+  },
+  "highestRatedEpisode": {
+    "name": "Lazarus",
+    "season": 4,
+    "episode": 12,
+    "rating": 9.3,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Frank the Plank",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Aunt Ginger",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Casey Casden",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Three Boys",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "Killer Carl",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Frank Gallagher: Loving Husband, Devoted Father",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "It's Time to Kill the Turtle",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "But at Last Came a Knock",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Nana Gallagher Had an Affair",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Daddyz Girl",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Father Frank, Full of Grace",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Summertime",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Summer Loving",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "I'll Light a Candle for You Every Day",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "A Beautiful Mess",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Father's Day",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Can I Have a Mother",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "A Bottle of Jean Nate",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Parenthood",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Hurricane Monica",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "A Great Cause",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Just Like the Pilgrims Intended",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Fiona Interrupted",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "El Gran Cañon",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The American Dream",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "May I Trim Your Hedges?",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Helpful Gallaghers",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The Sins of My Caretaker",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Cascading Failures",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "A Long Way from Home",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Where There's a Will",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Frank the Plumber",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Civil Wrongs",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Order Room Service",
+        "rating": 8.5
+      },
+      {
+        "episode": 12,
+        "name": "Survival of the Fittest",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Simple Pleasures",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "My Oldest Daughter",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Like Father, Like Daughter",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Strangers on a Train",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "There's the Rub",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Iron City",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "A Jailbird, Invalid, Martyr, Cutter, Retard, and Parasitic Twin",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Hope Springs Paternal",
+        "rating": 8.6
+      },
+      {
+        "episode": 9,
+        "name": "The Legend of Bonnie and Carl",
+        "rating": 8.8
+      },
+      {
+        "episode": 10,
+        "name": "Liver, I Hardly Know Her",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Emily",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Lazarus",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Milk of the Gods",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "I'm the Liver",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The Two Lisas",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "A Night to Remem... Wait, What?",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Rite of Passage",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Crazy Love",
+        "rating": 9.1
+      },
+      {
+        "episode": 7,
+        "name": "Tell Me You F**King Need Me",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Uncle Carl",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "Carl's First Sentencing",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "South Side Rules",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Drugs Actually",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Love Songs (In the Key of Gallagher)",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "I Only Miss Her When I'm Breathing",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "#AbortionRules",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The F Word",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Going Once, Going Twice",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Refugees",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "NSFW",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Pimp's Paradise",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Be a Good Boy. Come for Grandma",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "A Yurt of One's Own",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Paradise Lost",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "Sleep No More",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "Familia Supra Gallegorious Omnia!",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Hiraeth",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Swipe, Fuck, Leave",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Home Sweet Homeless Shelter",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "I Am A Storm",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Own Your Sh*t",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "The Defenestration of Frank",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "You'll Never Ever Get a Chicken in Your Whole Entire Life",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "You Sold Me the Laundromat, Remember?",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Ouroboros",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Ride or Die",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Happily Ever After",
+        "rating": 9.1
+      },
+      {
+        "episode": 12,
+        "name": "Requiem for a Slut",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "We Become What We... Frank!",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Where's My Meth?",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "God Bless Her Rotting Soul",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "F**k Paying It Forward",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "The (Mis)Education of Liam Fergus Beircheart Gallagher",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Icarus Fell. And Rusty Ate Him.",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Occupy Fiona",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Frank's Northern Shuttle Express",
+        "rating": 7.9
+      },
+      {
+        "episode": 9,
+        "name": "The Fugees",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Church of Gay Jesus",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "A Gallagher Pedicure",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Sleepwalking",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Are You There Shim? It's Me, Ian.",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Mo White!",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Weirdo Gallagher Vortex",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Do Right, Vote White!",
+        "rating": 7.5
+      },
+      {
+        "episode": 5,
+        "name": "Black-Haired Ginger",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Face It, You're Gorgeous",
+        "rating": 8.8
+      },
+      {
+        "episode": 7,
+        "name": "Down Like the Titanic",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Apple Doesn't Fall Far From the Alibi",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Boooooooooooone!",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Los Diablos!",
+        "rating": 7.7
+      },
+      {
+        "episode": 11,
+        "name": "The Hobo Games",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "You'll Know the Bottom When You Hit It",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Lost",
+        "rating": 8.2
+      },
+      {
+        "episode": 14,
+        "name": "Found",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "We Few, We Lucky Few, We Band of Gallaghers!",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "Sleep Well My Prince for Tomorrow You Shall Be King",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Which America?",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "A Little Gallagher Goes a Long Way",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Sparky",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "Adios Gringos",
+        "rating": 7
+      },
+      {
+        "episode": 7,
+        "name": "Citizen Carl",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "Debbie Might Be a Prostitute",
+        "rating": 7.3
+      },
+      {
+        "episode": 9,
+        "name": "O Captain, My Captain",
+        "rating": 6.8
+      },
+      {
+        "episode": 10,
+        "name": "Now Leaving Illinois",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "Location, Location, Location",
+        "rating": 7.5
+      },
+      {
+        "episode": 12,
+        "name": "\"Gallavich!\"",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "This Is Chicago",
+        "rating": 7.1
+      },
+      {
+        "episode": 2,
+        "name": "Go Home, Gentrifier!",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Frances Francis Franny Frank",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "NIMBY",
+        "rating": 7.3
+      },
+      {
+        "episode": 5,
+        "name": "Slaughter",
+        "rating": 7.2
+      },
+      {
+        "episode": 6,
+        "name": "Do Not Go Gentle Into That Good... Eh, Screw It",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Two at a Biker Bar, One in the Lake",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Cancelled",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Survivors",
+        "rating": 7.2
+      },
+      {
+        "episode": 10,
+        "name": "DNR",
+        "rating": 7.3
+      },
+      {
+        "episode": 11,
+        "name": "The Fickle Lady Is Calling It Quits",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Father Frank, Full of Grace",
+        "rating": 6.7
+      }
+    ]
+  ]
+}

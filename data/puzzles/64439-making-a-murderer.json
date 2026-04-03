@@ -1,0 +1,127 @@
+{
+  "id": "64439-making-a-murderer",
+  "rank": 198,
+  "answer": "Making a Murderer",
+  "sourceUrl": "https://seriesgraph.com/show/64439-making-a-murderer",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/64439",
+    "seasonRatings": "https://seriesgraph.com/api/shows/64439/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2018
+  },
+  "highestRatedEpisode": {
+    "name": "Indefensible",
+    "season": 1,
+    "episode": 4,
+    "rating": 8.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Eighteen Years Lost",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Turning the Tables",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Plight of the Accused",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Indefensible",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "The Last Person to See Teresa Alive",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Testing the Evidence",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Framing Defense",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "The Great Burden",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Lack of Humility",
+        "rating": 8.5
+      },
+      {
+        "episode": 10,
+        "name": "Fighting for Their Lives",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Number 18",
+        "rating": 7.8
+      },
+      {
+        "episode": 2,
+        "name": "Words and Words Only",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "A Legal Miracle",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Welcome to Wisconsin",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "What + Why = Who",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Everything Takes Time",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Item FL",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Special Care",
+        "rating": 8.2
+      },
+      {
+        "episode": 9,
+        "name": "Friday Nite",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Trust No One",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

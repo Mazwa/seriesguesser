@@ -1,0 +1,107 @@
+{
+  "id": "110492-peacemaker",
+  "rank": 229,
+  "answer": "Peacemaker",
+  "sourceUrl": "https://seriesgraph.com/show/110492-peacemaker",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/110492",
+    "seasonRatings": "https://seriesgraph.com/api/shows/110492/season-ratings"
+  },
+  "years": {
+    "first": 2022,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Like a Keith in the Night",
+    "season": 2,
+    "episode": 7,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "A Whole New Whirled",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Best Friends for Never",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Better Goff Dead",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The Choad Less Traveled",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Monkey Dory",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Murn After Reading",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Stop Dragon My Heart Around",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "It's Cow or Never",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Ties That Grind",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "A Man Is Only as Good as His Bird",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Another Rick Up My Sleeve",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Need I Say Door",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Back to the Suture",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Ignorance Is Chris",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Like a Keith in the Night",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Full Nelson",
+        "rating": 6.7
+      }
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "2382-freaks-and-geeks",
+  "rank": 68,
+  "answer": "Freaks and Geeks",
+  "sourceUrl": "https://seriesgraph.com/show/2382-freaks-and-geeks",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2382",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2382/season-ratings"
+  },
+  "years": {
+    "first": 1999,
+    "last": 2000
+  },
+  "highestRatedEpisode": {
+    "name": "Discos and Dragons",
+    "season": 1,
+    "episode": 18,
+    "rating": 9.2,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Beers and Weirs",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Tricks and Treats",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Kim Kelly Is My Friend",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Tests and Breasts",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "I'm with the Band",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Carded and Discarded",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Girlfriends and Boyfriends",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "We've Got Spirit",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "The Diary",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Looks and Books",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "The Garage Door",
+        "rating": 8.8
+      },
+      {
+        "episode": 13,
+        "name": "Chokin' and Tokin'",
+        "rating": 9
+      },
+      {
+        "episode": 14,
+        "name": "Dead Dogs and Gym Teachers",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "Noshing and Moshing",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "Smooching and Mooching",
+        "rating": 9.2
+      },
+      {
+        "episode": 17,
+        "name": "The Little Things",
+        "rating": 9
+      },
+      {
+        "episode": 18,
+        "name": "Discos and Dragons",
+        "rating": 9.2
+      }
+    ]
+  ]
+}

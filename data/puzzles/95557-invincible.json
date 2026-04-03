@@ -1,0 +1,194 @@
+{
+  "id": "95557-invincible",
+  "rank": 47,
+  "answer": "Invincible",
+  "sourceUrl": "https://seriesgraph.com/show/95557-invincible",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/95557",
+    "seasonRatings": "https://seriesgraph.com/api/shows/95557/season-ratings"
+  },
+  "years": {
+    "first": 2021,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "I Thought You'd Never Shut Up",
+    "season": 3,
+    "episode": 8,
+    "rating": 9.8,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "It's About Time",
+        "rating": 9
+      },
+      {
+        "episode": 2,
+        "name": "Here Goes Nothing",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Who You Calling Ugly?",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Neil Armstrong, Eat Your Heart Out",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "That Actually Hurt",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "You Look Kinda Dead",
+        "rating": 7.6
+      },
+      {
+        "episode": 7,
+        "name": "We Need to Talk",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "Where I Really Come From",
+        "rating": 9.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Lesson for Your Next Life",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "In About Six Hours I Lose My Virginity to a Fish",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "This Missive, This Machination!",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "It's Been a While",
+        "rating": 9.2
+      },
+      {
+        "episode": 5,
+        "name": "This Must Come as a Shock",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "It's Not That Simple",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "I'm Not Going Anywhere",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "I Thought You Were Stronger",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "You're Not Laughing Now",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "A Deal with the Devil",
+        "rating": 9.1
+      },
+      {
+        "episode": 3,
+        "name": "You Want a Real Costume, Right?",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "You Were My Hero",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "This Was Supposed to Be Easy",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "All I Can Say Is I'm Sorry",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "What Have I Done?",
+        "rating": 9.7
+      },
+      {
+        "episode": 8,
+        "name": "I Thought You'd Never Shut Up",
+        "rating": 9.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Making the World a Better Place",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "I'll Give You the Grand Tour",
+        "rating": 9.3
+      },
+      {
+        "episode": 3,
+        "name": "I Gotta Get Some Air",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Hurm",
+        "rating": 6.8
+      },
+      {
+        "episode": 5,
+        "name": "Give Us a Moment",
+        "rating": 9.8
+      },
+      {
+        "episode": 6,
+        "name": "You Look Horrible"
+      },
+      {
+        "episode": 7,
+        "name": "Don't Do Anything Rash"
+      },
+      {
+        "episode": 8,
+        "name": "Don't Leave Me Hanging Here"
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

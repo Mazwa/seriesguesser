@@ -1,0 +1,538 @@
+{
+  "id": "56570-outlander",
+  "rank": 102,
+  "answer": "Outlander",
+  "sourceUrl": "https://seriesgraph.com/show/56570-outlander",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/56570",
+    "seasonRatings": "https://seriesgraph.com/api/shows/56570/season-ratings"
+  },
+  "years": {
+    "first": 2014,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Dragonfly in Amber",
+    "season": 2,
+    "episode": 13,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Sassenach",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Castle Leoch",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "The Way Out",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "The Gathering",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Rent",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "The Garrison Commander",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "The Wedding",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Both Sides Now",
+        "rating": 8.8
+      },
+      {
+        "episode": 9,
+        "name": "The Reckoning",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "By the Pricking of My Thumbs",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "The Devil's Mark",
+        "rating": 9.2
+      },
+      {
+        "episode": 12,
+        "name": "Lallybroch",
+        "rating": 8.4
+      },
+      {
+        "episode": 13,
+        "name": "The Watch",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "The Search",
+        "rating": 8.1
+      },
+      {
+        "episode": 15,
+        "name": "Wentworth Prison",
+        "rating": 8.7
+      },
+      {
+        "episode": 16,
+        "name": "To Ransom a Man's Soul",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Through a Glass, Darkly",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Not in Scotland Anymore",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Useful Occupations and Deceptions",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "La Dame Blanche",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Untimely Resurrection",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Best Laid Schemes...",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Faith",
+        "rating": 9.2
+      },
+      {
+        "episode": 8,
+        "name": "The Fox's Lair",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Je Suis Prest",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Prestonpans",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Vengeance Is Mine",
+        "rating": 8.8
+      },
+      {
+        "episode": 12,
+        "name": "The Hail Mary",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Dragonfly in Amber",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Battle Joined",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Surrender",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "All Debts Paid",
+        "rating": 8.9
+      },
+      {
+        "episode": 4,
+        "name": "Of Lost Things",
+        "rating": 9.1
+      },
+      {
+        "episode": 5,
+        "name": "Freedom & Whisky",
+        "rating": 9
+      },
+      {
+        "episode": 6,
+        "name": "A. Malcolm",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Crème de Menthe",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "First Wife",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Doldrums",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Heaven and Earth",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "Uncharted",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Bakra",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Eye of the Storm",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "America the Beautiful",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Do No Harm",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "The False Bride",
+        "rating": 8.3
+      },
+      {
+        "episode": 4,
+        "name": "Common Ground",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Savages",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Blood of My Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Down the Rabbit Hole",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Wilmington",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "The Birds and The Bees",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "The Deep Heart's Core",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "If Not For Hope",
+        "rating": 8.3
+      },
+      {
+        "episode": 12,
+        "name": "Providence",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Man of Worth",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Fiery Cross",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Between Two Fires",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Free Will",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "The Company We Keep",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Perpetual Adoration",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Better to Marry Than Burn",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "The Ballad of Roger Mac",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Famous Last Words",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Monsters and Heroes",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Mercy Shall Follow Me",
+        "rating": 8.5
+      },
+      {
+        "episode": 11,
+        "name": "Journeycake",
+        "rating": 8.9
+      },
+      {
+        "episode": 12,
+        "name": "Never My Love",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Echoes",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Allegiance",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Temperance",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Hour of the Wolf",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Give Me Liberty",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "The World Turned Upside Down",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Sticks and Stones",
+        "rating": 7.5
+      },
+      {
+        "episode": 8,
+        "name": "I Am Not Alone",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Life Well Lost",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "The Happiest Place on Earth",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Death Be Not Proud",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "A Most Uncomfortable Woman",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Singapore",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Where the Waters Meet",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "A Practical Guide for Time-Travelers",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "Turning Points",
+        "rating": 8.7
+      },
+      {
+        "episode": 9,
+        "name": "Unfinished Business",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Brotherly Love",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "A Hundredweight of Stones",
+        "rating": 8.2
+      },
+      {
+        "episode": 12,
+        "name": "Carnal Knowledge",
+        "rating": 8.1
+      },
+      {
+        "episode": 13,
+        "name": "Hello, Goodbye",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Ye Dinna Get Used to It",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "Written in My Own Heart's Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 16,
+        "name": "A Hundred Thousand Angels",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Soul of a Rebel",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Prophecies",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Abies Fraseri",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Muskets, Liberty, and Sauerkraut",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Send for the Devil"
+      },
+      {
+        "episode": 6,
+        "name": "Blessed Are the Merciful"
+      },
+      {
+        "episode": 7,
+        "name": "Evidence of Things Not Seen"
+      },
+      {
+        "episode": 8,
+        "name": "In the Forest"
+      },
+      {
+        "episode": 9,
+        "name": "Pharos"
+      },
+      {
+        "episode": 10,
+        "name": "And the World Was All Around Us"
+      }
+    ]
+  ]
+}

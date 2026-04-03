@@ -1,0 +1,223 @@
+{
+  "id": "209867-frieren-beyond-journey-s-end",
+  "rank": 114,
+  "answer": "Frieren: Beyond Journey's End",
+  "sourceUrl": "https://seriesgraph.com/show/209867-frieren:-beyond-journey's-end",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/209867",
+    "seasonRatings": "https://seriesgraph.com/api/shows/209867/season-ratings"
+  },
+  "years": {
+    "first": 2023,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Rippana saigo",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Bôken no owari",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Betsu ni mahô janakutatte...",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Hito o korosu mahô",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Tamashii no nemuru chi",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Shisha no gen'ei",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "Mura no eiyû",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Otogibanashi no yô na mono",
+        "rating": 8.5
+      },
+      {
+        "episode": 8,
+        "name": "Sôsô no Furîren",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Dantôdai no Aura",
+        "rating": 9.3
+      },
+      {
+        "episode": 10,
+        "name": "Tsuyoi mahôtsukai",
+        "rating": 9.4
+      },
+      {
+        "episode": 11,
+        "name": "Kitagawa shokoku no fuyu",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Honmono no yûsha",
+        "rating": 8.7
+      },
+      {
+        "episode": 13,
+        "name": "Dôzoku ken'o",
+        "rating": 7.7
+      },
+      {
+        "episode": 14,
+        "name": "Wakamono no tokken",
+        "rating": 8.6
+      },
+      {
+        "episode": 15,
+        "name": "Yakkaigoto no nioi",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "Chôju tomodachi",
+        "rating": 8.1
+      },
+      {
+        "episode": 17,
+        "name": "Jâ genki de",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Ikkyû mahôtsukai senbatsu shiken",
+        "rating": 7.8
+      },
+      {
+        "episode": 19,
+        "name": "Nyûnen na keikaku",
+        "rating": 8.3
+      },
+      {
+        "episode": 20,
+        "name": "Hitsuyôna koroshi",
+        "rating": 8.4
+      },
+      {
+        "episode": 21,
+        "name": "Mahô no sekai",
+        "rating": 9.1
+      },
+      {
+        "episode": 22,
+        "name": "Tsugi kara wa katakidôshi",
+        "rating": 7.8
+      },
+      {
+        "episode": 23,
+        "name": "Danjon kôryaku",
+        "rating": 8.6
+      },
+      {
+        "episode": 24,
+        "name": "Kanpeki na fukuseitai",
+        "rating": 8.4
+      },
+      {
+        "episode": 25,
+        "name": "Chimei tekina suki",
+        "rating": 9
+      },
+      {
+        "episode": 26,
+        "name": "Mahô no takami",
+        "rating": 9.4
+      },
+      {
+        "episode": 27,
+        "name": "Ningen no jidai",
+        "rating": 9.1
+      },
+      {
+        "episode": 28,
+        "name": "Mata atta toki ni hazukashii kara ne",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Ja ikô ka",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Minami no yûsha",
+        "rating": 9
+      },
+      {
+        "episode": 3,
+        "name": "Suki na basho",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Dareka no kokyô",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Hokubu kôgen no butsuryû",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Tôbatsu yôsei",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Shingi no Revorute",
+        "rating": 8.9
+      },
+      {
+        "episode": 8,
+        "name": "Rippana saigo",
+        "rating": 9.7
+      },
+      {
+        "episode": 9,
+        "name": "Himmeru no jiden",
+        "rating": 8.9
+      },
+      {
+        "episode": 10,
+        "name": "Utsukushii kôkei",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1"
+      }
+    ]
+  ]
+}

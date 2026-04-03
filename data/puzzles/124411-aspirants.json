@@ -1,0 +1,104 @@
+{
+  "id": "124411-aspirants",
+  "rank": 23,
+  "answer": "Aspirants",
+  "sourceUrl": "https://seriesgraph.com/show/124411-aspirants",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/124411",
+    "seasonRatings": "https://seriesgraph.com/api/shows/124411/season-ratings"
+  },
+  "years": {
+    "first": 2021,
+    "last": 2026
+  },
+  "highestRatedEpisode": {
+    "name": "Plan B",
+    "season": 1,
+    "episode": 4,
+    "rating": 9.5,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "UPSC - Optional Me Kya Hai?",
+        "rating": 9.1
+      },
+      {
+        "episode": 2,
+        "name": "Teacher Sahi Hona Chahiye",
+        "rating": 9.2
+      },
+      {
+        "episode": 3,
+        "name": "Positive Approach Rakh Yaar",
+        "rating": 9.3
+      },
+      {
+        "episode": 4,
+        "name": "Plan B",
+        "rating": 9.5
+      },
+      {
+        "episode": 5,
+        "name": "Pre... Mains Aur Life",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Self Study",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Strategy",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Murphy's Law",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Mock Interview",
+        "rating": 8.9
+      },
+      {
+        "episode": 5,
+        "name": "Final Interview",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #3.1",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Santulan",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Manovaigyanik Baadhayein",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "The Cut Off",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "De Mauka Zindagi",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "id": "63639-the-expanse",
+  "rank": 84,
+  "answer": "The Expanse",
+  "sourceUrl": "https://seriesgraph.com/show/63639-the-expanse",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/63639",
+    "seasonRatings": "https://seriesgraph.com/api/shows/63639/season-ratings"
+  },
+  "years": {
+    "first": 2015,
+    "last": 2022
+  },
+  "highestRatedEpisode": {
+    "name": "Home",
+    "season": 2,
+    "episode": 5,
+    "rating": 9.4,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Dulcinea",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "The Big Empty",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Remember the Cant",
+        "rating": 7.8
+      },
+      {
+        "episode": 4,
+        "name": "CQB",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Back to the Butcher",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "Rock Bottom",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "Windmills",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Salvage",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Critical Mass",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Leviathan Wakes",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Safe",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Doors & Corners",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Static",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Godspeed",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Home",
+        "rating": 9.4
+      },
+      {
+        "episode": 6,
+        "name": "Paradigm Shift",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "The Seventh Man",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Pyre",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "The Weeping Somnambulist",
+        "rating": 8
+      },
+      {
+        "episode": 10,
+        "name": "Cascade",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "Here There Be Dragons",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Monster and the Rocket",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Caliban's War",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Fight or Flight",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "IFF",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Assured Destruction",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Reload",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Triple Point",
+        "rating": 9.3
+      },
+      {
+        "episode": 6,
+        "name": "Immolation",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "Delta-V",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "It Reaches Out",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Intransigence",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Dandelion Sky",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Fallen World",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Congregation",
+        "rating": 8.6
+      },
+      {
+        "episode": 13,
+        "name": "Abaddon's Gate",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "New Terra",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Jetsam",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Subduction",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Retrograde",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Oppressor",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Displacement",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "A Shot in the Dark",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The One-Eyed Man",
+        "rating": 8.5
+      },
+      {
+        "episode": 9,
+        "name": "Saeculum",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "Cibola Burn",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Exodus",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Churn",
+        "rating": 8.4
+      },
+      {
+        "episode": 3,
+        "name": "Mother",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Gaugamela",
+        "rating": 9.3
+      },
+      {
+        "episode": 5,
+        "name": "Down and Out",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Tribes",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Oyedeng",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Hard Vacuum",
+        "rating": 7.5
+      },
+      {
+        "episode": 9,
+        "name": "Winnipesaukee",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Nemesis Games",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Strange Dogs",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Azure Dragon",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Force Projection",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "Redoubt",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "Why We Fight",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Babylon's Ashes",
+        "rating": 8.9
+      }
+    ]
+  ]
+}

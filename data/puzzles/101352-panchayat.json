@@ -1,0 +1,197 @@
+{
+  "id": "101352-panchayat",
+  "rank": 55,
+  "answer": "Panchayat",
+  "sourceUrl": "https://seriesgraph.com/show/101352-panchayat",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/101352",
+    "seasonRatings": "https://seriesgraph.com/api/shows/101352/season-ratings"
+  },
+  "years": {
+    "first": 2020,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Parivaar",
+    "season": 2,
+    "episode": 8,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Gram Panchayat Phulera",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Bhootha Ped",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Chakke Wali Kursi",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Hamara Neta Kaisa Ho?",
+        "rating": 8.3
+      },
+      {
+        "episode": 5,
+        "name": "Computer Nahi Monitor",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Bahot Hua Samman",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Ladka Tez Hai Lekin..",
+        "rating": 8.3
+      },
+      {
+        "episode": 8,
+        "name": "Jab Jaago Tabhi Savera",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Naach",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Bol Chaal Band",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Kranti",
+        "rating": 8.8
+      },
+      {
+        "episode": 4,
+        "name": "Tension",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Jaise Ko Taisa",
+        "rating": 8.7
+      },
+      {
+        "episode": 6,
+        "name": "Aukaat",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Dost Yaar",
+        "rating": 8.8
+      },
+      {
+        "episode": 8,
+        "name": "Parivaar",
+        "rating": 9.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Rangbaazi",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Gaddha",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Ghar Ya Eent-Patthar?",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Atma Manthan",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Shanti Samjhauta",
+        "rating": 8.6
+      },
+      {
+        "episode": 6,
+        "name": "Chingaari",
+        "rating": 8.5
+      },
+      {
+        "episode": 7,
+        "name": "Shola",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Hamla",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Case-Mukadma",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Zakhm",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Vachan",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Shakti Pradarshan",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Ashirvaad",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Sanjeevani",
+        "rating": 8.1
+      },
+      {
+        "episode": 7,
+        "name": "Dramabaaz",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Dabdaba",
+        "rating": 8.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #5.1"
+      }
+    ]
+  ]
+}

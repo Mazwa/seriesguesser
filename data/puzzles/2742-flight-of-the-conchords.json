@@ -1,0 +1,137 @@
+{
+  "id": "2742-flight-of-the-conchords",
+  "rank": 242,
+  "answer": "Flight of the Conchords",
+  "sourceUrl": "https://seriesgraph.com/show/2742-flight-of-the-conchords",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/2742",
+    "seasonRatings": "https://seriesgraph.com/api/shows/2742/season-ratings"
+  },
+  "years": {
+    "first": 2007,
+    "last": 2009
+  },
+  "highestRatedEpisode": {
+    "name": "Unnatural Love",
+    "season": 2,
+    "episode": 5,
+    "rating": 8.8,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Sally",
+        "rating": 8
+      },
+      {
+        "episode": 2,
+        "name": "Bret Gives Up the Dream",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Mugged",
+        "rating": 8.7
+      },
+      {
+        "episode": 4,
+        "name": "Yoko",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Sally Returns",
+        "rating": 8
+      },
+      {
+        "episode": 6,
+        "name": "Bowie",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Drive By",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Girlfriends",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "What Goes on Tour",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "New Fans",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "The Actor",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "The Third Conchord",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Good Opportunity",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "New Cup",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "The Tough Brets",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Murray Takes It to the Next Level",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Unnatural Love",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Love Is a Weapon of Choice",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Prime Minister",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "New Zealand Town",
+        "rating": 7.8
+      },
+      {
+        "episode": 9,
+        "name": "Wingmen",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "Evicted",
+        "rating": 8.1
+      }
+    ]
+  ]
+}

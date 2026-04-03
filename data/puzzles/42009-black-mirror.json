@@ -1,0 +1,208 @@
+{
+  "id": "42009-black-mirror",
+  "rank": 91,
+  "answer": "Black Mirror",
+  "sourceUrl": "https://seriesgraph.com/show/42009-black-mirror",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/42009",
+    "seasonRatings": "https://seriesgraph.com/api/shows/42009/season-ratings"
+  },
+  "years": {
+    "first": 2011,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "White Christmas",
+    "season": 2,
+    "episode": 4,
+    "rating": 9.1,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "The National Anthem",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Fifteen Million Merits",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "The Entire History of You",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Be Right Back",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "White Bear",
+        "rating": 7.9
+      },
+      {
+        "episode": 3,
+        "name": "The Waldo Moment",
+        "rating": 6.5
+      },
+      {
+        "episode": 4,
+        "name": "White Christmas",
+        "rating": 9.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Nosedive",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Playtest",
+        "rating": 8
+      },
+      {
+        "episode": 3,
+        "name": "Shut Up and Dance",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "San Junipero",
+        "rating": 8.5
+      },
+      {
+        "episode": 5,
+        "name": "Men Against Fire",
+        "rating": 7.5
+      },
+      {
+        "episode": 6,
+        "name": "Hated in the Nation",
+        "rating": 8.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "USS Callister",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Arkangel",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Crocodile",
+        "rating": 7.3
+      },
+      {
+        "episode": 4,
+        "name": "Hang the DJ",
+        "rating": 8.7
+      },
+      {
+        "episode": 5,
+        "name": "Metalhead",
+        "rating": 6.6
+      },
+      {
+        "episode": 6,
+        "name": "Black Museum",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Striking Vipers",
+        "rating": 6.8
+      },
+      {
+        "episode": 2,
+        "name": "Smithereens",
+        "rating": 7.5
+      },
+      {
+        "episode": 3,
+        "name": "Rachel, Jack and Ashley Too",
+        "rating": 6.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Joan Is Awful",
+        "rating": 7.4
+      },
+      {
+        "episode": 2,
+        "name": "Loch Henry",
+        "rating": 7.3
+      },
+      {
+        "episode": 3,
+        "name": "Beyond the Sea",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Mazey Day",
+        "rating": 5.3
+      },
+      {
+        "episode": 5,
+        "name": "Demon 79",
+        "rating": 6.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Common People",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Bête Noire",
+        "rating": 7.2
+      },
+      {
+        "episode": 3,
+        "name": "Hotel Reverie",
+        "rating": 6.6
+      },
+      {
+        "episode": 4,
+        "name": "Plaything",
+        "rating": 7.1
+      },
+      {
+        "episode": 5,
+        "name": "Eulogy",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "USS Callister: Into Infinity",
+        "rating": 8.1
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #8.1"
+      }
+    ]
+  ]
+}

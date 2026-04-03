@@ -1,0 +1,281 @@
+{
+  "id": "66573-the-good-place",
+  "rank": 185,
+  "answer": "The Good Place",
+  "sourceUrl": "https://seriesgraph.com/show/66573-the-good-place",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/66573",
+    "seasonRatings": "https://seriesgraph.com/api/shows/66573/season-ratings"
+  },
+  "years": {
+    "first": 2016,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Whenever You're Ready",
+    "season": 4,
+    "episode": 13,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Everything Is Fine",
+        "rating": 7.9
+      },
+      {
+        "episode": 2,
+        "name": "Flying",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Tahani Al-Jamil",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Jason Mendoza",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Category 55 Emergency Doomsday Crisis",
+        "rating": 7.8
+      },
+      {
+        "episode": 6,
+        "name": "What We Owe to Each Other",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Eternal Shriek",
+        "rating": 8.1
+      },
+      {
+        "episode": 8,
+        "name": "Most Improved Player",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "...Someone Like Me as a Member",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Chidi's Choice",
+        "rating": 8.1
+      },
+      {
+        "episode": 11,
+        "name": "What's My Motivation",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Mindy St. Claire",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Michael's Gambit",
+        "rating": 9.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything Is Great!",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "Dance Dance Resolution",
+        "rating": 8.5
+      },
+      {
+        "episode": 3,
+        "name": "Team Cockroach",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Existential Crisis",
+        "rating": 7.8
+      },
+      {
+        "episode": 5,
+        "name": "The Trolley Problem",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "Janet and Michael",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Derek",
+        "rating": 7.7
+      },
+      {
+        "episode": 8,
+        "name": "Leap to Faith",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "Best Self",
+        "rating": 8.3
+      },
+      {
+        "episode": 10,
+        "name": "Rhonda, Diana, Jake, and Trent",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "The Burrito",
+        "rating": 8.7
+      },
+      {
+        "episode": 12,
+        "name": "Somewhere Else",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Everything Is Bonzer!",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "The Brainy Bunch",
+        "rating": 7.6
+      },
+      {
+        "episode": 3,
+        "name": "The Snowplow",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Jeremy Bearimy",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "The Ballad of Donkey Doug",
+        "rating": 7.4
+      },
+      {
+        "episode": 6,
+        "name": "A Fractured Inheritance",
+        "rating": 7.7
+      },
+      {
+        "episode": 7,
+        "name": "The Worst Possible Use of Free Will",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Don't Let the Good Life Pass You By",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Janet(s)",
+        "rating": 9
+      },
+      {
+        "episode": 10,
+        "name": "The Book of Dougs",
+        "rating": 7.9
+      },
+      {
+        "episode": 11,
+        "name": "Chidi Sees the Time-Knife",
+        "rating": 8.1
+      },
+      {
+        "episode": 12,
+        "name": "Pandemonium",
+        "rating": 8.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "A Girl from Arizona",
+        "rating": 7.5
+      },
+      {
+        "episode": 2,
+        "name": "A Girl from Arizona Part 2",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Chillaxing",
+        "rating": 7.4
+      },
+      {
+        "episode": 4,
+        "name": "Tinker, Tailor, Demon, Spy",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Employee of the Bearimy",
+        "rating": 7.7
+      },
+      {
+        "episode": 6,
+        "name": "A Chip Driver Mystery",
+        "rating": 7.3
+      },
+      {
+        "episode": 7,
+        "name": "Help Is Other People",
+        "rating": 8.2
+      },
+      {
+        "episode": 8,
+        "name": "The Funeral to End All Funerals",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Answer",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "You've Changed, Man",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Mondays, Am I Right?",
+        "rating": 7.7
+      },
+      {
+        "episode": 12,
+        "name": "Patty",
+        "rating": 8.5
+      },
+      {
+        "episode": 13,
+        "name": "Whenever You're Ready",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

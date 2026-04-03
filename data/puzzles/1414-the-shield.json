@@ -1,0 +1,477 @@
+{
+  "id": "1414-the-shield",
+  "rank": 109,
+  "answer": "The Shield",
+  "sourceUrl": "https://seriesgraph.com/show/1414-the-shield",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/1414",
+    "seasonRatings": "https://seriesgraph.com/api/shows/1414/season-ratings"
+  },
+  "years": {
+    "first": 2002,
+    "last": 2008
+  },
+  "highestRatedEpisode": {
+    "name": "Family Meeting",
+    "season": 7,
+    "episode": 13,
+    "rating": 9.7,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Pilot",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Our Gang",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "The Spread",
+        "rating": 7.6
+      },
+      {
+        "episode": 4,
+        "name": "Dawg Days",
+        "rating": 7.7
+      },
+      {
+        "episode": 5,
+        "name": "Blowback",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Cherrypoppers",
+        "rating": 8.3
+      },
+      {
+        "episode": 7,
+        "name": "Pay in Pain",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Cupid & Psycho",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Throwaway",
+        "rating": 7.7
+      },
+      {
+        "episode": 10,
+        "name": "Dragonchasers",
+        "rating": 8.7
+      },
+      {
+        "episode": 11,
+        "name": "Carnivores",
+        "rating": 7.9
+      },
+      {
+        "episode": 12,
+        "name": "Two Days of Blood",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Circles",
+        "rating": 8.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Quick Fix",
+        "rating": 8.1
+      },
+      {
+        "episode": 2,
+        "name": "Dead Soldiers",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Partners",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Carte Blanche",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Greenlit",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Homewrecker",
+        "rating": 8.2
+      },
+      {
+        "episode": 7,
+        "name": "Barnstormers",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "Scar Tissue",
+        "rating": 8.3
+      },
+      {
+        "episode": 9,
+        "name": "Co-Pilot",
+        "rating": 7.4
+      },
+      {
+        "episode": 10,
+        "name": "Coyotes",
+        "rating": 8
+      },
+      {
+        "episode": 11,
+        "name": "Inferno",
+        "rating": 8
+      },
+      {
+        "episode": 12,
+        "name": "Breakpoint",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Dominoes Falling",
+        "rating": 8.8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Playing Tight",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Blood and Water",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Bottom Bitch",
+        "rating": 7.7
+      },
+      {
+        "episode": 4,
+        "name": "Streaks and Tips",
+        "rating": 8.4
+      },
+      {
+        "episode": 5,
+        "name": "Mum",
+        "rating": 8.4
+      },
+      {
+        "episode": 6,
+        "name": "Posse Up",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Safe",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Cracking Ice",
+        "rating": 8
+      },
+      {
+        "episode": 9,
+        "name": "Slipknot",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "What Power Is...",
+        "rating": 8.3
+      },
+      {
+        "episode": 11,
+        "name": "Strays",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Riceburner",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Fire in the Hole",
+        "rating": 8.4
+      },
+      {
+        "episode": 14,
+        "name": "All In",
+        "rating": 8.8
+      },
+      {
+        "episode": 15,
+        "name": "On Tilt",
+        "rating": 9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Cure",
+        "rating": 7.6
+      },
+      {
+        "episode": 2,
+        "name": "Grave",
+        "rating": 7.4
+      },
+      {
+        "episode": 3,
+        "name": "Bang",
+        "rating": 7.5
+      },
+      {
+        "episode": 4,
+        "name": "Doghouse",
+        "rating": 7.6
+      },
+      {
+        "episode": 5,
+        "name": "Tar Baby",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Insurgents",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Hurt",
+        "rating": 7.8
+      },
+      {
+        "episode": 8,
+        "name": "Cut Throat",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "String Theory",
+        "rating": 7.9
+      },
+      {
+        "episode": 10,
+        "name": "Back in the Hole",
+        "rating": 8.4
+      },
+      {
+        "episode": 11,
+        "name": "A Thousand Deaths",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "Judas Priest",
+        "rating": 8.2
+      },
+      {
+        "episode": 13,
+        "name": "Ain't That a Shame",
+        "rating": 8.3
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Extraction",
+        "rating": 8.3
+      },
+      {
+        "episode": 2,
+        "name": "Enemy of Good",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Jailbait",
+        "rating": 7.9
+      },
+      {
+        "episode": 4,
+        "name": "Tapa Boca",
+        "rating": 8.2
+      },
+      {
+        "episode": 5,
+        "name": "Trophy",
+        "rating": 8.8
+      },
+      {
+        "episode": 6,
+        "name": "Rap Payback",
+        "rating": 8
+      },
+      {
+        "episode": 7,
+        "name": "Man Inside",
+        "rating": 8.4
+      },
+      {
+        "episode": 8,
+        "name": "Kavanaugh",
+        "rating": 8.9
+      },
+      {
+        "episode": 9,
+        "name": "Smoked",
+        "rating": 8.2
+      },
+      {
+        "episode": 10,
+        "name": "Of Mice and Lem",
+        "rating": 8.8
+      },
+      {
+        "episode": 11,
+        "name": "Postpartum",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "On the Jones",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Baptism by Fire",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Back to One",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "The New Guy",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Haunts",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Chasing Ghosts",
+        "rating": 8.9
+      },
+      {
+        "episode": 7,
+        "name": "Exiled",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "The Math of the Wrath",
+        "rating": 7.7
+      },
+      {
+        "episode": 9,
+        "name": "Recoil",
+        "rating": 8.1
+      },
+      {
+        "episode": 10,
+        "name": "Spanish Practices",
+        "rating": 8.7
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Coefficient of Drag",
+        "rating": 8.5
+      },
+      {
+        "episode": 2,
+        "name": "Snitch",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Money Shot",
+        "rating": 8
+      },
+      {
+        "episode": 4,
+        "name": "Genocide",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "Game Face",
+        "rating": 7.9
+      },
+      {
+        "episode": 6,
+        "name": "Animal Control",
+        "rating": 8.7
+      },
+      {
+        "episode": 7,
+        "name": "Bitches Brew",
+        "rating": 7.9
+      },
+      {
+        "episode": 8,
+        "name": "Parricide",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Moving Day",
+        "rating": 8.4
+      },
+      {
+        "episode": 10,
+        "name": "Party Line",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "Petty Cash",
+        "rating": 8.4
+      },
+      {
+        "episode": 12,
+        "name": "Possible Kill Screen",
+        "rating": 9.5
+      },
+      {
+        "episode": 13,
+        "name": "Family Meeting",
+        "rating": 9.7
+      }
+    ]
+  ]
+}

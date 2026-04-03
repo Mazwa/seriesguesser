@@ -1,0 +1,101 @@
+{
+  "id": "259909-dexter-resurrection",
+  "rank": 53,
+  "answer": "Dexter: Resurrection",
+  "sourceUrl": "https://seriesgraph.com/show/259909-dexter:-resurrection",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/259909",
+    "seasonRatings": "https://seriesgraph.com/api/shows/259909/season-ratings"
+  },
+  "years": {
+    "first": 2025,
+    "last": 2025
+  },
+  "highestRatedEpisode": {
+    "name": "Touched by an Ángel",
+    "season": 1,
+    "episode": 9,
+    "rating": 9.7,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "A Beating Heart...",
+        "rating": 8.9
+      },
+      {
+        "episode": 2,
+        "name": "Camera Shy",
+        "rating": 8.7
+      },
+      {
+        "episode": 3,
+        "name": "Backseat Driver",
+        "rating": 9.2
+      },
+      {
+        "episode": 4,
+        "name": "Call Me Red",
+        "rating": 9.7
+      },
+      {
+        "episode": 5,
+        "name": "Murder Horny",
+        "rating": 9.1
+      },
+      {
+        "episode": 6,
+        "name": "Cats and Mouse",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "Course Correction",
+        "rating": 9.5
+      },
+      {
+        "episode": 8,
+        "name": "The Kill Room Where It Happens",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Touched by an Ángel",
+        "rating": 9.7
+      },
+      {
+        "episode": 10,
+        "name": "And Justice for All...",
+        "rating": 9.5
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Episode #2.1"
+      },
+      {
+        "episode": 2,
+        "name": "Episode #2.2"
+      },
+      {
+        "episode": 3,
+        "name": "Episode #2.3"
+      },
+      {
+        "episode": 4,
+        "name": "Episode #2.4"
+      },
+      {
+        "episode": 5,
+        "name": "Episode #2.5"
+      },
+      {
+        "episode": 6,
+        "name": "Episode #2.6"
+      }
+    ]
+  ]
+}

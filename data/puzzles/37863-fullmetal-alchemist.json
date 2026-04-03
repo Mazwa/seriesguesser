@@ -1,0 +1,280 @@
+{
+  "id": "37863-fullmetal-alchemist",
+  "rank": 208,
+  "answer": "Fullmetal Alchemist",
+  "sourceUrl": "https://seriesgraph.com/show/37863-fullmetal-alchemist",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/37863",
+    "seasonRatings": "https://seriesgraph.com/api/shows/37863/season-ratings"
+  },
+  "years": {
+    "first": 2003,
+    "last": 2004
+  },
+  "highestRatedEpisode": {
+    "name": "Night of the Chimera's Cry",
+    "season": 1,
+    "episode": 7,
+    "rating": 9,
+    "tieCount": 2
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "To Challenge the Sun",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Body of the Sanctioned",
+        "rating": 7.7
+      },
+      {
+        "episode": 3,
+        "name": "Mother",
+        "rating": 8.2
+      },
+      {
+        "episode": 4,
+        "name": "A Forger's Love",
+        "rating": 7
+      },
+      {
+        "episode": 5,
+        "name": "The Man with the Mechanical Arm",
+        "rating": 7.6
+      },
+      {
+        "episode": 6,
+        "name": "The Alchemy Exam",
+        "rating": 7.8
+      },
+      {
+        "episode": 7,
+        "name": "Night of the Chimera's Cry",
+        "rating": 9
+      },
+      {
+        "episode": 8,
+        "name": "The Philosopher's Stone",
+        "rating": 8.1
+      },
+      {
+        "episode": 9,
+        "name": "Be Thou for the People",
+        "rating": 7.8
+      },
+      {
+        "episode": 10,
+        "name": "The Phantom Thief",
+        "rating": 7.4
+      },
+      {
+        "episode": 11,
+        "name": "The Other Brothers Elric: Part 1",
+        "rating": 7.4
+      },
+      {
+        "episode": 12,
+        "name": "The Other Brothers Elric: Part 2",
+        "rating": 7.4
+      },
+      {
+        "episode": 13,
+        "name": "Fullmetal vs. Flame",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "Destruction's Right Hand",
+        "rating": 7.8
+      },
+      {
+        "episode": 15,
+        "name": "The Ishbal Massacre",
+        "rating": 8.3
+      },
+      {
+        "episode": 16,
+        "name": "That Which Is Lost",
+        "rating": 7.5
+      },
+      {
+        "episode": 17,
+        "name": "House of the Waiting Family",
+        "rating": 7.9
+      },
+      {
+        "episode": 18,
+        "name": "Marcoh's Notes",
+        "rating": 7.6
+      },
+      {
+        "episode": 19,
+        "name": "The Truth Behind Truths",
+        "rating": 7.9
+      },
+      {
+        "episode": 20,
+        "name": "Soul of the Guardian",
+        "rating": 8.3
+      },
+      {
+        "episode": 21,
+        "name": "The Red Glow",
+        "rating": 8.4
+      },
+      {
+        "episode": 22,
+        "name": "Created Human",
+        "rating": 8.6
+      },
+      {
+        "episode": 23,
+        "name": "Heart of Steel",
+        "rating": 7.7
+      },
+      {
+        "episode": 24,
+        "name": "Bonding Memories",
+        "rating": 7.7
+      },
+      {
+        "episode": 25,
+        "name": "Words of Farewell",
+        "rating": 9
+      },
+      {
+        "episode": 26,
+        "name": "Her Reason",
+        "rating": 7.3
+      },
+      {
+        "episode": 27,
+        "name": "Teacher",
+        "rating": 8
+      },
+      {
+        "episode": 28,
+        "name": "All Is One, One Is All",
+        "rating": 7.9
+      },
+      {
+        "episode": 29,
+        "name": "The Untainted Child",
+        "rating": 8.1
+      },
+      {
+        "episode": 30,
+        "name": "Assault on South Headquarters",
+        "rating": 8
+      },
+      {
+        "episode": 31,
+        "name": "Sin",
+        "rating": 8.1
+      },
+      {
+        "episode": 32,
+        "name": "Dante of the Deep Forest",
+        "rating": 7.6
+      },
+      {
+        "episode": 33,
+        "name": "Al, Captured",
+        "rating": 7.7
+      },
+      {
+        "episode": 34,
+        "name": "Theory of Avarice",
+        "rating": 8.4
+      },
+      {
+        "episode": 35,
+        "name": "Reunion of the Fallen",
+        "rating": 7.7
+      },
+      {
+        "episode": 36,
+        "name": "The Sinner Within",
+        "rating": 7.5
+      },
+      {
+        "episode": 37,
+        "name": "The Flame Alchemist, the Bachelor Lieutenant, and the Mystery of Warehouse 13",
+        "rating": 7.7
+      },
+      {
+        "episode": 38,
+        "name": "With the River's Flow",
+        "rating": 7.4
+      },
+      {
+        "episode": 39,
+        "name": "Secret of Ishbal",
+        "rating": 7.9
+      },
+      {
+        "episode": 40,
+        "name": "The Scar",
+        "rating": 8.6
+      },
+      {
+        "episode": 41,
+        "name": "Holy Mother",
+        "rating": 8.6
+      },
+      {
+        "episode": 42,
+        "name": "His Name Is Unknown",
+        "rating": 8.7
+      },
+      {
+        "episode": 43,
+        "name": "The Stray Dog",
+        "rating": 8.1
+      },
+      {
+        "episode": 44,
+        "name": "Hohenheim of Light",
+        "rating": 8.3
+      },
+      {
+        "episode": 45,
+        "name": "A Rotted Heart",
+        "rating": 8.1
+      },
+      {
+        "episode": 46,
+        "name": "Human Transmutation",
+        "rating": 8
+      },
+      {
+        "episode": 47,
+        "name": "Sealing the Homunculus",
+        "rating": 8.5
+      },
+      {
+        "episode": 48,
+        "name": "Goodbye",
+        "rating": 8
+      },
+      {
+        "episode": 49,
+        "name": "The Other Side of the Gate",
+        "rating": 8.2
+      },
+      {
+        "episode": 50,
+        "name": "Death",
+        "rating": 8.8
+      },
+      {
+        "episode": 51,
+        "name": "Laws and Promises",
+        "rating": 8.7
+      }
+    ]
+  ]
+}

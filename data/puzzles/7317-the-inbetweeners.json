@@ -1,0 +1,119 @@
+{
+  "id": "7317-the-inbetweeners",
+  "rank": 228,
+  "answer": "The Inbetweeners",
+  "sourceUrl": "https://seriesgraph.com/show/7317-the-inbetweeners",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/7317",
+    "seasonRatings": "https://seriesgraph.com/api/shows/7317/season-ratings"
+  },
+  "years": {
+    "first": 2008,
+    "last": 2010
+  },
+  "highestRatedEpisode": {
+    "name": "Bunk Off",
+    "season": 1,
+    "episode": 2,
+    "rating": 8.6,
+    "tieCount": 4
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "First Day",
+        "rating": 7.7
+      },
+      {
+        "episode": 2,
+        "name": "Bunk Off",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Thorpe Park",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Girlfriend",
+        "rating": 7.9
+      },
+      {
+        "episode": 5,
+        "name": "Caravan Club",
+        "rating": 8.3
+      },
+      {
+        "episode": 6,
+        "name": "Xmas Party",
+        "rating": 8
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Field Trip",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Work Experience",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Will's Birthday",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Night Out in London",
+        "rating": 8
+      },
+      {
+        "episode": 5,
+        "name": "The Duke of Edinburgh Awards",
+        "rating": 8.1
+      },
+      {
+        "episode": 6,
+        "name": "Exam Time",
+        "rating": 8.6
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "The Fashion Show",
+        "rating": 8.4
+      },
+      {
+        "episode": 2,
+        "name": "The Gig and the Girlfriend",
+        "rating": 8.3
+      },
+      {
+        "episode": 3,
+        "name": "Will's Dilemma",
+        "rating": 8.1
+      },
+      {
+        "episode": 4,
+        "name": "Trip to Warwick",
+        "rating": 8.6
+      },
+      {
+        "episode": 5,
+        "name": "Will Is Home Alone",
+        "rating": 8.2
+      },
+      {
+        "episode": 6,
+        "name": "Camping Trip",
+        "rating": 8.5
+      }
+    ]
+  ]
+}

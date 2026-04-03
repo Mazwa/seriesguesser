@@ -1,0 +1,159 @@
+{
+  "id": "70523-dark",
+  "rank": 20,
+  "answer": "Dark",
+  "sourceUrl": "https://seriesgraph.com/show/70523-dark",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/70523",
+    "seasonRatings": "https://seriesgraph.com/api/shows/70523/season-ratings"
+  },
+  "years": {
+    "first": 2017,
+    "last": 2020
+  },
+  "highestRatedEpisode": {
+    "name": "Das Paradies",
+    "season": 3,
+    "episode": 8,
+    "rating": 9.6,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Geheimnisse",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Lügen",
+        "rating": 8.1
+      },
+      {
+        "episode": 3,
+        "name": "Gestern und heute",
+        "rating": 8.5
+      },
+      {
+        "episode": 4,
+        "name": "Doppelleben",
+        "rating": 8.1
+      },
+      {
+        "episode": 5,
+        "name": "Wahrheiten",
+        "rating": 8.9
+      },
+      {
+        "episode": 6,
+        "name": "Sic Mundus Creatus Est",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Kreuzwege",
+        "rating": 8.6
+      },
+      {
+        "episode": 8,
+        "name": "Was man sät, das wird man ernten",
+        "rating": 9.1
+      },
+      {
+        "episode": 9,
+        "name": "Alles ist jetzt",
+        "rating": 8.6
+      },
+      {
+        "episode": 10,
+        "name": "Alpha und Omega",
+        "rating": 9.2
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Anfänge und Enden",
+        "rating": 8.6
+      },
+      {
+        "episode": 2,
+        "name": "Dunkle Materie",
+        "rating": 8.8
+      },
+      {
+        "episode": 3,
+        "name": "Gespenster",
+        "rating": 9
+      },
+      {
+        "episode": 4,
+        "name": "Die Reisenden",
+        "rating": 9.4
+      },
+      {
+        "episode": 5,
+        "name": "Vom Suchen und Finden",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Ein unendlicher Kreis",
+        "rating": 9.5
+      },
+      {
+        "episode": 7,
+        "name": "Der weiße Teufel",
+        "rating": 9.1
+      },
+      {
+        "episode": 8,
+        "name": "Enden und Anfänge",
+        "rating": 9.4
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Deja-vu",
+        "rating": 8.8
+      },
+      {
+        "episode": 2,
+        "name": "Die Überlebenden",
+        "rating": 8.6
+      },
+      {
+        "episode": 3,
+        "name": "Adam und Eva",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "Der Ursprung",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "Leben und Tod",
+        "rating": 9.2
+      },
+      {
+        "episode": 6,
+        "name": "Licht und Schatten",
+        "rating": 9
+      },
+      {
+        "episode": 7,
+        "name": "Zwischen der Zeit",
+        "rating": 9.4
+      },
+      {
+        "episode": 8,
+        "name": "Das Paradies",
+        "rating": 9.6
+      }
+    ]
+  ]
+}

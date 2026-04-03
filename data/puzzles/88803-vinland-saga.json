@@ -1,0 +1,267 @@
+{
+  "id": "88803-vinland-saga",
+  "rank": 37,
+  "answer": "Vinland Saga",
+  "sourceUrl": "https://seriesgraph.com/show/88803-vinland-saga",
+  "sourceApi": {
+    "show": "https://seriesgraph.com/api/shows/88803",
+    "seasonRatings": "https://seriesgraph.com/api/shows/88803/season-ratings"
+  },
+  "years": {
+    "first": 2019,
+    "last": 2023
+  },
+  "highestRatedEpisode": {
+    "name": "End of the Prologue",
+    "season": 1,
+    "episode": 24,
+    "rating": 9.9,
+    "tieCount": 1
+  },
+  "seasons": [
+    [
+      {
+        "episode": 1,
+        "name": "Somewhere Not Here",
+        "rating": 8.2
+      },
+      {
+        "episode": 2,
+        "name": "Sword",
+        "rating": 8.2
+      },
+      {
+        "episode": 3,
+        "name": "Troll",
+        "rating": 8.6
+      },
+      {
+        "episode": 4,
+        "name": "A True Warrior",
+        "rating": 9.6
+      },
+      {
+        "episode": 5,
+        "name": "The Troll's Son",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "The Journey Begins",
+        "rating": 9.4
+      },
+      {
+        "episode": 7,
+        "name": "Normanni",
+        "rating": 8.7
+      },
+      {
+        "episode": 8,
+        "name": "Beyond the Edge of the Sea",
+        "rating": 8.4
+      },
+      {
+        "episode": 9,
+        "name": "The Battle of London Bridge",
+        "rating": 9.1
+      },
+      {
+        "episode": 10,
+        "name": "Ragnarok",
+        "rating": 8.2
+      },
+      {
+        "episode": 11,
+        "name": "A Gamble",
+        "rating": 8.6
+      },
+      {
+        "episode": 12,
+        "name": "The Land on the Far Bank",
+        "rating": 7.8
+      },
+      {
+        "episode": 13,
+        "name": "Child of a Hero",
+        "rating": 7.9
+      },
+      {
+        "episode": 14,
+        "name": "The Light of Dawn",
+        "rating": 9
+      },
+      {
+        "episode": 15,
+        "name": "After Yule",
+        "rating": 8.6
+      },
+      {
+        "episode": 16,
+        "name": "History of Beasts",
+        "rating": 8.5
+      },
+      {
+        "episode": 17,
+        "name": "Servant",
+        "rating": 9.4
+      },
+      {
+        "episode": 18,
+        "name": "Out of the Cradle",
+        "rating": 9.2
+      },
+      {
+        "episode": 19,
+        "name": "United Front",
+        "rating": 9.5
+      },
+      {
+        "episode": 20,
+        "name": "Crown",
+        "rating": 8.8
+      },
+      {
+        "episode": 21,
+        "name": "Reunion",
+        "rating": 9.4
+      },
+      {
+        "episode": 22,
+        "name": "Lone Wolf",
+        "rating": 9.5
+      },
+      {
+        "episode": 23,
+        "name": "Miscalculation",
+        "rating": 8.7
+      },
+      {
+        "episode": 24,
+        "name": "End of the Prologue",
+        "rating": 9.9
+      }
+    ],
+    [
+      {
+        "episode": 1,
+        "name": "Slave",
+        "rating": 8.7
+      },
+      {
+        "episode": 2,
+        "name": "Ketil's Farm",
+        "rating": 7.8
+      },
+      {
+        "episode": 3,
+        "name": "Snake",
+        "rating": 8.4
+      },
+      {
+        "episode": 4,
+        "name": "Awakening",
+        "rating": 8.8
+      },
+      {
+        "episode": 5,
+        "name": "The Path of Blood",
+        "rating": 8.5
+      },
+      {
+        "episode": 6,
+        "name": "I Want a Horse",
+        "rating": 7.9
+      },
+      {
+        "episode": 7,
+        "name": "Iron Fist Ketil",
+        "rating": 8
+      },
+      {
+        "episode": 8,
+        "name": "An Empty Man",
+        "rating": 9
+      },
+      {
+        "episode": 9,
+        "name": "Oath",
+        "rating": 9.6
+      },
+      {
+        "episode": 10,
+        "name": "Cursed Head",
+        "rating": 8.6
+      },
+      {
+        "episode": 11,
+        "name": "The King and the Sword",
+        "rating": 7.8
+      },
+      {
+        "episode": 12,
+        "name": "For the Love That Was Lost",
+        "rating": 9.2
+      },
+      {
+        "episode": 13,
+        "name": "Dark Clouds",
+        "rating": 8.3
+      },
+      {
+        "episode": 14,
+        "name": "Freedom",
+        "rating": 8.5
+      },
+      {
+        "episode": 15,
+        "name": "Storm",
+        "rating": 8.8
+      },
+      {
+        "episode": 16,
+        "name": "Cause",
+        "rating": 9.1
+      },
+      {
+        "episode": 17,
+        "name": "Way Home",
+        "rating": 9.5
+      },
+      {
+        "episode": 18,
+        "name": "The First Measure",
+        "rating": 9
+      },
+      {
+        "episode": 19,
+        "name": "War at Ketil's Farm",
+        "rating": 8.7
+      },
+      {
+        "episode": 20,
+        "name": "Pain",
+        "rating": 9.6
+      },
+      {
+        "episode": 21,
+        "name": "Courage",
+        "rating": 8.9
+      },
+      {
+        "episode": 22,
+        "name": "Emperor of Rebellion",
+        "rating": 9.7
+      },
+      {
+        "episode": 23,
+        "name": "Two Paths",
+        "rating": 9.7
+      },
+      {
+        "episode": 24,
+        "name": "Hometown",
+        "rating": 9.3
+      }
+    ]
+  ]
+}

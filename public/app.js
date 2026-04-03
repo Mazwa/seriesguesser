@@ -69,8 +69,8 @@ async function boot() {
 
   try {
     const [catalogResponse, dailyOrderResponse] = await Promise.all([
-      fetch(`data/catalog.json?ts=${Date.now()}`),
-      fetch(`data/daily-order.json?ts=${Date.now()}`),
+      fetch(buildDataUrl("catalog.json")),
+      fetch(buildDataUrl("daily-order.json")),
     ]);
 
     if (!catalogResponse.ok) {
@@ -100,7 +100,7 @@ async function boot() {
       return;
     }
 
-    const puzzleResponse = await fetch(`data/puzzles/${todayEntry.puzzleFile}?ts=${Date.now()}`);
+    const puzzleResponse = await fetch(buildDataUrl(`puzzles/${todayEntry.puzzleFile}`));
     if (!puzzleResponse.ok) {
       throw new Error(`Failed to load puzzle: ${puzzleResponse.status}`);
     }
@@ -587,6 +587,15 @@ function buildScheduleHint(schedule, todayEntry) {
   }
 
   return `All ${schedule.eligibleCount} scheduled daily puzzles have been used.`;
+}
+
+function buildDataUrl(relativePath) {
+  const pathname = window.location.pathname;
+  const inPublicDir = pathname.includes("/public/");
+  const basePrefix = inPublicDir ? "../data/" : "data/";
+  const url = new URL(`${basePrefix}${relativePath}`, window.location.href);
+  url.searchParams.set("ts", String(Date.now()));
+  return url.toString();
 }
 
 async function copyResult() {

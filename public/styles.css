@@ -354,6 +354,12 @@ h1 {
   color: #111;
 }
 
+.episode-tile.unrated-tile {
+  color: var(--muted);
+  border-style: dashed;
+  border-color: rgba(255, 255, 255, 0.14);
+}
+
 .episode-tile.filler-tile {
   background: transparent;
   border-color: transparent;

@@ -313,12 +313,15 @@ function renderMatrix() {
     season.forEach((episode) => {
       const tile = document.createElement("article");
       tile.className = "episode-tile";
-      tile.style.background = colorForRating(episode.rating);
-      tile.classList.toggle("dark-text", useDarkText(episode.rating));
+      const hasRating = typeof episode.rating === "number";
+
+      tile.style.background = hasRating ? colorForRating(episode.rating) : "rgba(255, 255, 255, 0.08)";
+      tile.classList.toggle("dark-text", hasRating && useDarkText(episode.rating));
+      tile.classList.toggle("unrated-tile", !hasRating);
 
       const rating = document.createElement("span");
       rating.className = "episode-rating";
-      rating.textContent = episode.rating.toFixed(1);
+      rating.textContent = hasRating ? episode.rating.toFixed(1) : "\u2014";
 
       tile.appendChild(rating);
       cells.appendChild(tile);
